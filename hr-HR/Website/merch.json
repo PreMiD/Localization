@@ -1,30 +1,30 @@
 {
-	"merch.title": {
-		"message": "Dobrodošli u službenu trgovinu **PreMiD** Merchandise!",
-		"description": "Merch store title"
-	},
-	"merch.swag": {
-		"message": "Pronađite svoj **Plijen**",
-		"description": "Subtitle for store"
-	},
-	"merch.fit": {
-		"message": "**Odaberite svoj kroj**",
-		"description": "Product sizes"
-	},
-	"merch.cart": {
-		"message": "Dodaj u košaricu",
-		"description": "Add product to cart"
-	},
-	"merch.help": {
-		"message": "Imate problema s našom trgovinom ili narudžbom? Kontaktirajte našu {0}korisničku podršku{1}",
-		"description": "Link to customer support, {0}{1} is the replacement for the link"
-	},
-	"merch.item.added": {
-		"message": "{0} dodano u vašu košaricu",
-		"description": "{0} replaced with product name"
-	},
-	"merch.error.noitem": {
-		"message": "Nema artikla za dodavanje u košaricu",
-		"description": "Error message when no size selected"
-	}
+  "merch.cart": {
+    "description": "Add product to cart",
+    "message": "Dodaj u košaricu"
+  },
+  "merch.error.noitem": {
+    "description": "Error message when no size selected",
+    "message": "Nema artikla za dodavanje u košaricu"
+  },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "**Odaberite svoj kroj**"
+  },
+  "merch.help": {
+    "description": "Link to customer support, {0}{1} is the replacement for the link",
+    "message": "Imate problema s našom trgovinom ili narudžbom? Kontaktirajte našu {0}korisničku podršku{1}"
+  },
+  "merch.item.added": {
+    "description": "{0} replaced with product name",
+    "message": "{0} dodano u vašu košaricu"
+  },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "Pronađite svoj **Plijen**"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "Dobrodošli u službenu trgovinu **PreMiD** Merchandise!"
+  }
 }

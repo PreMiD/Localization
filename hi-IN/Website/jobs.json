@@ -1,110 +1,110 @@
 {
-	"jobs.modal.title": {
-		"message": "{0} के लिए आवेदन करें",
-		"description": "Jobs apply modal title, {0} will be replaced with the job name."
-	},
-	"jobs.modal.step": {
-		"message": "चरण २ के {0}",
-		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
-	},
-	"jobs.modal.buttons.next": {
-		"message": "अगला",
-		"description": "Next button in the modal."
-	},
-	"jobs.modal.buttons.join": {
-		"message": "जुड़ें",
-		"description": "Join Discord button in the modal."
-	},
-	"jobs.modal.buttons.cancel": {
-		"message": "रद्द करना",
-		"description": "Cancel, button in the modal."
-	},
-	"jobs.modal.error": {
-		"message": "कृपया सभी फ़ील्ड्स पूर्ण करें",
-		"description": "Error when user did not fill all the fields."
-	},
-	"jobs.modal.notice": {
-		"message": "PreMiD एक ओपन-सोर्स प्रोजेक्ट है, जिसका अर्थ है कि हम एक गैर-लाभकारी टीम हैं, प्रत्येक दान या पैटरॉन का पैसा वापस उत्पाद में चला जाता है। PreMiD में नौकरी की स्थिति के लिए आवेदन करने से आप स्वीकार करते हैं कि आप टीम में स्वेच्छा से काम कर रहे हैं, आपको अपने काम के लिए भुगतान नहीं किया जाएगा।",
-		"description": "Notice for applicants."
-	},
-	"jobs.guild.required": {
-		"message": "हमारा डिसॉर्ड में शामिल हो",
-		"description": "Title of the modal the user will see if it's not in Discord server."
-	},
-	"jobs.guild.explanation": {
-		"message": "लागू करने में सक्षम होने के लिए आप हमारे Discord सर्वर से जुड़ गए होंगे। यदि आप चयनित हो रहे हैं तो अन्यथा हम आपसे संपर्क नहीं कर पाएंगे!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
-	"jobs.header.title": {
-		"message": "PreMiD के लिए काम करते हैं",
-		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "क्या आप सबसे बड़े रिच-प्रेजेंस प्रोग्राम में मदद के लिए तैयार हैं?",
-		"description": "The second part of the jobs page."
-	},
-	"jobs.openings.title": {
-		"message": "नौकरी की रिक्तियां",
-		"description": "Text before the available job positions cards."
-	},
-	"jobs.benefits.title": {
-		"message": "उच्च वर्ग का लाभ",
-		"description": "Text before the benefits cards."
-	},
-	"jobs.benefit1.title": {
-		"message": "हमें मिलिये",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit1.description": {
-		"message": "PreMiD के पीछे लोगों से संपर्क करें।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit2.title": {
-		"message": "झलक",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit2.description": {
-		"message": "हमारे विकास और विपणन पर एक नज़र है।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit3.title": {
-		"message": "सम्मान",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit3.description": {
-		"message": "शक्तिशाली Discord अनुमति और एक रंगीन भूमिका।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit4.title": {
-		"message": "समर्थन PreMiD",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit4.description": {
-		"message": "आपके योगदान से इस परियोजना को चलाना संभव है।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit5.title": {
-		"message": "समय समाप्त",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit5.description": {
-		"message": "पर्याप्त समय लो। यह स्वैच्छिक कार्य है।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit6.title": {
-		"message": "जल्दी पहुँच",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "किसी और से पहले नई सुविधाओं का परीक्षण करें।",
-		"description": "Benefit card description."
-	},
-	"jobs.success.applied": {
-		"message": "आवेदन करने के लिए धन्यवाद!",
-		"description": "Notification when applying."
-	},
-	"jobs.errors.alreadyApplied": {
-		"message": "आप पहले ही आवेदन कर चुके हैं!",
-		"description": "Notification when you applied already."
-	}
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "PreMiD के पीछे लोगों से संपर्क करें।"
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "हमें मिलिये"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "हमारे विकास और विपणन पर एक नज़र है।"
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "झलक"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "शक्तिशाली Discord अनुमति और एक रंगीन भूमिका।"
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "सम्मान"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "आपके योगदान से इस परियोजना को चलाना संभव है।"
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "समर्थन PreMiD"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "पर्याप्त समय लो। यह स्वैच्छिक कार्य है।"
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "समय समाप्त"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "किसी और से पहले नई सुविधाओं का परीक्षण करें।"
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "जल्दी पहुँच"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "उच्च वर्ग का लाभ"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "आप पहले ही आवेदन कर चुके हैं!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "लागू करने में सक्षम होने के लिए आप हमारे Discord सर्वर से जुड़ गए होंगे। यदि आप चयनित हो रहे हैं तो अन्यथा हम आपसे संपर्क नहीं कर पाएंगे!"
+  },
+  "jobs.guild.required": {
+    "description": "Title of the modal the user will see if it's not in Discord server.",
+    "message": "हमारा डिसॉर्ड में शामिल हो"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "क्या आप सबसे बड़े रिच-प्रेजेंस प्रोग्राम में मदद के लिए तैयार हैं?"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "PreMiD के लिए काम करते हैं"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "रद्द करना"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "जुड़ें"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "अगला"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "कृपया सभी फ़ील्ड्स पूर्ण करें"
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "PreMiD एक ओपन-सोर्स प्रोजेक्ट है, जिसका अर्थ है कि हम एक गैर-लाभकारी टीम हैं, प्रत्येक दान या पैटरॉन का पैसा वापस उत्पाद में चला जाता है। PreMiD में नौकरी की स्थिति के लिए आवेदन करने से आप स्वीकार करते हैं कि आप टीम में स्वेच्छा से काम कर रहे हैं, आपको अपने काम के लिए भुगतान नहीं किया जाएगा।"
+  },
+  "jobs.modal.step": {
+    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
+    "message": "चरण २ के {0}"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "{0} के लिए आवेदन करें"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "नौकरी की रिक्तियां"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "आवेदन करने के लिए धन्यवाद!"
+  }
 }

@@ -1,58 +1,58 @@
 {
-	"report.title": {
-		"message": "Rapportér en feil",
-		"description": "Text to indicate the page."
-	},
-	"report.bugcount": {
-		"message": "{count}/3 rapporteringer igjen",
-		"description": "Amount of bug reports user can send"
-	},
-	"report.info": {
-		"message": "Rapportering av feil er kun for feil på PreMiDs nettside og PreMiDs Discord-server. Feil knyttet til en presence må rapporteres til utvikleren av presencen. Kun rapporter feil på engelsk.",
-		"description": "Tells the user about submitting a bug"
-	},
-	"report.overview": {
-		"message": "Oppgi en klar og kortfattet beskrivelse av hva feilen er.",
-		"description": "Text for the user to write a brief of the bug information."
-	},
-	"report.os": {
-		"message": "Velg ditt operativsystem og versjon",
-		"description": "Select Box for the user to select their operating system"
-	},
-	"report.browser": {
-		"message": "Velg nettleseren og versjonen du bruker - Du kan finne versjonen ved å besøke about:support på Firefox eller chrome::help",
-		"description": "Select Box for the user to select their browser"
-	},
-	"report.description": {
-		"message": "Oppgi en lenke til et eksempel eller en tydelig fremgangsmåte for å reprodusere feilen.",
-		"description": "Text for the user to write information about the bug."
-	},
-	"report.button": {
-		"message": "Rapporter",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "Du har for mange aktive rapporteringer. Vent til dine innsendte rapporteringer har blitt gjennomgått. Rapporteringen sjekkes ukentlig, så vær tålmodig.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "Du har for mange aktive rapporteringer.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "Feil rapportert",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "Mer informasjon kreves",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "Discord-konto må bekreftes",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "Aktive feil",
-		"description": "Lists users active bugs"
-	}
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Aktive feil"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Velg nettleseren og versjonen du bruker - Du kan finne versjonen ved å besøke about:support på Firefox eller chrome::help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 rapporteringer igjen"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Rapporter"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Oppgi en lenke til et eksempel eller en tydelig fremgangsmåte for å reprodusere feilen."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Mer informasjon kreves"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Discord-konto må bekreftes"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "Rapportering av feil er kun for feil på PreMiDs nettside og PreMiDs Discord-server. Feil knyttet til en presence må rapporteres til utvikleren av presencen. Kun rapporter feil på engelsk."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Velg ditt operativsystem og versjon"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Oppgi en klar og kortfattet beskrivelse av hva feilen er."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Feil rapportert"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Rapportér en feil"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Du har for mange aktive rapporteringer. Vent til dine innsendte rapporteringer har blitt gjennomgått. Rapporteringen sjekkes ukentlig, så vær tålmodig."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Du har for mange aktive rapporteringer."
+  }
 }

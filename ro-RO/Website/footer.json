@@ -1,110 +1,110 @@
 {
-	"footer.language": {
-		"message": "Limbă",
-		"description": "You know how to translate that word? I hope you do :D"
-	},
-	"footer.usercount.heading": {
-		"message": "Ești pregătit să încerci PreMiD?",
-		"description": "Promotional heading"
-	},
-	"footer.usercount.message": {
-		"message": "Alătură-te de peste {0} utilizatori astăzi!",
-		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
-	},
-	"footer.usercount.button": {
-		"message": "Instalează",
-		"description": "Install button under the promotional message"
-	},
-	"footer.partners.heading": {
-		"message": "Parteneri",
-		"description": "Partner section"
-	},
-	"footer.followUs.heading": {
-		"message": "Urmărește-ne",
-		"description": "Follow Us section"
-	},
-	"footer.developers.heading": {
-		"message": "Developeri",
-		"description": "Developer section"
-	},
-	"footer.developers.documentation": {
-		"message": "Documentație",
-		"description": "Documentation -> redirects to docs.premid.app"
-	},
-	"footer.developers.richpresence": {
-		"message": "Prezență bogată",
-		"description": "Rich Presence -> redirects to discord.com/rich-presence"
-	},
-	"footer.supportus.heading": {
-		"message": "Susține-ne",
-		"description": "Support us section"
-	},
-	"footer.supportus.donate": {
-		"message": "Donează ",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
-	"footer.supportus.contribute": {
-		"message": "Contribuie",
-		"description": "Contribute -> redirects to github.com/premid"
-	},
-	"footer.supportus.translate": {
-		"message": "Tradu",
-		"description": "Translate -> redirects to locilazation page"
-	},
-	"footer.supportus.jobs": {
-		"message": "Lucrează cu noi!",
-		"description": "Work for us! -> redirects to /jobs page"
-	},
-	"footer.help.heading": {
-		"message": "Ajutor",
-		"description": "Help section"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Depanare",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
-	"footer.help.getsupport": {
-		"message": "Primește ajutor",
-		"description": "Get Support -> redirects to Discord invite"
-	},
-	"footer.help.information": {
-		"message": "Informații",
-		"description": "Information section"
-	},
-	"footer.help.information.cookies": {
-		"message": "Fursecuri",
-		"description": "meant to be 'Cookie Policy'"
-	},
-	"footer.help.information.privacy": {
-		"message": "Intimitate",
-		"description": "meant to be 'Privacy Policy'"
-	},
-	"footer.help.information.terms": {
-		"message": "Termeni",
-		"description": "meant to be 'Terms of Service'"
-	},
-	"footer.more.heading": {
-		"message": "Mai multe",
-		"description": "More section"
-	},
-	"footer.more.status": {
-		"message": "Statut",
-		"description": "Status -> redirects to status.premid.app"
-	},
-	"footer.more.wiki": {
-		"message": "Wiki",
-		"description": "Wiki -> redirects to wiki.premid.app"
-	},
-	"footer.copyright.line1": {
-		"message": "{0} de {1}",
-		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
-	},
-	"footer.copyright.line2": {
-		"message": "Site întreținut de {0}",
-		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
-	},
-	"footer.partners.more": {
-		"message": "Apasă aici pentru a vedea restul partenerilor și sponsorilor noștri.",
-		"description": "Button next to all listed partners on the footer."
-	}
+  "footer.copyright.line1": {
+    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
+    "message": "{0} de {1}"
+  },
+  "footer.copyright.line2": {
+    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
+    "message": "Site întreținut de {0}"
+  },
+  "footer.developers.documentation": {
+    "description": "Documentation -> redirects to docs.premid.app",
+    "message": "Documentație"
+  },
+  "footer.developers.heading": {
+    "description": "Developer section",
+    "message": "Developeri"
+  },
+  "footer.developers.richpresence": {
+    "description": "Rich Presence -> redirects to discord.com/rich-presence",
+    "message": "Prezență bogată"
+  },
+  "footer.followUs.heading": {
+    "description": "Follow Us section",
+    "message": "Urmărește-ne"
+  },
+  "footer.help.getsupport": {
+    "description": "Get Support -> redirects to Discord invite",
+    "message": "Primește ajutor"
+  },
+  "footer.help.heading": {
+    "description": "Help section",
+    "message": "Ajutor"
+  },
+  "footer.help.information": {
+    "description": "Information section",
+    "message": "Informații"
+  },
+  "footer.help.information.cookies": {
+    "description": "meant to be 'Cookie Policy'",
+    "message": "Fursecuri"
+  },
+  "footer.help.information.privacy": {
+    "description": "meant to be 'Privacy Policy'",
+    "message": "Intimitate"
+  },
+  "footer.help.information.terms": {
+    "description": "meant to be 'Terms of Service'",
+    "message": "Termeni"
+  },
+  "footer.help.troubleshooting": {
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
+    "message": "Depanare"
+  },
+  "footer.language": {
+    "description": "You know how to translate that word? I hope you do :D",
+    "message": "Limbă"
+  },
+  "footer.more.heading": {
+    "description": "More section",
+    "message": "Mai multe"
+  },
+  "footer.more.status": {
+    "description": "Status -> redirects to status.premid.app",
+    "message": "Statut"
+  },
+  "footer.more.wiki": {
+    "description": "Wiki -> redirects to wiki.premid.app",
+    "message": "Wiki"
+  },
+  "footer.partners.heading": {
+    "description": "Partner section",
+    "message": "Parteneri"
+  },
+  "footer.partners.more": {
+    "description": "Button next to all listed partners on the footer.",
+    "message": "Apasă aici pentru a vedea restul partenerilor și sponsorilor noștri."
+  },
+  "footer.supportus.contribute": {
+    "description": "Contribute -> redirects to github.com/premid",
+    "message": "Contribuie"
+  },
+  "footer.supportus.donate": {
+    "description": "Donate -> redirects to patreon.com/timeraa",
+    "message": "Donează "
+  },
+  "footer.supportus.heading": {
+    "description": "Support us section",
+    "message": "Susține-ne"
+  },
+  "footer.supportus.jobs": {
+    "description": "Work for us! -> redirects to /jobs page",
+    "message": "Lucrează cu noi!"
+  },
+  "footer.supportus.translate": {
+    "description": "Translate -> redirects to locilazation page",
+    "message": "Tradu"
+  },
+  "footer.usercount.button": {
+    "description": "Install button under the promotional message",
+    "message": "Instalează"
+  },
+  "footer.usercount.heading": {
+    "description": "Promotional heading",
+    "message": "Ești pregătit să încerci PreMiD?"
+  },
+  "footer.usercount.message": {
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
+    "message": "Alătură-te de peste {0} utilizatori astăzi!"
+  }
 }

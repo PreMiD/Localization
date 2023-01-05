@@ -1,110 +1,110 @@
 {
-	"jobs.modal.title": {
-		"message": "Ngelamar kanggo {0}",
-		"description": "Jobs apply modal title, {0} will be replaced with the job name."
-	},
-	"jobs.modal.step": {
-		"message": "Langkah {0} saka 2",
-		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
-	},
-	"jobs.modal.buttons.next": {
-		"message": "Lanjut",
-		"description": "Next button in the modal."
-	},
-	"jobs.modal.buttons.join": {
-		"message": "Gabung",
-		"description": "Join Discord button in the modal."
-	},
-	"jobs.modal.buttons.cancel": {
-		"message": "Batalne",
-		"description": "Cancel, button in the modal."
-	},
-	"jobs.modal.error": {
-		"message": "Mangga isi kabeh kolom",
-		"description": "Error when user did not fill all the fields."
-	},
-	"jobs.modal.notice": {
-		"message": "PreMiD minangka proyek open source, artine kita minangka tim non-profit, sumbangan utawa dhuwit saka Patreon bali menyang produk kasebut. Kanggo ndhaptar jabatan ing PreMiD, sampeyan nyatakne sukarela dadi tim, lan ora bakal dibayar apa sing sampeyan lakoni.",
-		"description": "Notice for applicants."
-	},
-	"jobs.guild.required": {
-		"message": "Gabung Discord kami",
-		"description": "Title of the modal the user will see if it's not in Discord server."
-	},
-	"jobs.guild.explanation": {
-		"message": "Supaya bisa ngelamar sampeyan kudu mlebu menyang Server Discord kami. Yen ora, kita ora bakal bisa ngubungi sampeyan yen sampeyan dipilih!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
-	"jobs.header.title": {
-		"message": "Kerja kanggo PreMiD",
-		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "Apa sampeyan siyap ngrewangi program Rich-Presence paling gedhe?",
-		"description": "The second part of the jobs page."
-	},
-	"jobs.openings.title": {
-		"message": "Lowongan Pekerjaan",
-		"description": "Text before the available job positions cards."
-	},
-	"jobs.benefits.title": {
-		"message": "Keuntungan Kelas Atas",
-		"description": "Text before the benefits cards."
-	},
-	"jobs.benefit1.title": {
-		"message": "Temui kami",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit1.description": {
-		"message": "Sambungake karo wong-wong sing ana ing PreMiD.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit2.title": {
-		"message": "Sneak Peeks",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit2.description": {
-		"message": "Deleng ing divisi Pengembangan lan Pemasaran.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit3.title": {
-		"message": "Penghargaan",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit3.description": {
-		"message": "Discord permission sing kuat lan role warna-warni.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit4.title": {
-		"message": "Dukung PreMiD",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit4.description": {
-		"message": "Kontribusi sampeyan bakal mbantu mlaku proyek iki.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit5.title": {
-		"message": "Wektu entek",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit5.description": {
-		"message": "Santai, iki pekerjaan sukarela.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit6.title": {
-		"message": "Akses Pra-Rilis",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "Tes fitur anyar sakdurunge uwong liya.",
-		"description": "Benefit card description."
-	},
-	"jobs.success.applied": {
-		"message": "Matur suwun wis ngelamar!",
-		"description": "Notification when applying."
-	},
-	"jobs.errors.alreadyApplied": {
-		"message": "Sampeyan wis ngelamar sakdurunge!",
-		"description": "Notification when you applied already."
-	}
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "Sambungake karo wong-wong sing ana ing PreMiD."
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "Temui kami"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "Deleng ing divisi Pengembangan lan Pemasaran."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "Sneak Peeks"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "Discord permission sing kuat lan role warna-warni."
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "Penghargaan"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "Kontribusi sampeyan bakal mbantu mlaku proyek iki."
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "Dukung PreMiD"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "Santai, iki pekerjaan sukarela."
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "Wektu entek"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "Tes fitur anyar sakdurunge uwong liya."
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "Akses Pra-Rilis"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "Keuntungan Kelas Atas"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "Sampeyan wis ngelamar sakdurunge!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "Supaya bisa ngelamar sampeyan kudu mlebu menyang Server Discord kami. Yen ora, kita ora bakal bisa ngubungi sampeyan yen sampeyan dipilih!"
+  },
+  "jobs.guild.required": {
+    "description": "Title of the modal the user will see if it's not in Discord server.",
+    "message": "Gabung Discord kami"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "Apa sampeyan siyap ngrewangi program Rich-Presence paling gedhe?"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "Kerja kanggo PreMiD"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "Batalne"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "Gabung"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "Lanjut"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "Mangga isi kabeh kolom"
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "PreMiD minangka proyek open source, artine kita minangka tim non-profit, sumbangan utawa dhuwit saka Patreon bali menyang produk kasebut. Kanggo ndhaptar jabatan ing PreMiD, sampeyan nyatakne sukarela dadi tim, lan ora bakal dibayar apa sing sampeyan lakoni."
+  },
+  "jobs.modal.step": {
+    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
+    "message": "Langkah {0} saka 2"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "Ngelamar kanggo {0}"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "Lowongan Pekerjaan"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "Matur suwun wis ngelamar!"
+  }
 }

@@ -1,54 +1,54 @@
 {
   "tab.button.changelog": {
-    "message": "Seznam změn",
-    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
+    "message": "Seznam změn"
   },
   "tab.button.wiki": {
-    "message": "Wiki",
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.heading": {
-    "message": "Děkujeme",
-    "description": "Title of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.subHeading": {
-    "message": "za instalaci {0}u",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.start": {
-    "message": "Začít používat {0}",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
+    "message": "Wiki"
   },
   "tab.installed.error": {
-    "message": "**Ale ne!** Nemůžeme se připojit k aplikaci... Je již nainstalována?",
-    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+    "description": "Error message of the tab which opens when you install PreMiD for the first time",
+    "message": "**Ale ne!** Nemůžeme se připojit k aplikaci... Je již nainstalována?"
   },
-  "tab.installed.link.troubleshooting": {
-    "message": "Řešit Problémy",
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  "tab.installed.heading": {
+    "description": "Title of the tab which opens when you install PreMiD for the first time",
+    "message": "Děkujeme"
   },
   "tab.installed.link.installApplication": {
-    "message": "Nainstalovat aplikaci",
-    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
+    "message": "Nainstalovat aplikaci"
   },
-  "tab.updated.heading": {
-    "message": "Level up!",
-    "description": "Title of the tab which opens when PreMiD was updated"
+  "tab.installed.link.troubleshooting": {
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
+    "message": "Řešit Problémy"
   },
-  "tab.updated.subHeading": {
-    "message": "{0} byl aktualizován!",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  "tab.installed.start": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
+    "message": "Začít používat {0}"
   },
-  "tab.updated.new": {
-    "message": "Nové",
-    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  "tab.installed.subHeading": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
+    "message": "za instalaci {0}u"
   },
   "tab.updated.changed": {
-    "message": "Změněno",
-    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+    "message": "Změněno"
   },
   "tab.updated.fixed": {
-    "message": "Opraveno",
-    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
+    "message": "Opraveno"
+  },
+  "tab.updated.heading": {
+    "description": "Title of the tab which opens when PreMiD was updated",
+    "message": "Level up!"
+  },
+  "tab.updated.new": {
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
+    "message": "Nové"
+  },
+  "tab.updated.subHeading": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
+    "message": "{0} byl aktualizován!"
   }
 }

@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "Uživatelé mohou nyní přidávat přítomnosti sami. *Přidej si některé teď!*",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "Najděte *nové presence* v jejich přirozeném prostředí",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "Automatická aktualizace je nyní věc",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "Uživatelé mohou nyní vytvářet presence",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "*Dokumentace* pro kreativní vývojáře",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "Úplně nový design webové stránky",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "Více funkcí pro našeho Discord bota",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "Naše nové API běhá jako po másle",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "Opraví staré chyby aplikace i když máš tú nejnovější"
   },
   "extension.2.0.change1": {
-    "message": "Předělané rozložení kontextových oken, karet a stylu",
-    "description": ""
+    "description": "",
+    "message": "Předělané rozložení kontextových oken, karet a stylu"
   },
   "extension.2.0.fix1": {
-    "message": "Mnoho (ne)známých chyb uteklo",
-    "description": ""
+    "description": "",
+    "message": "Mnoho (ne)známých chyb uteklo"
   },
   "extension.2.0.fix2": {
-    "message": "Vše nyní běží mnohem rychleji",
-    "description": ""
+    "description": "",
+    "message": "Vše nyní běží mnohem rychleji"
   },
-  "extension.2.0.1.fix1": {
-    "message": "Opraví staré chyby aplikace i když máš tú nejnovější",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "Uživatelé mohou nyní přidávat přítomnosti sami. *Přidej si některé teď!*"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "Najděte *nové presence* v jejich přirozeném prostředí"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "Automatická aktualizace je nyní věc"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "Uživatelé mohou nyní vytvářet presence"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "*Dokumentace* pro kreativní vývojáře"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "Úplně nový design webové stránky"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "Více funkcí pro našeho Discord bota"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "Naše nové API běhá jako po másle"
   }
 }

@@ -1,26 +1,26 @@
 {
-	"maintenance.big": {
-		"message": "이런!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "안타깝게도 현재 기술적인 오류를 겪고 있어요. 곧 다시 돌아올게요. 불편을 드려 죄송해요.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "자세한 정보를 보시려면 나중에 다시 와주세요.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "특별한 개발자가 이걸 고치기 전까지, 여기를 한 번 확인해 보세요!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "상태 페이지",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discord 서버",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "이런!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discord 서버"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "안타깝게도 현재 기술적인 오류를 겪고 있어요. 곧 다시 돌아올게요. 불편을 드려 죄송해요."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "자세한 정보를 보시려면 나중에 다시 와주세요."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "특별한 개발자가 이걸 고치기 전까지, 여기를 한 번 확인해 보세요!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "상태 페이지"
+  }
 }

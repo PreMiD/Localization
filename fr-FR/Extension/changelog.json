@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "Les utilisateurs peuvent maintenant ajouter des présences par eux-mêmes. *Ajoutez-en maintenant!*",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "Trouvez de *nouvelles présences* dans leur habitat naturel",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "La mise à jour automatique est maintenant réelle",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "Les utilisateurs peuvent désormais créer des présences",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "*Documentations* pour les développeurs créatifs là-dehors",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "Tout nouveau design du site web",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "Plus de fonctionnalités pour notre Bot Discord",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "Notre nouvelle API est une bête de course",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "Correction d'une ancienne erreur de l'application même si vous avez la dernière version"
   },
   "extension.2.0.change1": {
-    "message": "Nouvelle mise en page des popups et onglets",
-    "description": ""
+    "description": "",
+    "message": "Nouvelle mise en page des popups et onglets"
   },
   "extension.2.0.fix1": {
-    "message": "Beaucoup de bugs (in)connus se sont enfuis",
-    "description": ""
+    "description": "",
+    "message": "Beaucoup de bugs (in)connus se sont enfuis"
   },
   "extension.2.0.fix2": {
-    "message": "Tout est bien plus rapide maintenant",
-    "description": ""
+    "description": "",
+    "message": "Tout est bien plus rapide maintenant"
   },
-  "extension.2.0.1.fix1": {
-    "message": "Correction d'une ancienne erreur de l'application même si vous avez la dernière version",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "Les utilisateurs peuvent maintenant ajouter des présences par eux-mêmes. *Ajoutez-en maintenant!*"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "Trouvez de *nouvelles présences* dans leur habitat naturel"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "La mise à jour automatique est maintenant réelle"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "Les utilisateurs peuvent désormais créer des présences"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "*Documentations* pour les développeurs créatifs là-dehors"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "Tout nouveau design du site web"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "Plus de fonctionnalités pour notre Bot Discord"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "Notre nouvelle API est une bête de course"
   }
 }

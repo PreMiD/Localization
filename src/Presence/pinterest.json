@@ -1,18 +1,18 @@
 {
-    "pinterest.board": {
-      "message": "Viewing board:",
-      "description": ""
-    },
-    "pinterest.pin": {
-      "message": "Viewing a pin",
-      "description": ""
-    },
-    "pinterest.follow": {
-      "message": "Viewing their following",
-      "description": ""
-    },
-    "pinterest.home": {
-      "message": "Editing their homepage",
-      "description": ""
-    }
+  "pinterest.board": {
+    "description": "",
+    "message": "Viewing board:"
+  },
+  "pinterest.follow": {
+    "description": "",
+    "message": "Viewing their following"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "Editing their homepage"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "Viewing a pin"
+  }
 }

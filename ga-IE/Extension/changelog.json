@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "Is féidir leat uiríll a chur leat féin anois! *Cén fáth nach gcuireann tú roinnt leat féin?*",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "Faigh roinnt láithreachtaí nua ina ngnáthóg nádúrtha",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "Is rud é nuashonrú uathoibríoch anois",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "Is féidir le húsáideoirí láithreacha a chruthú anois",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "*Docs* do na forbróirí cruthaitheacha seo amach",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "Gach dearadh láithreán gréasáin nua",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "Tuilleadh gnéithe dár bot discord",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "Tá an API nua ag rith beithíoch",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "Socraíonn tú earráid sean-app fiú má tá an leagan is déanaí agat"
   },
   "extension.2.0.change1": {
-    "message": "Leagan amach agus stíl athchóirithe aníos agus cluaisíní",
-    "description": ""
+    "description": "",
+    "message": "Leagan amach agus stíl athchóirithe aníos agus cluaisíní"
   },
   "extension.2.0.fix1": {
-    "message": "Tá an-chuid bugs anaithnid ar siúl",
-    "description": ""
+    "description": "",
+    "message": "Tá an-chuid bugs anaithnid ar siúl"
   },
   "extension.2.0.fix2": {
-    "message": "Tá gach rud ag rith i bhfad níos tapúla anois",
-    "description": ""
+    "description": "",
+    "message": "Tá gach rud ag rith i bhfad níos tapúla anois"
   },
-  "extension.2.0.1.fix1": {
-    "message": "Socraíonn tú earráid sean-app fiú má tá an leagan is déanaí agat",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "Is féidir leat uiríll a chur leat féin anois! *Cén fáth nach gcuireann tú roinnt leat féin?*"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "Faigh roinnt láithreachtaí nua ina ngnáthóg nádúrtha"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "Is rud é nuashonrú uathoibríoch anois"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "Is féidir le húsáideoirí láithreacha a chruthú anois"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "*Docs* do na forbróirí cruthaitheacha seo amach"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "Gach dearadh láithreán gréasáin nua"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "Tuilleadh gnéithe dár bot discord"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "Tá an API nua ag rith beithíoch"
   }
 }

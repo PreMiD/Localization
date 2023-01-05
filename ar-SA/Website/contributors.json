@@ -1,42 +1,42 @@
 {
-	"contributors.headings.staff": {
-		"message": "الطاقم",
-		"description": "Heading for group of users."
-	},
-	"contributors.headings.supporters": {
-		"message": "الداعمين",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.localizationManager": {
-		"message": "مدير الشؤون المحلية",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "مدقق لغوي",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
-	"contributors.headings.translators": {
-		"message": "المترجمين",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.donator": {
-		"message": "متبرع",
-		"description": "'Donator' title for contributors page."
-	},
-	"contributors.roles.booster": {
-		"message": "داعم",
-		"description": "'Booster' title for contributors page and user pages."
-	},
-	"contributors.roles.translator": {
-		"message": "مترجم",
-		"description": "'Translator' title for contributors page."
-	},
-	"contributors.cards.copyUserId": {
-		"message": "انقر لنسخ ID المستخدم.",
-		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "تم نسخ أيدي المستخدم!",
-		"description": "Notification after user ID was copied."
-	}
+  "contributors.cards.copyUserId": {
+    "description": "Tippy message when you hover on the avatar of a credit card.",
+    "message": "انقر لنسخ ID المستخدم."
+  },
+  "contributors.cards.userIdCopied": {
+    "description": "Notification after user ID was copied.",
+    "message": "تم نسخ أيدي المستخدم!"
+  },
+  "contributors.headings.staff": {
+    "description": "Heading for group of users.",
+    "message": "الطاقم"
+  },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "الداعمين"
+  },
+  "contributors.headings.translators": {
+    "description": "Heading for group of users.",
+    "message": "المترجمين"
+  },
+  "contributors.roles.booster": {
+    "description": "'Booster' title for contributors page and user pages.",
+    "message": "داعم"
+  },
+  "contributors.roles.donator": {
+    "description": "'Donator' title for contributors page.",
+    "message": "متبرع"
+  },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "مدير الشؤون المحلية"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "مدقق لغوي"
+  },
+  "contributors.roles.translator": {
+    "description": "'Translator' title for contributors page.",
+    "message": "مترجم"
+  }
 }

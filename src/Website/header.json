@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "English",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "We support your language, wanna switch?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "Our website has been translated into your language. This may help in case you don't speak English that well.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "No, thanks",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "Switch language",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "Store",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Contributors"
   },
   "header.downloads": {
-    "message": "Downloads",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "Downloads"
   },
-  "header.contributors": {
-    "message": "Contributors",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "English"
   },
-  "header.login": {
-    "message": "Login",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Switch language"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "No, thanks"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Our website has been translated into your language. This may help in case you don't speak English that well."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "We support your language, wanna switch?"
   },
   "header.lia": {
-    "message": "Logged in as",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "Logged in as"
   },
-  "header.rab": {
-    "message": "Report a bug",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Baking pancakes...;Placing containers...;Parsing your IP address...;UwU;Breaking rules..."
   },
-  "header.staff": {
-    "message": "Dashboard",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "Login"
   },
   "header.logout": {
-    "message": "Logout",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "Logout"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Report a bug"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Dashboard"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Store"
   }
 }

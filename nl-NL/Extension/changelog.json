@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "Gebruikers kunnen nu zelf presences toevoegen. *Voeg nu een paar toe!*",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "Vind *nieuwe presences* in hun natuurlijke habitat",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "Automatisch bijwerken is een ding nu",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "Gebruikers kunnen nu presences maken",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "*Docs* voor de creatieve ontwikkelaars",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "Compleet nieuw websiteontwerp",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "Meer functies in onze Discord-bot",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "Onze nieuwe API is een beest",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "Repareert oude app fout zelfs als je de laatste hebt"
   },
   "extension.2.0.change1": {
-    "message": "Vernieuwde pop-up, tabbladlay-out en stijl",
-    "description": ""
+    "description": "",
+    "message": "Vernieuwde pop-up, tabbladlay-out en stijl"
   },
   "extension.2.0.fix1": {
-    "message": "Veel (on)bekende bugs zijn weggerend",
-    "description": ""
+    "description": "",
+    "message": "Veel (on)bekende bugs zijn weggerend"
   },
   "extension.2.0.fix2": {
-    "message": "Alles draait veel sneller nu",
-    "description": ""
+    "description": "",
+    "message": "Alles draait veel sneller nu"
   },
-  "extension.2.0.1.fix1": {
-    "message": "Repareert oude app fout zelfs als je de laatste hebt",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "Gebruikers kunnen nu zelf presences toevoegen. *Voeg nu een paar toe!*"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "Vind *nieuwe presences* in hun natuurlijke habitat"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "Automatisch bijwerken is een ding nu"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "Gebruikers kunnen nu presences maken"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "*Docs* voor de creatieve ontwikkelaars"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "Compleet nieuw websiteontwerp"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "Meer functies in onze Discord-bot"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "Onze nieuwe API is een beest"
   }
 }

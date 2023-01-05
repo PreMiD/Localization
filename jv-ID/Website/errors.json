@@ -1,46 +1,46 @@
 {
-	"store.search.notFound": {
-		"message": "Kami ora isa nemokake Presence kasebut...",
-		"description": "Search result text when nothing's found"
-	},
-	"error.code.404": {
-		"message": "Maaf, kami ora isa nemokake halman kasebut.",
-		"description": "Error (404) message"
-	},
-	"error.code.4": {
-		"message": "Sampeyan goleki Presence sing ora ana utawa wus dibusak.",
-		"description": "Error (4) message"
-	},
-	"error.code.500": {
-		"message": "Error ning server internal.",
-		"description": "Error (500) message"
-	},
-	"error.page.details": {
-		"message": "Detail",
-		"description": "'Details' text on error page container"
-	},
-	"error.page.button": {
-		"message": "Balik ning halaman awal",
-		"description": "Button on the error page"
-	},
-	"user.notFound.heading": {
-		"message": "Pengguna kasebut ora isa ditemokne. Coba priksa",
-		"description": "Error when user couldn't be found."
-	},
-	"user.notFound.message1": {
-		"message": "user ID sing sampeyan goleki pener.",
-		"description": "Check user ID message."
-	},
-	"user.notFound.message2": {
-		"message": "pangguna wis nggawe cukup akeh Presence lan entuk peran Pangembang Presence ing server Discord kami.",
-		"description": "Check the presence amount of the developer created message."
-	},
-	"user.notFound.message3": {
-		"message": "yen pangguna liyane uga nemoni masalah sing padha ing server Discord kami.",
-		"description": "Check if the error is also happening to others message."
-	},
-	"user.notFound.message4": {
-		"message": "Yen sampeyan yakin iki kesalahan, hubungi kami ing [server Discord kami].",
-		"description": "Bottom line for the error page. Do not edit brackets."
-	}
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "Sampeyan goleki Presence sing ora ana utawa wus dibusak."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "Maaf, kami ora isa nemokake halman kasebut."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "Error ning server internal."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "Balik ning halaman awal"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "Detail"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "Kami ora isa nemokake Presence kasebut..."
+  },
+  "user.notFound.heading": {
+    "description": "Error when user couldn't be found.",
+    "message": "Pengguna kasebut ora isa ditemokne. Coba priksa"
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "user ID sing sampeyan goleki pener."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "pangguna wis nggawe cukup akeh Presence lan entuk peran Pangembang Presence ing server Discord kami."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "yen pangguna liyane uga nemoni masalah sing padha ing server Discord kami."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "Yen sampeyan yakin iki kesalahan, hubungi kami ing [server Discord kami]."
+  }
 }

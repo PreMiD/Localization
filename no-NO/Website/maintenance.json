@@ -1,26 +1,26 @@
 {
-	"maintenance.big": {
-		"message": "Å nei!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Desverre så opplever vi noen tekniske problemer. Vi jobber med å fikse dette, vi beklager for ulempen.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Vennligst kom tilbake senere for mer informasjon.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "Inntil utviklerene våre fikser dette så kan du ta en titt under!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "Status Side",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discord Server",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "Å nei!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discord Server"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Desverre så opplever vi noen tekniske problemer. Vi jobber med å fikse dette, vi beklager for ulempen."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Vennligst kom tilbake senere for mer informasjon."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Inntil utviklerene våre fikser dette så kan du ta en titt under!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Status Side"
+  }
 }

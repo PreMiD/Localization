@@ -1,46 +1,46 @@
 {
-	"store.search.notFound": {
-		"message": "해당 Presence를 찾지 못했어요...",
-		"description": "Search result text when nothing's found"
-	},
-	"error.code.404": {
-		"message": "죄송하지만, 해당 페이지를 찾지 못했어요.",
-		"description": "Error (404) message"
-	},
-	"error.code.4": {
-		"message": "존재하지 않거나 삭제된 Presence를 찾고 있어요.",
-		"description": "Error (4) message"
-	},
-	"error.code.500": {
-		"message": "내부 서버 오류가 발생했어요.",
-		"description": "Error (500) message"
-	},
-	"error.page.details": {
-		"message": "세부 정보",
-		"description": "'Details' text on error page container"
-	},
-	"error.page.button": {
-		"message": "홈페이지로 돌아가기",
-		"description": "Button on the error page"
-	},
-	"user.notFound.heading": {
-		"message": "해당 사용자를 찾지 못했어요.",
-		"description": "Error when user couldn't be found."
-	},
-	"user.notFound.message1": {
-		"message": "내가 찾고 있는 사용자의 ID가 올바른지 다시 한 번 확인해 주세요.",
-		"description": "Check user ID message."
-	},
-	"user.notFound.message2": {
-		"message": "사용자가 충분한 Presence를 제작했고 Presence 개발자 역할을 Discord 서버에서 소유하고 있는지 다시 한 번 확인해 주세요.",
-		"description": "Check the presence amount of the developer created message."
-	},
-	"user.notFound.message3": {
-		"message": "다른 분이 Discord에서 동일 현상을 겪고 있는지 다시 한 번 확인해 주세요.",
-		"description": "Check if the error is also happening to others message."
-	},
-	"user.notFound.message4": {
-		"message": "이게 실수라고 생각된다면, [저희 Discord 서버]에서 문의해 주세요.",
-		"description": "Bottom line for the error page. Do not edit brackets."
-	}
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "존재하지 않거나 삭제된 Presence를 찾고 있어요."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "죄송하지만, 해당 페이지를 찾지 못했어요."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "내부 서버 오류가 발생했어요."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "홈페이지로 돌아가기"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "세부 정보"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "해당 Presence를 찾지 못했어요..."
+  },
+  "user.notFound.heading": {
+    "description": "Error when user couldn't be found.",
+    "message": "해당 사용자를 찾지 못했어요."
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "내가 찾고 있는 사용자의 ID가 올바른지 다시 한 번 확인해 주세요."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "사용자가 충분한 Presence를 제작했고 Presence 개발자 역할을 Discord 서버에서 소유하고 있는지 다시 한 번 확인해 주세요."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "다른 분이 Discord에서 동일 현상을 겪고 있는지 다시 한 번 확인해 주세요."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "이게 실수라고 생각된다면, [저희 Discord 서버]에서 문의해 주세요."
+  }
 }

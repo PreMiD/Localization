@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Hayda, böyle bir şey hiç var oldu mu acaba.",
-    "description": "Heading on 404 page"
+    "description": "Heading on 404 page",
+    "message": "Hayda, böyle bir şey hiç var oldu mu acaba."
   },
   "404.message": {
-    "message": "Üzgünüm, görünüşe göre aradığınız sayfa taşınmış, kaldırılmış veya daha önce hiç var olmamış gibi görünüyor.",
-    "description": "Message on 404 page"
+    "description": "Message on 404 page",
+    "message": "Üzgünüm, görünüşe göre aradığınız sayfa taşınmış, kaldırılmış veya daha önce hiç var olmamış gibi görünüyor."
   }
 }

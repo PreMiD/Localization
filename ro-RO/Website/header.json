@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "Română",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "Avem limbajul tău, dorești să îl schimbi?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "Website-ul nostru a fost tradus în limba ta, te poate ajuta în cazul că nu știi engleza foarte bine.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "Nu, mulțumesc",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "Schimbă limba",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "Cocând clătite...;Plasând containere...;Analizând adresa ta IP...;UwU;Încălcând regulile...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "Magazin",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Contribuitori"
   },
   "header.downloads": {
-    "message": "Descărcări",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "Descărcări"
   },
-  "header.contributors": {
-    "message": "Contribuitori",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "Română"
   },
-  "header.login": {
-    "message": "Autentificare",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Schimbă limba"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Nu, mulțumesc"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Website-ul nostru a fost tradus în limba ta, te poate ajuta în cazul că nu știi engleza foarte bine."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Avem limbajul tău, dorești să îl schimbi?"
   },
   "header.lia": {
-    "message": "Logat ca",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "Logat ca"
   },
-  "header.rab": {
-    "message": "Raportează o problemă",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Cocând clătite...;Plasând containere...;Analizând adresa ta IP...;UwU;Încălcând regulile..."
   },
-  "header.staff": {
-    "message": "Panou de Control",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "Autentificare"
   },
   "header.logout": {
-    "message": "Deconectare",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "Deconectare"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Raportează o problemă"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Panou de Control"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Magazin"
   }
 }

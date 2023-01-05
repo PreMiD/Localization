@@ -1,58 +1,58 @@
 {
-	"report.title": {
-		"message": "Zgłoś błąd",
-		"description": "Text to indicate the page."
-	},
-	"report.bugcount": {
-		"message": "Pozostało {count}/3 raportów",
-		"description": "Amount of bug reports user can send"
-	},
-	"report.info": {
-		"message": "Zgłaszanie błędów dotyczy błędów na stronie PreMiD oraz na serwerze Discord PreMiD. Błędy występujące w aktywności Presence muszą być zgłoszone ich twórcy. Zgłaszaj błędy napisane tylko w języku angielskim.",
-		"description": "Tells the user about submitting a bug"
-	},
-	"report.overview": {
-		"message": "Podaj jasny i zwięzły opis błędu.",
-		"description": "Text for the user to write a brief of the bug information."
-	},
-	"report.os": {
-		"message": "Wybierz swój system operacyjny i wersję",
-		"description": "Select Box for the user to select their operating system"
-	},
-	"report.browser": {
-		"message": "Wybierz swoją przeglądarkę i wersję. Aby wyświetlić numer wersji w przeglądarce Firefox, odwiedź about:support, a w Google Chrome - chrome://help",
-		"description": "Select Box for the user to select their browser"
-	},
-	"report.description": {
-		"message": "Podaj link do przykładu błędu lub podaj kroki, które musimy wykonać, aby wywołać błąd.",
-		"description": "Text for the user to write information about the bug."
-	},
-	"report.button": {
-		"message": "Zgłoś",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "Masz zbyt wiele aktywnych raportów. Poczekaj na sprawdzenie przesłanych raportów. Raporty są sprawdzane co tydzień, bądź cierpliwy.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "Masz zbyt wiele aktywnych raportów.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "Błąd zgłoszony",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "Wymagane więcej informacji",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "Konto Discord musi zostać zweryfikowane",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "Aktywne błędy",
-		"description": "Lists users active bugs"
-	}
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Aktywne błędy"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Wybierz swoją przeglądarkę i wersję. Aby wyświetlić numer wersji w przeglądarce Firefox, odwiedź about:support, a w Google Chrome - chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "Pozostało {count}/3 raportów"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Zgłoś"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Podaj link do przykładu błędu lub podaj kroki, które musimy wykonać, aby wywołać błąd."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Wymagane więcej informacji"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Konto Discord musi zostać zweryfikowane"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "Zgłaszanie błędów dotyczy błędów na stronie PreMiD oraz na serwerze Discord PreMiD. Błędy występujące w aktywności Presence muszą być zgłoszone ich twórcy. Zgłaszaj błędy napisane tylko w języku angielskim."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Wybierz swój system operacyjny i wersję"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Podaj jasny i zwięzły opis błędu."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Błąd zgłoszony"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Zgłoś błąd"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Masz zbyt wiele aktywnych raportów. Poczekaj na sprawdzenie przesłanych raportów. Raporty są sprawdzane co tydzień, bądź cierpliwy."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Masz zbyt wiele aktywnych raportów."
+  }
 }

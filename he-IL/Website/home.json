@@ -1,46 +1,46 @@
 {
-	"home.introduction.button.downloads": {
-		"message": "הורדות",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
-	"home.examples.playingagame": {
-		"message": "משחק במשחק",
-		"description": "Discord Rich Presence -> Playing a game"
-	},
-	"home.examples.timestamp": {
-		"message": "{0} נשאר",
-		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "מופעל מחדש",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "שידור חי",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "גולש...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.features.heading": {
-		"message": "אתה תאהב את התכונות האלה!",
-		"description": "Features section"
-	},
-	"home.features.simpleInterface.heading": {
-		"message": "ממשק משתמש פשוט",
-		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description.1": {
-		"message": "הגדרות תוכנה ותוסף",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.2": {
-		"message": "ניהול Presence",
-		"description": "Features section description point"
-	},
-	"home.features.quickSupport.heading": {
-		"message": "תמיכה מהירה",
-		"description": "Features section subheading"
-	}
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "משחק במשחק"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "גולש..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "שידור חי"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "מופעל מחדש"
+  },
+  "home.examples.timestamp": {
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} נשאר"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "אתה תאהב את התכונות האלה!"
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "תמיכה מהירה"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "הגדרות תוכנה ותוסף"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "ניהול Presence"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "ממשק משתמש פשוט"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "הורדות"
+  }
 }

@@ -1,242 +1,242 @@
 {
-	"partners.header.title": {
-		"message": "合作夥伴",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "加入我們家族，並獲取一些只有合作夥伴才能擁有的好處，以炫耀您貢獻量。",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "以下的人/公司為我們貢獻了很多",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "為我們貢獻一下 何樂而不為？",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "你專屬的 presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "我們的團隊將為您的服務創建一個 Presence",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "成為已驗證的用户吧",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "在我們的Discord服務器中，您將獲得特殊的用户组和榮譽。",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "你將會在贊助人員榜上有名",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "當有人訪問您的網站時會自動下載和​​啟用您的狀態。",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "永久性",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "属于我們合作夥伴的一個專屬地方",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "成為大人物",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "刊登在我們的社交媒體上。",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "前置需求",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "我們需要什麼？",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "我們時刻關注不斷增長的社區和互聯網上令人興奮的事物。 TL; DR，您應該使用PreMiD，並準備將其傳播到更多的互聯網狂人們。 對該計劃的接受是非常定性的，並且從一個候選人到下一個候選人都會有所不同。",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "我們的防火牆",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "我們目前正在為合作計劃作準備。任何人都有潛質。 Twitch應至少有500個關注者和至少10個觀眾。 您必須每周至少直播1次。",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "立即申請吧！",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "讓我們一起合作",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "如果您對PreMiD的工作很感興趣，請查看我們的**宣傳單張**。",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "贊助者",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "沒有這些出色的人，PreMiD是不可能成功的。",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "那就是你看動漫的方式。",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings是一款新時代，具有快節奏，以及可以在瀏覽器中遊玩的PvP競技場遊戲。",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio是德國，奧地利和瑞士最成功的模擬遊戲信息的娛樂廣播！",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "使用我們超棒的模板来創建您自己的社區,建立您自己的王國.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "taiga是一個Discord 機器人,它盡量一次提供所有你可能需要的功能.",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.bitRock": {
-		"message": "一個功能強大且易於使用的跨平台安裝程序創建工具。",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "輕鬆將實時狀態傳達給用戶。",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "一個好玩的Discord Bot機器人!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "REYFM讓您免費收聽高達十五種的音樂 - 不間斷。只為您提供最好的和最新的音樂!",
-		"description": "Description for REYFM."
-	},
-	"partners.partner.crowdin": {
-		"message": "針對科技公司實現敏捷本地化。",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "最強大和可擴展的開源Wiki軟件。",
-		"description": "Description for WikiJS."
-	},
-	"partners.partner.packageCloud": {
-		"message": "為您所有的工件提供一個統一友好的界面。",
-		"description": "Description for PackageCloud."
-	},
-	"partners.partner.fastly": {
-		"message": "最棒網站的背後",
-		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit是您的音樂電台，24小時不間斷播放您最喜愛的歌曲，讓您第一時間發現未來的熱門歌曲。",
-		"description": "Description for OnlyHit."
-	},
-	"partners.partner.rNetflix": {
-		"message": "r/Netflix 是最大的與 Netflix 相關的 Discord 服務器。 您可以在這裡與志同道合的人討論您最喜歡的電影",
-		"description": "Description for r/Netflix."
-	},
-	"partners.apply.title": {
-		"message": "申請為合作夥伴",
-		"description": "Partnership application modal title."
-	},
-	"partners.apply.loggedUser": {
-		"message": "以 {0} 登入",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "不是你嗎？",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "請選擇其中一個",
-		"description": "Select default placeholder."
-	},
-	"partners.apply.select.website": {
-		"message": "網站",
-		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "其它",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "名稱",
-		"description": "Name filed."
-	},
-	"partners.apply.form.name.placeholder": {
-		"message": "例子: PreMiD",
-		"description": "Name field's placeholder."
-	},
-	"partners.apply.form.link": {
-		"message": "連結",
-		"description": "Link field."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "例子: https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.description": {
-		"message": "描述:(最多150個字符)",
-		"description": "Description field."
-	},
-	"partners.apply.form.description.placeholder": {
-		"message": "特點説明",
-		"description": "Description field's placeholder."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "圖片鏈接:(550*300, 只允許PNG)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "例子: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.close": {
-		"message": "關閉",
-		"description": "Modal close button."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "確定",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "感謝您的申請!",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error1": {
-		"message": "請填寫所有的欄位.",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error2": {
-		"message": "最多150個字符的描述。",
-		"description": "Error when description exceeds character limit."
-	},
-	"partners.apply.error3": {
-		"message": "請添加鏈接(必須以https://開頭及以.png結尾)",
-		"description": "Error when image link is entered wrong."
-	},
-	"partners.apply.error4": {
-		"message": "您已經多於一次申請合作夥伴",
-		"description": "Error when already applied."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "立即申請吧！"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "讓我們一起合作"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "請填寫所有的欄位."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "最多150個字符的描述。"
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "請添加鏈接(必須以https://開頭及以.png結尾)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "您已經多於一次申請合作夥伴"
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "確定"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "關閉"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "描述:(最多150個字符)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "特點説明"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "圖片鏈接:(550*300, 只允許PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "例子: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "連結"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "例子: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "名稱"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "例子: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "如果您對PreMiD的工作很感興趣，請查看我們的**宣傳單張**。"
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "以 {0} 登入"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "不是你嗎？"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "請選擇其中一個"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "其它"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "網站"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "感謝您的申請!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "申請為合作夥伴"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "加入我們家族，並獲取一些只有合作夥伴才能擁有的好處，以炫耀您貢獻量。"
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "合作夥伴"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "那就是你看動漫的方式。"
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena of Kings是一款新時代，具有快節奏，以及可以在瀏覽器中遊玩的PvP競技場遊戲。"
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "一個功能強大且易於使用的跨平台安裝程序創建工具。"
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "針對科技公司實現敏捷本地化。"
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "使用我們超棒的模板来創建您自己的社區,建立您自己的王國."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "一個好玩的Discord Bot機器人!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "最棒網站的背後"
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit是您的音樂電台，24小時不間斷播放您最喜愛的歌曲，讓您第一時間發現未來的熱門歌曲。"
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "為您所有的工件提供一個統一友好的界面。"
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix 是最大的與 Netflix 相關的 Discord 服務器。 您可以在這裡與志同道合的人討論您最喜歡的電影"
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM讓您免費收聽高達十五種的音樂 - 不間斷。只為您提供最好的和最新的音樂!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio是德國，奧地利和瑞士最成功的模擬遊戲信息的娛樂廣播！"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "輕鬆將實時狀態傳達給用戶。"
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga是一個Discord 機器人,它盡量一次提供所有你可能需要的功能."
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "最強大和可擴展的開源Wiki軟件。"
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "我們時刻關注不斷增長的社區和互聯網上令人興奮的事物。 TL; DR，您應該使用PreMiD，並準備將其傳播到更多的互聯網狂人們。 對該計劃的接受是非常定性的，並且從一個候選人到下一個候選人都會有所不同。"
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "我們需要什麼？"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "我們目前正在為合作計劃作準備。任何人都有潛質。 Twitch應至少有500個關注者和至少10個觀眾。 您必須每周至少直播1次。"
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "我們的防火牆"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "前置需求"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "以下的人/公司為我們貢獻了很多"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "沒有這些出色的人，PreMiD是不可能成功的。"
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "贊助者"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "我們的團隊將為您的服務創建一個 Presence"
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "你專屬的 presence"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "在我們的Discord服務器中，您將獲得特殊的用户组和榮譽。"
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "成為已驗證的用户吧"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "當有人訪問您的網站時會自動下載和​​啟用您的狀態。"
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "你將會在贊助人員榜上有名"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "属于我們合作夥伴的一個專屬地方"
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "永久性"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "刊登在我們的社交媒體上。"
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "成為大人物"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "為我們貢獻一下 何樂而不為？"
+  }
 }

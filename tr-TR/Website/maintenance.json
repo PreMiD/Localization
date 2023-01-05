@@ -1,26 +1,26 @@
 {
-	"maintenance.big": {
-		"message": "Olamaz!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Maalesef bazı teknik sorunlar yaşıyoruz. En kısa zamanda yeniden aktif olacağız. Verdiğimiz rahatsızlıktan dolayı özür dileriz.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Lütfen güncellemeler için takipte kalın.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "Mükemmel geliştiricilerimizin bu durumu düzelteceğine eminiz, buraya istediğiniz zaman göz atabilirsiniz!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "Durum Sayfası",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discord Sunucusu",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "Olamaz!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discord Sunucusu"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Maalesef bazı teknik sorunlar yaşıyoruz. En kısa zamanda yeniden aktif olacağız. Verdiğimiz rahatsızlıktan dolayı özür dileriz."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Lütfen güncellemeler için takipte kalın."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Mükemmel geliştiricilerimizin bu durumu düzelteceğine eminiz, buraya istediğiniz zaman göz atabilirsiniz!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Durum Sayfası"
+  }
 }

@@ -1,50 +1,50 @@
 {
-  "extension.2.0.new1": {
-    "message": "ผู้ใช้งานสามารถเพิ่ม Presence ได้ด้วยตัวเอง\n[ติดตั้งเดี๋ยวนี้!]",
-    "description": ""
-  },
-  "extension.2.0.new2": {
-    "message": "คุณสามารถดู [Presences มาใหม่] ได้ ที่นี่",
-    "description": ""
-  },
-  "extension.2.0.new3": {
-    "message": "ระบบอัปเดตอัตโนมัติ",
-    "description": ""
-  },
-  "extension.2.0.new4": {
-    "message": "ตอนนี้ผู้ใช้สามารถสร้าง Presence ได้เองแล้ว",
-    "description": ""
-  },
-  "extension.2.0.new5": {
-    "message": "*เอกสาร* สำหรับผู้พัฒนา",
-    "description": ""
-  },
-  "extension.2.0.new6": {
-    "message": "ออกแบบเว็บไซต์ใหม่ทั้งหมด",
-    "description": ""
-  },
-  "extension.2.0.new7": {
-    "message": "ฟีเจอร์อีกมากมายของ Discord-Bot",
-    "description": ""
-  },
-  "extension.2.0.new8": {
-    "message": "API ใหม่ของเราเร็วมาก",
-    "description": ""
+  "extension.2.0.1.fix1": {
+    "description": "",
+    "message": "แก้ไขข้อผิดพลาดแอปเก่าแม้ว่าคุณจะมีแอปล่าสุด"
   },
   "extension.2.0.change1": {
-    "message": "ปรับปรุงป็อปอัปและหน้าแท็บ",
-    "description": ""
+    "description": "",
+    "message": "ปรับปรุงป็อปอัปและหน้าแท็บ"
   },
   "extension.2.0.fix1": {
-    "message": "บัคนับร้อยได้ยอมศิโรราบต่อเราแล้ว",
-    "description": ""
+    "description": "",
+    "message": "บัคนับร้อยได้ยอมศิโรราบต่อเราแล้ว"
   },
   "extension.2.0.fix2": {
-    "message": "ทุกอย่างทำงานได้เร็วกว่าเดิม",
-    "description": ""
+    "description": "",
+    "message": "ทุกอย่างทำงานได้เร็วกว่าเดิม"
   },
-  "extension.2.0.1.fix1": {
-    "message": "แก้ไขข้อผิดพลาดแอปเก่าแม้ว่าคุณจะมีแอปล่าสุด",
-    "description": ""
+  "extension.2.0.new1": {
+    "description": "",
+    "message": "ผู้ใช้งานสามารถเพิ่ม Presence ได้ด้วยตัวเอง\n[ติดตั้งเดี๋ยวนี้!]"
+  },
+  "extension.2.0.new2": {
+    "description": "",
+    "message": "คุณสามารถดู [Presences มาใหม่] ได้ ที่นี่"
+  },
+  "extension.2.0.new3": {
+    "description": "",
+    "message": "ระบบอัปเดตอัตโนมัติ"
+  },
+  "extension.2.0.new4": {
+    "description": "",
+    "message": "ตอนนี้ผู้ใช้สามารถสร้าง Presence ได้เองแล้ว"
+  },
+  "extension.2.0.new5": {
+    "description": "",
+    "message": "*เอกสาร* สำหรับผู้พัฒนา"
+  },
+  "extension.2.0.new6": {
+    "description": "",
+    "message": "ออกแบบเว็บไซต์ใหม่ทั้งหมด"
+  },
+  "extension.2.0.new7": {
+    "description": "",
+    "message": "ฟีเจอร์อีกมากมายของ Discord-Bot"
+  },
+  "extension.2.0.new8": {
+    "description": "",
+    "message": "API ใหม่ของเราเร็วมาก"
   }
 }

@@ -1,98 +1,98 @@
 {
-	"store.message.error": {
-		"message": "Razširitev ni povezana.",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
-	},
-	"store.cards.creator": {
-		"message": "Avtor",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "Ta Dodatek je zelo popularen med uporabnikih.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.partner": {
-		"message": "Partnerski Dodatek",
-		"description": "Presence card partner flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "Ta dodatek zahteva več korakov, prosimo preverite njegovo stran za več informacij.",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.header.search": {
-		"message": "Išči Dodatek",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Dodaj Dodatek",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Odstrani Dodatek",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "Ta Dodatek se samodejno vklopi, ko obiščite njegovo stran.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Filtri",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Najbolj uporabno prvo",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Prikaži NSFW (R18)",
-		"description": "Adult content checkbox"
-	},
-	"store.category.filters.likedOnly": {
-		"message": "Samo všečkani Dodatki",
-		"description": "Liked presences only checkbox"
-	},
-	"store.filters.added": {
-		"message": "Pokaži dodane Dodatke",
-		"description": "Store filter to display/not display already installed presences."
-	},
-	"store.category.heading": {
-		"message": "Kategorije",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "Vse",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Igre",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Glasba",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Družabno",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Videoposnetki in prenosi v živo",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Drugo",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Išči",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "Vnesi",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "Kliknite, če želite odstraniti filter",
-		"description": "Remove message for active search filters."
-	}
+  "store.card.presence.add": {
+    "description": "Button that will appear on hover after extension is installed.",
+    "message": "Dodaj Dodatek"
+  },
+  "store.card.presence.included": {
+    "description": "The message that appears instead of the buttons.",
+    "message": "Ta Dodatek se samodejno vklopi, ko obiščite njegovo stran."
+  },
+  "store.card.presence.remove": {
+    "description": "Button that will appear on hover after extension and presence is installed.",
+    "message": "Odstrani Dodatek"
+  },
+  "store.cards.creator": {
+    "description": "Creator of a presence",
+    "message": "Avtor"
+  },
+  "store.cards.extraStepsRequired": {
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
+    "message": "Ta dodatek zahteva več korakov, prosimo preverite njegovo stran za več informacij."
+  },
+  "store.cards.partner": {
+    "description": "Presence card partner flame",
+    "message": "Partnerski Dodatek"
+  },
+  "store.cards.popular": {
+    "description": "Presence card popular flame",
+    "message": "Ta Dodatek je zelo popularen med uporabnikih."
+  },
+  "store.category.all": {
+    "description": "Category at the top",
+    "message": "Vse"
+  },
+  "store.category.filters.allowAdult": {
+    "description": "Adult content checkbox",
+    "message": "Prikaži NSFW (R18)"
+  },
+  "store.category.filters.heading": {
+    "description": "Searh filters option at the store page",
+    "message": "Filtri"
+  },
+  "store.category.filters.likedOnly": {
+    "description": "Liked presences only checkbox",
+    "message": "Samo všečkani Dodatki"
+  },
+  "store.category.filters.mostUsed": {
+    "description": "Most used first checkbox",
+    "message": "Najbolj uporabno prvo"
+  },
+  "store.category.games": {
+    "description": "Category at the top",
+    "message": "Igre"
+  },
+  "store.category.heading": {
+    "description": "Category heading",
+    "message": "Kategorije"
+  },
+  "store.category.music": {
+    "description": "Category at the top",
+    "message": "Glasba"
+  },
+  "store.category.other": {
+    "description": "Category at the top",
+    "message": "Drugo"
+  },
+  "store.category.socials": {
+    "description": "Category at the top",
+    "message": "Družabno"
+  },
+  "store.category.videos": {
+    "description": "Category at the top",
+    "message": "Videoposnetki in prenosi v živo"
+  },
+  "store.filters.added": {
+    "description": "Store filter to display/not display already installed presences.",
+    "message": "Pokaži dodane Dodatke"
+  },
+  "store.header.search": {
+    "description": "Search bar text when nothing is stated",
+    "message": "Išči Dodatek"
+  },
+  "store.message.error": {
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
+    "message": "Razširitev ni povezana."
+  },
+  "store.search": {
+    "description": "Placeholder for presence search",
+    "message": "Išči"
+  },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "Vnesi"
+  },
+  "store.search.removeFilter": {
+    "description": "Remove message for active search filters.",
+    "message": "Kliknite, če želite odstraniti filter"
+  }
 }

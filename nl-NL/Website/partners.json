@@ -1,246 +1,246 @@
 {
-	"partners.header.title": {
-		"message": "Partners",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Word lid van de familie en krijg exclusieve partnervoordelen om te laten zien hoeveel swag je hebt.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Deze horen al bij ons",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "Zullen we in de hemel gaan in plaats van de hel?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Jouw gratis presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Ons team zal je voorzien van een presence van je service.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Word geverifieerd",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "Een speciale rol en een grote eer zullen aan u worden gegeven in onze Discord server.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Meta-tag integratie",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Zet je presence automatisch aan wanneer iemand je website bezoekt.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Word onsterfelijk",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "Een vervelende plek op onze partnerpagina.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Wees beroemd",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Aanbevolen op onze sociale media.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Vereisten",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Waar zijn wij naar opzoek?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "We houden oog voor groeiende communities en opwindende dingen op internet. TL;DR je zou PreMiD al moeten gebruiken en klaar zijn om het te verspreiden naar nog meer internetfreaks. Acceptatie in het programma is uiterst kwalitatief en varieert van kandidaat tot kandidaat.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Onze firewall",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "We accepteren momenteel verschillende soorten inspanningen in ons partnerschapsprogramma. Iedereen moet de kans krijgen om opgemerkt te worden. Twitch-broadcasts moeten ten minste 500 volgers en ten minste 10 kijkers hebben. Je moet ten minste 1 keer per week streamen.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Nu solliciteren!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Laten we samen naar de hemel gaan!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Als u eerder geïnteresseerd bent in een directe baan bij PreMiD, neem dan een kijkje op onze **vacatureadvertentie**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "Sponsoren",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD zou niet mogelijk zijn, zonder deze geweldige mensen.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "Zo kijk je naar anime.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings is een next-gen, snelle PvP Arena Game gespeeld in de browser.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.upBeat": {
-		"message": "UpBeat Radio is een community-aangedreven online radio, die 24/7 reclamevrij radio-entertainment, dagelijkse nieuwsartikelen en nog veel meer biedt!",
-		"description": "Description for UpBeatRadio."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio is de meest succesvolle infotainment-radio voor simulatiespelletjes in Duitsland, Oostenrijk en Zwitserland!",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "Begin je eigen community met onze geweldige templates. Bouw je eigen koninkrijk.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "taiga is een Discord Bot die probeert alle functies aan te bieden die je mogelijk in één keer nodig hebt!",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.bitRock": {
-		"message": "Een krachtig en eenvoudig te gebruiken platform installatietool voor de creatie van platformen.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Eenvoudig real-time status te communiceren aan je gebruikers.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "Een godin die als een leuke Discord bot speelt!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "REYFM laat je gratis naar 15+ muziek streams luisteren - non-stop. Met de beste en nieuwste muziek alleen voor jou!",
-		"description": "Description for REYFM."
-	},
-	"partners.partner.crowdin": {
-		"message": "Agile lokalisatie voor technologiebedrijven.",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "De krachtigste en uitbreidbare open source Wiki software.",
-		"description": "Description for WikiJS."
-	},
-	"partners.partner.packageCloud": {
-		"message": "Een verenigde, ontwikkelaarsvriendelijke interface voor al je artefacten.",
-		"description": "Description for PackageCloud."
-	},
-	"partners.partner.fastly": {
-		"message": "Achter het beste van het web.",
-		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHot is jouw online muziek radiostation, gemaakt om je de beste hits 24/7 af te spelen en om je als eerste de toekomstige hits te laten ontdekken.",
-		"description": "Description for OnlyHit."
-	},
-	"partners.partner.rNetflix": {
-		"message": "r/Netflix is de grootste Netflix-gerelateerde Discord-server. Bespreek je favoriete series of films hier met mensen die er hetzelfde over denken.",
-		"description": "Description for r/Netflix."
-	},
-	"partners.apply.title": {
-		"message": "Solliciteer voor partner",
-		"description": "Partnership application modal title."
-	},
-	"partners.apply.loggedUser": {
-		"message": "Aangemeld als {0}",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "Ben jij dit niet?",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "Selecteer a. u. b. één",
-		"description": "Select default placeholder."
-	},
-	"partners.apply.select.website": {
-		"message": "Website",
-		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Overige",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Naam",
-		"description": "Name filed."
-	},
-	"partners.apply.form.name.placeholder": {
-		"message": "Bijv.: PreMiD",
-		"description": "Name field's placeholder."
-	},
-	"partners.apply.form.link": {
-		"message": "Link",
-		"description": "Link field."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "Bijv.: https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.description": {
-		"message": "Beschrijving: (maximaal 150 tekens)",
-		"description": "Description field."
-	},
-	"partners.apply.form.description.placeholder": {
-		"message": "Beschrijving voor featured",
-		"description": "Description field's placeholder."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "Afbeeldingslink: (550x300, alleen PNG)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "Bijv.: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.close": {
-		"message": "Sluit",
-		"description": "Modal close button."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "Solliciteren",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Bedankt voor je aanvraag!",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error1": {
-		"message": "Vul alstublieft alle velden in.",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error2": {
-		"message": "Maximaal 150 tekens beschrijving.",
-		"description": "Error when description exceeds character limit."
-	},
-	"partners.apply.error3": {
-		"message": "Voeg een link toe (moet beginnen met https:// en eindigen met .png)",
-		"description": "Error when image link is entered wrong."
-	},
-	"partners.apply.error4": {
-		"message": "Je hebt al een verzoek ingediend voor partner.",
-		"description": "Error when already applied."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Nu solliciteren!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Laten we samen naar de hemel gaan!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Vul alstublieft alle velden in."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Maximaal 150 tekens beschrijving."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Voeg een link toe (moet beginnen met https:// en eindigen met .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Je hebt al een verzoek ingediend voor partner."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Solliciteren"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Sluit"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Beschrijving: (maximaal 150 tekens)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Beschrijving voor featured"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Afbeeldingslink: (550x300, alleen PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Bijv.: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Link"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Bijv.: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Naam"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Bijv.: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Als u eerder geïnteresseerd bent in een directe baan bij PreMiD, neem dan een kijkje op onze **vacatureadvertentie**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Aangemeld als {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Ben jij dit niet?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Selecteer a. u. b. één"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Overige"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Website"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Bedankt voor je aanvraag!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Solliciteer voor partner"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Word lid van de familie en krijg exclusieve partnervoordelen om te laten zien hoeveel swag je hebt."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Partners"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Zo kijk je naar anime."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena of Kings is een next-gen, snelle PvP Arena Game gespeeld in de browser."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Een krachtig en eenvoudig te gebruiken platform installatietool voor de creatie van platformen."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Agile lokalisatie voor technologiebedrijven."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Begin je eigen community met onze geweldige templates. Bouw je eigen koninkrijk."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Een godin die als een leuke Discord bot speelt!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "Achter het beste van het web."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHot is jouw online muziek radiostation, gemaakt om je de beste hits 24/7 af te spelen en om je als eerste de toekomstige hits te laten ontdekken."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "Een verenigde, ontwikkelaarsvriendelijke interface voor al je artefacten."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix is de grootste Netflix-gerelateerde Discord-server. Bespreek je favoriete series of films hier met mensen die er hetzelfde over denken."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM laat je gratis naar 15+ muziek streams luisteren - non-stop. Met de beste en nieuwste muziek alleen voor jou!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio is de meest succesvolle infotainment-radio voor simulatiespelletjes in Duitsland, Oostenrijk en Zwitserland!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Eenvoudig real-time status te communiceren aan je gebruikers."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga is een Discord Bot die probeert alle functies aan te bieden die je mogelijk in één keer nodig hebt!"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio is een community-aangedreven online radio, die 24/7 reclamevrij radio-entertainment, dagelijkse nieuwsartikelen en nog veel meer biedt!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "De krachtigste en uitbreidbare open source Wiki software."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "We houden oog voor groeiende communities en opwindende dingen op internet. TL;DR je zou PreMiD al moeten gebruiken en klaar zijn om het te verspreiden naar nog meer internetfreaks. Acceptatie in het programma is uiterst kwalitatief en varieert van kandidaat tot kandidaat."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Waar zijn wij naar opzoek?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "We accepteren momenteel verschillende soorten inspanningen in ons partnerschapsprogramma. Iedereen moet de kans krijgen om opgemerkt te worden. Twitch-broadcasts moeten ten minste 500 volgers en ten minste 10 kijkers hebben. Je moet ten minste 1 keer per week streamen."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Onze firewall"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Vereisten"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Deze horen al bij ons"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "PreMiD zou niet mogelijk zijn, zonder deze geweldige mensen."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Sponsoren"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Ons team zal je voorzien van een presence van je service."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Jouw gratis presence"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Een speciale rol en een grote eer zullen aan u worden gegeven in onze Discord server."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Word geverifieerd"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Zet je presence automatisch aan wanneer iemand je website bezoekt."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Meta-tag integratie"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Een vervelende plek op onze partnerpagina."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Word onsterfelijk"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Aanbevolen op onze sociale media."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Wees beroemd"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "Zullen we in de hemel gaan in plaats van de hel?"
+  }
 }

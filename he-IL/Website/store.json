@@ -1,38 +1,38 @@
 {
-	"store.cards.creator": {
-		"message": "מחבר",
-		"description": "Creator of a presence"
-	},
-	"store.category.heading": {
-		"message": "קטגוריות",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "הכל",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "משחקים",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "מוזיקה",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "חברתי",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "סרטונים & שידורים",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "אחר",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "חיפוש",
-		"description": "Placeholder for presence search"
-	}
+  "store.cards.creator": {
+    "description": "Creator of a presence",
+    "message": "מחבר"
+  },
+  "store.category.all": {
+    "description": "Category at the top",
+    "message": "הכל"
+  },
+  "store.category.games": {
+    "description": "Category at the top",
+    "message": "משחקים"
+  },
+  "store.category.heading": {
+    "description": "Category heading",
+    "message": "קטגוריות"
+  },
+  "store.category.music": {
+    "description": "Category at the top",
+    "message": "מוזיקה"
+  },
+  "store.category.other": {
+    "description": "Category at the top",
+    "message": "אחר"
+  },
+  "store.category.socials": {
+    "description": "Category at the top",
+    "message": "חברתי"
+  },
+  "store.category.videos": {
+    "description": "Category at the top",
+    "message": "סרטונים & שידורים"
+  },
+  "store.search": {
+    "description": "Placeholder for presence search",
+    "message": "חיפוש"
+  }
 }

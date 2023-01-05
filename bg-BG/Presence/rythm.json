@@ -1,22 +1,22 @@
 {
-    "rythm.openDashboard": {
-        "message": "Отвори таблото",
-        "description": "Button for opening the web dashboard."
-    },
-    "rythm.inviteBot": {
-        "message": "Покани бота",
-        "description": "Button for inviting the bot."
-    },
-    "rythm.djs": {
-        "message": "DJ-и: {0}",
-        "description": "{0} will be replaced with the amount of users with DJ permissions."
-    },
-    "rythm.users": {
-        "message": "Потребители: {0}",
-        "description": "{0} will be replaced with the amount of normal users."
-    },
-    "rythm.requestedBy": {
-        "message": "Поискано от: {0}",
-        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
-    }
+  "rythm.djs": {
+    "description": "{0} will be replaced with the amount of users with DJ permissions.",
+    "message": "DJ-и: {0}"
+  },
+  "rythm.inviteBot": {
+    "description": "Button for inviting the bot.",
+    "message": "Покани бота"
+  },
+  "rythm.openDashboard": {
+    "description": "Button for opening the web dashboard.",
+    "message": "Отвори таблото"
+  },
+  "rythm.requestedBy": {
+    "description": "{0} will be replaced with the name of the user who requested the currently playing song.",
+    "message": "Поискано от: {0}"
+  },
+  "rythm.users": {
+    "description": "{0} will be replaced with the amount of normal users.",
+    "message": "Потребители: {0}"
+  }
 }

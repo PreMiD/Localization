@@ -1,38 +1,38 @@
 {
-	"user.roles.presenceDeveloper": {
-		"message": "Presence 开发者",
-		"description": "'Presence Developer' title for user pages."
-	},
-	"user.roles.presenceVerifier": {
-		"message": "Presence 审核人员",
-		"description": "'Presence Verifier' title for user pages."
-	},
-	"user.importantPresenceDev.message1": {
-		"message": "主要 Presence 开发者",
-		"description": "'Important Presence Developer' tippy description for user pages."
-	},
-	"user.importantPresenceDev.message2": {
-		"message": "已创建 {0} Presences。",
-		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.geniusPresenceDev.message1": {
-		"message": "Presence 活跃开发者",
-		"description": "'Genuis Presence Developer' tippy description for user pages."
-	},
-	"user.geniusPresenceDev.message2": {
-		"message": "开发超过100个Presence！",
-		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.switch.contributed": {
-		"message": "用户的 [Presences/贡献]",
-		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
-	},
-	"user.presences.created": {
-		"message": "显示该用户开发的所有 Presence",
-		"description": "Tippy content in user profile."
-	},
-	"user.presences.contributed": {
-		"message": "显示该用户参与开发的所有 Presence",
-		"description": "Tippy content (mode 2) in user profile."
-	}
+  "user.geniusPresenceDev.message1": {
+    "description": "'Genuis Presence Developer' tippy description for user pages.",
+    "message": "Presence 活跃开发者"
+  },
+  "user.geniusPresenceDev.message2": {
+    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "开发超过100个Presence！"
+  },
+  "user.importantPresenceDev.message1": {
+    "description": "'Important Presence Developer' tippy description for user pages.",
+    "message": "主要 Presence 开发者"
+  },
+  "user.importantPresenceDev.message2": {
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "已创建 {0} Presences。"
+  },
+  "user.presences.contributed": {
+    "description": "Tippy content (mode 2) in user profile.",
+    "message": "显示该用户参与开发的所有 Presence"
+  },
+  "user.presences.created": {
+    "description": "Tippy content in user profile.",
+    "message": "显示该用户开发的所有 Presence"
+  },
+  "user.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for user pages.",
+    "message": "Presence 开发者"
+  },
+  "user.roles.presenceVerifier": {
+    "description": "'Presence Verifier' title for user pages.",
+    "message": "Presence 审核人员"
+  },
+  "user.switch.contributed": {
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
+    "message": "用户的 [Presences/贡献]"
+  }
 }

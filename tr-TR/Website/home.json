@@ -1,90 +1,90 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD**, Discord oynuyor yerinizde internet sitelerinde neler yaptığınızı gösterebileceğiniz ayarlanabilir bir araçtır.",
-		"description": "First phrase that users read on our website"
-	},
-	"home.introduction.button.features": {
-		"message": "Özellikler",
-		"description": "Introduction button"
-	},
-	"home.introduction.button.downloads": {
-		"message": "İndir",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
-	"home.examples.playingagame": {
-		"message": "Bir oyun oynuyor",
-		"description": "Discord Rich Presence -> Playing a game"
-	},
-	"home.examples.timestamp": {
-		"message": "{0} kaldı",
-		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.timestamp2": {
-		"message": "{0} geçti",
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "Oynatılıyor",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "Canlı",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Göz atıyor...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.features.heading": {
-		"message": "Bu özelliklere bayılacaksınız!",
-		"description": "Features section"
-	},
-	"home.features.presencesystem.heading": {
-		"message": "**Aradığınız** servisi bulun",
-		"description": "Features section subheading"
-	},
-	"home.features.presencesystem.description": {
-		"message": "Eklentimizi, kullanıcıların kendi istedikleri servisleri ekleyebileceği ve yönetebileceği bir sistem üzerine kurduk!",
-		"description": "Features section description"
-	},
-	"home.features.presencesystem.button": {
-		"message": "Mağazaya git",
-		"description": "Features section button"
-	},
-	"home.features.simpleInterface.heading": {
-		"message": "Basit arayüz",
-		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description": {
-		"message": "Karmaşık kullanıcı arayüzlerinden bıktınız mı? Bu nedenle, kullanıcı arayüzümüzü aşağıdaki gibi önemli özelliklerle mümkün olduğunca basit ve kullanışlı tutmaya ve tutmaya çalıştık:",
-		"description": "Features section description"
-	},
-	"home.features.simpleInterface.description.1": {
-		"message": "Uygulama ve Eklenti ayarları",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.2": {
-		"message": "Servis yönetimi",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Kategoriye göre sırala",
-		"description": "Features section description point"
-	},
-	"home.features.quickSupport.heading": {
-		"message": "Hızlı destek",
-		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.description": {
-		"message": "Bir şeyler aksatılıyor, size tonlarca hata gönderiyor veya basitçe çalışmıyor mu? Discord sunucumuzda bu sorunlardan kurtulmanıza yardımcı olacağız, ayrıca sorunun en kısa sürede çözülmesini sağlayacak kendi destek sistemimizi oluşturduk.",
-		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Discord'umuza Katıl",
-		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Site dili",
-		"description": "Tippy content of the language selector."
-	}
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "Bir oyun oynuyor"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Göz atıyor..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Canlı"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Oynatılıyor"
+  },
+  "home.examples.timestamp": {
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} kaldı"
+  },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} geçti"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "Bu özelliklere bayılacaksınız!"
+  },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "Mağazaya git"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "Eklentimizi, kullanıcıların kendi istedikleri servisleri ekleyebileceği ve yönetebileceği bir sistem üzerine kurduk!"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "**Aradığınız** servisi bulun"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "Discord'umuza Katıl"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "Bir şeyler aksatılıyor, size tonlarca hata gönderiyor veya basitçe çalışmıyor mu? Discord sunucumuzda bu sorunlardan kurtulmanıza yardımcı olacağız, ayrıca sorunun en kısa sürede çözülmesini sağlayacak kendi destek sistemimizi oluşturduk."
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "Hızlı destek"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "Karmaşık kullanıcı arayüzlerinden bıktınız mı? Bu nedenle, kullanıcı arayüzümüzü aşağıdaki gibi önemli özelliklerle mümkün olduğunca basit ve kullanışlı tutmaya ve tutmaya çalıştık:"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "Uygulama ve Eklenti ayarları"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "Servis yönetimi"
+  },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "Kategoriye göre sırala"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "Basit arayüz"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "İndir"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "Özellikler"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "**PreMiD**, Discord oynuyor yerinizde internet sitelerinde neler yaptığınızı gösterebileceğiniz ayarlanabilir bir araçtır."
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "Site dili"
+  }
 }

@@ -1,14 +1,14 @@
 {
-	"partners.header.title": {
-		"message": "Συνεργάτες",
-		"description": "Heading for page."
-	},
-	"partners.partner.rNetflix": {
-		"message": "r/Netflix είναι ο μεγαλύτερος διακομιστής Discord που σχετίζεται με το Netflix. Συζητήστε για τις αγαπημένες σας σειρές ή ταινίες με ομοϊδεάτες ανθρώπους εδώ.",
-		"description": "Description for r/Netflix."
-	},
-	"partners.apply.select.other": {
-		"message": "Άλλα",
-		"description": "Select 'Other' category."
-	}
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Άλλα"
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Συνεργάτες"
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix είναι ο μεγαλύτερος διακομιστής Discord που σχετίζεται με το Netflix. Συζητήστε για τις αγαπημένες σας σειρές ή ταινίες με ομοϊδεάτες ανθρώπους εδώ."
+  }
 }

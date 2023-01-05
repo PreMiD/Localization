@@ -1,242 +1,242 @@
 {
-	"partners.header.title": {
-		"message": "Partneri",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Pievienojies ģimenei un iegūsti tikai partneriem paredzētas priekšrocības, lai parādītu cik daudz preces tev ir.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Šie jau pieder mums",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "Kā būtu ar došanos debesīs elles vietā?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Tava bezmaksas Presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Mūsu komanda nodrošinās jūsu pakalpojuma Presence.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Kļūstiet verificēts",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "Īpaša loma un liels gods jums tiks piešķirts mūsu Discord serverī.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Meta-tag integrācija",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Automātiski izmanto jūsu Presence, kad kāds apmeklē jūsu Vietni.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Tiec iemūžināts",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "Šķebinoša vieta mūsu partneru lapā.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Esi slavens",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Piedāvāts mūsu sociālajos mēdijos.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Prasības",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Ko mēs meklējam?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "Mēs sekojam līdzi augošajām kopienām un aizraujošajām lietām internetā. TL;DR jums jau vajadzētu izmantot PreMiD un būt gatavam to izplatīt vēl vairāk interneta ķēmiem. Pieņemšana programma ir ārkārtīgi kvalitatīva, un ta katram kandidātam būs atšķirīga.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Mūsu ugunsmūris",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "Pašlaik mēs pieņemam dažāda veida centienus mūsu partnerības programmā. Ikvienam vajadzētu būt iespējai tikt pamanītam. Twitch raidītājiem vajadzētu būt vismaz 500 sekotāju un vismaz 10 skatītāju vienlaikus. Jums jāstraumē vismaz 1 reizi nedēļā.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Piesakies tagad!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Ejam kopā uz debesīm!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Ja jūs drīzāk interesē tiešs darbs PreMiD, ieskatieties mūsu **darba sludinājumos**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "Sponsori",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD nebūtu iespējams bez šiem apbrīnojamajiem cilvēkiem.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "Tā jūs skatāties anime.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings ir nākamās paaudzes ātrā PvP Arena spēle, kas tiek spēlēta pārlūkprogrammā.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio ir visveiksmīgākais informācijas un izklaides radio simulācijas spēlēm Vācijā, Austrijā un Šveicē!",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "Sāciet veidot savu kopienu, izmantojot mūsu lieliskās veidnes. Veidojiet savu valstību.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "taiga ir Discord Robots, kas cenšas piedāvāt visas funkcijas, kuras jums nepieciešamas vienlaicīgi!",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.bitRock": {
-		"message": "Spēcīgs un viegli lietojams starpplatformu instalēšanas rīku izveides rīks.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Viegli paziņojiet lietotājiem reāllaika statusu.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "Dieviete, kas spēlējas, kā Discord Robots!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "REYFM ļauj jums klausīties 15+ mūzikas straumes bez maksas - bez apstājas. Ar labāko un jaunāko mūziku tikai jums!",
-		"description": "Description for REYFM."
-	},
-	"partners.partner.crowdin": {
-		"message": "Veikla lokalizācija priekš tehnoloģiju uzņēmumiem.",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "Visjaudīgākā un paplašināmā atvērtā koda Wiki programmatūra.",
-		"description": "Description for WikiJS."
-	},
-	"partners.partner.packageCloud": {
-		"message": "Vienots, izstrādātājiem draudzīgs interfeiss visiem jūsu artefaktiem.",
-		"description": "Description for PackageCloud."
-	},
-	"partners.partner.fastly": {
-		"message": "Aiz labākajām tīmekļa vietnēm.",
-		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit ir jūsu tiešsaistes mūzikas radiostacija, kas izveidota, lai atskaņotu jūsu labākos hitus visu diennakti un lai jūs pirmais atklātu savus nākotnes hitus.",
-		"description": "Description for OnlyHit."
-	},
-	"partners.partner.rNetflix": {
-		"message": "r/Netflix ir vislielākais Discord serveris, kas ir saistīts ar Netflix. Diskutē šeit par saviem mīļākajiem seriāliem vai filmām ar citiem līdzīgi domājošiem cilvēkiem.",
-		"description": "Description for r/Netflix."
-	},
-	"partners.apply.title": {
-		"message": "Piesakies par partneri",
-		"description": "Partnership application modal title."
-	},
-	"partners.apply.loggedUser": {
-		"message": "Pieslēdzies kā {0}",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "Ne Jūs?",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "Lūdzu izvēlieties vienu",
-		"description": "Select default placeholder."
-	},
-	"partners.apply.select.website": {
-		"message": "Mājaslapa",
-		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Cits",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Vārds",
-		"description": "Name filed."
-	},
-	"partners.apply.form.name.placeholder": {
-		"message": "Piemēram: PreMiD",
-		"description": "Name field's placeholder."
-	},
-	"partners.apply.form.link": {
-		"message": "Saite",
-		"description": "Link field."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "Piemēram: https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.description": {
-		"message": "Apraksts: (Maksimums 100 rakstzīmes)",
-		"description": "Description field."
-	},
-	"partners.apply.form.description.placeholder": {
-		"message": "Piedāvātā apraksts",
-		"description": "Description field's placeholder."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "Attēla saite: (550x300, tikai PNG)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "Piemēram: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.close": {
-		"message": "Aizvērt",
-		"description": "Modal close button."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "Pieteikties",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Paldies par pieteikšanos!",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error1": {
-		"message": "Lūdzu aizpildiet visus laukus.",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error2": {
-		"message": "Maksimums 150 rakstzīmju apraksts.",
-		"description": "Error when description exceeds character limit."
-	},
-	"partners.apply.error3": {
-		"message": "Lūdzu, pievienojiet saiti (jāsākas ar https: // un jābeidzas ar .png)",
-		"description": "Error when image link is entered wrong."
-	},
-	"partners.apply.error4": {
-		"message": "Jau esiet pieteicies par partneri.",
-		"description": "Error when already applied."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Piesakies tagad!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Ejam kopā uz debesīm!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Lūdzu aizpildiet visus laukus."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Maksimums 150 rakstzīmju apraksts."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Lūdzu, pievienojiet saiti (jāsākas ar https: // un jābeidzas ar .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Jau esiet pieteicies par partneri."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Pieteikties"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Aizvērt"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Apraksts: (Maksimums 100 rakstzīmes)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Piedāvātā apraksts"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Attēla saite: (550x300, tikai PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Piemēram: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Saite"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Piemēram: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Vārds"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Piemēram: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Ja jūs drīzāk interesē tiešs darbs PreMiD, ieskatieties mūsu **darba sludinājumos**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Pieslēdzies kā {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Ne Jūs?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Lūdzu izvēlieties vienu"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Cits"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Mājaslapa"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Paldies par pieteikšanos!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Piesakies par partneri"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Pievienojies ģimenei un iegūsti tikai partneriem paredzētas priekšrocības, lai parādītu cik daudz preces tev ir."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Partneri"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Tā jūs skatāties anime."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena of Kings ir nākamās paaudzes ātrā PvP Arena spēle, kas tiek spēlēta pārlūkprogrammā."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Spēcīgs un viegli lietojams starpplatformu instalēšanas rīku izveides rīks."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Veikla lokalizācija priekš tehnoloģiju uzņēmumiem."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Sāciet veidot savu kopienu, izmantojot mūsu lieliskās veidnes. Veidojiet savu valstību."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Dieviete, kas spēlējas, kā Discord Robots!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "Aiz labākajām tīmekļa vietnēm."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit ir jūsu tiešsaistes mūzikas radiostacija, kas izveidota, lai atskaņotu jūsu labākos hitus visu diennakti un lai jūs pirmais atklātu savus nākotnes hitus."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "Vienots, izstrādātājiem draudzīgs interfeiss visiem jūsu artefaktiem."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix ir vislielākais Discord serveris, kas ir saistīts ar Netflix. Diskutē šeit par saviem mīļākajiem seriāliem vai filmām ar citiem līdzīgi domājošiem cilvēkiem."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM ļauj jums klausīties 15+ mūzikas straumes bez maksas - bez apstājas. Ar labāko un jaunāko mūziku tikai jums!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio ir visveiksmīgākais informācijas un izklaides radio simulācijas spēlēm Vācijā, Austrijā un Šveicē!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Viegli paziņojiet lietotājiem reāllaika statusu."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga ir Discord Robots, kas cenšas piedāvāt visas funkcijas, kuras jums nepieciešamas vienlaicīgi!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "Visjaudīgākā un paplašināmā atvērtā koda Wiki programmatūra."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Mēs sekojam līdzi augošajām kopienām un aizraujošajām lietām internetā. TL;DR jums jau vajadzētu izmantot PreMiD un būt gatavam to izplatīt vēl vairāk interneta ķēmiem. Pieņemšana programma ir ārkārtīgi kvalitatīva, un ta katram kandidātam būs atšķirīga."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Ko mēs meklējam?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "Pašlaik mēs pieņemam dažāda veida centienus mūsu partnerības programmā. Ikvienam vajadzētu būt iespējai tikt pamanītam. Twitch raidītājiem vajadzētu būt vismaz 500 sekotāju un vismaz 10 skatītāju vienlaikus. Jums jāstraumē vismaz 1 reizi nedēļā."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Mūsu ugunsmūris"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Prasības"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Šie jau pieder mums"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "PreMiD nebūtu iespējams bez šiem apbrīnojamajiem cilvēkiem."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Sponsori"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Mūsu komanda nodrošinās jūsu pakalpojuma Presence."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Tava bezmaksas Presence"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Īpaša loma un liels gods jums tiks piešķirts mūsu Discord serverī."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Kļūstiet verificēts"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Automātiski izmanto jūsu Presence, kad kāds apmeklē jūsu Vietni."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Meta-tag integrācija"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Šķebinoša vieta mūsu partneru lapā."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Tiec iemūžināts"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Piedāvāts mūsu sociālajos mēdijos."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Esi slavens"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "Kā būtu ar došanos debesīs elles vietā?"
+  }
 }

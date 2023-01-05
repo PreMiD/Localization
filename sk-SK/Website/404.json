@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Ough! Malo by to vôbec existovať?",
-    "description": "Heading on 404 page"
+    "description": "Heading on 404 page",
+    "message": "Ough! Malo by to vôbec existovať?"
   },
   "404.message": {
-    "message": "Ľutujeme, vyzerá to že stránka ktorú chcete vidieť bola presunutá alebo odstránená alebo pravdepodobne nikdy neexistovala?",
-    "description": "Message on 404 page"
+    "description": "Message on 404 page",
+    "message": "Ľutujeme, vyzerá to že stránka ktorú chcete vidieť bola presunutá alebo odstránená alebo pravdepodobne nikdy neexistovala?"
   }
 }

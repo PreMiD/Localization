@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "Tiếng Việt",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "Chúng tôi có hỗ trợ ngôn ngữ của bạn, có muốn đổi không?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "Website của chúng tôi đã được dịch sang ngôn ngữ của bạn. Điều này có lẽ sẽ giúp đỡ rất nhiều với những người không giỏi tiếng Anh.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "Không, cảm ơn",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "Chuyển đổi ngôn ngữ",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "Đang nướng bánh...;Đang tải trang...;Phân tích địa chỉ IP của bạn...;UwU;Phá bỏ quy tắc...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "Cửa hàng",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Đóng góp"
   },
   "header.downloads": {
-    "message": "Tải về",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "Tải về"
   },
-  "header.contributors": {
-    "message": "Đóng góp",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "Tiếng Việt"
   },
-  "header.login": {
-    "message": "Đăng nhập",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Chuyển đổi ngôn ngữ"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Không, cảm ơn"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Website của chúng tôi đã được dịch sang ngôn ngữ của bạn. Điều này có lẽ sẽ giúp đỡ rất nhiều với những người không giỏi tiếng Anh."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Chúng tôi có hỗ trợ ngôn ngữ của bạn, có muốn đổi không?"
   },
   "header.lia": {
-    "message": "Đăng nhập với",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "Đăng nhập với"
   },
-  "header.rab": {
-    "message": "Báo lỗi",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Đang nướng bánh...;Đang tải trang...;Phân tích địa chỉ IP của bạn...;UwU;Phá bỏ quy tắc..."
   },
-  "header.staff": {
-    "message": "Bảng điều khiển",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "Đăng nhập"
   },
   "header.logout": {
-    "message": "Đăng xuất",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "Đăng xuất"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Báo lỗi"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Bảng điều khiển"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Cửa hàng"
   }
 }

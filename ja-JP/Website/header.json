@@ -1,42 +1,42 @@
 {
-  "header.language": {
-    "message": "日本語",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "このサイトは日本語に対応しています。切り替えますか？",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "このウェブサイトは日本語に翻訳されています。 英語があまり得意ではない場合は役に立つでしょう。",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "いいえ",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "言語を選択",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "パンケーキを焼いています…;荷物を運んでいます…;IPアドレスを解析しています…;（˘ω˘） ;ルールを破壊しています…",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "ストア",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "貢献者"
   },
   "header.downloads": {
-    "message": "ダウンロード",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "ダウンロード"
   },
-  "header.contributors": {
-    "message": "貢献者",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "日本語"
+  },
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "言語を選択"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "いいえ"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "このウェブサイトは日本語に翻訳されています。 英語があまり得意ではない場合は役に立つでしょう。"
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "このサイトは日本語に対応しています。切り替えますか？"
+  },
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "パンケーキを焼いています…;荷物を運んでいます…;IPアドレスを解析しています…;（˘ω˘） ;ルールを破壊しています…"
   },
   "header.login": {
-    "message": "ログイン",
-    "description": "Login Button"
+    "description": "Login Button",
+    "message": "ログイン"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "ストア"
   }
 }

@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Upsz! Ennek léteznie kellene?",
-    "description": "Heading on 404 page"
+    "description": "Heading on 404 page",
+    "message": "Upsz! Ennek léteznie kellene?"
   },
   "404.message": {
-    "message": "Valószínű, hogy az általad megnyitni kívánt oldal áthelyezésre vagy törlésre került, de lehet soha nem is létezett?",
-    "description": "Message on 404 page"
+    "description": "Message on 404 page",
+    "message": "Valószínű, hogy az általad megnyitni kívánt oldal áthelyezésre vagy törlésre került, de lehet soha nem is létezett?"
   }
 }

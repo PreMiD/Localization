@@ -1,26 +1,26 @@
 {
-	"maintenance.big": {
-		"message": "O nie!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.heading": {
-		"message": "Niestety aktualnie mamy problemy techniczne. Wkrótce z powrotem otworzymy stronę. Przepraszamy za niedogodnienia.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.heading2": {
-		"message": "Proszę wróć wkrótce po więcej informacji.",
-		"description": "Heading on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "Dopóki programiści tego nie naprawią, nie krępuj się tutaj zaglądać!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "Status",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Serwer Discord",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "O nie!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Serwer Discord"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Niestety aktualnie mamy problemy techniczne. Wkrótce z powrotem otworzymy stronę. Przepraszamy za niedogodnienia."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Proszę wróć wkrótce po więcej informacji."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Dopóki programiści tego nie naprawią, nie krępuj się tutaj zaglądać!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Status"
+  }
 }

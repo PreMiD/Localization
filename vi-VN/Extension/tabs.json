@@ -1,58 +1,58 @@
 {
+  "donate": {
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time",
+    "message": "Ủng hộ"
+  },
   "tab.button.changelog": {
-    "message": "Changelog",
-    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
+    "message": "Changelog"
   },
   "tab.button.wiki": {
-    "message": "Wiki",
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.heading": {
-    "message": "Cảm ơn",
-    "description": "Title of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.subHeading": {
-    "message": "đã cài đặt {0}",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.start": {
-    "message": "Bắt đầu sử dụng {0}",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
-  },
-  "donate": {
-    "message": "Ủng hộ",
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
+    "message": "Wiki"
   },
   "tab.installed.error": {
-    "message": "**Ôi không!** Chúng tôi không thể kết nối đến ứng dụng... Bạn có chắc là nó đã được cài đặt?",
-    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+    "description": "Error message of the tab which opens when you install PreMiD for the first time",
+    "message": "**Ôi không!** Chúng tôi không thể kết nối đến ứng dụng... Bạn có chắc là nó đã được cài đặt?"
   },
-  "tab.installed.link.troubleshooting": {
-    "message": "Xử lý sự cố",
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  "tab.installed.heading": {
+    "description": "Title of the tab which opens when you install PreMiD for the first time",
+    "message": "Cảm ơn"
   },
   "tab.installed.link.installApplication": {
-    "message": "Cài đặt ứng dụng",
-    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
+    "message": "Cài đặt ứng dụng"
   },
-  "tab.updated.heading": {
-    "message": "Lên cấp!",
-    "description": "Title of the tab which opens when PreMiD was updated"
+  "tab.installed.link.troubleshooting": {
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
+    "message": "Xử lý sự cố"
   },
-  "tab.updated.subHeading": {
-    "message": "{0} đã được cập nhật!",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  "tab.installed.start": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
+    "message": "Bắt đầu sử dụng {0}"
   },
-  "tab.updated.new": {
-    "message": "Mới",
-    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  "tab.installed.subHeading": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
+    "message": "đã cài đặt {0}"
   },
   "tab.updated.changed": {
-    "message": "Đã thay đổi",
-    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+    "message": "Đã thay đổi"
   },
   "tab.updated.fixed": {
-    "message": "Đã được sửa",
-    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
+    "message": "Đã được sửa"
+  },
+  "tab.updated.heading": {
+    "description": "Title of the tab which opens when PreMiD was updated",
+    "message": "Lên cấp!"
+  },
+  "tab.updated.new": {
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
+    "message": "Mới"
+  },
+  "tab.updated.subHeading": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
+    "message": "{0} đã được cập nhật!"
   }
 }

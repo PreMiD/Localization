@@ -1,10 +1,10 @@
 {
-  "extension.description.short": {
-    "message": "Your Rich Presence for web services!",
-    "description": "Short description in extension store"
-  },
   "extension.description.full": {
-    "message": "PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status.\n\nFor example, when you start watching a video on YouTube, our extension grabs all the information needed from the page and sends it to our application, which then sets the status on your Discord profile.\n\nPreMiD supports more than 500 websites and is still going thanks to its strong community that adds new Presences every day.\n\nTo use PreMiD, you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n{0} Our Website\n{1}\n\n{3} Our Discord Server\n{4}\n\n{5} Troubleshooting\n{6}\n\n{7} Our GitHub organization\n{8}\n\n{9} Donate\n{10}\n\nIf you love PreMiD, please leave a review, share it with your friends, or donate.",
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
+    "message": "PreMiD is a simple, configurable utility that allows you to show what you're doing on the web in your Discord now playing status.\n\nFor example, when you start watching a video on YouTube, our extension grabs all the information needed from the page and sends it to our application, which then sets the status on your Discord profile.\n\nPreMiD supports more than 500 websites and is still going thanks to its strong community that adds new Presences every day.\n\nTo use PreMiD, you need to add this extension and install the official PreMiD application found on our website. This is due to constraints in the way Discord’s Rich Presence SDK works.\n\n{0} Our Website\n{1}\n\n{3} Our Discord Server\n{4}\n\n{5} Troubleshooting\n{6}\n\n{7} Our GitHub organization\n{8}\n\n{9} Donate\n{10}\n\nIf you love PreMiD, please leave a review, share it with your friends, or donate."
+  },
+  "extension.description.short": {
+    "description": "Short description in extension store",
+    "message": "Your Rich Presence for web services!"
   }
 }

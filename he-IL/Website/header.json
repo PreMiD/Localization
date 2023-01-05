@@ -1,38 +1,38 @@
 {
-  "header.language": {
-    "message": "עברית",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "אנחנו תומכים בשפה שלך, רוצה להחליף שפה?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "האתר שלנו תורגם לשפה שלך. זה יכול לעזור במקרה שאתה לא דובר אנגלית כל כך טוב.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "לא, תודה",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "שנה שפה",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "אופה פנקייקים...;ממקם מכולות...;סורק את האייפי שלך...;UwU;עובר על החוקים...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "חנות",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "תורמים"
   },
   "header.downloads": {
-    "message": "הורדות",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "הורדות"
   },
-  "header.contributors": {
-    "message": "תורמים",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "עברית"
+  },
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "שנה שפה"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "לא, תודה"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "האתר שלנו תורגם לשפה שלך. זה יכול לעזור במקרה שאתה לא דובר אנגלית כל כך טוב."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "אנחנו תומכים בשפה שלך, רוצה להחליף שפה?"
+  },
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "אופה פנקייקים...;ממקם מכולות...;סורק את האייפי שלך...;UwU;עובר על החוקים..."
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "חנות"
   }
 }

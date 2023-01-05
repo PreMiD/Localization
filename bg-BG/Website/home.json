@@ -1,90 +1,90 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD** е проста конфигурируема програма, която ви позволява да покажете какво правите в интернет чрез вашия Discord статус.",
-		"description": "First phrase that users read on our website"
-	},
-	"home.introduction.button.features": {
-		"message": "Функции",
-		"description": "Introduction button"
-	},
-	"home.introduction.button.downloads": {
-		"message": "Изтегляния",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
-	"home.examples.playingagame": {
-		"message": "Играe игра",
-		"description": "Discord Rich Presence -> Playing a game"
-	},
-	"home.examples.timestamp": {
-		"message": "{0} остават",
-		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.timestamp2": {
-		"message": "{0} изминали",
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "Възпроизвеждане",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "На живо",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Разглеждане...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.features.heading": {
-		"message": "Ще харесате тези функции!",
-		"description": "Features section"
-	},
-	"home.features.presencesystem.heading": {
-		"message": "Намерете **вашият** presence",
-		"description": "Features section subheading"
-	},
-	"home.features.presencesystem.description": {
-		"message": "Ние създадохме нашето разширение по начин, който ти позволява да добавяш и използваш Presences, създадени от други потребители, и да ги управлявате чрез нашето разширение!",
-		"description": "Features section description"
-	},
-	"home.features.presencesystem.button": {
-		"message": "Посетете магазина",
-		"description": "Features section button"
-	},
-	"home.features.simpleInterface.heading": {
-		"message": "Прост потребителски интерфейс",
-		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description": {
-		"message": "Писнало ви е от сложни потребителски интерфейси? Това е причината, поради която създадохме и се опитваме да поддържаме нашият интерфейс колкото се може по-прост и полезен с важни функции като:",
-		"description": "Features section description"
-	},
-	"home.features.simpleInterface.description.1": {
-		"message": "Настройки за приложения и разширения",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.2": {
-		"message": "Управление на presence",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Сортиране по категории",
-		"description": "Features section description point"
-	},
-	"home.features.quickSupport.heading": {
-		"message": "Бърза поддръжка",
-		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.description": {
-		"message": "Нещо е бъгнало, изпраща ти тонове грешки или просто не работи? Ще ти помогнем да се отървеш от тези проблеми в нашият Discord сървър. Също така създадохме наша собствена система за поддръжка, която гарантира, че вашият проблем ще бъде решен колкото се може по-скоро.",
-		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Присъединете се към нашия Discord сървър",
-		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Език на уебсайта",
-		"description": "Tippy content of the language selector."
-	}
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "Играe игра"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Разглеждане..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "На живо"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Възпроизвеждане"
+  },
+  "home.examples.timestamp": {
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} остават"
+  },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} изминали"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "Ще харесате тези функции!"
+  },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "Посетете магазина"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "Ние създадохме нашето разширение по начин, който ти позволява да добавяш и използваш Presences, създадени от други потребители, и да ги управлявате чрез нашето разширение!"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "Намерете **вашият** presence"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "Присъединете се към нашия Discord сървър"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "Нещо е бъгнало, изпраща ти тонове грешки или просто не работи? Ще ти помогнем да се отървеш от тези проблеми в нашият Discord сървър. Също така създадохме наша собствена система за поддръжка, която гарантира, че вашият проблем ще бъде решен колкото се може по-скоро."
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "Бърза поддръжка"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "Писнало ви е от сложни потребителски интерфейси? Това е причината, поради която създадохме и се опитваме да поддържаме нашият интерфейс колкото се може по-прост и полезен с важни функции като:"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "Настройки за приложения и разширения"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "Управление на presence"
+  },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "Сортиране по категории"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "Прост потребителски интерфейс"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Изтегляния"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "Функции"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "**PreMiD** е проста конфигурируема програма, която ви позволява да покажете какво правите в интернет чрез вашия Discord статус."
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "Език на уебсайта"
+  }
 }

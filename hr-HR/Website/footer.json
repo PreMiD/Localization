@@ -1,18 +1,18 @@
 {
-	"footer.supportus.donate": {
-		"message": "Donirajte",
-		"description": "Donate -> redirects to patreon.com/timeraa"
-	},
-	"footer.help.troubleshooting": {
-		"message": "Rješavanje problema",
-		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
-	},
-	"footer.help.information": {
-		"message": "Informacije",
-		"description": "Information section"
-	},
-	"footer.more.wiki": {
-		"message": "Dokumentacija",
-		"description": "Wiki -> redirects to wiki.premid.app"
-	}
+  "footer.help.information": {
+    "description": "Information section",
+    "message": "Informacije"
+  },
+  "footer.help.troubleshooting": {
+    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
+    "message": "Rješavanje problema"
+  },
+  "footer.more.wiki": {
+    "description": "Wiki -> redirects to wiki.premid.app",
+    "message": "Dokumentacija"
+  },
+  "footer.supportus.donate": {
+    "description": "Donate -> redirects to patreon.com/timeraa",
+    "message": "Donirajte"
+  }
 }

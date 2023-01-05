@@ -1,58 +1,58 @@
 {
+  "donate": {
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time",
+    "message": "Lahjoita "
+  },
   "tab.button.changelog": {
-    "message": "Muutokset",
-    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
+    "message": "Muutokset"
   },
   "tab.button.wiki": {
-    "message": "Wiki",
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.heading": {
-    "message": "Kiitos",
-    "description": "Title of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.subHeading": {
-    "message": "{0}in asentamisesta",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
-  },
-  "tab.installed.start": {
-    "message": "Aloita {0}in käyttö",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
-  },
-  "donate": {
-    "message": "Lahjoita ",
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
+    "message": "Wiki"
   },
   "tab.installed.error": {
-    "message": "**Voi ei!** Emme voineet yhdistää sovellukseen... Onko se jo asennettu?",
-    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+    "description": "Error message of the tab which opens when you install PreMiD for the first time",
+    "message": "**Voi ei!** Emme voineet yhdistää sovellukseen... Onko se jo asennettu?"
   },
-  "tab.installed.link.troubleshooting": {
-    "message": "Vianetsintä",
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  "tab.installed.heading": {
+    "description": "Title of the tab which opens when you install PreMiD for the first time",
+    "message": "Kiitos"
   },
   "tab.installed.link.installApplication": {
-    "message": "Asenna sovellus",
-    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
+    "message": "Asenna sovellus"
   },
-  "tab.updated.heading": {
-    "message": "Seuraava taso!",
-    "description": "Title of the tab which opens when PreMiD was updated"
+  "tab.installed.link.troubleshooting": {
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
+    "message": "Vianetsintä"
   },
-  "tab.updated.subHeading": {
-    "message": "{0} on päivitetty!",
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  "tab.installed.start": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
+    "message": "Aloita {0}in käyttö"
   },
-  "tab.updated.new": {
-    "message": "Uutta",
-    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  "tab.installed.subHeading": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
+    "message": "{0}in asentamisesta"
   },
   "tab.updated.changed": {
-    "message": "Muutettu",
-    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+    "message": "Muutettu"
   },
   "tab.updated.fixed": {
-    "message": "Korjattu",
-    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
+    "message": "Korjattu"
+  },
+  "tab.updated.heading": {
+    "description": "Title of the tab which opens when PreMiD was updated",
+    "message": "Seuraava taso!"
+  },
+  "tab.updated.new": {
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
+    "message": "Uutta"
+  },
+  "tab.updated.subHeading": {
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
+    "message": "{0} on päivitetty!"
   }
 }

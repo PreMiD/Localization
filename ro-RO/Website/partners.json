@@ -1,14 +1,14 @@
 {
-	"partners.header.title": {
-		"message": "Parteneri",
-		"description": "Heading for page."
-	},
-	"partners.requirements.title": {
-		"message": "Cerințe",
-		"description": "Heading for the requirements."
-	},
-	"partners.apply.select.other": {
-		"message": "Altele",
-		"description": "Select 'Other' category."
-	}
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Altele"
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Parteneri"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Cerințe"
+  }
 }

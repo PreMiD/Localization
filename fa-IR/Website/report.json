@@ -1,34 +1,34 @@
 {
-	"report.title": {
-		"message": "گزارش مشکل",
-		"description": "Text to indicate the page."
-	},
-	"report.button": {
-		"message": "ارسال گزارش",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "شما گزارشات فعال زیادی دارید. صبر کنید تا گزارشات ثبت شده شما مرور شوند. گزارشات به صورت هفتگی چک خواهند شد، صبور باشید.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "شما گزارشات فعال زیادی دارید.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "باگ ثبت شد",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "اطلاعات بیشتری لازم است",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "اکانت دیسکورد نیاز به تائید دارد",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "باگ های فعال",
-		"description": "Lists users active bugs"
-	}
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "باگ های فعال"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "ارسال گزارش"
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "اطلاعات بیشتری لازم است"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "اکانت دیسکورد نیاز به تائید دارد"
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "باگ ثبت شد"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "گزارش مشکل"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "شما گزارشات فعال زیادی دارید. صبر کنید تا گزارشات ثبت شده شما مرور شوند. گزارشات به صورت هفتگی چک خواهند شد، صبور باشید."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "شما گزارشات فعال زیادی دارید."
+  }
 }

@@ -1,38 +1,38 @@
 {
-	"user.roles.presenceDeveloper": {
-		"message": "Servis Geliştiricisi",
-		"description": "'Presence Developer' title for user pages."
-	},
-	"user.roles.presenceVerifier": {
-		"message": "Servis İnceleme Yetkilisi",
-		"description": "'Presence Verifier' title for user pages."
-	},
-	"user.importantPresenceDev.message1": {
-		"message": "Önemli Servis Geliştiricisi",
-		"description": "'Important Presence Developer' tippy description for user pages."
-	},
-	"user.importantPresenceDev.message2": {
-		"message": "Toplamda {0} servis geliştirmiş.",
-		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.geniusPresenceDev.message1": {
-		"message": "Akıllı Servis Geliştiricisi",
-		"description": "'Genuis Presence Developer' tippy description for user pages."
-	},
-	"user.geniusPresenceDev.message2": {
-		"message": "100'ün üzerinde servis geliştirmiş!",
-		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.switch.contributed": {
-		"message": "Kullanıcının [Servisleri/K. Bulundukları]",
-		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
-	},
-	"user.presences.created": {
-		"message": "Kullanıcının yaptığı servisleri görmek için buraya tıklayın.",
-		"description": "Tippy content in user profile."
-	},
-	"user.presences.contributed": {
-		"message": "Kullanıcının yapımında katkısı bulunan servisleri görmek için buraya tıklayın.",
-		"description": "Tippy content (mode 2) in user profile."
-	}
+  "user.geniusPresenceDev.message1": {
+    "description": "'Genuis Presence Developer' tippy description for user pages.",
+    "message": "Akıllı Servis Geliştiricisi"
+  },
+  "user.geniusPresenceDev.message2": {
+    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "100'ün üzerinde servis geliştirmiş!"
+  },
+  "user.importantPresenceDev.message1": {
+    "description": "'Important Presence Developer' tippy description for user pages.",
+    "message": "Önemli Servis Geliştiricisi"
+  },
+  "user.importantPresenceDev.message2": {
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "Toplamda {0} servis geliştirmiş."
+  },
+  "user.presences.contributed": {
+    "description": "Tippy content (mode 2) in user profile.",
+    "message": "Kullanıcının yapımında katkısı bulunan servisleri görmek için buraya tıklayın."
+  },
+  "user.presences.created": {
+    "description": "Tippy content in user profile.",
+    "message": "Kullanıcının yaptığı servisleri görmek için buraya tıklayın."
+  },
+  "user.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for user pages.",
+    "message": "Servis Geliştiricisi"
+  },
+  "user.roles.presenceVerifier": {
+    "description": "'Presence Verifier' title for user pages.",
+    "message": "Servis İnceleme Yetkilisi"
+  },
+  "user.switch.contributed": {
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
+    "message": "Kullanıcının [Servisleri/K. Bulundukları]"
+  }
 }

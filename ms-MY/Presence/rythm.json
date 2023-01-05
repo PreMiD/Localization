@@ -1,22 +1,22 @@
 {
-    "rythm.openDashboard": {
-        "message": "Buka Papan Pemuka",
-        "description": "Button for opening the web dashboard."
-    },
-    "rythm.inviteBot": {
-        "message": "Undang Bot",
-        "description": "Button for inviting the bot."
-    },
-    "rythm.djs": {
-        "message": "DJ: {0}",
-        "description": "{0} will be replaced with the amount of users with DJ permissions."
-    },
-    "rythm.users": {
-        "message": "Pengguna: {0}",
-        "description": "{0} will be replaced with the amount of normal users."
-    },
-    "rythm.requestedBy": {
-        "message": "Diminta oleh: {0}",
-        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
-    }
+  "rythm.djs": {
+    "description": "{0} will be replaced with the amount of users with DJ permissions.",
+    "message": "DJ: {0}"
+  },
+  "rythm.inviteBot": {
+    "description": "Button for inviting the bot.",
+    "message": "Undang Bot"
+  },
+  "rythm.openDashboard": {
+    "description": "Button for opening the web dashboard.",
+    "message": "Buka Papan Pemuka"
+  },
+  "rythm.requestedBy": {
+    "description": "{0} will be replaced with the name of the user who requested the currently playing song.",
+    "message": "Diminta oleh: {0}"
+  },
+  "rythm.users": {
+    "description": "{0} will be replaced with the amount of normal users.",
+    "message": "Pengguna: {0}"
+  }
 }

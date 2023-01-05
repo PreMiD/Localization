@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "Türkçe",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "Dilinizi destekliyoruz, geçiş yapmak ister misin?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "İnternet sitemiz sizin dilinize çevrildi bile! İngilizceyi iyi bilmiyorsanız bu yardımcı olabilir.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "Hayır, teşekkürler",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "Dili değiştir",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "Kekler pişiriliyor...;Masa hazırlanıyor...;IP adresiniz çözümleniyor...;UwU;Kurallar kırılıyor...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "Mağaza",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Katkıda Bulunanlar"
   },
   "header.downloads": {
-    "message": "İndir",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "İndir"
   },
-  "header.contributors": {
-    "message": "Katkıda Bulunanlar",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "Türkçe"
   },
-  "header.login": {
-    "message": "Giriş Yap",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Dili değiştir"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Hayır, teşekkürler"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "İnternet sitemiz sizin dilinize çevrildi bile! İngilizceyi iyi bilmiyorsanız bu yardımcı olabilir."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Dilinizi destekliyoruz, geçiş yapmak ister misin?"
   },
   "header.lia": {
-    "message": "Şu hesabı kullanıyorsunuz:",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "Şu hesabı kullanıyorsunuz:"
   },
-  "header.rab": {
-    "message": "Hata bildir",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Kekler pişiriliyor...;Masa hazırlanıyor...;IP adresiniz çözümleniyor...;UwU;Kurallar kırılıyor..."
   },
-  "header.staff": {
-    "message": "Kontrol Paneli",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "Giriş Yap"
   },
   "header.logout": {
-    "message": "Çıkış",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "Çıkış"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Hata bildir"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Kontrol Paneli"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Mağaza"
   }
 }

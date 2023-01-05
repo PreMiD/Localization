@@ -1,6 +1,6 @@
 {
-    "9gag.trending": {
-        "message": "Zobrazení trend",
-        "description": ""
-    }
+  "9gag.trending": {
+    "description": "",
+    "message": "Zobrazení trend"
+  }
 }

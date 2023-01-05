@@ -1,14 +1,14 @@
 {
-    "rythm.inviteBot": {
-        "message": "Inviter bot",
-        "description": "Button for inviting the bot."
-    },
-    "rythm.users": {
-        "message": "Brukere: {0}",
-        "description": "{0} will be replaced with the amount of normal users."
-    },
-    "rythm.requestedBy": {
-        "message": "Forespurt av: {0}",
-        "description": "{0} will be replaced with the name of the user who requested the currently playing song."
-    }
+  "rythm.inviteBot": {
+    "description": "Button for inviting the bot.",
+    "message": "Inviter bot"
+  },
+  "rythm.requestedBy": {
+    "description": "{0} will be replaced with the name of the user who requested the currently playing song.",
+    "message": "Forespurt av: {0}"
+  },
+  "rythm.users": {
+    "description": "{0} will be replaced with the amount of normal users.",
+    "message": "Brukere: {0}"
+  }
 }

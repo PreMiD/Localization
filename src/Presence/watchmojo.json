@@ -1,18 +1,18 @@
 {
-	"watchmojo.triviaGame": {
-		"message": "Round {0} of {1} (Score: {2}/{3})",
-		"description": "The round and score of the Trivia game the user is playing."
-	},
-	"watchmojo.trivia": {
-		"message": "Playing Trivia: {0}",
-		"description": "{0} will be replaced with the name of the Trivia game"
-	},
-	"watchmojo.playingTrivia": {
-		"message": "Playing a Trivia game",
-		"description": "For privacy mode, \"a\" as in unspecified."
-	},
-	"watchmojo.buttonPlayTrivia": {
-		"message": "Play Trivia",
-		"description": "Used as the title for the button in Discord."
-	}
+  "watchmojo.buttonPlayTrivia": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Play Trivia"
+  },
+  "watchmojo.playingTrivia": {
+    "description": "For privacy mode, \"a\" as in unspecified.",
+    "message": "Playing a Trivia game"
+  },
+  "watchmojo.trivia": {
+    "description": "{0} will be replaced with the name of the Trivia game",
+    "message": "Playing Trivia: {0}"
+  },
+  "watchmojo.triviaGame": {
+    "description": "The round and score of the Trivia game the user is playing.",
+    "message": "Round {0} of {1} (Score: {2}/{3})"
+  }
 }

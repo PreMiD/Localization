@@ -1,30 +1,30 @@
 {
-	"merch.title": {
-		"message": "Velkommen til den offisielle **PreMiD**-butikken!",
-		"description": "Merch store title"
-	},
-	"merch.swag": {
-		"message": "Finn din **Swag**",
-		"description": "Subtitle for store"
-	},
-	"merch.fit": {
-		"message": "**Velg din stil**",
-		"description": "Product sizes"
-	},
-	"merch.cart": {
-		"message": "Legg i handlevogn",
-		"description": "Add product to cart"
-	},
-	"merch.help": {
-		"message": "Opplever du problemer med nettbutikken eller en ordre? Ta kontakt med vår {0}kundestøtte{1}",
-		"description": "Link to customer support, {0}{1} is the replacement for the link"
-	},
-	"merch.item.added": {
-		"message": "{0} lagt til i handlevognen",
-		"description": "{0} replaced with product name"
-	},
-	"merch.error.noitem": {
-		"message": "Ingen varer lagt til i handlevognen",
-		"description": "Error message when no size selected"
-	}
+  "merch.cart": {
+    "description": "Add product to cart",
+    "message": "Legg i handlevogn"
+  },
+  "merch.error.noitem": {
+    "description": "Error message when no size selected",
+    "message": "Ingen varer lagt til i handlevognen"
+  },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "**Velg din stil**"
+  },
+  "merch.help": {
+    "description": "Link to customer support, {0}{1} is the replacement for the link",
+    "message": "Opplever du problemer med nettbutikken eller en ordre? Ta kontakt med vår {0}kundestøtte{1}"
+  },
+  "merch.item.added": {
+    "description": "{0} replaced with product name",
+    "message": "{0} lagt til i handlevognen"
+  },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "Finn din **Swag**"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "Velkommen til den offisielle **PreMiD**-butikken!"
+  }
 }

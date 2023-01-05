@@ -1,46 +1,46 @@
 {
-	"beta.title": {
-		"message": "새 기능을 원하시나요?",
-		"description": "Beta page title"
-	},
-	"beta.description.1": {
-		"message": "**PreMiD 베타**는 모든 분이 현재 사용 가능해요!",
-		"description": "Section description"
-	},
-	"beta.description.2": {
-		"message": "가입하면 무엇을 받게 되나요?",
-		"description": "Section description"
-	},
-	"beta.features.1": {
-		"message": "최신 기능",
-		"description": "Features list"
-	},
-	"beta.features.2": {
-		"message": "PreMiD의 일급기밀 채팅 채널 접근",
-		"description": "Features list"
-	},
-	"beta.features.3": {
-		"message": "Discord 서버에서의 특별한 역할",
-		"description": "Features list"
-	},
-	"beta.register.text": {
-		"message": "준비됐나요? 베타 테스터 {0}명과 참가해 보세요!",
-		"description": "{0} will be replaced with the beta testers count -> is a variable"
-	},
-	"beta.register.button": {
-		"message": "지금 가입하세요!",
-		"description": "Sign up button text"
-	},
-	"thankyou.title": {
-		"message": "멋져요! 이제 나는 베타 사용자예요!",
-		"description": "Thank You page title"
-	},
-	"thankyou.description": {
-		"message": "원숭이가 베타 프로그램 참가를 최대한 빨리 진행시키기 위해 노력하고 있는 중이에요. 등록해 주셔서 감사드려요!",
-		"description": "Thank You page description"
-	},
-	"error.noslots": {
-		"message": "사용 가능한 베타 테스터 자리가 더 없는 것 같아요.",
-		"description": "Shows when the beta slots are full."
-	}
+  "beta.description.1": {
+    "description": "Section description",
+    "message": "**PreMiD 베타**는 모든 분이 현재 사용 가능해요!"
+  },
+  "beta.description.2": {
+    "description": "Section description",
+    "message": "가입하면 무엇을 받게 되나요?"
+  },
+  "beta.features.1": {
+    "description": "Features list",
+    "message": "최신 기능"
+  },
+  "beta.features.2": {
+    "description": "Features list",
+    "message": "PreMiD의 일급기밀 채팅 채널 접근"
+  },
+  "beta.features.3": {
+    "description": "Features list",
+    "message": "Discord 서버에서의 특별한 역할"
+  },
+  "beta.register.button": {
+    "description": "Sign up button text",
+    "message": "지금 가입하세요!"
+  },
+  "beta.register.text": {
+    "description": "{0} will be replaced with the beta testers count -> is a variable",
+    "message": "준비됐나요? 베타 테스터 {0}명과 참가해 보세요!"
+  },
+  "beta.title": {
+    "description": "Beta page title",
+    "message": "새 기능을 원하시나요?"
+  },
+  "error.noslots": {
+    "description": "Shows when the beta slots are full.",
+    "message": "사용 가능한 베타 테스터 자리가 더 없는 것 같아요."
+  },
+  "thankyou.description": {
+    "description": "Thank You page description",
+    "message": "원숭이가 베타 프로그램 참가를 최대한 빨리 진행시키기 위해 노력하고 있는 중이에요. 등록해 주셔서 감사드려요!"
+  },
+  "thankyou.title": {
+    "description": "Thank You page title",
+    "message": "멋져요! 이제 나는 베타 사용자예요!"
+  }
 }

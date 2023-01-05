@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "Ough! Isso deveria existir?",
-    "description": "Heading on 404 page"
+    "description": "Heading on 404 page",
+    "message": "Ough! Isso deveria existir?"
   },
   "404.message": {
-    "message": "Desculpe, parece que a página que você deseja ver foi movida ou excluída ou talvez nunca tenha existido?",
-    "description": "Message on 404 page"
+    "description": "Message on 404 page",
+    "message": "Desculpe, parece que a página que você deseja ver foi movida ou excluída ou talvez nunca tenha existido?"
   }
 }

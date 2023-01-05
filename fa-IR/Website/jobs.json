@@ -1,110 +1,110 @@
 {
-	"jobs.modal.title": {
-		"message": "اعمال برای {0}",
-		"description": "Jobs apply modal title, {0} will be replaced with the job name."
-	},
-	"jobs.modal.step": {
-		"message": "مرحله {0} از 2",
-		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
-	},
-	"jobs.modal.buttons.next": {
-		"message": "بعدی",
-		"description": "Next button in the modal."
-	},
-	"jobs.modal.buttons.join": {
-		"message": "پیوستن",
-		"description": "Join Discord button in the modal."
-	},
-	"jobs.modal.buttons.cancel": {
-		"message": "لغو",
-		"description": "Cancel, button in the modal."
-	},
-	"jobs.modal.error": {
-		"message": "لطفا همه فیلد ها را کامل کنید",
-		"description": "Error when user did not fill all the fields."
-	},
-	"jobs.modal.notice": {
-		"message": "PreMiD یک پروژه متن باز است، یعنی تیم ما هیچ سودی از این کار نمی برد، بلکه هر حمایت مالی و patreon دوباره به خود محصولات برمی گردد. با استخدام شغلی در PreMiD شما اذعان می کنید که داوطلبانه نسبت به این تیم ملحق شده اید، شما هیچ پولی در ازای این کار دریافت نمی کنید.",
-		"description": "Notice for applicants."
-	},
-	"jobs.guild.required": {
-		"message": "به سرور دیسکورد ما بپیوندید",
-		"description": "Title of the modal the user will see if it's not in Discord server."
-	},
-	"jobs.guild.explanation": {
-		"message": "برای اینکه استخدام بشوید، شما باید در سرور دیسکورد ما عضو شده باشید. در غیر این صورت نمی تونیم با شما تماسی داشته باشیم اینکه در نهایت انتخاب شده اید یا نه!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
-	"jobs.header.title": {
-		"message": "کار کردن برای PreMiD",
-		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "آیا شما هم آماده اید که به بزرگ ترین برنامه Rich-Presence کمک کنید?",
-		"description": "The second part of the jobs page."
-	},
-	"jobs.openings.title": {
-		"message": "فرصت های شغلی",
-		"description": "Text before the available job positions cards."
-	},
-	"jobs.benefits.title": {
-		"message": "مزایای عالی",
-		"description": "Text before the benefits cards."
-	},
-	"jobs.benefit1.title": {
-		"message": "با ما آشنا شوید",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit1.description": {
-		"message": "با اشخاص پشت صحنه PreMiD در تماس باشید.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit2.title": {
-		"message": "چشمک اندازی",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit2.description": {
-		"message": "نگاه انداختن به نحوه توسعه و بازاریابی.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit3.title": {
-		"message": "افتخار",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit3.description": {
-		"message": "دسترسی های پرقدرت دیسکورد و نقش های رنگارنگ.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit4.title": {
-		"message": "پشتیبانی PreMiD",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit4.description": {
-		"message": "با اشتراک شما اجرای این پروژه ممکن خواهد بود.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit5.title": {
-		"message": "وقفه",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit5.description": {
-		"message": "عجله نکنید. این یک کار داوطلبانه است.",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit6.title": {
-		"message": "دسترسی زودرس",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "تست کردن ویژگی های جدید قبل از هر شخص دیگری.",
-		"description": "Benefit card description."
-	},
-	"jobs.success.applied": {
-		"message": "از درخواست همکاری شما سپاس گذاریم!",
-		"description": "Notification when applying."
-	},
-	"jobs.errors.alreadyApplied": {
-		"message": "شما قبلا درخواست کرده اید!",
-		"description": "Notification when you applied already."
-	}
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "با اشخاص پشت صحنه PreMiD در تماس باشید."
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "با ما آشنا شوید"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "نگاه انداختن به نحوه توسعه و بازاریابی."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "چشمک اندازی"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "دسترسی های پرقدرت دیسکورد و نقش های رنگارنگ."
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "افتخار"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "با اشتراک شما اجرای این پروژه ممکن خواهد بود."
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "پشتیبانی PreMiD"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "عجله نکنید. این یک کار داوطلبانه است."
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "وقفه"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "تست کردن ویژگی های جدید قبل از هر شخص دیگری."
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "دسترسی زودرس"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "مزایای عالی"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "شما قبلا درخواست کرده اید!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "برای اینکه استخدام بشوید، شما باید در سرور دیسکورد ما عضو شده باشید. در غیر این صورت نمی تونیم با شما تماسی داشته باشیم اینکه در نهایت انتخاب شده اید یا نه!"
+  },
+  "jobs.guild.required": {
+    "description": "Title of the modal the user will see if it's not in Discord server.",
+    "message": "به سرور دیسکورد ما بپیوندید"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "آیا شما هم آماده اید که به بزرگ ترین برنامه Rich-Presence کمک کنید?"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "کار کردن برای PreMiD"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "لغو"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "پیوستن"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "بعدی"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "لطفا همه فیلد ها را کامل کنید"
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "PreMiD یک پروژه متن باز است، یعنی تیم ما هیچ سودی از این کار نمی برد، بلکه هر حمایت مالی و patreon دوباره به خود محصولات برمی گردد. با استخدام شغلی در PreMiD شما اذعان می کنید که داوطلبانه نسبت به این تیم ملحق شده اید، شما هیچ پولی در ازای این کار دریافت نمی کنید."
+  },
+  "jobs.modal.step": {
+    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
+    "message": "مرحله {0} از 2"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "اعمال برای {0}"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "فرصت های شغلی"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "از درخواست همکاری شما سپاس گذاریم!"
+  }
 }

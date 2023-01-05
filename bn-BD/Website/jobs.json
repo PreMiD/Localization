@@ -1,110 +1,110 @@
 {
-	"jobs.modal.title": {
-		"message": "{0} এর জন্য অ্যাপ্লাই করো",
-		"description": "Jobs apply modal title, {0} will be replaced with the job name."
-	},
-	"jobs.modal.step": {
-		"message": "ধাপ {0}/2",
-		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
-	},
-	"jobs.modal.buttons.next": {
-		"message": "পরবর্তী",
-		"description": "Next button in the modal."
-	},
-	"jobs.modal.buttons.join": {
-		"message": "জয়েন",
-		"description": "Join Discord button in the modal."
-	},
-	"jobs.modal.buttons.cancel": {
-		"message": "বাতিল করো",
-		"description": "Cancel, button in the modal."
-	},
-	"jobs.modal.error": {
-		"message": "সকল স্থান পূরণ করো",
-		"description": "Error when user did not fill all the fields."
-	},
-	"jobs.modal.notice": {
-		"message": "PreMiD হচ্ছে একটি ওপেন সোর্স প্রোজেক্ট, যার মানে আমরা একটি অলাভজনক টিম, প্রত্যেকটা \nঅর্থ সাহায্য ও প্যাটরিয়ন এর টাকা আমাদের প্রোডাক্ট এর পিছনে ব্যয় হয়। PreMiD তে কাজের আবেদন করার মাধ্যমে তুমি স্বীকার করো যে তুমি টিমে একজন স্বেচ্ছাকর্মী হিসেবে কাজ করছ, তোমার কাজের জন্য তোমাকে টাকা দেওয়া হবে না।",
-		"description": "Notice for applicants."
-	},
-	"jobs.guild.required": {
-		"message": "জয়েন করো আমাদের Discord",
-		"description": "Title of the modal the user will see if it's not in Discord server."
-	},
-	"jobs.guild.explanation": {
-		"message": "অ্যাপ্লাই করার জন্যে তোমাকে আমাদের Discord সার্ভারে থাকতেই হবে। তা না হলে আমরা তোমার সাথে যোগাযোগ করতে পারব না যদি তুমি সিলেক্টেড হয়ে যাও!",
-		"description": "Explanation why users should be in Discord server to perform job application."
-	},
-	"jobs.header.title": {
-		"message": "PreMiD এর জন্যে কাজ করো",
-		"description": "First part of the jobs page."
-	},
-	"jobs.header.description": {
-		"message": "তৈরি তো সবচেয়ে বড় Rich-Presence প্রোগ্রামকে সাহায্য করতে?",
-		"description": "The second part of the jobs page."
-	},
-	"jobs.openings.title": {
-		"message": "কাজের সুযোগগুলো",
-		"description": "Text before the available job positions cards."
-	},
-	"jobs.benefits.title": {
-		"message": "বড় সুবিধাগুলো",
-		"description": "Text before the benefits cards."
-	},
-	"jobs.benefit1.title": {
-		"message": "আমাদের সাথে দেখা করা",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit1.description": {
-		"message": "PreMiD এর পিছনে থাকা মানুষদের সাথে কথা বলো।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit2.title": {
-		"message": "কিছু ঝলক দেখা",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit2.description": {
-		"message": "আমাদের ডেভেলপমেন্ট এবং মার্কেটিং দেখো।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit3.title": {
-		"message": "সম্মান",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit3.description": {
-		"message": "পাওয়ারফুল Discord পারমিশন এবং একটি রঙিন রোল।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit4.title": {
-		"message": "PreMiD কে সাপোর্ট",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit4.description": {
-		"message": "তোমার অবদানের মাধ্যমে এই প্রোজেক্টকে চালানো সম্ভব।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit5.title": {
-		"message": "বিরতি",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit5.description": {
-		"message": "নিজের সময় নাও। এটি একটি স্বেচ্ছাকৃত কাজ।",
-		"description": "Benefit card description."
-	},
-	"jobs.benefit6.title": {
-		"message": "আর্লি-অ্যাক্সেস",
-		"description": "Benefit card title."
-	},
-	"jobs.benefit6.description": {
-		"message": "নতুন ফিচারগুলো টেস্ট করো অন্য কারোর আগে।",
-		"description": "Benefit card description."
-	},
-	"jobs.success.applied": {
-		"message": "ধন্যবাদ অ্যাপ্লাই করার জন্য!",
-		"description": "Notification when applying."
-	},
-	"jobs.errors.alreadyApplied": {
-		"message": "তুমি এর আগেও অ্যাপ্লাই করেছ!",
-		"description": "Notification when you applied already."
-	}
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "PreMiD এর পিছনে থাকা মানুষদের সাথে কথা বলো।"
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "আমাদের সাথে দেখা করা"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "আমাদের ডেভেলপমেন্ট এবং মার্কেটিং দেখো।"
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "কিছু ঝলক দেখা"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "পাওয়ারফুল Discord পারমিশন এবং একটি রঙিন রোল।"
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "সম্মান"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "তোমার অবদানের মাধ্যমে এই প্রোজেক্টকে চালানো সম্ভব।"
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "PreMiD কে সাপোর্ট"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "নিজের সময় নাও। এটি একটি স্বেচ্ছাকৃত কাজ।"
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "বিরতি"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "নতুন ফিচারগুলো টেস্ট করো অন্য কারোর আগে।"
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "আর্লি-অ্যাক্সেস"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "বড় সুবিধাগুলো"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "তুমি এর আগেও অ্যাপ্লাই করেছ!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "অ্যাপ্লাই করার জন্যে তোমাকে আমাদের Discord সার্ভারে থাকতেই হবে। তা না হলে আমরা তোমার সাথে যোগাযোগ করতে পারব না যদি তুমি সিলেক্টেড হয়ে যাও!"
+  },
+  "jobs.guild.required": {
+    "description": "Title of the modal the user will see if it's not in Discord server.",
+    "message": "জয়েন করো আমাদের Discord"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "তৈরি তো সবচেয়ে বড় Rich-Presence প্রোগ্রামকে সাহায্য করতে?"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "PreMiD এর জন্যে কাজ করো"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "বাতিল করো"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "জয়েন"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "পরবর্তী"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "সকল স্থান পূরণ করো"
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "PreMiD হচ্ছে একটি ওপেন সোর্স প্রোজেক্ট, যার মানে আমরা একটি অলাভজনক টিম, প্রত্যেকটা \nঅর্থ সাহায্য ও প্যাটরিয়ন এর টাকা আমাদের প্রোডাক্ট এর পিছনে ব্যয় হয়। PreMiD তে কাজের আবেদন করার মাধ্যমে তুমি স্বীকার করো যে তুমি টিমে একজন স্বেচ্ছাকর্মী হিসেবে কাজ করছ, তোমার কাজের জন্য তোমাকে টাকা দেওয়া হবে না।"
+  },
+  "jobs.modal.step": {
+    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
+    "message": "ধাপ {0}/2"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "{0} এর জন্য অ্যাপ্লাই করো"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "কাজের সুযোগগুলো"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "ধন্যবাদ অ্যাপ্লাই করার জন্য!"
+  }
 }

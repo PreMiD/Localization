@@ -1,18 +1,18 @@
 {
-	"maintenance.big": {
-		"message": "O ne!",
-		"description": "The big text on maintenance page"
-	},
-	"maintenance.message": {
-		"message": "Kol mūsų specialieji darbuotojai to neištaisys, apsižvalgykite čia!",
-		"description": "Message on maintenance page"
-	},
-	"maintenance.statuspage": {
-		"message": "Būsenos puslapis",
-		"description": "Status Page link on maintenance page"
-	},
-	"maintenance.discordserver": {
-		"message": "Discord Serveris",
-		"description": "Discord Server link on maintenance page"
-	}
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "O ne!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discord Serveris"
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Kol mūsų specialieji darbuotojai to neištaisys, apsižvalgykite čia!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Būsenos puslapis"
+  }
 }

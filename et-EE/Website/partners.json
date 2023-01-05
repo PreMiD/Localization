@@ -1,242 +1,242 @@
 {
-	"partners.header.title": {
-		"message": "Partnerid",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Liituge perega ja hankige ainult partnerile kasulikke eeliseid, et näidata, kui lahedad te olete.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Need kuuluvad juba meile",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "Kuidas oleks minna põrgu asemel taevasse?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Teie tasuta Presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Meie meeskond pakub teile teie teenuse Presence-i.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Saage kinnitatud",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "Eriline roll ja suur au antakse teile meie Discordi serveris.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Meta-siltide integreerimine",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Kasutab teie Presence-i automaatselt, kui keegi teie veebisaiti külastab.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Saage surematuks",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "Vastik koht meie partnerilehel.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Ole kuulus",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Esitatakse meie sotsiaalmeedias.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Nõuded",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Mida me otsime?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "Jälgime kasvavaid kogukondi ja põnevaid asju Internetis. TL;DR peaksite juba kasutama PreMiD-i ja olema valmis seda levitama veelgi Interneti-friikidele. Programmi vastuvõtmine on äärmiselt kvalitatiivne ja varieerub eri kandidaatidel.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Meie tulemüür",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "Praegu lepime oma partnerlusprogrammiga mitmesuguste jõupingutustega. Kõigil peaks olema võimalus olla märgatud. Twitchi ülekandjatel peaks olema vähemalt 500 jälgijat ja vähemalt 10 samaaegset vaatajat. Peate ülekandma vähemalt üks kord nädalas.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Kandideerige kohe!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Läheme koos taevasse!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Kui teid huvitab pigem otsene töö PreMiD-s, siis vaadake meie **töökuulutusi**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "Sponsorid",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD ei oleks ilma nende hämmastavate inimesteta võimalik.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "Nii vaatad animet.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Arena of Kings on järgmise põlvkonna kiire tempoga PvP Arena mäng, mida mängitakse brauseris.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio on kõige edukam infotainment-raadio simulatsioonimängude jaoks Saksamaal, Austrias ja Šveitsis!",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "Alustage oma kogukonna loomist meie vingete mallidega. Ehitage oma kuningriik.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "taiga on Discord Bot, kes üritab pakkuda kõiki vajalikke funktsioone, mida sul võib vaja minna, korraga!",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.bitRock": {
-		"message": "Võimas ja hõlpsasti kasutatav platvormidevaheline installerite loomise tööriist.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Edastage oma kasutajatele hõlpsasti reaalajas olekut.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "Jumalanna, kes mängib kui lõbus Discord Bot!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "REYFMis saate kuulata 15+ muusikavoogu tasuta - peatumata. Parima ja uusima muusikaga ainult teile!",
-		"description": "Description for REYFM."
-	},
-	"partners.partner.crowdin": {
-		"message": "Tehnikaettevõtete kiire lokaliseerimine.",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "Kõige võimsam ja laiendatav Wiki avatud lähtekoodiga tarkvara.",
-		"description": "Description for WikiJS."
-	},
-	"partners.partner.packageCloud": {
-		"message": "Ühtne, arendajale sobiv liide kõigi teie esemete jaoks.",
-		"description": "Description for PackageCloud."
-	},
-	"partners.partner.fastly": {
-		"message": "Veebi parimate taga.",
-		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit on teie veebimuusika raadiojaam, mis on loodud selleks, et mängida oma parimaid hitte 24/7 ja panna teid oma tulevasi hitte kõigepealt avastama.",
-		"description": "Description for OnlyHit."
-	},
-	"partners.partner.rNetflix": {
-		"message": "r/Netflix on suurim Netflixiga seotud Discordi server. Arutage siin oma mõttekaaslastega oma lemmiksarju või -filme.",
-		"description": "Description for r/Netflix."
-	},
-	"partners.apply.title": {
-		"message": "Taotlege partneriks",
-		"description": "Partnership application modal title."
-	},
-	"partners.apply.loggedUser": {
-		"message": "Logitud sisse kui {0}",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "Mitte sina?",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "Palun valige üks",
-		"description": "Select default placeholder."
-	},
-	"partners.apply.select.website": {
-		"message": "Veebileht",
-		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Muud",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Nimi",
-		"description": "Name filed."
-	},
-	"partners.apply.form.name.placeholder": {
-		"message": "Nt: PreMiD",
-		"description": "Name field's placeholder."
-	},
-	"partners.apply.form.link": {
-		"message": "Lingid",
-		"description": "Link field."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "Nt: https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.description": {
-		"message": "Kirjeldus: (maksimaalselt 150 tähemärki)",
-		"description": "Description field."
-	},
-	"partners.apply.form.description.placeholder": {
-		"message": "Esiletõstetud kirjeldus",
-		"description": "Description field's placeholder."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "Pildilink: (550x300, ainult PNG)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "Nt: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.close": {
-		"message": "Sule",
-		"description": "Modal close button."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "Kandideeri",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Täname kandideerimise eest!",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error1": {
-		"message": "Palun täidke kõik väljad.",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error2": {
-		"message": "Maksimaalselt 150 tähemärgiline kirjeldus.",
-		"description": "Error when description exceeds character limit."
-	},
-	"partners.apply.error3": {
-		"message": "Lisage link (peab algama https:// ja lõppema .png-ga)",
-		"description": "Error when image link is entered wrong."
-	},
-	"partners.apply.error4": {
-		"message": "Te taotlesite juba partneriks.",
-		"description": "Error when already applied."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Kandideerige kohe!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Läheme koos taevasse!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Palun täidke kõik väljad."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Maksimaalselt 150 tähemärgiline kirjeldus."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Lisage link (peab algama https:// ja lõppema .png-ga)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Te taotlesite juba partneriks."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Kandideeri"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Sule"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Kirjeldus: (maksimaalselt 150 tähemärki)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Esiletõstetud kirjeldus"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Pildilink: (550x300, ainult PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Nt: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Lingid"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Nt: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Nimi"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Nt: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Kui teid huvitab pigem otsene töö PreMiD-s, siis vaadake meie **töökuulutusi**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Logitud sisse kui {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Mitte sina?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Palun valige üks"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Muud"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Veebileht"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Täname kandideerimise eest!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Taotlege partneriks"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Liituge perega ja hankige ainult partnerile kasulikke eeliseid, et näidata, kui lahedad te olete."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Partnerid"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Nii vaatad animet."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena of Kings on järgmise põlvkonna kiire tempoga PvP Arena mäng, mida mängitakse brauseris."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Võimas ja hõlpsasti kasutatav platvormidevaheline installerite loomise tööriist."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Tehnikaettevõtete kiire lokaliseerimine."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Alustage oma kogukonna loomist meie vingete mallidega. Ehitage oma kuningriik."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Jumalanna, kes mängib kui lõbus Discord Bot!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "Veebi parimate taga."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit on teie veebimuusika raadiojaam, mis on loodud selleks, et mängida oma parimaid hitte 24/7 ja panna teid oma tulevasi hitte kõigepealt avastama."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "Ühtne, arendajale sobiv liide kõigi teie esemete jaoks."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix on suurim Netflixiga seotud Discordi server. Arutage siin oma mõttekaaslastega oma lemmiksarju või -filme."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFMis saate kuulata 15+ muusikavoogu tasuta - peatumata. Parima ja uusima muusikaga ainult teile!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio on kõige edukam infotainment-raadio simulatsioonimängude jaoks Saksamaal, Austrias ja Šveitsis!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Edastage oma kasutajatele hõlpsasti reaalajas olekut."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga on Discord Bot, kes üritab pakkuda kõiki vajalikke funktsioone, mida sul võib vaja minna, korraga!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "Kõige võimsam ja laiendatav Wiki avatud lähtekoodiga tarkvara."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Jälgime kasvavaid kogukondi ja põnevaid asju Internetis. TL;DR peaksite juba kasutama PreMiD-i ja olema valmis seda levitama veelgi Interneti-friikidele. Programmi vastuvõtmine on äärmiselt kvalitatiivne ja varieerub eri kandidaatidel."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Mida me otsime?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "Praegu lepime oma partnerlusprogrammiga mitmesuguste jõupingutustega. Kõigil peaks olema võimalus olla märgatud. Twitchi ülekandjatel peaks olema vähemalt 500 jälgijat ja vähemalt 10 samaaegset vaatajat. Peate ülekandma vähemalt üks kord nädalas."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Meie tulemüür"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Nõuded"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Need kuuluvad juba meile"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "PreMiD ei oleks ilma nende hämmastavate inimesteta võimalik."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Sponsorid"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Meie meeskond pakub teile teie teenuse Presence-i."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Teie tasuta Presence"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Eriline roll ja suur au antakse teile meie Discordi serveris."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Saage kinnitatud"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Kasutab teie Presence-i automaatselt, kui keegi teie veebisaiti külastab."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Meta-siltide integreerimine"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Vastik koht meie partnerilehel."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Saage surematuks"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Esitatakse meie sotsiaalmeedias."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Ole kuulus"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "Kuidas oleks minna põrgu asemel taevasse?"
+  }
 }

@@ -1,46 +1,46 @@
 {
-	"twitter.readTweet": {
-		"message": "Reading tweet of:",
-		"description": "after the \":\" it will say the username"
-	},
-	"twitter.viewDms": {
-		"message": "Viewing their DMs",
-		"description": ""
-	},
-	"twitter.viewTweets": {
-		"message": "Viewing tweets of:",
-		"description": ""
-	},
-	"twitter.viewTweetsWithReplies": {
-		"message": "Viewing tweets (with replies) of:",
-		"description": ""
-	},
-	"twitter.viewMedia": {
-		"message": "Viewing media of:",
-		"description": ""
-	},
-	"twitter.viewLiked": {
-		"message": "Viewing liked by:",
-		"description": ""
-	},
-	"twitter.viewList": {
-		"message": "Viewing list:",
-		"description": ""
-	},
-	"twitter.bookmarks": {
-		"message": "Bookmarks",
-		"description": ""
-	},
-	"twitter.notifs": {
-		"message": "Notifications",
-		"description": ""
-	},
-	"twitter.explore": {
-		"message": "Explore",
-		"description": ""
-	},
-	"twitter.settings": {
-		"message": "Changing some settings...",
-		"description": ""
-	}
+  "twitter.bookmarks": {
+    "description": "",
+    "message": "Bookmarks"
+  },
+  "twitter.explore": {
+    "description": "",
+    "message": "Explore"
+  },
+  "twitter.notifs": {
+    "description": "",
+    "message": "Notifications"
+  },
+  "twitter.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Reading tweet of:"
+  },
+  "twitter.settings": {
+    "description": "",
+    "message": "Changing some settings..."
+  },
+  "twitter.viewDms": {
+    "description": "",
+    "message": "Viewing their DMs"
+  },
+  "twitter.viewLiked": {
+    "description": "",
+    "message": "Viewing liked by:"
+  },
+  "twitter.viewList": {
+    "description": "",
+    "message": "Viewing list:"
+  },
+  "twitter.viewMedia": {
+    "description": "",
+    "message": "Viewing media of:"
+  },
+  "twitter.viewTweets": {
+    "description": "",
+    "message": "Viewing tweets of:"
+  },
+  "twitter.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Viewing tweets (with replies) of:"
+  }
 }

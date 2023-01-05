@@ -1,10 +1,10 @@
 {
-  "header.language": {
-    "message": "Hrvatski",
-    "description": "Replace English with the name of YOUR language!"
-  },
   "header.contributors": {
-    "message": "Prinosnici",
-    "description": "Contributors tab"
+    "description": "Contributors tab",
+    "message": "Prinosnici"
+  },
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "Hrvatski"
   }
 }

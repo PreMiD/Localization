@@ -1,10 +1,10 @@
 {
   "404.heading": {
-    "message": "...لقد ضللت طريقك للتو",
-    "description": "Heading on 404 page"
+    "description": "Heading on 404 page",
+    "message": "...لقد ضللت طريقك للتو"
   },
   "404.message": {
-    "message": ".عذرآ، الصفحة التي تبحث عنها غير موجودة، او تم حذفها",
-    "description": "Message on 404 page"
+    "description": "Message on 404 page",
+    "message": ".عذرآ، الصفحة التي تبحث عنها غير موجودة، او تم حذفها"
   }
 }

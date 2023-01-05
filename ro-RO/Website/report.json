@@ -1,58 +1,58 @@
 {
-	"report.title": {
-		"message": "Raportați o problemă",
-		"description": "Text to indicate the page."
-	},
-	"report.bugcount": {
-		"message": "{count}/3 rapoarte rămase",
-		"description": "Amount of bug reports user can send"
-	},
-	"report.info": {
-		"message": "Raportarea erorilor este pentru bug-uri de pe site-ul PreMiD sau de pe serverul de Discord al PreMiD-ului. Erorile pentru o prezenţă trebuie raportate creatorului prezenţei. Raportează erorile în limba engleză.",
-		"description": "Tells the user about submitting a bug"
-	},
-	"report.overview": {
-		"message": "Oferiți o descriere clară și concisă a bug-ului.",
-		"description": "Text for the user to write a brief of the bug information."
-	},
-	"report.os": {
-		"message": "Selectați sistemul de operare și versiunea acestuia",
-		"description": "Select Box for the user to select their operating system"
-	},
-	"report.browser": {
-		"message": "Selectaţi browser-ul şi versiunea - puteţi afla versiunea accesând about:support pe Firefox sau chrome://help",
-		"description": "Select Box for the user to select their browser"
-	},
-	"report.description": {
-		"message": "Atașați un link către un exemplu live sau un set de pași pentru a reproduce această eroare.",
-		"description": "Text for the user to write information about the bug."
-	},
-	"report.button": {
-		"message": "Raporteză",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "Aveți prea multe rapoarte active. Așteptați ca rapoartele trimise să fie revizuite. Rapoartele sunt verificate săptămânal, aveți răbdare.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "Aveți prea multe rapoarte active.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "Bug trimis",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "Sunt necesare mai multe informații",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "Contul dvs. de Discord trebuie verificat",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "Erori active",
-		"description": "Lists users active bugs"
-	}
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Erori active"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Selectaţi browser-ul şi versiunea - puteţi afla versiunea accesând about:support pe Firefox sau chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 rapoarte rămase"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Raporteză"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Atașați un link către un exemplu live sau un set de pași pentru a reproduce această eroare."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Sunt necesare mai multe informații"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Contul dvs. de Discord trebuie verificat"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "Raportarea erorilor este pentru bug-uri de pe site-ul PreMiD sau de pe serverul de Discord al PreMiD-ului. Erorile pentru o prezenţă trebuie raportate creatorului prezenţei. Raportează erorile în limba engleză."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Selectați sistemul de operare și versiunea acestuia"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Oferiți o descriere clară și concisă a bug-ului."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Bug trimis"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Raportați o problemă"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Aveți prea multe rapoarte active. Așteptați ca rapoartele trimise să fie revizuite. Rapoartele sunt verificate săptămânal, aveți răbdare."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Aveți prea multe rapoarte active."
+  }
 }

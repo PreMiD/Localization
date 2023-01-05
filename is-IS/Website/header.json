@@ -1,58 +1,58 @@
 {
-  "header.language": {
-    "message": "Íslenska",
-    "description": "Replace English with the name of YOUR language!"
-  },
-  "header.languageNotification.title": {
-    "message": "Við styðjum tungumálið þitt, viltu skipta?",
-    "description": "Heading of the language notification when user has different language."
-  },
-  "header.languageNotification.text": {
-    "message": "Vefsíða okkar hefur verið þýdd á þitt tungumál. Þetta gæti hjálpað til ef þú talar ekki ensku voða vel.",
-    "description": "Text in language notification when user has different language."
-  },
-  "header.languageNotification.btnDecline": {
-    "message": "Nei, takk",
-    "description": "Button that will decline notification."
-  },
-  "header.languageNotification.btnAccept": {
-    "message": "Skipta um tungumál",
-    "description": "Button that switches language after click."
-  },
-  "header.loader.phrases": {
-    "message": "Baka pönnukökur..;Setur gáma...;Parar IP-tölu þína...;UwU;Brýtur reglur...;Þurrkar harða diskinn þinn...",
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
-  },
-  "header.store": {
-    "message": "Verslun",
-    "description": "Store tab"
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Þátttakendur"
   },
   "header.downloads": {
-    "message": "Niðurhöl",
-    "description": "Downloads tab"
+    "description": "Downloads tab",
+    "message": "Niðurhöl"
   },
-  "header.contributors": {
-    "message": "Þátttakendur",
-    "description": "Contributors tab"
+  "header.language": {
+    "description": "Replace English with the name of YOUR language!",
+    "message": "Íslenska"
   },
-  "header.login": {
-    "message": "Innskráning",
-    "description": "Login Button"
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Skipta um tungumál"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Nei, takk"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Vefsíða okkar hefur verið þýdd á þitt tungumál. Þetta gæti hjálpað til ef þú talar ekki ensku voða vel."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Við styðjum tungumálið þitt, viltu skipta?"
   },
   "header.lia": {
-    "message": "Skráður inn sem",
-    "description": "Indicates which user is logged in"
+    "description": "Indicates which user is logged in",
+    "message": "Skráður inn sem"
   },
-  "header.rab": {
-    "message": "Tilkynna galla",
-    "description": "Report a bug button"
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Baka pönnukökur..;Setur gáma...;Parar IP-tölu þína...;UwU;Brýtur reglur...;Þurrkar harða diskinn þinn..."
   },
-  "header.staff": {
-    "message": "Stjórnborð",
-    "description": "Dashboard button"
+  "header.login": {
+    "description": "Login Button",
+    "message": "Innskráning"
   },
   "header.logout": {
-    "message": "Útskráning",
-    "description": "Logout button"
+    "description": "Logout button",
+    "message": "Útskráning"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Tilkynna galla"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Stjórnborð"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Verslun"
   }
 }

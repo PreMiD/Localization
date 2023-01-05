@@ -1,10 +1,10 @@
 {
-	"jobs.modal.buttons.cancel": {
-		"message": "Άκυρο",
-		"description": "Cancel, button in the modal."
-	},
-	"jobs.guild.required": {
-		"message": "Γίνε μέλος στο Discord μας",
-		"description": "Title of the modal the user will see if it's not in Discord server."
-	}
+  "jobs.guild.required": {
+    "description": "Title of the modal the user will see if it's not in Discord server.",
+    "message": "Γίνε μέλος στο Discord μας"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "Άκυρο"
+  }
 }

@@ -1,90 +1,90 @@
 {
-	"home.introduction.paragraph": {
-		"message": "**PreMiD** je preprost, nastavljiv pripomoček, ki ostalim pokaže kaj delate na spletu v programu Discord.",
-		"description": "First phrase that users read on our website"
-	},
-	"home.introduction.button.features": {
-		"message": "Funkcije",
-		"description": "Introduction button"
-	},
-	"home.introduction.button.downloads": {
-		"message": "Prenosi",
-		"description": "Downloads button -> redirects to /downloads page"
-	},
-	"home.examples.playingagame": {
-		"message": "Igranje iger",
-		"description": "Discord Rich Presence -> Playing a game"
-	},
-	"home.examples.timestamp": {
-		"message": "{0} Preostali čas",
-		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.timestamp2": {
-		"message": "{0} preteklo",
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
-	},
-	"home.examples.status.playing": {
-		"message": "Predvajanje",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.live": {
-		"message": "V živo",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.examples.status.browsing": {
-		"message": "Brskanje...",
-		"description": "Discord Rich Presence -> small image text;"
-	},
-	"home.features.heading": {
-		"message": "Te funkcije vam bodo všeč!",
-		"description": "Features section"
-	},
-	"home.features.presencesystem.heading": {
-		"message": "Poišči **svoj** dodatek",
-		"description": "Features section subheading"
-	},
-	"home.features.presencesystem.description": {
-		"message": "Mi smo razvili našo razširitev tako, da lahko dodajate in uporabljate dodatke narejene od drugih uporabnikov in jih lahko upravljate v naši razširitvi!",
-		"description": "Features section description"
-	},
-	"home.features.presencesystem.button": {
-		"message": "Obišči trgovino",
-		"description": "Features section button"
-	},
-	"home.features.simpleInterface.heading": {
-		"message": "Preprosti UI (Uporabniški Vmesnik)",
-		"description": "Features section subheading"
-	},
-	"home.features.simpleInterface.description": {
-		"message": "Ste naveličani od zapletenih uporabniških vmesnikih? Zato smo ustvarili svoj Uporabniški Vmesnik, ki deluje preprosto in uporabno z pomembnih lastnostih, kot so:",
-		"description": "Features section description"
-	},
-	"home.features.simpleInterface.description.1": {
-		"message": "Aplikacijske in Razširitvene nastavitve",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.2": {
-		"message": "Upravljanje z dodatki",
-		"description": "Features section description point"
-	},
-	"home.features.simpleInterface.description.3": {
-		"message": "Razvrsti po kategorijah",
-		"description": "Features section description point"
-	},
-	"home.features.quickSupport.heading": {
-		"message": "Hitra pomoč",
-		"description": "Features section subheading"
-	},
-	"home.features.quickSupport.description": {
-		"message": "Ali imate napake in vam nekaj ne dela? Mi vam bomo pomagali odstraniti te napake na našem Discord strežniku, mi smo tudi ustvarili našo podporno ekipo, ki vam bo odstranila napake takoj, ko bo možno.",
-		"description": "Features section description"
-	},
-	"home.features.quickSupport.button": {
-		"message": "Pridružite se našemu Discord-u",
-		"description": "Features section button"
-	},
-	"home.languageSelector.tippy": {
-		"message": "Jezik spletne strani",
-		"description": "Tippy content of the language selector."
-	}
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "Igranje iger"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Brskanje..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "V živo"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Predvajanje"
+  },
+  "home.examples.timestamp": {
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} Preostali čas"
+  },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} preteklo"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "Te funkcije vam bodo všeč!"
+  },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "Obišči trgovino"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "Mi smo razvili našo razširitev tako, da lahko dodajate in uporabljate dodatke narejene od drugih uporabnikov in jih lahko upravljate v naši razširitvi!"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "Poišči **svoj** dodatek"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "Pridružite se našemu Discord-u"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "Ali imate napake in vam nekaj ne dela? Mi vam bomo pomagali odstraniti te napake na našem Discord strežniku, mi smo tudi ustvarili našo podporno ekipo, ki vam bo odstranila napake takoj, ko bo možno."
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "Hitra pomoč"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "Ste naveličani od zapletenih uporabniških vmesnikih? Zato smo ustvarili svoj Uporabniški Vmesnik, ki deluje preprosto in uporabno z pomembnih lastnostih, kot so:"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "Aplikacijske in Razširitvene nastavitve"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "Upravljanje z dodatki"
+  },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "Razvrsti po kategorijah"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "Preprosti UI (Uporabniški Vmesnik)"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Prenosi"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "Funkcije"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "**PreMiD** je preprost, nastavljiv pripomoček, ki ostalim pokaže kaj delate na spletu v programu Discord."
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "Jezik spletne strani"
+  }
 }

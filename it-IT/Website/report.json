@@ -1,58 +1,58 @@
 {
-	"report.title": {
-		"message": "Segnala un bug",
-		"description": "Text to indicate the page."
-	},
-	"report.bugcount": {
-		"message": "{count}/3 Segnalazioni rimaste",
-		"description": "Amount of bug reports user can send"
-	},
-	"report.info": {
-		"message": "\"Segnalare un bug\" è per bug all'interno del sito PreMiD e del server di Discord PreMiD. I bug per una presence devono essere segnalati al creatore della presence. Segnala bug solo in inglese.",
-		"description": "Tells the user about submitting a bug"
-	},
-	"report.overview": {
-		"message": "Fornisci una descrizione chiara e concisa riguardante il bug.",
-		"description": "Text for the user to write a brief of the bug information."
-	},
-	"report.os": {
-		"message": "Seleziona il tuo Sistema Operativo e Versione",
-		"description": "Select Box for the user to select their operating system"
-	},
-	"report.browser": {
-		"message": "Seleziona il browser e la versione - È possibile visualizzare la versione visitando about:support su Firefox o chrome://help",
-		"description": "Select Box for the user to select their browser"
-	},
-	"report.description": {
-		"message": "Fornisci un link ad un esempio o un insieme univoco di passaggi per riprodurre questo bug.",
-		"description": "Text for the user to write information about the bug."
-	},
-	"report.button": {
-		"message": "Segnala",
-		"description": "Button to send the information inputed."
-	},
-	"report.toomany": {
-		"message": "Hai troppe segnalazioni attive. Attendi che le tue segnalazioni siano revisionate. Le segnalazioni sono controllate settimanalmente, sii paziente.",
-		"description": "User has too many active reports"
-	},
-	"report.toomany.alert": {
-		"message": "Hai troppe segnalazioni attive.",
-		"description": "User has too many active reports"
-	},
-	"report.success": {
-		"message": "Bug Inviato",
-		"description": "Success notification"
-	},
-	"report.error": {
-		"message": "Sono richieste ulteriori informazioni",
-		"description": "User needs to input more notification"
-	},
-	"report.error.unauth": {
-		"message": "L'account Discord deve essere verificato",
-		"description": "Users Discord not verified"
-	},
-	"report.activebugs": {
-		"message": "Bug Attivi",
-		"description": "Lists users active bugs"
-	}
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Bug Attivi"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Seleziona il browser e la versione - È possibile visualizzare la versione visitando about:support su Firefox o chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 Segnalazioni rimaste"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Segnala"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Fornisci un link ad un esempio o un insieme univoco di passaggi per riprodurre questo bug."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Sono richieste ulteriori informazioni"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "L'account Discord deve essere verificato"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "\"Segnalare un bug\" è per bug all'interno del sito PreMiD e del server di Discord PreMiD. I bug per una presence devono essere segnalati al creatore della presence. Segnala bug solo in inglese."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Seleziona il tuo Sistema Operativo e Versione"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Fornisci una descrizione chiara e concisa riguardante il bug."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Bug Inviato"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Segnala un bug"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Hai troppe segnalazioni attive. Attendi che le tue segnalazioni siano revisionate. Le segnalazioni sono controllate settimanalmente, sii paziente."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Hai troppe segnalazioni attive."
+  }
 }

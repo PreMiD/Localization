@@ -1,230 +1,230 @@
 {
-	"partners.header.title": {
-		"message": "Партнери",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "Приєднайтесь до FAM і отримуй переваги від партнера тільки для того, щоб показати скільки у вас халатів.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "Вони вже належать нам",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "Як щодо того, щоб потрапити на рай замість пекла?",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "Ваш безкоштовний Presence",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "Наша команда надасть вам присутність вашого веб-сервісу.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "Станьте перевіреним",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "Спеціальна роль і велика честь будуть надані вам на нашому сервері Discord.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "Інтеграція з мета-тегами",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "Автоматично використовує ваш Presence, коли хтось відвідує ваш веб-сайт.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "Відокремте",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "На нашій сторінці партнера гарне місце.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "Будь відомим",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "Рекомендовано нашими соціальними мережами.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "Вимоги",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "Що ми шукаємо?",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "Ми спостерігаємо за спільнотами, що розвиваються, і за речами в інтернеті, що нас захоплюють. БАГАТАЛІТЄР!! Вам уже потрібно використовувати PreMiD і бути готовим до поширення на ще більше перехідних інтернет-сервісів. Прийняття до програми є надзвичайно якісним і буде відрізнятися у всіх кандидатів.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "Наш брандмауер",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "В даний час ми приймаємо різні зусилля щодо нашої програми партнерства. Будь-хто повинен мати можливість бути помічений. Стрімери Twitch повинні мати принаймні 500 послідовників і принаймні 10-ох одночасних глядачів. Ви повинні транслювати принаймні 1 раз на тиждень.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "Подайте зараз!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "Ходімо до раю разом!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "Якщо ви досить зацікавлені у безпосередній роботі у PreMiD, то перегляньте **наші пропозиції про роботу**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "Спонсори",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD не став би можливим без цих дивовижних людей.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "Ось так ви дивитеся аніме.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "Арена Королів — це PvP Арена в браузері наступного покоління, яка швидко набирає обертів.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio — це найуспішніше інформаційне радіо для ігор у жанрі симуляції в Німеччині, Австрії та Швейцарії!",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "Почніть створювати власну спільноту з нашими дивовижними шаблонами. Побудуйте своє власне королівство.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "taiga - це бот Discord, який намагається запропонувати всі функції, які вам можуть знадобитися відразу!",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.bitRock": {
-		"message": "Потужний і простий у використанні багатоплатформовий інструмент створення встановлювача.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "Легко спілкуйтеся в реальному часі зі своїми користувачами.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "Богиня, що грає в веселому Discord Bot!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.crowdin": {
-		"message": "Рішення для гнучкої локалізації для технологічних компаній.",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "Найбільш потужне та широкомасштабне програмне забезпечення для вікі джерела.",
-		"description": "Description for WikiJS."
-	},
-	"partners.partner.packageCloud": {
-		"message": "Єдиний, дружній інтерфейс для розробників і для всіх ваших артефактів.",
-		"description": "Description for PackageCloud."
-	},
-	"partners.partner.fastly": {
-		"message": "За найкращими веб-сторінками.",
-		"description": "Description for Fastly."
-	},
-	"partners.apply.title": {
-		"message": "Застосувати до партнера",
-		"description": "Partnership application modal title."
-	},
-	"partners.apply.loggedUser": {
-		"message": "Ви увійшли як {0}",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "Не ви?",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "Будь ласка, оберіть одне",
-		"description": "Select default placeholder."
-	},
-	"partners.apply.select.website": {
-		"message": "Вебсайт",
-		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "Інше",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "Ім'я",
-		"description": "Name filed."
-	},
-	"partners.apply.form.name.placeholder": {
-		"message": "Наприклад: PreMiD",
-		"description": "Name field's placeholder."
-	},
-	"partners.apply.form.link": {
-		"message": "Посилання",
-		"description": "Link field."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "Наприклад: https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.description": {
-		"message": "Опис: (максимум 150 символів)",
-		"description": "Description field."
-	},
-	"partners.apply.form.description.placeholder": {
-		"message": "Опис для можливостей",
-		"description": "Description field's placeholder."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "Посилання на зображення: (550x300, тільки PNG)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "Наприклад: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.close": {
-		"message": "Закрити",
-		"description": "Modal close button."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "Застосувати",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "Дякуємо, що подали заявку!",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error1": {
-		"message": "Будь ласка, заповніть усі поля.",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error2": {
-		"message": "Максимум 150 символів в описі.",
-		"description": "Error when description exceeds character limit."
-	},
-	"partners.apply.error3": {
-		"message": "Будь ласка, додайте посилання (має починатися з https:// і завершуватись з .png)",
-		"description": "Error when image link is entered wrong."
-	},
-	"partners.apply.error4": {
-		"message": "Ви вже подали заяву на партнерство.",
-		"description": "Error when already applied."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Подайте зараз!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Ходімо до раю разом!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Будь ласка, заповніть усі поля."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Максимум 150 символів в описі."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Будь ласка, додайте посилання (має починатися з https:// і завершуватись з .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Ви вже подали заяву на партнерство."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Застосувати"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Закрити"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Опис: (максимум 150 символів)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Опис для можливостей"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Посилання на зображення: (550x300, тільки PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Наприклад: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Посилання"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Наприклад: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Ім'я"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Наприклад: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Якщо ви досить зацікавлені у безпосередній роботі у PreMiD, то перегляньте **наші пропозиції про роботу**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Ви увійшли як {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Не ви?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Будь ласка, оберіть одне"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Інше"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Вебсайт"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Дякуємо, що подали заявку!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Застосувати до партнера"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Приєднайтесь до FAM і отримуй переваги від партнера тільки для того, щоб показати скільки у вас халатів."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Партнери"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Ось так ви дивитеся аніме."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Арена Королів — це PvP Арена в браузері наступного покоління, яка швидко набирає обертів."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Потужний і простий у використанні багатоплатформовий інструмент створення встановлювача."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Рішення для гнучкої локалізації для технологічних компаній."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Почніть створювати власну спільноту з нашими дивовижними шаблонами. Побудуйте своє власне королівство."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Богиня, що грає в веселому Discord Bot!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "За найкращими веб-сторінками."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "Єдиний, дружній інтерфейс для розробників і для всіх ваших артефактів."
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio — це найуспішніше інформаційне радіо для ігор у жанрі симуляції в Німеччині, Австрії та Швейцарії!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Легко спілкуйтеся в реальному часі зі своїми користувачами."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga - це бот Discord, який намагається запропонувати всі функції, які вам можуть знадобитися відразу!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "Найбільш потужне та широкомасштабне програмне забезпечення для вікі джерела."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Ми спостерігаємо за спільнотами, що розвиваються, і за речами в інтернеті, що нас захоплюють. БАГАТАЛІТЄР!! Вам уже потрібно використовувати PreMiD і бути готовим до поширення на ще більше перехідних інтернет-сервісів. Прийняття до програми є надзвичайно якісним і буде відрізнятися у всіх кандидатів."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Що ми шукаємо?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "В даний час ми приймаємо різні зусилля щодо нашої програми партнерства. Будь-хто повинен мати можливість бути помічений. Стрімери Twitch повинні мати принаймні 500 послідовників і принаймні 10-ох одночасних глядачів. Ви повинні транслювати принаймні 1 раз на тиждень."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Наш брандмауер"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Вимоги"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Вони вже належать нам"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "PreMiD не став би можливим без цих дивовижних людей."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Спонсори"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Наша команда надасть вам присутність вашого веб-сервісу."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Ваш безкоштовний Presence"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Спеціальна роль і велика честь будуть надані вам на нашому сервері Discord."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Станьте перевіреним"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Автоматично використовує ваш Presence, коли хтось відвідує ваш веб-сайт."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Інтеграція з мета-тегами"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "На нашій сторінці партнера гарне місце."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Відокремте"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Рекомендовано нашими соціальними мережами."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Будь відомим"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "Як щодо того, щоб потрапити на рай замість пекла?"
+  }
 }

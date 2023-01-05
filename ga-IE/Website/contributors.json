@@ -1,42 +1,42 @@
 {
-	"contributors.headings.staff": {
-		"message": "Foireann",
-		"description": "Heading for group of users."
-	},
-	"contributors.headings.supporters": {
-		"message": "Lucht tacaíochta",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.localizationManager": {
-		"message": "Bainisteoir Logánú",
-		"description": "'Localization Manager' title for contributors and user pages."
-	},
-	"contributors.roles.proofreader": {
-		"message": "Léitheoir profaí",
-		"description": "'Proofreader' title for contributors and user pages."
-	},
-	"contributors.headings.translators": {
-		"message": "Aistritheoirí",
-		"description": "Heading for group of users."
-	},
-	"contributors.roles.donator": {
-		"message": "Deontóir",
-		"description": "'Donator' title for contributors page."
-	},
-	"contributors.roles.booster": {
-		"message": "Teanndáileog",
-		"description": "'Booster' title for contributors page and user pages."
-	},
-	"contributors.roles.translator": {
-		"message": "Aistritheoir",
-		"description": "'Translator' title for contributors page."
-	},
-	"contributors.cards.copyUserId": {
-		"message": "Cliceáil chun ID an úsáideora a chóipeáil.",
-		"description": "Tippy message when you hover on the avatar of a credit card."
-	},
-	"contributors.cards.userIdCopied": {
-		"message": "Cóipeáladh ID an Úsáideora!",
-		"description": "Notification after user ID was copied."
-	}
+  "contributors.cards.copyUserId": {
+    "description": "Tippy message when you hover on the avatar of a credit card.",
+    "message": "Cliceáil chun ID an úsáideora a chóipeáil."
+  },
+  "contributors.cards.userIdCopied": {
+    "description": "Notification after user ID was copied.",
+    "message": "Cóipeáladh ID an Úsáideora!"
+  },
+  "contributors.headings.staff": {
+    "description": "Heading for group of users.",
+    "message": "Foireann"
+  },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Lucht tacaíochta"
+  },
+  "contributors.headings.translators": {
+    "description": "Heading for group of users.",
+    "message": "Aistritheoirí"
+  },
+  "contributors.roles.booster": {
+    "description": "'Booster' title for contributors page and user pages.",
+    "message": "Teanndáileog"
+  },
+  "contributors.roles.donator": {
+    "description": "'Donator' title for contributors page.",
+    "message": "Deontóir"
+  },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "Bainisteoir Logánú"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "Léitheoir profaí"
+  },
+  "contributors.roles.translator": {
+    "description": "'Translator' title for contributors page.",
+    "message": "Aistritheoir"
+  }
 }

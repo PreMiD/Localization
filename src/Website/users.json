@@ -1,38 +1,38 @@
 {
-	"user.roles.presenceDeveloper": {
-		"message": "Presence Developer",
-		"description": "'Presence Developer' title for user pages."
-	},
-	"user.roles.presenceVerifier": {
-		"message": "Presence Verifier",
-		"description": "'Presence Verifier' title for user pages."
-	},
-	"user.importantPresenceDev.message1": {
-		"message": "Important Presence Developer",
-		"description": "'Important Presence Developer' tippy description for user pages."
-	},
-	"user.importantPresenceDev.message2": {
-		"message": "Created {0} presences.",
-		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.geniusPresenceDev.message1": {
-		"message": "Genius Presence Developer",
-		"description": "'Genuis Presence Developer' tippy description for user pages."
-	},
-	"user.geniusPresenceDev.message2": {
-		"message": "Created over 100 Presences!",
-		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
-	},
-	"user.switch.contributed": {
-		"message": "User [Presences/contributions]",
-		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
-	},
-	"user.presences.created": {
-		"message": "Click here to show the Presences this user has created.",
-		"description": "Tippy content in user profile."
-	},
-	"user.presences.contributed": {
-		"message": "Click here to show the presences this user has contributed to.",
-		"description": "Tippy content (mode 2) in user profile."
-	}
+  "user.geniusPresenceDev.message1": {
+    "description": "'Genuis Presence Developer' tippy description for user pages.",
+    "message": "Genius Presence Developer"
+  },
+  "user.geniusPresenceDev.message2": {
+    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "Created over 100 Presences!"
+  },
+  "user.importantPresenceDev.message1": {
+    "description": "'Important Presence Developer' tippy description for user pages.",
+    "message": "Important Presence Developer"
+  },
+  "user.importantPresenceDev.message2": {
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "Created {0} presences."
+  },
+  "user.presences.contributed": {
+    "description": "Tippy content (mode 2) in user profile.",
+    "message": "Click here to show the presences this user has contributed to."
+  },
+  "user.presences.created": {
+    "description": "Tippy content in user profile.",
+    "message": "Click here to show the Presences this user has created."
+  },
+  "user.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for user pages.",
+    "message": "Presence Developer"
+  },
+  "user.roles.presenceVerifier": {
+    "description": "'Presence Verifier' title for user pages.",
+    "message": "Presence Verifier"
+  },
+  "user.switch.contributed": {
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
+    "message": "User [Presences/contributions]"
+  }
 }

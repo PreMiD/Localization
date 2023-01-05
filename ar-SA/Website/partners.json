@@ -1,242 +1,242 @@
 {
-	"partners.header.title": {
-		"message": "الشركاء",
-		"description": "Heading for page."
-	},
-	"partners.header.description": {
-		"message": "قم بالإنضمام الى العائلة وأحصل على بعض الفوائد الخاصة بالشركاء لإظهاء كمية المقدار لديك.",
-		"description": "Description for page."
-	},
-	"partners.slideshow.description": {
-		"message": "هذه بالفعل ملك لنا",
-		"description": "Description for slideshow."
-	},
-	"partners.why.title": {
-		"message": "ماذا عن الذهاب إلى الجنة بدلا من الجحيم؟",
-		"description": "Heading for benefits."
-	},
-	"partners.why.benefit1.title": {
-		"message": "الpresence المجاني الخاص بك",
-		"description": "Heading for the first benefit."
-	},
-	"partners.why.benefit1.description": {
-		"message": "سيوفر لك فريقنا Presence لخدمتك.",
-		"description": "Description for the first benefit."
-	},
-	"partners.why.benefit2.title": {
-		"message": "كن مُحققًا",
-		"description": "Heading for the second benefit."
-	},
-	"partners.why.benefit2.description": {
-		"message": "سيتم إعطاؤك رتبة خاصة وشرف عظيم لك في سيرفر ديسكورد الخاص بنا.",
-		"description": "Description for the second benefit."
-	},
-	"partners.why.benefit3.title": {
-		"message": "تكامل الوسوم الوصفية",
-		"description": "Heading for the third benefit."
-	},
-	"partners.why.benefit3.description": {
-		"message": "يستخدم الpresence الخاص بك تلقائيًا عندما يقوم شخص ما بزيارة موقع الويب الخاص بك.",
-		"description": "Description for the third benefit."
-	},
-	"partners.why.benefit4.title": {
-		"message": "كن خالدا",
-		"description": "Heading for the fourth benefit."
-	},
-	"partners.why.benefit4.description": {
-		"message": "مكان في صفحة شركائنا.",
-		"description": "Description for the fourth benefit."
-	},
-	"partners.why.benefit5.title": {
-		"message": "كن مشهور",
-		"description": "Heading for the fifth benefit."
-	},
-	"partners.why.benefit5.description": {
-		"message": "مميز على وسائل التواصل الاجتماعي الخاصة بنا.",
-		"description": "Description for the fifth benefit."
-	},
-	"partners.requirements.title": {
-		"message": "المتطلبات",
-		"description": "Heading for the requirements."
-	},
-	"partners.requirements.first.title": {
-		"message": "ما الذي نبحث عنه؟",
-		"description": "Heading for the first requirement."
-	},
-	"partners.requirements.first.description": {
-		"message": "نحن نضع في أنظارنا المجتمعات النامية والأشياء المثيرة حول الإنترنت. TL;DR يجب أن تستخدم PreMiD بالفعل وأن تكون مستعدا لنشره على المزيد من الحزم عبر الإنترنت. والقبول في البرنامج هو أمر نوعي للغاية وسيتفاوت من مرشح إلى آخر.",
-		"description": "Description for the first requirement."
-	},
-	"partners.requirements.second.title": {
-		"message": "جدار الحماية لدينا",
-		"description": "Heading for the second requirement."
-	},
-	"partners.requirements.second.description": {
-		"message": "نحن حاليا نقبل أنواعا مختلفة من الجهد في برنامجنا للشراكة. أي شخص ينبغي أن تتاح له الفرصة لأن يلاحظ. يجب أن يكون لمذيعي تويتش 500 تابع على الأقل و 10 مشاهدين متزامنين على الأقل. يجب أن تبث مرة واحدة على الأقل في الأسبوع.",
-		"description": "Description for the second requirement."
-	},
-	"partners.apply.button": {
-		"message": "قدم الآن!",
-		"description": "Button to apply for partner."
-	},
-	"partners.apply.disclaimer": {
-		"message": "دعنا نذهب إلى السماء معاً!",
-		"description": "Disclaimer located above the apply button."
-	},
-	"partners.apply.jobs": {
-		"message": "إذا كنت ترغب في الحصول على وظيفة مباشرة في PreMiD، فقم بإلقاء نظرة على **إعلانات الوظائف الخاصة بنا**.",
-		"description": "Hint located under the button."
-	},
-	"partners.sponsors.title": {
-		"message": "الرعاة",
-		"description": "Heading for sponsors."
-	},
-	"partners.sponsors.description": {
-		"message": "PreMiD لن يكون ممكناً، بدون هؤلاء الناس المذهلين.",
-		"description": "Description for sponsors."
-	},
-	"partners.partner.aniFlix": {
-		"message": "هذه هي الطريقة التي تشاهد بها الانيمي.",
-		"description": "Description for AniFlix."
-	},
-	"partners.partner.arenaOfKings": {
-		"message": "ساحة الملوك هي لعبة ساحة سريعة الوتيرة من الجيل القادم التي تلعب في المتصفح.",
-		"description": "Description for Arena of Kings."
-	},
-	"partners.partner.simLiveRadio": {
-		"message": "SimLiveRadio هو أنجح راديو معلوماتي ترفيهي لألعاب المحاكاة في ألمانيا، النمسا وسويسرا!",
-		"description": "Description for SimLoveRadio."
-	},
-	"partners.partner.discordTemplates": {
-		"message": "باشر بإنشاء مجتمعك الخاص مع نماذجنا المذهلة. ابني مملكتك الخاصة.",
-		"description": "Description for DiscordTemplates."
-	},
-	"partners.partner.taigaBot": {
-		"message": "تايغا هو بوت ديسكورد يحاول تقديم جميع الميزات التي قد تحتاجها في وقت واحد!",
-		"description": "Description for taigabot."
-	},
-	"partners.partner.bitRock": {
-		"message": "أداة إنشاء تثبيت منصة قوية وسهلة الاستخدام.",
-		"description": "Description for BitRock."
-	},
-	"partners.partner.statusPage": {
-		"message": "قم بإيصال الحالة في الوقت الحالي بسهولة إلى مستخدميك.",
-		"description": "Description for StatusPage."
-	},
-	"partners.partner.erisly": {
-		"message": "آلهة تلعب دور بوت ديسكورد ممتع!",
-		"description": "Description for Erisly."
-	},
-	"partners.partner.reyfm": {
-		"message": "REYFM تمكنك من الإستماع إلى اكثر من 15+ بث موسيقي مجاناً - بدون توقف. مع أفضل و أحدث الموسيقى لك فقط!",
-		"description": "Description for REYFM."
-	},
-	"partners.partner.crowdin": {
-		"message": "مكان رشيق لشركات التكنولوجيا.",
-		"description": "Description for Crowdin."
-	},
-	"partners.partner.wikijs": {
-		"message": "برنامج ويكي مفتوح المصدر الأقوى والأكثر قابلية للتوسيع.",
-		"description": "Description for WikiJS."
-	},
-	"partners.partner.packageCloud": {
-		"message": "واجهة موحدة, سهلة الاستخدام للمطورين لكل أدواتك.",
-		"description": "Description for PackageCloud."
-	},
-	"partners.partner.fastly": {
-		"message": "وراء أفضل في الويب.",
-		"description": "Description for Fastly."
-	},
-	"partners.partner.onlyhit": {
-		"message": "OnlyHit هي محطة الإذاعة الموسيقى الخاصة بك على الانترنت والتي تم صناعتها لتشغيل افضل الأغاني على مدار الساعة 24/7 ولجعلك تكتشف أفضل الأغاني أولاً.",
-		"description": "Description for OnlyHit."
-	},
-	"partners.partner.rNetflix": {
-		"message": "r/Netflix هو أكبر خوادم ديسكورد المتعلقة بـ Netflix. ناقش السلاسل أو الأفلام المفضلة لديك مع أشخاص لديهم نفس الاهتمام.",
-		"description": "Description for r/Netflix."
-	},
-	"partners.apply.title": {
-		"message": "تقدم بطلب الشريك",
-		"description": "Partnership application modal title."
-	},
-	"partners.apply.loggedUser": {
-		"message": "تم تسجيل الدخول كـ {0}",
-		"description": "{0} will be replaced with user account."
-	},
-	"partners.apply.notYou": {
-		"message": "ليس أنت؟",
-		"description": "Account switcher on the modal, just like Discord's!"
-	},
-	"partners.apply.select.default": {
-		"message": "يرجى اختيار واحد",
-		"description": "Select default placeholder."
-	},
-	"partners.apply.select.website": {
-		"message": "الموقع",
-		"description": "Select 'Website' category."
-	},
-	"partners.apply.select.other": {
-		"message": "آخر",
-		"description": "Select 'Other' category."
-	},
-	"partners.apply.form.name": {
-		"message": "الاسم",
-		"description": "Name filed."
-	},
-	"partners.apply.form.name.placeholder": {
-		"message": "مثال: PreMiD",
-		"description": "Name field's placeholder."
-	},
-	"partners.apply.form.link": {
-		"message": "الرابط",
-		"description": "Link field."
-	},
-	"partners.apply.form.link.placeholder": {
-		"message": "مثال: https://premid.app",
-		"description": "Link filed's placeholder."
-	},
-	"partners.apply.form.description": {
-		"message": "الوصف: (150 رمزاً كحد أقصى)",
-		"description": "Description field."
-	},
-	"partners.apply.form.description.placeholder": {
-		"message": "وصف المميز",
-		"description": "Description field's placeholder."
-	},
-	"partners.apply.form.imageLink": {
-		"message": "رابط الصورة: (550x300, PNG فقط)",
-		"description": "Do not change the sizes."
-	},
-	"partners.apply.form.imageLink.placeholder": {
-		"message": "مثال: https://i.imgur.com/clun1ID.png",
-		"description": "Image link field's placeholder. Do not change the image URL."
-	},
-	"partners.apply.form.button.close": {
-		"message": "غلق",
-		"description": "Modal close button."
-	},
-	"partners.apply.form.button.apply": {
-		"message": "تقديم",
-		"description": "Modal apply button."
-	},
-	"partners.apply.success": {
-		"message": "شكرًا لك على تقديم الطلب!",
-		"description": "Success message when applying."
-	},
-	"partners.apply.error1": {
-		"message": "يُرجى إكمال كافة الحقول.",
-		"description": "Error when a field isn't filled."
-	},
-	"partners.apply.error2": {
-		"message": "الحد الأقصى للوصف 150 رمزا.",
-		"description": "Error when description exceeds character limit."
-	},
-	"partners.apply.error3": {
-		"message": "الرجاء إضافة رابط (يجب أن يبدأ ب https:// و ينتهي ب .png)",
-		"description": "Error when image link is entered wrong."
-	},
-	"partners.apply.error4": {
-		"message": "لقد سبق لك أن قدمت طلب.",
-		"description": "Error when already applied."
-	}
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "قدم الآن!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "دعنا نذهب إلى السماء معاً!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "يُرجى إكمال كافة الحقول."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "الحد الأقصى للوصف 150 رمزا."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "الرجاء إضافة رابط (يجب أن يبدأ ب https:// و ينتهي ب .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "لقد سبق لك أن قدمت طلب."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "تقديم"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "غلق"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "الوصف: (150 رمزاً كحد أقصى)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "وصف المميز"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "رابط الصورة: (550x300, PNG فقط)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "مثال: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "الرابط"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "مثال: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "الاسم"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "مثال: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "إذا كنت ترغب في الحصول على وظيفة مباشرة في PreMiD، فقم بإلقاء نظرة على **إعلانات الوظائف الخاصة بنا**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "تم تسجيل الدخول كـ {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "ليس أنت؟"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "يرجى اختيار واحد"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "آخر"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "الموقع"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "شكرًا لك على تقديم الطلب!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "تقدم بطلب الشريك"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "قم بالإنضمام الى العائلة وأحصل على بعض الفوائد الخاصة بالشركاء لإظهاء كمية المقدار لديك."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "الشركاء"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "هذه هي الطريقة التي تشاهد بها الانيمي."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "ساحة الملوك هي لعبة ساحة سريعة الوتيرة من الجيل القادم التي تلعب في المتصفح."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "أداة إنشاء تثبيت منصة قوية وسهلة الاستخدام."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "مكان رشيق لشركات التكنولوجيا."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "باشر بإنشاء مجتمعك الخاص مع نماذجنا المذهلة. ابني مملكتك الخاصة."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "آلهة تلعب دور بوت ديسكورد ممتع!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "وراء أفضل في الويب."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit هي محطة الإذاعة الموسيقى الخاصة بك على الانترنت والتي تم صناعتها لتشغيل افضل الأغاني على مدار الساعة 24/7 ولجعلك تكتشف أفضل الأغاني أولاً."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "واجهة موحدة, سهلة الاستخدام للمطورين لكل أدواتك."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix هو أكبر خوادم ديسكورد المتعلقة بـ Netflix. ناقش السلاسل أو الأفلام المفضلة لديك مع أشخاص لديهم نفس الاهتمام."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM تمكنك من الإستماع إلى اكثر من 15+ بث موسيقي مجاناً - بدون توقف. مع أفضل و أحدث الموسيقى لك فقط!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio هو أنجح راديو معلوماتي ترفيهي لألعاب المحاكاة في ألمانيا، النمسا وسويسرا!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "قم بإيصال الحالة في الوقت الحالي بسهولة إلى مستخدميك."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "تايغا هو بوت ديسكورد يحاول تقديم جميع الميزات التي قد تحتاجها في وقت واحد!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "برنامج ويكي مفتوح المصدر الأقوى والأكثر قابلية للتوسيع."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "نحن نضع في أنظارنا المجتمعات النامية والأشياء المثيرة حول الإنترنت. TL;DR يجب أن تستخدم PreMiD بالفعل وأن تكون مستعدا لنشره على المزيد من الحزم عبر الإنترنت. والقبول في البرنامج هو أمر نوعي للغاية وسيتفاوت من مرشح إلى آخر."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "ما الذي نبحث عنه؟"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "نحن حاليا نقبل أنواعا مختلفة من الجهد في برنامجنا للشراكة. أي شخص ينبغي أن تتاح له الفرصة لأن يلاحظ. يجب أن يكون لمذيعي تويتش 500 تابع على الأقل و 10 مشاهدين متزامنين على الأقل. يجب أن تبث مرة واحدة على الأقل في الأسبوع."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "جدار الحماية لدينا"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "المتطلبات"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "هذه بالفعل ملك لنا"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "PreMiD لن يكون ممكناً، بدون هؤلاء الناس المذهلين."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "الرعاة"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "سيوفر لك فريقنا Presence لخدمتك."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "الpresence المجاني الخاص بك"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "سيتم إعطاؤك رتبة خاصة وشرف عظيم لك في سيرفر ديسكورد الخاص بنا."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "كن مُحققًا"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "يستخدم الpresence الخاص بك تلقائيًا عندما يقوم شخص ما بزيارة موقع الويب الخاص بك."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "تكامل الوسوم الوصفية"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "مكان في صفحة شركائنا."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "كن خالدا"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "مميز على وسائل التواصل الاجتماعي الخاصة بنا."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "كن مشهور"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "ماذا عن الذهاب إلى الجنة بدلا من الجحيم؟"
+  }
 }

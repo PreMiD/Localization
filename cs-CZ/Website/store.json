@@ -1,98 +1,98 @@
 {
-	"store.message.error": {
-		"message": "Rozšíření není připojeno.",
-		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
-	},
-	"store.cards.creator": {
-		"message": "Autor",
-		"description": "Creator of a presence"
-	},
-	"store.cards.popular": {
-		"message": "Tato Presence je velmi populární mezi uživateli.",
-		"description": "Presence card popular flame"
-	},
-	"store.cards.partner": {
-		"message": "Partnerská Presence",
-		"description": "Presence card partner flame"
-	},
-	"store.cards.extraStepsRequired": {
-		"message": "Tato presence vyžaduje další kroky, aby mohla pracovat, prosím zkontroluj její stránku pro více informací.",
-		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
-	},
-	"store.header.search": {
-		"message": "Hledat Presence",
-		"description": "Search bar text when nothing is stated"
-	},
-	"store.card.presence.add": {
-		"message": "Přidat Presenci",
-		"description": "Button that will appear on hover after extension is installed."
-	},
-	"store.card.presence.remove": {
-		"message": "Odebrat Presenci",
-		"description": "Button that will appear on hover after extension and presence is installed."
-	},
-	"store.card.presence.included": {
-		"message": "Tato Presence se automaticky zapne při navštívení příslušné stránky.",
-		"description": "The message that appears instead of the buttons."
-	},
-	"store.category.filters.heading": {
-		"message": "Filtry",
-		"description": "Searh filters option at the store page"
-	},
-	"store.category.filters.mostUsed": {
-		"message": "Nejvíce používané první",
-		"description": "Most used first checkbox"
-	},
-	"store.category.filters.allowAdult": {
-		"message": "Zobrazit NSFW",
-		"description": "Adult content checkbox"
-	},
-	"store.category.filters.likedOnly": {
-		"message": "Pouze Presence označené \"Líbí se\"",
-		"description": "Liked presences only checkbox"
-	},
-	"store.filters.added": {
-		"message": "Zobrazovat již přidané Presence",
-		"description": "Store filter to display/not display already installed presences."
-	},
-	"store.category.heading": {
-		"message": "Kategorie",
-		"description": "Category heading"
-	},
-	"store.category.all": {
-		"message": "Vše",
-		"description": "Category at the top"
-	},
-	"store.category.games": {
-		"message": "Hry",
-		"description": "Category at the top"
-	},
-	"store.category.music": {
-		"message": "Hudba",
-		"description": "Category at the top"
-	},
-	"store.category.socials": {
-		"message": "Sociální Sítě",
-		"description": "Category at the top"
-	},
-	"store.category.videos": {
-		"message": "Videa & Živé přenosy",
-		"description": "Category at the top"
-	},
-	"store.category.other": {
-		"message": "Ostatní",
-		"description": "Category at the top"
-	},
-	"store.search": {
-		"message": "Hledat",
-		"description": "Placeholder for presence search"
-	},
-	"store.search.filters": {
-		"message": "Vložit",
-		"description": "Little message next to the keys of search filters on the store."
-	},
-	"store.search.removeFilter": {
-		"message": "Klikněte pro odebrání filtru",
-		"description": "Remove message for active search filters."
-	}
+  "store.card.presence.add": {
+    "description": "Button that will appear on hover after extension is installed.",
+    "message": "Přidat Presenci"
+  },
+  "store.card.presence.included": {
+    "description": "The message that appears instead of the buttons.",
+    "message": "Tato Presence se automaticky zapne při navštívení příslušné stránky."
+  },
+  "store.card.presence.remove": {
+    "description": "Button that will appear on hover after extension and presence is installed.",
+    "message": "Odebrat Presenci"
+  },
+  "store.cards.creator": {
+    "description": "Creator of a presence",
+    "message": "Autor"
+  },
+  "store.cards.extraStepsRequired": {
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
+    "message": "Tato presence vyžaduje další kroky, aby mohla pracovat, prosím zkontroluj její stránku pro více informací."
+  },
+  "store.cards.partner": {
+    "description": "Presence card partner flame",
+    "message": "Partnerská Presence"
+  },
+  "store.cards.popular": {
+    "description": "Presence card popular flame",
+    "message": "Tato Presence je velmi populární mezi uživateli."
+  },
+  "store.category.all": {
+    "description": "Category at the top",
+    "message": "Vše"
+  },
+  "store.category.filters.allowAdult": {
+    "description": "Adult content checkbox",
+    "message": "Zobrazit NSFW"
+  },
+  "store.category.filters.heading": {
+    "description": "Searh filters option at the store page",
+    "message": "Filtry"
+  },
+  "store.category.filters.likedOnly": {
+    "description": "Liked presences only checkbox",
+    "message": "Pouze Presence označené \"Líbí se\""
+  },
+  "store.category.filters.mostUsed": {
+    "description": "Most used first checkbox",
+    "message": "Nejvíce používané první"
+  },
+  "store.category.games": {
+    "description": "Category at the top",
+    "message": "Hry"
+  },
+  "store.category.heading": {
+    "description": "Category heading",
+    "message": "Kategorie"
+  },
+  "store.category.music": {
+    "description": "Category at the top",
+    "message": "Hudba"
+  },
+  "store.category.other": {
+    "description": "Category at the top",
+    "message": "Ostatní"
+  },
+  "store.category.socials": {
+    "description": "Category at the top",
+    "message": "Sociální Sítě"
+  },
+  "store.category.videos": {
+    "description": "Category at the top",
+    "message": "Videa & Živé přenosy"
+  },
+  "store.filters.added": {
+    "description": "Store filter to display/not display already installed presences.",
+    "message": "Zobrazovat již přidané Presence"
+  },
+  "store.header.search": {
+    "description": "Search bar text when nothing is stated",
+    "message": "Hledat Presence"
+  },
+  "store.message.error": {
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
+    "message": "Rozšíření není připojeno."
+  },
+  "store.search": {
+    "description": "Placeholder for presence search",
+    "message": "Hledat"
+  },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "Vložit"
+  },
+  "store.search.removeFilter": {
+    "description": "Remove message for active search filters.",
+    "message": "Klikněte pro odebrání filtru"
+  }
 }
