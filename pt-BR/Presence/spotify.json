@@ -1,22 +1,22 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "seus álbuns curtidos"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Melhores podcasts"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Feito para você\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "suas playlists"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "suas músicas curtidas"
-  }
+	"spotify.bestPodcasts": {
+		"message": "Melhores podcasts",
+		"description": ""
+	},
+	"spotify.albumLike": {
+		"message": "seus álbuns curtidos",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "suas músicas curtidas",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Feito para você\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "suas playlists",
+		"description": "\"Browsing through\" + this"
+	}
 }
