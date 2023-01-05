@@ -1,18 +1,18 @@
 {
-  "namemc.buttonViewServer": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض السيرفر"
-  },
-  "namemc.capes": {
-    "description": "",
-    "message": "يشاهد الأوشحة"
-  },
-  "namemc.viewCape": {
-    "description": "",
-    "message": "يشاهد الوشاح:"
-  },
-  "namemc.viewSkin": {
-    "description": "Skins is how you appear in the game.",
-    "message": "يشاهد سكن"
-  }
+	"namemc.viewSkin": {
+		"message": "يشاهد سكن",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "يشاهد الأوشحة",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "يشاهد الوشاح:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "عرض السيرفر",
+		"description": "Used as the title for the button in Discord."
+	}
 }
