@@ -1,26 +1,26 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "alba, která se jim líbí"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "umělci, které se jim líbí"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Nejlepší podcasty"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Objevování nových skladeb"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Vytvořeno pro tebe\""
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "písničky, které se jim líbí"
-  }
+	"spotify.bestPodcasts": {
+		"message": "Nejlepší podcasty",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Objevování nových skladeb",
+		"description": ""
+	},
+	"spotify.artistsLike": {
+		"message": "umělci, které se jim líbí",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "alba, která se jim líbí",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "písničky, které se jim líbí",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Vytvořeno pro tebe\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	}
 }
