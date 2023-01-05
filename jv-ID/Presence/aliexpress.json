@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Ndeleng alamat"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Ndeleng kupon"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "pesenan dihapus"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "Umpan Balik AliExpress"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "Pusat Bantuan AliExpress"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Pusat pesan"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Ndeleng pesenan"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "Ndheleng dheweke akhir-akhir iki"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "ndeleng produk"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Pengembalian Dana & Sengketa"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Menjelajahi penjualan"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "Pusat Penjualan AliExpress"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Ndeleng toko:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "Ndeleng AliExpress profil"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "Pusat Perdagangan AliExpress"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Ndeleng"
-  }
+    "aliexpress.store": {
+        "message": "Ndeleng toko:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Pusat pesan",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Menjelajahi penjualan",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Ndheleng dheweke akhir-akhir iki",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "ndeleng produk",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Ndeleng AliExpress profil",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "Umpan Balik AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Ndeleng pesenan",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Ndeleng",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Pengembalian Dana & Sengketa",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "pesenan dihapus",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "Pusat Perdagangan AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Ndeleng kupon",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Ndeleng alamat",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Pusat Bantuan AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Pusat Penjualan AliExpress",
+        "description": ""
+    }
 }
