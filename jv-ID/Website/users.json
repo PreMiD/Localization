@@ -1,38 +1,38 @@
 {
-  "user.geniusPresenceDev.message1": {
-    "description": "'Genuis Presence Developer' tippy description for user pages.",
-    "message": "Pengembang Presence Jenius"
-  },
-  "user.geniusPresenceDev.message2": {
-    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
-    "message": "Nyiptakake lebih saka 100 Presence!"
-  },
-  "user.importantPresenceDev.message1": {
-    "description": "'Important Presence Developer' tippy description for user pages.",
-    "message": "Pengembang Presence Penting"
-  },
-  "user.importantPresenceDev.message2": {
-    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
-    "message": "Gawe {0} presence."
-  },
-  "user.presences.contributed": {
-    "description": "Tippy content (mode 2) in user profile.",
-    "message": "Klik ing kene kanggo nampilake presence sing dikontribusikne pangguna iki."
-  },
-  "user.presences.created": {
-    "description": "Tippy content in user profile.",
-    "message": "Klik ing kene kanggo ndeleng Presence sing digawe pangguna iki."
-  },
-  "user.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for user pages.",
-    "message": "Pengembang Presence"
-  },
-  "user.roles.presenceVerifier": {
-    "description": "'Presence Verifier' title for user pages.",
-    "message": "Pemeriksa Presence"
-  },
-  "user.switch.contributed": {
-    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
-    "message": "Pengguna [Presence/Kontribusi]"
-  }
+	"user.roles.presenceDeveloper": {
+		"message": "Pengembang Presence",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Pemeriksa Presence",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Pengembang Presence Penting",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Gawe {0} presence.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Pengembang Presence Jenius",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Nyiptakake lebih saka 100 Presence!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Pengguna [Presence/Kontribusi]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Klik ing kene kanggo ndeleng Presence sing digawe pangguna iki.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Klik ing kene kanggo nampilake presence sing dikontribusikne pangguna iki.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
 }
