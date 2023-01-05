@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "Tmbah Presence"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "Presence iki otomatis nyala nalika ngunjungi situs."
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "Busak Presence"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "Pembuat"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "Presence iki mbutuhake langkah-langkah tambahan, priksa halaman iki kanggo informasi luwih lengkap."
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "Presence Bermitra"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "Presence iki paling populer ning kabeh pengguna."
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Kabeh"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "Tampilne NSFW"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "Filter"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "Presence sing disenengi"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "Paling sering digawe"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "Game"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "Kategori"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "Musik"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "Liyane"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "Sosial"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "Vidio & Stream"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "Tampilne Presence sing ditambahne"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "Goleki Presence"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "Ekstensi ora nyambung."
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Nggoleki"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "Enter"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "Klik kanggo busak filter"
-  }
+	"store.message.error": {
+		"message": "Ekstensi ora nyambung.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "Pembuat",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Presence iki paling populer ning kabeh pengguna.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Presence Bermitra",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Presence iki mbutuhake langkah-langkah tambahan, priksa halaman iki kanggo informasi luwih lengkap.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Goleki Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Tmbah Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Busak Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Presence iki otomatis nyala nalika ngunjungi situs.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Filter",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Paling sering digawe",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Tampilne NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Presence sing disenengi",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Tampilne Presence sing ditambahne",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Kategori",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Kabeh",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Game",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Musik",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Sosial",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Vidio & Stream",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Liyane",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Nggoleki",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Enter",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klik kanggo busak filter",
+		"description": "Remove message for active search filters."
+	}
 }
