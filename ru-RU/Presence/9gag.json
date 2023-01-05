@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Читает всё о 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Смотрит коллекции:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Смотрит свежего"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Смотрит gag:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Смотрит горячего"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Смотрит страницы магазина"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Смотрит тэга:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Смотрит тренды"
-  }
+    "9gag.gag": {
+        "message": "Смотрит gag:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Смотрит горячего",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Смотрит тренды",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Смотрит свежего",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Смотрит тэга:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Читает всё о 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Смотрит страницы магазина",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Смотрит коллекции:",
+        "description": ""
+    }
 }
