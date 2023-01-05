@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "সম্প্রতি যুক্ত"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "ব্রাউজ করছে:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "একটি কলে আছে যার সাথে:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "সংরক্ষিত ভিডিও"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "পড়ছে যে ইউজারের সম্পর্কে:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "দেখছে যে ইউজারের কমিউনিটি:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "দেখছে যে ইউজারের ফ্রেন্ডগুলো:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "কোন একজন... (ইউজারকে গোপন করা হয়েছে)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "দেখছে যে ইউজারের ছবিগুলো:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "দেখছে যে ইউজারের পোস্টগুলো:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "দেখছে যে ইউজারের শপ:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "দেখছে যে ইউজারের ভিডিওগুলো:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "একটি ভিডিও কলে আছে যার সাথে:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "দেখছে আজকের আবহাওয়া"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "একটি মেসেজ লিখছে"
-  }
+    "facebook.call": {
+        "message": "একটি কলে আছে যার সাথে:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "একটি ভিডিও কলে আছে যার সাথে:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "কোন একজন... (ইউজারকে গোপন করা হয়েছে)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "একটি মেসেজ লিখছে",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "পড়ছে যে ইউজারের সম্পর্কে:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "দেখছে যে ইউজারের কমিউনিটি:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "দেখছে যে ইউজারের ছবিগুলো:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "দেখছে যে ইউজারের পোস্টগুলো:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "দেখছে যে ইউজারের শপ:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "দেখছে যে ইউজারের ফ্রেন্ডগুলো:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "দেখছে যে ইউজারের ভিডিওগুলো:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "ব্রাউজ করছে:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "সংরক্ষিত ভিডিও",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "সম্প্রতি যুক্ত",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "দেখছে আজকের আবহাওয়া",
+        "description": ""
+    }
 }
