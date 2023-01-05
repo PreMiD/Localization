@@ -1,14 +1,14 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Niðurhöl"
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Heimasíða"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Samstarfsaðilar"
-  }
+	"twitch.downloads": {
+		"message": "Niðurhöl",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Samstarfsaðilar",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Heimasíða",
+		"description": "Page name"
+	}
 }
