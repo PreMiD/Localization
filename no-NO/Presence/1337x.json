@@ -1,14 +1,14 @@
 {
-  "1337x.about": {
-    "description": "",
-    "message": "Leser om 1337x"
-  },
-  "1337x.rules": {
-    "description": "",
-    "message": "Leser reglene"
-  },
-  "1337x.writing": {
-    "description": "",
-    "message": "Skriver til 1337x"
-  }
+    "1337x.rules": {
+        "message": "Leser reglene",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Skriver til 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Leser om 1337x",
+        "description": ""
+    }
 }
