@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "বুকমার্কগুলো"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "এক্সপ্লোর করুন"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "বিজ্ঞপ্তিসমূহ"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "পড়ছে যার টুইট:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "কিছু সেটিংস চেঞ্জ করছে..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "দেখছে তার মেসেজগুলো"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "দেখছে পছন্দ করেছেন:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "দেখছে তালিকাগুলো:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "দেখছে মিডিয়া:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "দেখছে টুইটগুলো:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "দেখছে টুইটগুলো (রিপ্লাই এর সঙ্গে):"
-  }
+	"twitter.readTweet": {
+		"message": "পড়ছে যার টুইট:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "দেখছে তার মেসেজগুলো",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "দেখছে টুইটগুলো:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "দেখছে টুইটগুলো (রিপ্লাই এর সঙ্গে):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "দেখছে মিডিয়া:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "দেখছে পছন্দ করেছেন:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "দেখছে তালিকাগুলো:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "বুকমার্কগুলো",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "বিজ্ঞপ্তিসমূহ",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "এক্সপ্লোর করুন",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "কিছু সেটিংস চেঞ্জ করছে...",
+		"description": ""
+	}
 }
