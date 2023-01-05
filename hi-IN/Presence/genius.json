@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "के बोल देखना:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "एल्बम देखना:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "होमपेज देखना"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "गीत देखें"
-  }
+	"genius.lyrics": {
+		"message": "के बोल देखना:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "गीत देखें",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "होमपेज देखना",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "एल्बम देखना:",
+		"description": "Album of a song"
+	}
 }
