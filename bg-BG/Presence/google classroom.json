@@ -1,42 +1,42 @@
 {
-  "google classroom.assignment": {
-    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class",
-    "message": "Преглежда задание в:"
-  },
-  "google classroom.assignmentPrivate": {
-    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Преглежда задание"
-  },
   "google classroom.calendar": {
-    "description": "Displayed when the user viewing their calendar",
-    "message": "Преглежда календара си"
-  },
-  "google classroom.class": {
-    "description": "Displayed when a user is viewing a class",
-    "message": "Гледа клас"
-  },
-  "google classroom.classmembers": {
-    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class",
-    "message": "Гледа участниците от класа на:"
-  },
-  "google classroom.classmembersPrivate": {
-    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Гледа участниците в класа"
-  },
-  "google classroom.classwork": {
-    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class",
-    "message": "Гледа работата на:"
-  },
-  "google classroom.classworkPrivate": {
-    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
-    "message": "Гледа работа в клас"
-  },
-  "google classroom.settings": {
-    "description": "Displayed when a user is viewing their Google Classroom settings",
-    "message": "Конфигурира настройки"
+    "message": "Преглежда календара си",
+    "description": "Displayed when the user viewing their calendar"
   },
   "google classroom.todo": {
-    "description": "Displayed when the user is viewing their to-do list",
-    "message": "Преглежда списъка си със задачи"
+    "message": "Преглежда списъка си със задачи",
+    "description": "Displayed when the user is viewing their to-do list"
+  },
+  "google classroom.assignmentPrivate": {
+    "message": "Преглежда задание",
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.assignment": {
+    "message": "Преглежда задание в:",
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class"
+  },
+  "google classroom.class": {
+    "message": "Гледа клас",
+    "description": "Displayed when a user is viewing a class"
+  },
+  "google classroom.classworkPrivate": {
+    "message": "Гледа работа в клас",
+    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classwork": {
+    "message": "Гледа работата на:",
+    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class"
+  },
+  "google classroom.classmembersPrivate": {
+    "message": "Гледа участниците в класа",
+    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)"
+  },
+  "google classroom.classmembers": {
+    "message": "Гледа участниците от класа на:",
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class"
+  },
+  "google classroom.settings": {
+    "message": "Конфигурира настройки",
+    "description": "Displayed when a user is viewing their Google Classroom settings"
   }
 }
