@@ -1,262 +1,262 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "सरल उपयोग"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Achievements"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "सामुदायिक गतिविधि"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "विज्ञापन विकल्प"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "ट्विच संबद्ध कार्यक्रम"
-  },
-  "twitch.blogArchive": {
-    "description": "{0} will be replaced with the year",
-    "message": "{0} ब्लॉग संग्रह देखना"
-  },
-  "twitch.blogBrowse": {
-    "description": "",
-    "message": "नवीनतम ब्लॉग पोस्ट के माध्यम से ब्राउज़ कर रहा है..."
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "ट्विच ब्लॉग"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "चिकोटी ब्रांड के बारे में पढ़ना..."
-  },
-  "twitch.brandExpression": {
-    "description": "Page name",
-    "message": "हमारी अभिव्यक्ति को अधिकतम करना"
-  },
-  "twitch.brandMadness": {
-    "description": "Page name",
-    "message": "हमारे (प्रिय) पागलपन के लिए विधि लाना"
-  },
-  "twitch.brandReal": {
-    "description": "Page name",
-    "message": "ट्विच को वास्तविक रखना"
-  },
-  "twitch.brandTogether": {
-    "description": "Page name",
-    "message": "यह सब एक साथ लाना"
-  },
-  "twitch.brandWatch": {
-    "description": "Watching as in watching a video",
-    "message": "ट्विच के ब्रांड विकास को देखते हुए"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "क्रिएटर कैंप"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "मूल बातें जानें"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "कनेक्ट और एंगेज"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "ऊपर का स्तर"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "लाइव लर्निंग"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "ट्विच पर संगीत"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "इनाम पाएं"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "अपनी स्ट्रीम सेट करना"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "चैनल विश्लेषिकी"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "चैनल सेटिंग्स"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "क्लिप्स"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "वीडियो संग्रह"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "निर्माता डैशबोर्ड"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "उनकी धारा का प्रबंधन..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "ट्विच डेवलपर्स"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "ट्विच डेवलपर दस्तावेज़ीकरण"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "ट्विच डेवलपर उत्पाद"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "समुदाय से सफलता की कहानियां"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "सहायक संसाधन"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "डाउन्लोड"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ड्रॉप सेटिंग्स"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Esports देखना..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "एक्सटेंशन देखना"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "अनुयायियों की सूची"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "समुदाय दिशानिर्देश"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "सहायता केंद्र"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "विषय देखना:"
-  },
-  "twitch.helpTopicCatalog": {
-    "description": "",
-    "message": "विषय कैटलॉग के माध्यम से ब्राउज़ कर रहा है..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "होमपेज"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "नौकरियां"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "उनकी सामुदायिक भूमिकाओं का प्रबंधन..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "मॉडरेटिंग स्ट्रीमर:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "मॉडरेशन सेटिंग्स"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "साझेदार"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "प्रेस सेंटर"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "वीडियो प्रोड्यूसर में..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "कोड रिडीम किया जा रहा है..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "सुरक्षा"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "दस्ते को देख..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "स्ट्रीम सारांश"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "उनकी सदस्यताएं देखी जा रही हैं..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "स्ट्रीमिंग टूल देखना"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "टर्बो"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "सक्रिय ड्रॉप्स अभियान देख रहे हैं..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "उनकी ड्रॉप्स इन्वेंट्री देख रहे हैं..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "मेरे द्वारा फ़ॉलो किए जाने वाले लोगों को देखना..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "उनके दोस्तों को देख..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "उनकी सेटिंग देखी जा रही हैं..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "देखने वाली टीम:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Their देखना"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "वॉलेट देखना..."
-  }
+	"twitch.downloads": {
+		"message": "डाउन्लोड",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "नौकरियां",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "टर्बो",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "साझेदार",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "प्रेस सेंटर",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "सुरक्षा",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "सरल उपयोग",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "विज्ञापन विकल्प",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "समुदाय दिशानिर्देश",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "होमपेज",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "वॉलेट देखना...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Esports देखना...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "मेरे द्वारा फ़ॉलो किए जाने वाले लोगों को देखना...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "देखने वाली टीम:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "उनकी ड्रॉप्स इन्वेंट्री देख रहे हैं...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "सक्रिय ड्रॉप्स अभियान देख रहे हैं...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "उनकी सेटिंग देखी जा रही हैं...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "उनके दोस्तों को देख...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "उनकी सदस्यताएं देखी जा रही हैं...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "दस्ते को देख...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "मॉडरेटिंग स्ट्रीमर:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "कोड रिडीम किया जा रहा है...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "क्रिएटर कैंप",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "मूल बातें जानें",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "अपनी स्ट्रीम सेट करना",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "ऊपर का स्तर",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "कनेक्ट और एंगेज",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "इनाम पाएं",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "ट्विच पर संगीत",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "लाइव लर्निंग",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "निर्माता डैशबोर्ड",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "उनकी धारा का प्रबंधन...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "उनकी सामुदायिक भूमिकाओं का प्रबंधन...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "वीडियो प्रोड्यूसर में...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Their देखना",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "चैनल विश्लेषिकी",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "स्ट्रीम सारांश",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Achievements",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "सामुदायिक गतिविधि",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "अनुयायियों की सूची",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "वीडियो संग्रह",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "क्लिप्स",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "चैनल सेटिंग्स",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "मॉडरेशन सेटिंग्स",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "ड्रॉप सेटिंग्स",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "स्ट्रीमिंग टूल देखना",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "एक्सटेंशन देखना",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "चिकोटी ब्रांड के बारे में पढ़ना...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "ट्विच को वास्तविक रखना",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "हमारे (प्रिय) पागलपन के लिए विधि लाना",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "हमारी अभिव्यक्ति को अधिकतम करना",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "यह सब एक साथ लाना",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "ट्विच के ब्रांड विकास को देखते हुए",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "ट्विच ब्लॉग",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "{0} ब्लॉग संग्रह देखना",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "नवीनतम ब्लॉग पोस्ट के माध्यम से ब्राउज़ कर रहा है...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "सहायता केंद्र",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "विषय देखना:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "विषय कैटलॉग के माध्यम से ब्राउज़ कर रहा है...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "ट्विच संबद्ध कार्यक्रम",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "ट्विच डेवलपर्स",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "ट्विच डेवलपर दस्तावेज़ीकरण",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "ट्विच डेवलपर उत्पाद",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "समुदाय से सफलता की कहानियां",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "सहायक संसाधन",
+		"description": "Page name"
+	}
 }
