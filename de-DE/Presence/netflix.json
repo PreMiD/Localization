@@ -1,18 +1,18 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Schaut, was neu und{0}populär ist auf Netflix"
-  },
-  "netflix.profile": {
-    "description": "",
-    "message": "Verwaltet seine Profile"
-  },
-  "netflix.referral": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Bekommt seinen {0}Empfehlungslink"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "Schaut seine Liste an"
-  }
+	"netflix.viewList": {
+		"message": "Schaut seine Liste an",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Verwaltet seine Profile",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Schaut, was neu und{0}populär ist auf Netflix",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"netflix.referral": {
+		"message": "Bekommt seinen {0}Empfehlungslink",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
