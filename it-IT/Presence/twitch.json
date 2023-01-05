@@ -1,14 +1,14 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Download"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partner"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Visualizzando i loro"
-  }
+	"twitch.downloads": {
+		"message": "Download",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partner",
+		"description": "Page name"
+	},
+	"twitch.viewTheir": {
+		"message": "Visualizzando i loro",
+		"description": "Part 1 of the next 10 strings"
+	}
 }
