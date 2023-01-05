@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "sevdiği albümler"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "sevdiği sanatçılar"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "En çok dinlenilen podcastler"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Göz atıyor"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Grafiklere bakıyor"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Yeni şarkıları keşfediyor"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Spotify Yükleniyor"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Öne çıkan şarkılar"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Türler arasında dolaşıyor"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Son yayınlananlara bakıyor"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Senin için yapıldı\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "çalma listeleri"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "sevdiği ses dosyası"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "sevdiği şarkılar"
-  }
+	"spotify.featured": {
+		"message": "Öne çıkan şarkılar",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "En çok dinlenilen podcastler",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Grafiklere bakıyor",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Türler arasında dolaşıyor",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Son yayınlananlara bakıyor",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Yeni şarkıları keşfediyor",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Göz atıyor",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "sevdiği ses dosyası",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "sevdiği sanatçılar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "sevdiği albümler",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "sevdiği şarkılar",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Senin için yapıldı\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "çalma listeleri",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify Yükleniyor",
+		"description": ""
+	}
 }
