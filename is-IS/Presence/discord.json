@@ -1,6 +1,6 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Skoðar í gegn"
-  }
+	"discord.browseThrough": {
+		"message": "Skoðar í gegn",
+		"description": "The first part of the next 17 strings"
+	}
 }
