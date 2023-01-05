@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "A ver a letra de"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "A ver o álbum"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "A ver a página inicial"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver letra"
-  }
+	"genius.lyrics": {
+		"message": "A ver a letra de",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Ver letra",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "A ver a página inicial",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "A ver o álbum",
+		"description": "Album of a song"
+	}
 }
