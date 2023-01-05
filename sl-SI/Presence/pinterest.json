@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Ogledovanje table:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Ogledovanje njihovih sledilcev"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Urejanje njihovo domačo stran"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Ogledovanje pin-a"
-  }
+    "pinterest.board": {
+        "message": "Ogledovanje table:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Ogledovanje pin-a",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Ogledovanje njihovih sledilcev",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Urejanje njihovo domačo stran",
+        "description": ""
+    }
 }
