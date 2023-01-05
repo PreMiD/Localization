@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Aadresside vaatamine"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Reklaamieelistuste vaatamine"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Saldo vaatamine"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ostukorvi"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Kõigi kategooriate vaatamine"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "kinkekaarte"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Ajaloo vaatamine"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "tellimuse andmed"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "tellimuste ajalugu"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Makseviiside vaatamine"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Lemmikloomade vaatamine"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Amazon Prime'i vaatamine"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Prime Video vaatamine:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Soovituste vaatamine"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Poe vaatamine:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Tellimuste vaatamine"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Vaatamine"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "soovinimekirja"
-  }
+    "amazon.subscriptions": {
+        "message": "Tellimuste vaatamine",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Reklaamieelistuste vaatamine",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Saldo vaatamine",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Makseviiside vaatamine",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Aadresside vaatamine",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Lemmikloomade vaatamine",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Kõigi kategooriate vaatamine",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Amazon Prime'i vaatamine",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Vaatamine",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "tellimuste ajalugu",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "tellimuse andmed",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "ostukorvi",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "soovinimekirja",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "kinkekaarte",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Soovituste vaatamine",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ajaloo vaatamine",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Poe vaatamine:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Prime Video vaatamine:",
+        "description": ""
+    }
 }
