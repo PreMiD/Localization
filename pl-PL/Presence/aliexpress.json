@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Wyświetla swój adres"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Przegląda swoje kupony"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "usunięte zamówienia"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "Opinie AliExpress"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "Centrum pomocy AliExpress"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Centrum wiadomości"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Przegląda swoje zamówienia"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "Wyświetla ostatnio"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "oglądane produkty"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "zwroty i spory"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Przegląda promocje"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "Centrum sprzedaży AliExpress"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Przegląda sklep:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "Przegląda swoje AliExpress"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "Centrum sprzedaży AliExpress"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Przegląda swoje"
-  }
+    "aliexpress.store": {
+        "message": "Przegląda sklep:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Centrum wiadomości",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Przegląda promocje",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Wyświetla ostatnio",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "oglądane produkty",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Przegląda swoje AliExpress",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "Opinie AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Przegląda swoje zamówienia",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Przegląda swoje",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "zwroty i spory",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "usunięte zamówienia",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "Centrum sprzedaży AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Przegląda swoje kupony",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Wyświetla swój adres",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Centrum pomocy AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Centrum sprzedaży AliExpress",
+        "description": ""
+    }
 }
