@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Чете всичко за 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Гледа колекция:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Гледа какво е ново"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Гледа гаг:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Гледа какво се покачва"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Гледа страницата на магазина"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Гледа таг:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Гледа какво се покачва"
-  }
+    "9gag.gag": {
+        "message": "Гледа гаг:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Гледа какво се покачва",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Гледа какво се покачва",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Гледа какво е ново",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Гледа таг:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Чете всичко за 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Гледа страницата на магазина",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Гледа колекция:",
+        "description": ""
+    }
 }
