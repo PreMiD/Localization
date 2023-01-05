@@ -1,46 +1,46 @@
 {
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "Autorius"
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Visi"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "Rodyti NSFW formato turinį"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "Žaidimai"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "Kategorijos"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "Muzika"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "Kita"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "Socialiniai"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "Vaizdo įrašai ir tiesioginiai eteriai"
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Paieška"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "Spauskite, norint pašalinti filtrą"
-  }
+	"store.cards.creator": {
+		"message": "Autorius",
+		"description": "Creator of a presence"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Rodyti NSFW formato turinį",
+		"description": "Adult content checkbox"
+	},
+	"store.category.heading": {
+		"message": "Kategorijos",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Visi",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Žaidimai",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Muzika",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Socialiniai",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Vaizdo įrašai ir tiesioginiai eteriai",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Kita",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Paieška",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.removeFilter": {
+		"message": "Spauskite, norint pašalinti filtrą",
+		"description": "Remove message for active search filters."
+	}
 }
