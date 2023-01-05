@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "Lägg till Presence"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "Den här Presencen aktiveras automatiskt när du besöker dess hemsida."
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "Ta bort Presence"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "Skapare"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "Den här precensen kräver extra steg, vänligen läsa sidan för mer information."
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "Partnerad Precense"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "Den här Precensen är väldigt populär bland användare."
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Alla"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "Visa NSFW"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "Filter"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "Bara gillade Presences"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "Mest använda först"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "Spel"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "Kategorier"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "Musik"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "Annat"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "Socialt"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "Videos & Streams"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "Visa tillagda Presences"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "Sök Presence"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "Tillägget är inte anslutet."
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Sök"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "Ange"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "Klicka för att ta bort filter"
-  }
+	"store.message.error": {
+		"message": "Tillägget är inte anslutet.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "Skapare",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Den här Precensen är väldigt populär bland användare.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Partnerad Precense",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Den här precensen kräver extra steg, vänligen läsa sidan för mer information.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Sök Presence",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Lägg till Presence",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Ta bort Presence",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Den här Presencen aktiveras automatiskt när du besöker dess hemsida.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Filter",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Mest använda först",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Visa NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Bara gillade Presences",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Visa tillagda Presences",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Kategorier",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Alla",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Spel",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Musik",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Socialt",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Videos & Streams",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Annat",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Sök",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Ange",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Klicka för att ta bort filter",
+		"description": "Remove message for active search filters."
+	}
 }
