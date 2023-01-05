@@ -1,110 +1,110 @@
 {
-  "footer.copyright.line1": {
-    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
-    "message": "{0} eftir {1}"
-  },
-  "footer.copyright.line2": {
-    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
-    "message": "Vefsíða viðhaldin af {0}"
-  },
-  "footer.developers.documentation": {
-    "description": "Documentation -> redirects to docs.premid.app",
-    "message": "Skjal"
-  },
-  "footer.developers.heading": {
-    "description": "Developer section",
-    "message": "Verktakar"
-  },
-  "footer.developers.richpresence": {
-    "description": "Rich Presence -> redirects to discord.com/rich-presence",
-    "message": "Rich Presence"
-  },
-  "footer.followUs.heading": {
-    "description": "Follow Us section",
-    "message": "Fylgdu okkur"
-  },
-  "footer.help.getsupport": {
-    "description": "Get Support -> redirects to Discord invite",
-    "message": "Fá hjálp"
-  },
-  "footer.help.heading": {
-    "description": "Help section",
-    "message": "Hjálp"
-  },
-  "footer.help.information": {
-    "description": "Information section",
-    "message": "Upplýsingar"
-  },
-  "footer.help.information.cookies": {
-    "description": "meant to be 'Cookie Policy'",
-    "message": "Vefkökur"
-  },
-  "footer.help.information.privacy": {
-    "description": "meant to be 'Privacy Policy'",
-    "message": "Persónuvernd"
-  },
-  "footer.help.information.terms": {
-    "description": "meant to be 'Terms of Service'",
-    "message": "Skilmálar"
-  },
-  "footer.help.troubleshooting": {
-    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
-    "message": "Leysa vandamál"
-  },
-  "footer.language": {
-    "description": "You know how to translate that word? I hope you do :D",
-    "message": "Tungumál"
-  },
-  "footer.more.heading": {
-    "description": "More section",
-    "message": "Meira"
-  },
-  "footer.more.status": {
-    "description": "Status -> redirects to status.premid.app",
-    "message": "Staða"
-  },
-  "footer.more.wiki": {
-    "description": "Wiki -> redirects to wiki.premid.app",
-    "message": "Wiki"
-  },
-  "footer.partners.heading": {
-    "description": "Partner section",
-    "message": "Samstarfsaðilar"
-  },
-  "footer.partners.more": {
-    "description": "Button next to all listed partners on the footer.",
-    "message": "Smelltu hér til að sjá restina af samstarfsaðilum okkar og styrktaraðilum."
-  },
-  "footer.supportus.contribute": {
-    "description": "Contribute -> redirects to github.com/premid",
-    "message": "Bjóða fram"
-  },
-  "footer.supportus.donate": {
-    "description": "Donate -> redirects to patreon.com/timeraa",
-    "message": "Styrkja"
-  },
-  "footer.supportus.heading": {
-    "description": "Support us section",
-    "message": "Sýndu okkur stuðning"
-  },
-  "footer.supportus.jobs": {
-    "description": "Work for us! -> redirects to /jobs page",
-    "message": "Vinnið með okkur!"
-  },
-  "footer.supportus.translate": {
-    "description": "Translate -> redirects to locilazation page",
-    "message": "Þýða"
-  },
-  "footer.usercount.button": {
-    "description": "Install button under the promotional message",
-    "message": "Setja upp"
-  },
-  "footer.usercount.heading": {
-    "description": "Promotional heading",
-    "message": "Tilbúinn að nota PreMiD?"
-  },
-  "footer.usercount.message": {
-    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
-    "message": "Vertu með {0} notendum í dag!"
-  }
+	"footer.language": {
+		"message": "Tungumál",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Tilbúinn að nota PreMiD?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Vertu með {0} notendum í dag!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Setja upp",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Samstarfsaðilar",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Fylgdu okkur",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "Verktakar",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "Skjal",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "Sýndu okkur stuðning",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "Styrkja",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "Bjóða fram",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "Þýða",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Vinnið með okkur!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "Hjálp",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "Leysa vandamál",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "Fá hjálp",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "Upplýsingar",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "Vefkökur",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "Persónuvernd",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "Skilmálar",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "Meira",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "Staða",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "Wiki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} eftir {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "Vefsíða viðhaldin af {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Smelltu hér til að sjá restina af samstarfsaðilum okkar og styrktaraðilum.",
+		"description": "Button next to all listed partners on the footer."
+	}
 }
