@@ -1,18 +1,18 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Pārlūko caur"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Skatās savus draugus..."
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Skatās kolekciju:"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Skatās savus iestatījumus..."
-  }
+	"discord.friends": {
+		"message": "Skatās savus draugus...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Skatās savus iestatījumus...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Pārlūko caur",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.merch.collection": {
+		"message": "Skatās kolekciju:",
+		"description": ""
+	}
 }
