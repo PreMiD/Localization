@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "দেখছে তার ব্যক্তিগত মেসেজগুলো"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "দেখছে গেম:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "দেখছে স্টাফদের তালিকা"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "দেখছে তাদের দেখা ফোরামগুলি"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "দেখছে তাদের দেখা থ্রেডগুলো"
-  }
+    "hypixel.staff": {
+        "message": "দেখছে স্টাফদের তালিকা",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "দেখছে তাদের দেখা থ্রেডগুলো",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "দেখছে তাদের দেখা ফোরামগুলি",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "দেখছে তার ব্যক্তিগত মেসেজগুলো",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "দেখছে গেম:",
+        "description": ""
+    }
 }
