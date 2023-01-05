@@ -1,14 +1,14 @@
 {
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Značajke"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Igrice"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Ostalo"
-  }
+    "apple.other": {
+        "message": "Ostalo",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devFeatures": {
+        "message": "Značajke",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Igrice",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
 }
