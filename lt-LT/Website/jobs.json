@@ -1,22 +1,22 @@
 {
-  "jobs.benefit1.description": {
-    "description": "Benefit card description.",
-    "message": "Susisiekite su žmonėmis iš „PreMiD“."
-  },
-  "jobs.benefit3.description": {
-    "description": "Benefit card description.",
-    "message": "Galingus Discord leidimus ir spalvinga rolė."
-  },
-  "jobs.benefit3.title": {
-    "description": "Benefit card title.",
-    "message": "Garbė"
-  },
-  "jobs.benefit4.title": {
-    "description": "Benefit card title.",
-    "message": "Palaikykite PreMiD"
-  },
-  "jobs.modal.step": {
-    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
-    "message": "Žingsnis {0} iš 2"
-  }
+	"jobs.modal.step": {
+		"message": "Žingsnis {0} iš 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.benefit1.description": {
+		"message": "Susisiekite su žmonėmis iš „PreMiD“.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Garbė",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Galingus Discord leidimus ir spalvinga rolė.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Palaikykite PreMiD",
+		"description": "Benefit card title."
+	}
 }
