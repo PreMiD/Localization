@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "Oei!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Discord server"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "Helaas ondervinden we wat technische problemen. We zullen binnenkort terugkeren. Sorry voor het ongemak."
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "Kom later terug voor meer informatie."
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "Tot onze speciale ontwikkelaars dit repareren, voel je vrij om hier te kijken!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "Statuspagina"
-  }
+	"maintenance.big": {
+		"message": "Oei!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Helaas ondervinden we wat technische problemen. We zullen binnenkort terugkeren. Sorry voor het ongemak.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Kom later terug voor meer informatie.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Tot onze speciale ontwikkelaars dit repareren, voel je vrij om hier te kijken!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Statuspagina",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord server",
+		"description": "Discord Server link on maintenance page"
+	}
 }
