@@ -1,110 +1,110 @@
 {
-  "jobs.benefit1.description": {
-    "description": "Benefit card description.",
-    "message": "Gặp gỡ những người phía sau dự án PreMiD."
-  },
-  "jobs.benefit1.title": {
-    "description": "Benefit card title.",
-    "message": "Gặp chúng tôi"
-  },
-  "jobs.benefit2.description": {
-    "description": "Benefit card description.",
-    "message": "Có cái nhìn về sự phát triển và Marketing của chúng tôi."
-  },
-  "jobs.benefit2.title": {
-    "description": "Benefit card title.",
-    "message": "Xem trước"
-  },
-  "jobs.benefit3.description": {
-    "description": "Benefit card description.",
-    "message": "Quyền trong Discord và thẻ vai trò màu sặc sỡ."
-  },
-  "jobs.benefit3.title": {
-    "description": "Benefit card title.",
-    "message": "Vinh dự"
-  },
-  "jobs.benefit4.description": {
-    "description": "Benefit card description.",
-    "message": "Với sự đóng góp của bạn, chúng tôi có thể tiếp tục vận hành dự án này."
-  },
-  "jobs.benefit4.title": {
-    "description": "Benefit card title.",
-    "message": "Hỗ trợ PreMiD"
-  },
-  "jobs.benefit5.description": {
-    "description": "Benefit card description.",
-    "message": "Không cần vội, đây là việc tình nguyện."
-  },
-  "jobs.benefit5.title": {
-    "description": "Benefit card title.",
-    "message": "Hết giờ"
-  },
-  "jobs.benefit6.description": {
-    "description": "Benefit card description.",
-    "message": "Kiểm tra các tính năng mới trước người khác."
-  },
-  "jobs.benefit6.title": {
-    "description": "Benefit card title.",
-    "message": "Tiếp cận sớm"
-  },
-  "jobs.benefits.title": {
-    "description": "Text before the benefits cards.",
-    "message": "Nhiều lợi ích"
-  },
-  "jobs.errors.alreadyApplied": {
-    "description": "Notification when you applied already.",
-    "message": "Bạn đã ứng tuyển rồi!"
-  },
-  "jobs.guild.explanation": {
-    "description": "Explanation why users should be in Discord server to perform job application.",
-    "message": "Để có thể ứng tuyển bạn phải tham gia máy chủ Discord của chúng tôi. Nếu không, chúng tôi sẽ không thể liên lạc với bạn nếu bạn được chọn!"
-  },
-  "jobs.guild.required": {
-    "description": "Title of the modal the user will see if it's not in Discord server.",
-    "message": "Tham gia Discord của chúng tôi"
-  },
-  "jobs.header.description": {
-    "description": "The second part of the jobs page.",
-    "message": "Bạn đã sẵn sàng để giúp đỡ chương trình Rich-Presence lớn nhất chưa?"
-  },
-  "jobs.header.title": {
-    "description": "First part of the jobs page.",
-    "message": "Làm việc tại PreMiD"
-  },
-  "jobs.modal.buttons.cancel": {
-    "description": "Cancel, button in the modal.",
-    "message": "Hủy"
-  },
-  "jobs.modal.buttons.join": {
-    "description": "Join Discord button in the modal.",
-    "message": "Tham gia"
-  },
-  "jobs.modal.buttons.next": {
-    "description": "Next button in the modal.",
-    "message": "Tiếp theo"
-  },
-  "jobs.modal.error": {
-    "description": "Error when user did not fill all the fields.",
-    "message": "Vui lòng điền tất cả các trường"
-  },
-  "jobs.modal.notice": {
-    "description": "Notice for applicants.",
-    "message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một nhóm phi lợi nhuận, mọi khoản đóng góp hoặc tiền trợ cấp đều được chi cho dự án. Bằng cách ứng tuyển vào một vị trí làm việc tại PreMiD, bạn phải biết rằng bạn đang tình nguyện tham gia đội ngũ, bạn sẽ không được trả tiền cho công việc của mình."
-  },
-  "jobs.modal.step": {
-    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
-    "message": "Bước {0} trên 2"
-  },
-  "jobs.modal.title": {
-    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
-    "message": "Ứng tuyển cho {0}"
-  },
-  "jobs.openings.title": {
-    "description": "Text before the available job positions cards.",
-    "message": "Tuyển việc làm"
-  },
-  "jobs.success.applied": {
-    "description": "Notification when applying.",
-    "message": "Cảm ơn bạn đã ứng tuyển!"
-  }
+	"jobs.modal.title": {
+		"message": "Ứng tuyển cho {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Bước {0} trên 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Tiếp theo",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Tham gia",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Hủy",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Vui lòng điền tất cả các trường",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD là một dự án mã nguồn mở, nghĩa là chúng tôi là một nhóm phi lợi nhuận, mọi khoản đóng góp hoặc tiền trợ cấp đều được chi cho dự án. Bằng cách ứng tuyển vào một vị trí làm việc tại PreMiD, bạn phải biết rằng bạn đang tình nguyện tham gia đội ngũ, bạn sẽ không được trả tiền cho công việc của mình.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Tham gia Discord của chúng tôi",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Để có thể ứng tuyển bạn phải tham gia máy chủ Discord của chúng tôi. Nếu không, chúng tôi sẽ không thể liên lạc với bạn nếu bạn được chọn!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Làm việc tại PreMiD",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Bạn đã sẵn sàng để giúp đỡ chương trình Rich-Presence lớn nhất chưa?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Tuyển việc làm",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Nhiều lợi ích",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Gặp chúng tôi",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Gặp gỡ những người phía sau dự án PreMiD.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Xem trước",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Có cái nhìn về sự phát triển và Marketing của chúng tôi.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Vinh dự",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Quyền trong Discord và thẻ vai trò màu sặc sỡ.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Hỗ trợ PreMiD",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Với sự đóng góp của bạn, chúng tôi có thể tiếp tục vận hành dự án này.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Hết giờ",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Không cần vội, đây là việc tình nguyện.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Tiếp cận sớm",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Kiểm tra các tính năng mới trước người khác.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Cảm ơn bạn đã ứng tuyển!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Bạn đã ứng tuyển rồi!",
+		"description": "Notification when you applied already."
+	}
 }
