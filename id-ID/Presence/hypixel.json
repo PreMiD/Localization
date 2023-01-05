@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Melihat DM mereka"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Melihat game:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Melihat daftar staf"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Melihat forum yang telah dilihat"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Melihat postingan yang telah dilihat"
-  }
+    "hypixel.staff": {
+        "message": "Melihat daftar staf",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Melihat postingan yang telah dilihat",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Melihat forum yang telah dilihat",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Melihat DM mereka",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Melihat game:",
+        "description": ""
+    }
 }
