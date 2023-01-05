@@ -1,10 +1,10 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Sirvimine"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "Vaatamine"
-  }
+	"v live.browseThrough": {
+		"message": "Sirvimine",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.viewTheir": {
+		"message": "Vaatamine",
+		"description": "The first part of the next 6 strings"
+	}
 }
