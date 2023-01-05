@@ -1,42 +1,42 @@
 {
-  "juniperbot.commands": {
-    "description": "Page with the list of bot's commands",
-    "message": "দেখছে কমান্ডগুলোর তালিকার প্রতি"
-  },
-  "juniperbot.cookies": {
-    "description": "Reading about the site's cookies",
-    "message": "পড়ছে সাইটটির কুকিগুলো সম্বন্ধে"
-  },
-  "juniperbot.donate": {
-    "description": "Page with information about donation plans",
-    "message": "পড়ছে ডোনেশন প্ল্যানগুলোর সম্বন্ধে তথ্য"
-  },
-  "juniperbot.leaderboard": {
-    "description": "Guild leaderboard page",
-    "message": "দেখছে সার্ভারের লিডারবোর্ড:"
-  },
-  "juniperbot.mainpage": {
-    "description": "Home page of the site",
-    "message": "মেইন পেজ"
-  },
-  "juniperbot.serverdash": {
-    "description": "Server configuration page",
-    "message": "ড্যাশবোর্ডে"
-  },
-  "juniperbot.serverdashname": {
-    "description": "Guild name",
-    "message": "গিল্ড: {0}"
-  },
-  "juniperbot.servers": {
-    "description": "Server selection page",
-    "message": "সার্ভার সিলেক্ট করছে"
-  },
-  "juniperbot.stats": {
-    "description": "Page with bot's statistics",
-    "message": "দেখছে বট এর পরিসংখ্যানের প্রতি"
-  },
-  "juniperbot.usercard": {
-    "description": "Rating card customization page",
-    "message": "কাস্টমাইজ করছে র‍্যাংক কার্ড"
-  }
+    "juniperbot.mainpage": {
+        "message": "মেইন পেজ",
+        "description": "Home page of the site"
+    },
+    "juniperbot.leaderboard": {
+        "message": "দেখছে সার্ভারের লিডারবোর্ড:",
+        "description": "Guild leaderboard page"
+    },
+    "juniperbot.serverdash": {
+        "message": "ড্যাশবোর্ডে",
+        "description": "Server configuration page"
+    },
+    "juniperbot.serverdashname": {
+        "message": "গিল্ড: {0}",
+        "description": "Guild name"
+    },
+    "juniperbot.donate": {
+        "message": "পড়ছে ডোনেশন প্ল্যানগুলোর সম্বন্ধে তথ্য",
+        "description": "Page with information about donation plans"
+    },
+    "juniperbot.servers": {
+        "message": "সার্ভার সিলেক্ট করছে",
+        "description": "Server selection page"
+    },
+    "juniperbot.commands": {
+        "message": "দেখছে কমান্ডগুলোর তালিকার প্রতি",
+        "description": "Page with the list of bot's commands"
+    },
+    "juniperbot.stats": {
+        "message": "দেখছে বট এর পরিসংখ্যানের প্রতি",
+        "description": "Page with bot's statistics"
+    },
+    "juniperbot.usercard": {
+        "message": "কাস্টমাইজ করছে র‍্যাংক কার্ড",
+        "description": "Rating card customization page"
+    },
+    "juniperbot.cookies": {
+        "message": "পড়ছে সাইটটির কুকিগুলো সম্বন্ধে",
+        "description": "Reading about the site's cookies"
+    }
 }
