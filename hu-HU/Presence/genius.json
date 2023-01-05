@@ -1,14 +1,14 @@
 {
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Albumot néz:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Főoldalt nézi"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Dalszöveg megtekintése"
-  }
+	"genius.viewLyrics": {
+		"message": "Dalszöveg megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Főoldalt nézi",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Albumot néz:",
+		"description": "Album of a song"
+	}
 }
