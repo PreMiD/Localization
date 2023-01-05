@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Ogląda tablicę:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Przegląda swoich obserwujących"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Edytuje swoją stronę główną"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Wyświetla pin"
-  }
+    "pinterest.board": {
+        "message": "Ogląda tablicę:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Wyświetla pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Przegląda swoich obserwujących",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Edytuje swoją stronę główną",
+        "description": ""
+    }
 }
