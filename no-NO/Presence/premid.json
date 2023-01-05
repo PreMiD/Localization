@@ -1,50 +1,50 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Dokumentasjon"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Om PreMiD"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Bidragsytere"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Nedlastinger"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Hjemmeside"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Installasjon"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Presence Klasse"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Kom i gang"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Butikk"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Feilsøking"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partnere"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Ser på presence:"
-  }
+	"premid.docs": {
+		"message": "Dokumentasjon",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Ser på presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Hjemmeside",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Bidragsytere",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Nedlastinger",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Butikk",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnere",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Om PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Installasjon",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Feilsøking",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Kom i gang",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Presence Klasse",
+		"description": "A page name"
+	}
 }
