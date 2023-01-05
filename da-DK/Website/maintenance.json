@@ -1,18 +1,18 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "Åh nej!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Discord server"
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "Indtil vores specielle udviklere løser dette, er du velkommen til at tage et kig her!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "Status side"
-  }
+	"maintenance.big": {
+		"message": "Åh nej!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Indtil vores specielle udviklere løser dette, er du velkommen til at tage et kig her!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Status side",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discord server",
+		"description": "Discord Server link on maintenance page"
+	}
 }
