@@ -1,10 +1,10 @@
 {
-  "tiktok.buttonViewTikTok": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Προβολή TikTok"
-  },
-  "tiktok.viewing": {
-    "description": "Name of the user will be after the \":\"",
-    "message": "Προβολή ένα TikTok των:"
-  }
+	"tiktok.viewing": {
+		"message": "Προβολή ένα TikTok των:",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "Προβολή TikTok",
+		"description": "Used as the title for the button in Discord."
+	}
 }
