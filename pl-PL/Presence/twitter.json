@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Zakładki"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Odkrywanie"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Powiadomienia"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Czyta tweeta:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Zmienia kilka ustawień..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Przegląda swoje wiadomości prywatne"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Przegląda polubionych przez:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Przegląda listę:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Przegląda multimediów:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Przegląda tweety:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Przegląda tweety (z odpowiedziami):"
-  }
+	"twitter.readTweet": {
+		"message": "Czyta tweeta:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Przegląda swoje wiadomości prywatne",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Przegląda tweety:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Przegląda tweety (z odpowiedziami):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Przegląda multimediów:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Przegląda polubionych przez:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Przegląda listę:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Zakładki",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Powiadomienia",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Odkrywanie",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Zmienia kilka ustawień...",
+		"description": ""
+	}
 }
