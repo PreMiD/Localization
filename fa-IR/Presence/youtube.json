@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "هم اکنون در حال مشاهده تبلیغ"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "گشتن در لیست پخش"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "گشتن در"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "گشتن در ویدیو ها"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "تاریخچه شان"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "کتابخانه شان"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "کانال:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "پرداخت هایشان"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "خواندن درباره کانال:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "نگاه کردن تاریخچه گزارشات"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "جست و جو در کانال: {0} برای:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "صفحه هنرمند"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "تجزیه و تحلیل کانال"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "نظرات کانال"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "ترجمه های کانال"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "نگاه کردن داشبوردشان"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "ویرایش کردن ویدیو:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "نگاه کردن تجزیه و تحلیل ویدیو:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "نگاه کردن نظرات ویدیو:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "نگاه کردن ترجمه ویدیو:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "مشاهده"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "نگاه کردن ویدیو هایشان"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "اشتراکات شان"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "نگاه کردن به چیز های روز"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "آپلود کردن چیزی..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "نگاه کردن همه لیست های پخش شان"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "نگاه کردن کتابخانه صوتی شان"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "نگاه کردن داشبورد زنده شان"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "نگاه کردن مناسبت های زنده شان"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "نگاه کردن پست های انجمن"
-  }
+    "youtube.ad": {
+        "message": "هم اکنون در حال مشاهده تبلیغ",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "گشتن در ویدیو ها",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "گشتن در لیست پخش",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "نگاه کردن پست های انجمن",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "کانال:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "خواندن درباره کانال:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "جست و جو در کانال: {0} برای:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "نگاه کردن به چیز های روز",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "گشتن در",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "اشتراکات شان",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "کتابخانه شان",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "تاریخچه شان",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "پرداخت هایشان",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "نگاه کردن تاریخچه گزارشات",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "آپلود کردن چیزی...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "نگاه کردن همه لیست های پخش شان",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "نگاه کردن مناسبت های زنده شان",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "نگاه کردن داشبورد زنده شان",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "نگاه کردن کتابخانه صوتی شان",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "نگاه کردن ویدیو هایشان",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "ویرایش کردن ویدیو:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "نگاه کردن تجزیه و تحلیل ویدیو:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "نگاه کردن نظرات ویدیو:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "نگاه کردن ترجمه ویدیو:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "مشاهده",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "تجزیه و تحلیل کانال",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "نظرات کانال",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "ترجمه های کانال",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "صفحه هنرمند",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "نگاه کردن داشبوردشان",
+        "description": ""
+    }
 }
