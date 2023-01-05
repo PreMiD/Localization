@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Leggendo tutto riguardante 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Visualizzando la raccolta:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Guardando cosa c'è di nuovo"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Visualizzando gag:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Guardando cosa c'è in tendenza"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Visualizzando la pagina del negozio"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Visualizzando i tag:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Visualizzando le tendenze"
-  }
+    "9gag.gag": {
+        "message": "Visualizzando gag:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Guardando cosa c'è in tendenza",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Visualizzando le tendenze",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Guardando cosa c'è di nuovo",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Visualizzando i tag:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Leggendo tutto riguardante 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Visualizzando la pagina del negozio",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Visualizzando la raccolta:",
+        "description": ""
+    }
 }
