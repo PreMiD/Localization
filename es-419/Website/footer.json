@@ -1,110 +1,110 @@
 {
-  "footer.copyright.line1": {
-    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
-    "message": "{0} por {1}"
-  },
-  "footer.copyright.line2": {
-    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
-    "message": "Página web mantenida por {0}"
-  },
-  "footer.developers.documentation": {
-    "description": "Documentation -> redirects to docs.premid.app",
-    "message": "Documentación"
-  },
-  "footer.developers.heading": {
-    "description": "Developer section",
-    "message": "Desarrolladores"
-  },
-  "footer.developers.richpresence": {
-    "description": "Rich Presence -> redirects to discord.com/rich-presence",
-    "message": "Rich presence"
-  },
-  "footer.followUs.heading": {
-    "description": "Follow Us section",
-    "message": "Síguenos"
-  },
-  "footer.help.getsupport": {
-    "description": "Get Support -> redirects to Discord invite",
-    "message": "Obtener ayuda"
-  },
-  "footer.help.heading": {
-    "description": "Help section",
-    "message": "Ayuda"
-  },
-  "footer.help.information": {
-    "description": "Information section",
-    "message": "Información"
-  },
-  "footer.help.information.cookies": {
-    "description": "meant to be 'Cookie Policy'",
-    "message": "Cookies"
-  },
-  "footer.help.information.privacy": {
-    "description": "meant to be 'Privacy Policy'",
-    "message": "Privacidad"
-  },
-  "footer.help.information.terms": {
-    "description": "meant to be 'Terms of Service'",
-    "message": "Términos"
-  },
-  "footer.help.troubleshooting": {
-    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
-    "message": "Solución de problemas"
-  },
-  "footer.language": {
-    "description": "You know how to translate that word? I hope you do :D",
-    "message": "Idioma"
-  },
-  "footer.more.heading": {
-    "description": "More section",
-    "message": "Más"
-  },
-  "footer.more.status": {
-    "description": "Status -> redirects to status.premid.app",
-    "message": "Estado"
-  },
-  "footer.more.wiki": {
-    "description": "Wiki -> redirects to wiki.premid.app",
-    "message": "Wiki"
-  },
-  "footer.partners.heading": {
-    "description": "Partner section",
-    "message": "Socios"
-  },
-  "footer.partners.more": {
-    "description": "Button next to all listed partners on the footer.",
-    "message": "Haz clic aquí para ver a los demás socios y patrocinadores."
-  },
-  "footer.supportus.contribute": {
-    "description": "Contribute -> redirects to github.com/premid",
-    "message": "Contribuir"
-  },
-  "footer.supportus.donate": {
-    "description": "Donate -> redirects to patreon.com/timeraa",
-    "message": "Donar"
-  },
-  "footer.supportus.heading": {
-    "description": "Support us section",
-    "message": "Apóyanos"
-  },
-  "footer.supportus.jobs": {
-    "description": "Work for us! -> redirects to /jobs page",
-    "message": "¡Trabaja con nosotros!"
-  },
-  "footer.supportus.translate": {
-    "description": "Translate -> redirects to locilazation page",
-    "message": "Traducir"
-  },
-  "footer.usercount.button": {
-    "description": "Install button under the promotional message",
-    "message": "Instalar"
-  },
-  "footer.usercount.heading": {
-    "description": "Promotional heading",
-    "message": "¿Listo para usar PreMiD?"
-  },
-  "footer.usercount.message": {
-    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
-    "message": "¡Únete a {0} usuarios hoy mismo!"
-  }
+	"footer.language": {
+		"message": "Idioma",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "¿Listo para usar PreMiD?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "¡Únete a {0} usuarios hoy mismo!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Instalar",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Socios",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Síguenos",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "Desarrolladores",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "Documentación",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "Apóyanos",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "Donar",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "Contribuir",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "Traducir",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "¡Trabaja con nosotros!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "Ayuda",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "Solución de problemas",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "Obtener ayuda",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "Información",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "Cookies",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "Privacidad",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "Términos",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "Más",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "Estado",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "Wiki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} por {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "Página web mantenida por {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Haz clic aquí para ver a los demás socios y patrocinadores.",
+		"description": "Button next to all listed partners on the footer."
+	}
 }
