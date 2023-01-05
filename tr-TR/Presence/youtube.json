@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Bir reklam izliyor"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Oynatma listelerine göz atıyor"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Göz atıyor"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Videolara göz atıyor"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "geçmişi"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "kütüphanesi"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "kanalın:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "satın aldıkları"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Kanal hakkında okuyor:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Rapor geçmişini görüntülüyor"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "İçin {0} üzerinde arama:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "sanatçı sayfası"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanal analizleri"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanal yorumları"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanal çevirileri"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Paneline bakıyor"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Bir videoyu düzenliyor:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Videonun analizlerine bakıyor:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Videonun yorumlarına bakıyor:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Videonun çevirilerine bakıyor:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Görüntülüyor"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Videolarına bakıyor"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "abonelikleri"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Trendleri görüntülüyor"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Bir şey yüklüyor..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Tüm oynatma listelerini görüntülüyor"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Ses kütüphanesine bakıyor"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Canlı paneline bakıyor"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Canlı yayın etkinliklerini görüntülüyor"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Topluluk gönderilerine bakıyor"
-  }
+    "youtube.ad": {
+        "message": "Bir reklam izliyor",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "Videolara göz atıyor",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "Oynatma listelerine göz atıyor",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "Topluluk gönderilerine bakıyor",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "kanalın:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "Kanal hakkında okuyor:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "İçin {0} üzerinde arama:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "Trendleri görüntülüyor",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "Göz atıyor",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "abonelikleri",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "kütüphanesi",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "geçmişi",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "satın aldıkları",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "Rapor geçmişini görüntülüyor",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "Bir şey yüklüyor...",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "Tüm oynatma listelerini görüntülüyor",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "Canlı yayın etkinliklerini görüntülüyor",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "Canlı paneline bakıyor",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "Ses kütüphanesine bakıyor",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "Videolarına bakıyor",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "Bir videoyu düzenliyor:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "Videonun analizlerine bakıyor:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "Videonun yorumlarına bakıyor:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "Videonun çevirilerine bakıyor:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "Görüntülüyor",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "kanal analizleri",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "kanal yorumları",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "kanal çevirileri",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "sanatçı sayfası",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "Paneline bakıyor",
+        "description": ""
+    }
 }
