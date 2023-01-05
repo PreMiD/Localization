@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Přispěvatelé"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Stáhnout"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Čeština"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Změnit teď  "
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Ne, děkuji"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Naše webová stránka byla přeložena do tvého jazyka. Může ti to být v pomoci v případě že nemluvíš dobře Anglicky."
+    "message": "Čeština",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "Podporujeme tvůj jazyk, chceš si ho přepnout?"
+    "message": "Podporujeme tvůj jazyk, chceš si ho přepnout?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Přihlášen jako"
+  "header.languageNotification.text": {
+    "message": "Naše webová stránka byla přeložena do tvého jazyka. Může ti to být v pomoci v případě že nemluvíš dobře Anglicky.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Ne, děkuji",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Změnit teď  ",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Peču palačinky...;Umísťuji kontejnery...;Analyzuji tvojí IP adresu...;UwU;Porušuji pravidla..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Přihlásit se"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Odhlásit se"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Nahlásit chybu"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Řídicí panel"
+    "message": "Peču palačinky...;Umísťuji kontejnery...;Analyzuji tvojí IP adresu...;UwU;Porušuji pravidla...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Obchod"
+    "message": "Obchod",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Stáhnout",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Přispěvatelé",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Přihlásit se",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Přihlášen jako",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Nahlásit chybu",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Řídicí panel",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Odhlásit se",
+    "description": "Logout button"
   }
 }
