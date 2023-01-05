@@ -1,78 +1,78 @@
 {
-  "1337x.about": {
-    "description": "",
-    "message": "Ließt über 1337x"
-  },
-  "1337x.animeTorrents": {
-    "description": "",
-    "message": "Betrachtet Animes-Torrents"
-  },
-  "1337x.appTorrents": {
-    "description": "",
-    "message": "Betrachtet App-Torrents"
-  },
-  "1337x.docTorrents": {
-    "description": "",
-    "message": "Betrachtet Dokumentation-Torrents"
-  },
-  "1337x.gamesTorrents": {
-    "description": "",
-    "message": "Betrachtet Spiel-Torrents"
-  },
-  "1337x.latestEpisode": {
-    "description": "",
-    "message": "Betrachtet die letzten Veröffentlichungen"
-  },
-  "1337x.movieLibrary": {
-    "description": "",
-    "message": "Betrachtet Filmbibliothek"
-  },
-  "1337x.moviesTorrents": {
-    "description": "",
-    "message": "Betrachtet Film-Torrents"
-  },
-  "1337x.musicTorrents": {
-    "description": "",
-    "message": "Betrachtet Musik-Torrents"
-  },
-  "1337x.otherTorrents": {
-    "description": "",
-    "message": "Betrachtet andere Torrents"
-  },
-  "1337x.rules": {
-    "description": "",
-    "message": "Ließt die Regeln"
-  },
-  "1337x.seriesLibrary": {
-    "description": "",
-    "message": "Betrachtet Serienbibliothek"
-  },
-  "1337x.top": {
-    "description": "",
-    "message": "Betrachtet die Top 100"
-  },
-  "1337x.trending": {
-    "description": "",
-    "message": "Betrachtet die Trends"
-  },
-  "1337x.tvTorrents": {
-    "description": "",
-    "message": "Betrachtet TV-Torrents"
-  },
-  "1337x.upload": {
-    "description": "",
-    "message": "Lädt etwas hoch..."
-  },
-  "1337x.viewTorrent": {
-    "description": "",
-    "message": "Betrachtet Torrent:"
-  },
-  "1337x.writing": {
-    "description": "",
-    "message": "Schreibt an 1337x"
-  },
-  "1337x.xxxTorrents": {
-    "description": "XXX as in NSFW",
-    "message": "Betrachtet XXX-Torrents"
-  }
+    "1337x.movieLibrary": {
+        "message": "Betrachtet Filmbibliothek",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Betrachtet Serienbibliothek",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Betrachtet die letzten Veröffentlichungen",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Betrachtet die Top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Betrachtet die Trends",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Betrachtet Animes-Torrents",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Betrachtet App-Torrents",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Betrachtet Dokumentation-Torrents",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Betrachtet Spiel-Torrents",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Betrachtet Film-Torrents",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Betrachtet Musik-Torrents",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Betrachtet andere Torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Betrachtet TV-Torrents",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Betrachtet XXX-Torrents",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Lädt etwas hoch...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Ließt die Regeln",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Schreibt an 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Ließt über 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Betrachtet Torrent:",
+        "description": ""
+    }
 }
