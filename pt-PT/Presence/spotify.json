@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "álbuns de que gosta"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "artistas de que gosta"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Melhores podcasts"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "A ver"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "A ver os rankings"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "A ver novas músicas"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "A descarregar o Spotify"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Músicas em destaque"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "A ver os géneros"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "A ver os últimos lançamentos"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Feito para ti\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "as suas playlists"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "podcasts de que gosta"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "músicas de que gosta"
-  }
+	"spotify.featured": {
+		"message": "Músicas em destaque",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Melhores podcasts",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "A ver os rankings",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "A ver os géneros",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "A ver os últimos lançamentos",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "A ver novas músicas",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "A ver",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcasts de que gosta",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artistas de que gosta",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "álbuns de que gosta",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "músicas de que gosta",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Feito para ti\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "as suas playlists",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "A descarregar o Spotify",
+		"description": ""
+	}
 }
