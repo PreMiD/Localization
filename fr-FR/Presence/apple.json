@@ -1,246 +1,246 @@
 {
-  "apple.appStoreCon": {
-    "description": "Connecting to the App Store",
-    "message": "Connexion en cours..."
-  },
-  "apple.btnViewApp": {
-    "description": "e.g. \"View App\"",
-    "message": "Voir l'application"
-  },
-  "apple.btnViewDeveloper": {
-    "description": "View the developer of an app",
-    "message": "Voir le développeur"
-  },
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "Voir l'événement"
-  },
-  "apple.btnViewOS": {
-    "description": "e.g. \"View iOS 15\"",
-    "message": "Voir {0}"
-  },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "Voir le produit"
-  },
-  "apple.btnViewProfile": {
-    "description": "View a forum profile of a user",
-    "message": "Voir le profil de {0}"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "Voir le service"
-  },
-  "apple.btnViewStudio": {
-    "description": "e.g. \"View Apple Watch Studio\"",
-    "message": "Voir {0} Studio"
-  },
-  "apple.btnViewTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "Voir les tags"
-  },
-  "apple.btnViewThread": {
-    "description": "View a forum thread",
-    "message": "Voir la discussion"
-  },
-  "apple.btnViewWWDC": {
-    "description": "e.g.: \"View WWDC21\"",
-    "message": "Voir {0}"
-  },
-  "apple.chooseLang": {
-    "description": "Choosing the language of the website",
-    "message": "En train de choisir le langage du site..."
-  },
-  "apple.comparing": {
-    "description": "e.g. \"Comparing: Apple Watch\"",
-    "message": "En train de comparer :"
-  },
-  "apple.contact": {
-    "description": "Contact support",
-    "message": "En train de contacter le support"
-  },
-  "apple.devDistribution": {
-    "description": "Distribute software to the App Store",
-    "message": "Logiciel de distribution"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Documentation"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Fonctionnalités"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Jeux"
-  },
-  "apple.devHIG": {
-    "description": "Guidelines for designing apps for the various Apple operating systems",
-    "message": "Règlement de l'interface homme-machine"
-  },
-  "apple.devNew": {
-    "description": "List of updates",
-    "message": "Quoi de neuf ?"
-  },
-  "apple.devNews": {
-    "description": "News and updates (that matter) for developers",
-    "message": "Actualités"
-  },
-  "apple.devPhonePad": {
-    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
-    "message": "Applications pour iPhone et iPad"
-  },
-  "apple.devReleases": {
-    "description": "New iOS, iPadOS etc. releases",
-    "message": "Dernières sorties"
-  },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "Ressources"
-  },
-  "apple.devSubmit": {
-    "description": "Submit iOS and iPadOS apps to the App Store",
-    "message": "Comment héberger des applications"
-  },
-  "apple.devVidTopic": {
-    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
-    "message": "Navigue sur le sujet de la vidéo"
-  },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "Vidéos"
-  },
-  "apple.forumCreateThread": {
-    "description": "Creating a forum thread",
-    "message": "Crée une discussion sur le forum"
-  },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "Paramètres du profil"
-  },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "Crée un nouveau compte"
-  },
-  "apple.forumTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "Tags de forum"
-  },
-  "apple.healthRecords": {
-    "description": "Health records of a person",
-    "message": "Données de santé"
-  },
-  "apple.healthcare": {
-    "description": "The organized provision of medical care to individuals or a community",
-    "message": "Santé"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Calendrier"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Contacts"
-  },
-  "apple.iCloudKeynoteWait": {
-    "description": "Before the keynote begins, you'll be in the waiting room",
-    "message": "Salle d'attente"
-  },
-  "apple.iCloudMail": {
-    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Mail"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Notes"
-  },
-  "apple.iCloudPagesCreate": {
-    "description": "Creating a new Pages document",
-    "message": "Création en cours..."
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Photos"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Rappels"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Autres"
-  },
-  "apple.overview": {
-    "description": "Overview of e.g. all pages of a category",
-    "message": "Vue d'ensemble"
-  },
-  "apple.productsPlatform": {
-    "description": "Products/platforms for companies",
-    "message": "Produits et plateformes"
-  },
-  "apple.purchasingAdvice": {
-    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
-    "message": "Conseil d'achat"
-  },
-  "apple.shopAccessories": {
-    "description": "Accessories for Apple products (e.g iPhone case)",
-    "message": "Accessoires Apple"
-  },
-  "apple.shopBag": {
-    "description": "Shopping cart",
-    "message": "Panier"
-  },
-  "apple.shopBagSummary": {
-    "description": "The total price of the items in your bag (shopping cart)",
-    "message": "Total : {0}"
-  },
-  "apple.shopBands": {
-    "description": "Bands (Bracelets) for the Apple Watch",
-    "message": "Bracelets pour Apple Watch"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "Favoris"
-  },
-  "apple.shopGiftCards": {
-    "description": "Gift cards for e.g. the App Store",
-    "message": "Cartes cadeau"
-  },
-  "apple.shopPlanVisit": {
-    "description": "Plan your visit to the Apple Store",
-    "message": "Programmer une visite"
-  },
-  "apple.shopRefurbished": {
-    "description": "Used Apple products at a lower price",
-    "message": "Reconditionné certifié"
-  },
-  "apple.shopStudio": {
-    "description": "Choose your own design components for a product",
-    "message": "Apple Watch Studio"
-  },
-  "apple.storeFinder": {
-    "description": "Tool used to find the nearest store",
-    "message": "Cherche un magasin"
-  },
-  "apple.supplierResp": {
-    "description": "Information on human rights, health, safety, education, etc. of employees",
-    "message": "S'informe sur la responsabilité du fournisseur"
-  },
-  "apple.support": {
-    "description": "Support for products, services/apps from Apple, etc.",
-    "message": "Support Apple"
-  },
-  "apple.supportArticle": {
-    "description": "Support article",
-    "message": "Article de support Apple"
-  },
-  "apple.viewEvent": {
-    "description": "Viewing an event (e.g. September event)",
-    "message": "Regarde l'événement"
-  },
-  "apple.viewService": {
-    "description": "e.g. \"Viewing Service: Fitness+\"",
-    "message": "Consulte le service :"
-  }
+    "apple.comparing": {
+        "message": "En train de comparer :",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "Consulte le service :",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "Santé",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "Produits et plateformes",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "Données de santé",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "Vue d'ensemble",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Conseil d'achat",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Cherche un magasin",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "Regarde l'événement",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "S'informe sur la responsabilité du fournisseur",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
+    },
+    "apple.contact": {
+        "message": "En train de contacter le support",
+        "description": "Contact support"
+    },
+    "apple.chooseLang": {
+        "message": "En train de choisir le langage du site...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "Autres",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "Bracelets pour Apple Watch",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "Accessoires Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopStudio": {
+        "message": "Apple Watch Studio",
+        "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "Favoris",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Cartes cadeau",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "Programmer une visite",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "Reconditionné certifié",
+        "description": "Used Apple products at a lower price"
+    },
+    "apple.shopBag": {
+        "message": "Panier",
+        "description": "Shopping cart"
+    },
+    "apple.shopBagSummary": {
+        "message": "Total : {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "Support Apple",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Article de support Apple",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "Connexion en cours...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Mail",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Contacts",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Calendrier",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Photos",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Notes",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Rappels",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Création en cours...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Salle d'attente",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "Quoi de neuf ?",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "Comment héberger des applications",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "Applications pour iPhone et iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "Logiciel de distribution",
+        "description": "Distribute software to the App Store"
+    },
+    "apple.devDocs": {
+        "message": "Documentation",
+        "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "Règlement de l'interface homme-machine",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
+    },
+    "apple.devResources": {
+        "message": "Ressources",
+        "description": "Apple Design Resources"
+    },
+    "apple.devFeatures": {
+        "message": "Fonctionnalités",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Jeux",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "Tags de forum",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumPreferences": {
+        "message": "Paramètres du profil",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "Crée une discussion sur le forum",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "Crée un nouveau compte",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "Vidéos",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devVidTopic": {
+        "message": "Navigue sur le sujet de la vidéo",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
+    },
+    "apple.devNews": {
+        "message": "Actualités",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Dernières sorties",
+        "description": "New iOS, iPadOS etc. releases"
+    },
+    "apple.btnViewProduct": {
+        "message": "Voir le produit",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Voir le service",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Voir l'événement",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "Voir {0}",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewStudio": {
+        "message": "Voir {0} Studio",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "Voir l'application",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Voir le développeur",
+        "description": "View the developer of an app"
+    },
+    "apple.btnViewWWDC": {
+        "message": "Voir {0}",
+        "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "Voir la discussion",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Voir les tags",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "Voir le profil de {0}",
+        "description": "View a forum profile of a user"
+    }
 }
