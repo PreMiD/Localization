@@ -1,94 +1,94 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Dokumentacja"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "O PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageApiVersion": {
-    "description": "A page name // {0} will be replaced with the version number.",
-    "message": "Rozumienie wersji v{0} API"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Współtwórcy"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Pobieranie"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Strona główna"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "Rozumienie iframe"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Instalacja"
-  },
-  "premid.pageInstallFor": {
-    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
-    "message": "Instalacja dla {0}"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "Konfigurowanie metadata.json"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Klasa Presence"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Rozwój statusów"
-  },
-  "premid.pagePresenceGuide": {
-    "description": "A page name",
-    "message": "Wytyczne dotyczące presence"
-  },
-  "premid.pageSlideshowClass": {
-    "description": "A page name",
-    "message": "Klasa pokazu slajdów"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Pierwsze kroki"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Sklep"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Wymagania systemowe"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Rozwiązywanie problemów"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "Konfiguracja TypeScript"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partnerzy"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "Przegląda stronę:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Wyświetla presence:"
-  }
+	"premid.viewPage": {
+		"message": "Przegląda stronę:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumentacja",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Wyświetla presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Strona główna",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Współtwórcy",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Pobieranie",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Sklep",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnerzy",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "O PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Wymagania systemowe",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Instalacja",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Instalacja dla {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Rozwiązywanie problemów",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Pierwsze kroki",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "Rozumienie wersji v{0} API",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Rozwój statusów",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Wytyczne dotyczące presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Klasa Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Klasa pokazu slajdów",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Rozumienie iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Konfigurowanie metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Konfiguracja TypeScript",
+		"description": "A page name"
+	}
 }
