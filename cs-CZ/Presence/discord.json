@@ -1,166 +1,166 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Discord blog"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku Značky"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Prohlížení"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Zobrazit Pozvánku"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Odpovídá v kanálu:{0}{1} (Server: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Píše v kanálu:{0}{1} (Server: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku \"Vysoké školy\""
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku O nás"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "Prohlíží své aplikace"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "Upravuje aplikaci: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "Čte si dokumentaci"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "Vývojářský Portál"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "Prohlíží své servery"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "Prohlíží své týmy"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "Upravuje tým: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Čte skupinové přímé zprávy:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Píše do skupinových přímých zpráv:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Čte přímých zprávy od:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Píše přímou zprávu pro:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku Stahování"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Prohlíží své přátele..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku Inspirace"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku pracovních pozic"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discord Merch"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Zobrazení kolekce:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku o Moderaci"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku Zpravodajství"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "Čte o Nitru..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku Open Source"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku o Partnerech"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "pravidla"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku o Presencích"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Bezpečnostní Centrum"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku o Bezpečnosti"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Prohlíží nastavení{0}serveru: {1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Prohlíží svá nastavení..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Stav Discordu"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku o StreamKitu"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Centrum Podpory"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku Ověření"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "stránku \"Proč Discord?\""
-  }
+	"discord.channelReading": {
+		"message": "Odpovídá v kanálu:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Píše v kanálu:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "Čte přímých zprávy od:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Píše přímou zprávu pro:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Čte skupinové přímé zprávy:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Píše do skupinových přímých zpráv:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "Prohlíží své přátele...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Čte o Nitru...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Prohlíží svá nastavení...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Prohlíží nastavení{0}serveru: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Zobrazit Pozvánku",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Prohlížení",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "stránku Stahování",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "stránku \"Proč Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "Bezpečnostní Centrum",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "stránku pracovních pozic",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "stránku O nás",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "stránku Značky",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "stránku Inspirace",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "stránku \"Vysoké školy\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "stránku Zpravodajství",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "stránku o Partnerech",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "stránku Ověření",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "stránku o StreamKitu",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "stránku Open Source",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "stránku o Bezpečnosti",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "stránku o Moderaci",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "stránku o Presencích",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "pravidla",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Vývojářský Portál",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Prohlíží své aplikace",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Upravuje aplikaci: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Prohlíží své týmy",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Upravuje tým: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Prohlíží své servery",
+		"description": ""
+	},
+	"discord.devs.docs": {
+		"message": "Čte si dokumentaci",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Stav Discordu",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Centrum Podpory",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Zobrazení kolekce:",
+		"description": ""
+	}
 }
