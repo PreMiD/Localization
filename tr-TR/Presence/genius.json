@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "Şu şarkının sözlerine bakıyor:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Bir albüme bakıyor:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Giriş sayfasına bakıyor"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Sözleri Göster"
-  }
+	"genius.lyrics": {
+		"message": "Şu şarkının sözlerine bakıyor:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Sözleri Göster",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Giriş sayfasına bakıyor",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Bir albüme bakıyor:",
+		"description": "Album of a song"
+	}
 }
