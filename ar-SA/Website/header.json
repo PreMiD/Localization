@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "المساهمون"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "تحميل"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "العربية"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "تغيير اللغة"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "لا، شكرا"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "لقد تمت ترجمة موقعنا إلى لغتك. قد يساعدك ذلك إذا كنت لا تتحدث الإنجليزية جيدًا."
+    "message": "العربية",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "نحن ندعم لغتك، هل تريد التغيير؟"
+    "message": "نحن ندعم لغتك، هل تريد التغيير؟",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "تم تسجيل الدخول كـ"
+  "header.languageNotification.text": {
+    "message": "لقد تمت ترجمة موقعنا إلى لغتك. قد يساعدك ذلك إذا كنت لا تتحدث الإنجليزية جيدًا.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "لا، شكرا",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "تغيير اللغة",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "طبخ الفطائر...;وضع الأوعية...;تحليل عنوان IP الخاص بك...;UwU;كسر القواعد..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "تسجيل الدخول"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "تسجيل الخروج"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "الإبلاغ عن خطأ"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "لوحة التحكم"
+    "message": "طبخ الفطائر...;وضع الأوعية...;تحليل عنوان IP الخاص بك...;UwU;كسر القواعد...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "المتجر"
+    "message": "المتجر",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "تحميل",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "المساهمون",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "تسجيل الدخول",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "تم تسجيل الدخول كـ",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "الإبلاغ عن خطأ",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "لوحة التحكم",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "تسجيل الخروج",
+    "description": "Logout button"
   }
 }
