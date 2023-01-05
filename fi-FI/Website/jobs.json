@@ -1,110 +1,110 @@
 {
-  "jobs.benefit1.description": {
-    "description": "Benefit card description.",
-    "message": "Tutustu henkilöihin PreMiDin taustalla."
-  },
-  "jobs.benefit1.title": {
-    "description": "Benefit card title.",
-    "message": "Tapaa meidät"
-  },
-  "jobs.benefit2.description": {
-    "description": "Benefit card description.",
-    "message": "Tutustu kehitys- ja markkinointityöhömme."
-  },
-  "jobs.benefit2.title": {
-    "description": "Benefit card title.",
-    "message": "Kurkistuksia"
-  },
-  "jobs.benefit3.description": {
-    "description": "Benefit card description.",
-    "message": "Voimakkat Discord-oikeudet ja värikäs rooli."
-  },
-  "jobs.benefit3.title": {
-    "description": "Benefit card title.",
-    "message": "Kunnianosoituksia"
-  },
-  "jobs.benefit4.description": {
-    "description": "Benefit card description.",
-    "message": "Sinun panoksesi mahdollistaa tämän projektin onnistumisen."
-  },
-  "jobs.benefit4.title": {
-    "description": "Benefit card title.",
-    "message": "Tue PreMiDiä"
-  },
-  "jobs.benefit5.description": {
-    "description": "Benefit card description.",
-    "message": "Ei mitään kiirettä. Tämä on vapaaehtoistyötä."
-  },
-  "jobs.benefit5.title": {
-    "description": "Benefit card title.",
-    "message": "Aikalisä"
-  },
-  "jobs.benefit6.description": {
-    "description": "Benefit card description.",
-    "message": "Testaa uusia ominaisuuksia ennen muita."
-  },
-  "jobs.benefit6.title": {
-    "description": "Benefit card title.",
-    "message": "Kokeile ensimmäisenä"
-  },
-  "jobs.benefits.title": {
-    "description": "Text before the benefits cards.",
-    "message": "Huipputason edut"
-  },
-  "jobs.errors.alreadyApplied": {
-    "description": "Notification when you applied already.",
-    "message": "Olet jo lähettänyt hakemuksen!"
-  },
-  "jobs.guild.explanation": {
-    "description": "Explanation why users should be in Discord server to perform job application.",
-    "message": "Voidaksesi hakea työpaikkaa sinun tulee olla liittynyt Discord-palvelimellemme. Muussa tapauksessa emme voi ottaa sinuun yhteyttä, mikäli tulet valituksi!"
-  },
-  "jobs.guild.required": {
-    "description": "Title of the modal the user will see if it's not in Discord server.",
-    "message": "Liity Discordiimme"
-  },
-  "jobs.header.description": {
-    "description": "The second part of the jobs page.",
-    "message": "Oletko valmis auttamaan suurimman Rich Presence -ohjelman kehittämisessä?"
-  },
-  "jobs.header.title": {
-    "description": "First part of the jobs page.",
-    "message": "Työskentele PreMiDillä"
-  },
-  "jobs.modal.buttons.cancel": {
-    "description": "Cancel, button in the modal.",
-    "message": "Peruuta"
-  },
-  "jobs.modal.buttons.join": {
-    "description": "Join Discord button in the modal.",
-    "message": "Liity"
-  },
-  "jobs.modal.buttons.next": {
-    "description": "Next button in the modal.",
-    "message": "Seuraava"
-  },
-  "jobs.modal.error": {
-    "description": "Error when user did not fill all the fields.",
-    "message": "Täytä kaikki kentät"
-  },
-  "jobs.modal.notice": {
-    "description": "Notice for applicants.",
-    "message": "PreMiD on aivomen lähdekoodin projekti, eli olemme voittoa tavoittelematon tiimi, ja kaikki lahjoitukset ja patreon-rahat menevät suoraan projektin kehitykseen. Hakiessasi työpaikkaa PreMiDiltä hyväksyt, että kyseessä on vapaaehtoistyö, etkä siis tule saamaan työstäsi rahallista korvausta."
-  },
-  "jobs.modal.step": {
-    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
-    "message": "Vaihe {0} / 2"
-  },
-  "jobs.modal.title": {
-    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
-    "message": "Hae paikkaa {0}"
-  },
-  "jobs.openings.title": {
-    "description": "Text before the available job positions cards.",
-    "message": "Avoimet työpaikat"
-  },
-  "jobs.success.applied": {
-    "description": "Notification when applying.",
-    "message": "Kiitos hakemuksestasi!"
-  }
+	"jobs.modal.title": {
+		"message": "Hae paikkaa {0}",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "Vaihe {0} / 2",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "Seuraava",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "Liity",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "Peruuta",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "Täytä kaikki kentät",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD on aivomen lähdekoodin projekti, eli olemme voittoa tavoittelematon tiimi, ja kaikki lahjoitukset ja patreon-rahat menevät suoraan projektin kehitykseen. Hakiessasi työpaikkaa PreMiDiltä hyväksyt, että kyseessä on vapaaehtoistyö, etkä siis tule saamaan työstäsi rahallista korvausta.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Liity Discordiimme",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "Voidaksesi hakea työpaikkaa sinun tulee olla liittynyt Discord-palvelimellemme. Muussa tapauksessa emme voi ottaa sinuun yhteyttä, mikäli tulet valituksi!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "Työskentele PreMiDillä",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "Oletko valmis auttamaan suurimman Rich Presence -ohjelman kehittämisessä?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "Avoimet työpaikat",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "Huipputason edut",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "Tapaa meidät",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "Tutustu henkilöihin PreMiDin taustalla.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "Kurkistuksia",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "Tutustu kehitys- ja markkinointityöhömme.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "Kunnianosoituksia",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "Voimakkat Discord-oikeudet ja värikäs rooli.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "Tue PreMiDiä",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "Sinun panoksesi mahdollistaa tämän projektin onnistumisen.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "Aikalisä",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "Ei mitään kiirettä. Tämä on vapaaehtoistyötä.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "Kokeile ensimmäisenä",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "Testaa uusia ominaisuuksia ennen muita.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "Kiitos hakemuksestasi!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "Olet jo lähettänyt hakemuksen!",
+		"description": "Notification when you applied already."
+	}
 }
