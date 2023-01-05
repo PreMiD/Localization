@@ -1,58 +1,58 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Dokumenti"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Sodelavci"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Prenosi"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Domača stran"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Namestitev"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Razvoj Dodatkov"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Kako začeti"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Trgovina"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Sistemske zahteve"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Odpravljanje napak"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partnerji"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "Ogledovanje strani:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Ogledovanje dodatka:"
-  }
+	"premid.viewPage": {
+		"message": "Ogledovanje strani:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Dokumenti",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Ogledovanje dodatka:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Domača stran",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Sodelavci",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Prenosi",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Trgovina",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnerji",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Sistemske zahteve",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Namestitev",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Odpravljanje napak",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Kako začeti",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceDev": {
+		"message": "Razvoj Dodatkov",
+		"description": "A page name"
+	}
 }
