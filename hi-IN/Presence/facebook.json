@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "हाल ही में जोड़ा"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "के माध्यम से ब्राउज़ करना:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "इसके साथ कॉल में:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "सहेजे गए वीडियो"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "उपयोगकर्ता के बारे में पढ़ना:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "उपयोगकर्ता का समुदाय देखना:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "उपयोगकर्ता के मित्र देखना:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "कोई... (उपयोगकर्ता छिपा हुआ)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "उपयोगकर्ता द्वारा तस्वीरें देखना:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "उपयोगकर्ता द्वारा पोस्ट देखना:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "उपयोगकर्ता की दुकान देखना:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "उपयोगकर्ता द्वारा वीडियो देखना:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "इसके साथ कॉल में:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "आज का मौसम देखना"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "संदेश लिखना"
-  }
+    "facebook.call": {
+        "message": "इसके साथ कॉल में:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "इसके साथ कॉल में:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "कोई... (उपयोगकर्ता छिपा हुआ)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "संदेश लिखना",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "उपयोगकर्ता के बारे में पढ़ना:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "उपयोगकर्ता का समुदाय देखना:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "उपयोगकर्ता द्वारा तस्वीरें देखना:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "उपयोगकर्ता द्वारा पोस्ट देखना:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "उपयोगकर्ता की दुकान देखना:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "उपयोगकर्ता के मित्र देखना:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "उपयोगकर्ता द्वारा वीडियो देखना:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "के माध्यम से ब्राउज़ करना:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "सहेजे गए वीडियो",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "हाल ही में जोड़ा",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "आज का मौसम देखना",
+        "description": ""
+    }
 }
