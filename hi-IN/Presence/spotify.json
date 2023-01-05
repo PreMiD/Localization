@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "एल्बम जो उन्हें पसंद हैं"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "कलाकार जो उन्हें पसंद हैं"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "सर्वश्रेष्ठ पॉडकास्ट"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "के माध्यम से ब्राउज़िंग"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "चार्ट देखना"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "नए गानों की खोज"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Spotify डाउनलोड हो रहा है"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "चुनिंदा गाने"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "शैलियों के माध्यम से ब्राउज़ करना"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "नवीनतम रिलीज़ देखना"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"*you के लिए बनाया गया\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "their प्लेलिस्ट"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "पॉडकास्ट जो उन्हें पसंद हैं"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "गाने जो उन्हें पसंद हैं"
-  }
+	"spotify.featured": {
+		"message": "चुनिंदा गाने",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "सर्वश्रेष्ठ पॉडकास्ट",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "चार्ट देखना",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "शैलियों के माध्यम से ब्राउज़ करना",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "नवीनतम रिलीज़ देखना",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "नए गानों की खोज",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "के माध्यम से ब्राउज़िंग",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "पॉडकास्ट जो उन्हें पसंद हैं",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "कलाकार जो उन्हें पसंद हैं",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "एल्बम जो उन्हें पसंद हैं",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "गाने जो उन्हें पसंद हैं",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"*you के लिए बनाया गया\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "their प्लेलिस्ट",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify डाउनलोड हो रहा है",
+		"description": ""
+	}
 }
