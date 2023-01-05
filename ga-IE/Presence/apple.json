@@ -1,246 +1,246 @@
 {
-  "apple.appStoreCon": {
-    "description": "Connecting to the App Store",
-    "message": "Ag nascadh..."
-  },
-  "apple.btnViewApp": {
-    "description": "e.g. \"View App\"",
-    "message": "Féach ar an Aip"
-  },
-  "apple.btnViewDeveloper": {
-    "description": "View the developer of an app",
-    "message": "Féach ar Fhorbróir"
-  },
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "Féach ar Imeacht"
-  },
-  "apple.btnViewOS": {
-    "description": "e.g. \"View iOS 15\"",
-    "message": "Féach ar {0}"
-  },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "Féach ar an Táirge"
-  },
-  "apple.btnViewProfile": {
-    "description": "View a forum profile of a user",
-    "message": "Féach ar Phróifíl {0}"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "Féach ar an tSeirbhís"
-  },
-  "apple.btnViewStudio": {
-    "description": "e.g. \"View Apple Watch Studio\"",
-    "message": "Féach ar {0} Studio"
-  },
-  "apple.btnViewTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "Féach Clibeanna"
-  },
-  "apple.btnViewThread": {
-    "description": "View a forum thread",
-    "message": "Féach Snáithe"
-  },
-  "apple.btnViewWWDC": {
-    "description": "e.g.: \"View WWDC21\"",
-    "message": "Féach ar {0}"
-  },
-  "apple.chooseLang": {
-    "description": "Choosing the language of the website",
-    "message": "Ag roghnú teanga..."
-  },
-  "apple.comparing": {
-    "description": "e.g. \"Comparing: Apple Watch\"",
-    "message": "Comparáid:"
-  },
-  "apple.contact": {
-    "description": "Contact support",
-    "message": "Déan teagmháil le tacaíocht"
-  },
-  "apple.devDistribution": {
-    "description": "Distribute software to the App Store",
-    "message": "Bogearraí a dháileadh"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Doiciméadú"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Gnéithe"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Cluichí"
-  },
-  "apple.devHIG": {
-    "description": "Guidelines for designing apps for the various Apple operating systems",
-    "message": "Treoirlínte Comhéadain Daonna"
-  },
-  "apple.devNew": {
-    "description": "List of updates",
-    "message": "Cad atá nua"
-  },
-  "apple.devNews": {
-    "description": "News and updates (that matter) for developers",
-    "message": "Nuacht agus Nuashonruithe"
-  },
-  "apple.devPhonePad": {
-    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
-    "message": "Aipeanna iPhone agus iPad"
-  },
-  "apple.devReleases": {
-    "description": "New iOS, iPadOS etc. releases",
-    "message": "Scaoileadh"
-  },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "Acmhainní"
-  },
-  "apple.devSubmit": {
-    "description": "Submit iOS and iPadOS apps to the App Store",
-    "message": "Conas aipeanna a chur isteach"
-  },
-  "apple.devVidTopic": {
-    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
-    "message": "Ag brabhsáil ábhar físe"
-  },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "Físeáin"
-  },
-  "apple.forumCreateThread": {
-    "description": "Creating a forum thread",
-    "message": "Snáithe a chruthú"
-  },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "Sainroghanna"
-  },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "Clárú"
-  },
-  "apple.forumTags": {
-    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
-    "message": "Clibeanna an Fhóraim"
-  },
-  "apple.healthRecords": {
-    "description": "Health records of a person",
-    "message": "Taifid sláinte"
-  },
-  "apple.healthcare": {
-    "description": "The organized provision of medical care to individuals or a community",
-    "message": "Cúram sláinte"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Féilire"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Teagmhálacha"
-  },
-  "apple.iCloudKeynoteWait": {
-    "description": "Before the keynote begins, you'll be in the waiting room",
-    "message": "Seomra feithimh"
-  },
-  "apple.iCloudMail": {
-    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Ríomhphost"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Nótaí"
-  },
-  "apple.iCloudPagesCreate": {
-    "description": "Creating a new Pages document",
-    "message": "Ag cruthú..."
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Grianghraif"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Meabhrúcháin"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Eile"
-  },
-  "apple.overview": {
-    "description": "Overview of e.g. all pages of a category",
-    "message": "Forbreathnú"
-  },
-  "apple.productsPlatform": {
-    "description": "Products/platforms for companies",
-    "message": "Táirgí agus Ardán"
-  },
-  "apple.purchasingAdvice": {
-    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
-    "message": "Comhairle ceannaigh"
-  },
-  "apple.shopAccessories": {
-    "description": "Accessories for Apple products (e.g iPhone case)",
-    "message": "Gabhálais Apple"
-  },
-  "apple.shopBag": {
-    "description": "Shopping cart",
-    "message": "Mála Siopa"
-  },
-  "apple.shopBagSummary": {
-    "description": "The total price of the items in your bag (shopping cart)",
-    "message": "Iomlán: {0}"
-  },
-  "apple.shopBands": {
-    "description": "Bands (Bracelets) for the Apple Watch",
-    "message": "Bannaí Apple Watch"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "Favorites"
-  },
-  "apple.shopGiftCards": {
-    "description": "Gift cards for e.g. the App Store",
-    "message": "Cártaí bronntanais"
-  },
-  "apple.shopPlanVisit": {
-    "description": "Plan your visit to the Apple Store",
-    "message": "Pleanáil do chuairt"
-  },
-  "apple.shopRefurbished": {
-    "description": "Used Apple products at a lower price",
-    "message": "Athchóirithe Deimhnithe"
-  },
-  "apple.shopStudio": {
-    "description": "Choose your own design components for a product",
-    "message": "Stiúideo Apple Watch"
-  },
-  "apple.storeFinder": {
-    "description": "Tool used to find the nearest store",
-    "message": "Aimsitheoir iontach"
-  },
-  "apple.supplierResp": {
-    "description": "Information on human rights, health, safety, education, etc. of employees",
-    "message": "Freagracht an tSoláthraí"
-  },
-  "apple.support": {
-    "description": "Support for products, services/apps from Apple, etc.",
-    "message": "Tacaíocht Apple"
-  },
-  "apple.supportArticle": {
-    "description": "Support article",
-    "message": "Airteagal Tacaíochta Apple"
-  },
-  "apple.viewEvent": {
-    "description": "Viewing an event (e.g. September event)",
-    "message": "Imeacht Breathnóireachta"
-  },
-  "apple.viewService": {
-    "description": "e.g. \"Viewing Service: Fitness+\"",
-    "message": "Seirbhís Breathnóireachta:"
-  }
+    "apple.comparing": {
+        "message": "Comparáid:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "Seirbhís Breathnóireachta:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.healthcare": {
+        "message": "Cúram sláinte",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.productsPlatform": {
+        "message": "Táirgí agus Ardán",
+        "description": "Products/platforms for companies"
+    },
+    "apple.healthRecords": {
+        "message": "Taifid sláinte",
+        "description": "Health records of a person"
+    },
+    "apple.overview": {
+        "message": "Forbreathnú",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Comhairle ceannaigh",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Aimsitheoir iontach",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "Imeacht Breathnóireachta",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.supplierResp": {
+        "message": "Freagracht an tSoláthraí",
+        "description": "Information on human rights, health, safety, education, etc. of employees"
+    },
+    "apple.contact": {
+        "message": "Déan teagmháil le tacaíocht",
+        "description": "Contact support"
+    },
+    "apple.chooseLang": {
+        "message": "Ag roghnú teanga...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "Eile",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "Bannaí Apple Watch",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopAccessories": {
+        "message": "Gabhálais Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopStudio": {
+        "message": "Stiúideo Apple Watch",
+        "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "Favorites",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Cártaí bronntanais",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.shopPlanVisit": {
+        "message": "Pleanáil do chuairt",
+        "description": "Plan your visit to the Apple Store"
+    },
+    "apple.shopRefurbished": {
+        "message": "Athchóirithe Deimhnithe",
+        "description": "Used Apple products at a lower price"
+    },
+    "apple.shopBag": {
+        "message": "Mála Siopa",
+        "description": "Shopping cart"
+    },
+    "apple.shopBagSummary": {
+        "message": "Iomlán: {0}",
+        "description": "The total price of the items in your bag (shopping cart)"
+    },
+    "apple.support": {
+        "message": "Tacaíocht Apple",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Airteagal Tacaíochta Apple",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "Ag nascadh...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Ríomhphost",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Teagmhálacha",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Féilire",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Grianghraif",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Nótaí",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Meabhrúcháin",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPagesCreate": {
+        "message": "Ag cruthú...",
+        "description": "Creating a new Pages document"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Seomra feithimh",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "Cad atá nua",
+        "description": "List of updates"
+    },
+    "apple.devSubmit": {
+        "message": "Conas aipeanna a chur isteach",
+        "description": "Submit iOS and iPadOS apps to the App Store"
+    },
+    "apple.devPhonePad": {
+        "message": "Aipeanna iPhone agus iPad",
+        "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)"
+    },
+    "apple.devDistribution": {
+        "message": "Bogearraí a dháileadh",
+        "description": "Distribute software to the App Store"
+    },
+    "apple.devDocs": {
+        "message": "Doiciméadú",
+        "description": "Developer documentation"
+    },
+    "apple.devHIG": {
+        "message": "Treoirlínte Comhéadain Daonna",
+        "description": "Guidelines for designing apps for the various Apple operating systems"
+    },
+    "apple.devResources": {
+        "message": "Acmhainní",
+        "description": "Apple Design Resources"
+    },
+    "apple.devFeatures": {
+        "message": "Gnéithe",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Cluichí",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumTags": {
+        "message": "Clibeanna an Fhóraim",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.forumPreferences": {
+        "message": "Sainroghanna",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumCreateThread": {
+        "message": "Snáithe a chruthú",
+        "description": "Creating a forum thread"
+    },
+    "apple.forumRegister": {
+        "message": "Clárú",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "Físeáin",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devVidTopic": {
+        "message": "Ag brabhsáil ábhar físe",
+        "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)"
+    },
+    "apple.devNews": {
+        "message": "Nuacht agus Nuashonruithe",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Scaoileadh",
+        "description": "New iOS, iPadOS etc. releases"
+    },
+    "apple.btnViewProduct": {
+        "message": "Féach ar an Táirge",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Féach ar an tSeirbhís",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Féach ar Imeacht",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "Féach ar {0}",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewStudio": {
+        "message": "Féach ar {0} Studio",
+        "description": "e.g. \"View Apple Watch Studio\""
+    },
+    "apple.btnViewApp": {
+        "message": "Féach ar an Aip",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Féach ar Fhorbróir",
+        "description": "View the developer of an app"
+    },
+    "apple.btnViewWWDC": {
+        "message": "Féach ar {0}",
+        "description": "e.g.: \"View WWDC21\""
+    },
+    "apple.btnViewThread": {
+        "message": "Féach Snáithe",
+        "description": "View a forum thread"
+    },
+    "apple.btnViewTags": {
+        "message": "Féach Clibeanna",
+        "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)"
+    },
+    "apple.btnViewProfile": {
+        "message": "Féach ar Phróifíl {0}",
+        "description": "View a forum profile of a user"
+    }
 }
