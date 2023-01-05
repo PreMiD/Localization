@@ -1,10 +1,10 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Lataukset"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Yhteistyökumppanit"
-  }
+	"twitch.downloads": {
+		"message": "Lataukset",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Yhteistyökumppanit",
+		"description": "Page name"
+	}
 }
