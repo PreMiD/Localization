@@ -1,70 +1,70 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Vendo o seu endereço"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Vendo as suas preferências de publicidade"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Vendo o seu saldo"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "seu carrinho de compras"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Vendo todas as categorias"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "seus vales-presente"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Vendo seu histórico"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "os detalhes da sua encomenda"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "seu histórico de encomendas"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Vendo seus métodos de pagamento"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Vendo seus animais de estimação"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Vendo Amazon Prime"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Vendo os recomendados"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Vendo a loja:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Vendo suas inscrições"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Vendo"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "sua lista de desejos"
-  }
+    "amazon.subscriptions": {
+        "message": "Vendo suas inscrições",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Vendo as suas preferências de publicidade",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Vendo o seu saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Vendo seus métodos de pagamento",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Vendo o seu endereço",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Vendo seus animais de estimação",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Vendo todas as categorias",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Vendo Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Vendo",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "seu histórico de encomendas",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "os detalhes da sua encomenda",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "seu carrinho de compras",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "sua lista de desejos",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "seus vales-presente",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Vendo os recomendados",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Vendo seu histórico",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Vendo a loja:",
+        "description": ""
+    }
 }
