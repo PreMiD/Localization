@@ -1,70 +1,70 @@
 {
-  "partners.apply.select.other": {
-    "description": "Select 'Other' category.",
-    "message": "Annað"
-  },
-  "partners.apply.success": {
-    "description": "Success message when applying.",
-    "message": "Takk fyrir að sækja um!"
-  },
-  "partners.header.description": {
-    "description": "Description for page.",
-    "message": "Vertu með í frægðinni og fáðu ávinning af einni félaga til að sýna fram á hversu mikið þú hefur af þér."
-  },
-  "partners.header.title": {
-    "description": "Heading for page.",
-    "message": "Samstarfsaðilar"
-  },
-  "partners.requirements.first.title": {
-    "description": "Heading for the first requirement.",
-    "message": "Hvað erum við að leita að?"
-  },
-  "partners.slideshow.description": {
-    "description": "Description for slideshow.",
-    "message": "Þau tilheyra okkur þegar"
-  },
-  "partners.why.benefit1.description": {
-    "description": "Description for the first benefit.",
-    "message": "Lið okkar mun veita þér Presence fyrir þjónustu þína."
-  },
-  "partners.why.benefit1.title": {
-    "description": "Heading for the first benefit.",
-    "message": "Ókeypis Presence"
-  },
-  "partners.why.benefit2.description": {
-    "description": "Description for the second benefit.",
-    "message": "Sérstakt hlutverk og mikill heiður verður þér veitt á Discord netþjóninum okkar."
-  },
-  "partners.why.benefit2.title": {
-    "description": "Heading for the second benefit.",
-    "message": "Vertu staðfestur"
-  },
-  "partners.why.benefit3.description": {
-    "description": "Description for the third benefit.",
-    "message": "Notar sjálfkrafa Presence þína þegar einhver er að heimsækja vefsíðuna þína."
-  },
-  "partners.why.benefit3.title": {
-    "description": "Heading for the third benefit.",
-    "message": "Meta-tag integration"
-  },
-  "partners.why.benefit4.description": {
-    "description": "Description for the fourth benefit.",
-    "message": "Ógeðslegur staður á félagasíðunni okkar."
-  },
-  "partners.why.benefit4.title": {
-    "description": "Heading for the fourth benefit.",
-    "message": "Vertu ódauðlegur"
-  },
-  "partners.why.benefit5.description": {
-    "description": "Description for the fifth benefit.",
-    "message": "Er á samfélagsmiðlum okkar."
-  },
-  "partners.why.benefit5.title": {
-    "description": "Heading for the fifth benefit.",
-    "message": "Vertu frægur"
-  },
-  "partners.why.title": {
-    "description": "Heading for benefits.",
-    "message": "Hvernig væri að fara til himna í stað helvítis?"
-  }
+	"partners.header.title": {
+		"message": "Samstarfsaðilar",
+		"description": "Heading for page."
+	},
+	"partners.header.description": {
+		"message": "Vertu með í frægðinni og fáðu ávinning af einni félaga til að sýna fram á hversu mikið þú hefur af þér.",
+		"description": "Description for page."
+	},
+	"partners.slideshow.description": {
+		"message": "Þau tilheyra okkur þegar",
+		"description": "Description for slideshow."
+	},
+	"partners.why.title": {
+		"message": "Hvernig væri að fara til himna í stað helvítis?",
+		"description": "Heading for benefits."
+	},
+	"partners.why.benefit1.title": {
+		"message": "Ókeypis Presence",
+		"description": "Heading for the first benefit."
+	},
+	"partners.why.benefit1.description": {
+		"message": "Lið okkar mun veita þér Presence fyrir þjónustu þína.",
+		"description": "Description for the first benefit."
+	},
+	"partners.why.benefit2.title": {
+		"message": "Vertu staðfestur",
+		"description": "Heading for the second benefit."
+	},
+	"partners.why.benefit2.description": {
+		"message": "Sérstakt hlutverk og mikill heiður verður þér veitt á Discord netþjóninum okkar.",
+		"description": "Description for the second benefit."
+	},
+	"partners.why.benefit3.title": {
+		"message": "Meta-tag integration",
+		"description": "Heading for the third benefit."
+	},
+	"partners.why.benefit3.description": {
+		"message": "Notar sjálfkrafa Presence þína þegar einhver er að heimsækja vefsíðuna þína.",
+		"description": "Description for the third benefit."
+	},
+	"partners.why.benefit4.title": {
+		"message": "Vertu ódauðlegur",
+		"description": "Heading for the fourth benefit."
+	},
+	"partners.why.benefit4.description": {
+		"message": "Ógeðslegur staður á félagasíðunni okkar.",
+		"description": "Description for the fourth benefit."
+	},
+	"partners.why.benefit5.title": {
+		"message": "Vertu frægur",
+		"description": "Heading for the fifth benefit."
+	},
+	"partners.why.benefit5.description": {
+		"message": "Er á samfélagsmiðlum okkar.",
+		"description": "Description for the fifth benefit."
+	},
+	"partners.requirements.first.title": {
+		"message": "Hvað erum við að leita að?",
+		"description": "Heading for the first requirement."
+	},
+	"partners.apply.select.other": {
+		"message": "Annað",
+		"description": "Select 'Other' category."
+	},
+	"partners.apply.success": {
+		"message": "Takk fyrir að sækja um!",
+		"description": "Success message when applying."
+	}
 }
