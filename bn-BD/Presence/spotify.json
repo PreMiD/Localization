@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "তার পছন্দের অ্যালবাম"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "যে শিল্পিদের সে পছন্দ করে"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "সেরা পডকাস্ট"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "ব্রাউজ করছে"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "দেখছে চার্টগুলো"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "খুঁজছে নতুন গান"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Spotify ডাউনলোড করছে"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "প্রস্তাবিত গান"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "ব্রাউজ করছে ধরণগুলো"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "দেখছে সর্বশেষ প্রকাশনা"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"আপনার জন্য\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "তাদের প্লেলিস্টগুলো"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "পডকাস্টগুলি যা সে পছন্দ করে"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "তার পছন্দের গান"
-  }
+	"spotify.featured": {
+		"message": "প্রস্তাবিত গান",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "সেরা পডকাস্ট",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "দেখছে চার্টগুলো",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "ব্রাউজ করছে ধরণগুলো",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "দেখছে সর্বশেষ প্রকাশনা",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "খুঁজছে নতুন গান",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "ব্রাউজ করছে",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "পডকাস্টগুলি যা সে পছন্দ করে",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "যে শিল্পিদের সে পছন্দ করে",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "তার পছন্দের অ্যালবাম",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "তার পছন্দের গান",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"আপনার জন্য\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "তাদের প্লেলিস্টগুলো",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify ডাউনলোড করছে",
+		"description": ""
+	}
 }
