@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Kontributor"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Unduhan"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Bahasa Indonesia"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Ganti bahasa"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Tidak, terima kasih"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Website kami telah diterjemahkan ke dalam bahasamu. Ini mungkin bisa membantumu jika kamu kurang bisa Bahasa Inggris."
+    "message": "Bahasa Indonesia",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "Kita mendukung bahasamu, ganti bahasa?"
+    "message": "Kita mendukung bahasamu, ganti bahasa?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Masuk sebagai"
+  "header.languageNotification.text": {
+    "message": "Website kami telah diterjemahkan ke dalam bahasamu. Ini mungkin bisa membantumu jika kamu kurang bisa Bahasa Inggris.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Tidak, terima kasih",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Ganti bahasa",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Memasak pancake...;menaruh kontainer...;Memproses alamat IP kamu...;UwU;Melanggar aturan..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Masuk"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Keluar"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Laporkan bug"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Dashboard"
+    "message": "Memasak pancake...;menaruh kontainer...;Memproses alamat IP kamu...;UwU;Melanggar aturan...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Toko"
+    "message": "Toko",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Unduhan",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Kontributor",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Masuk",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Masuk sebagai",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Laporkan bug",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Keluar",
+    "description": "Logout button"
   }
 }
