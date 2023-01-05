@@ -1,18 +1,18 @@
 {
-  "tiktok.buttonViewTikTok": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "टिकटॉक देखें"
-  },
-  "tiktok.following": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Their{0}निम्नलिखित पृष्ठ देख रहे हैं"
-  },
-  "tiktok.forYou": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Their{0}You पेज के लिए. देखना"
-  },
-  "tiktok.viewing": {
-    "description": "Name of the user will be after the \":\"",
-    "message": "का एक टिकटॉक देखना:"
-  }
+	"tiktok.forYou": {
+		"message": "Their{0}You पेज के लिए. देखना",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"tiktok.following": {
+		"message": "Their{0}निम्नलिखित पृष्ठ देख रहे हैं",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"tiktok.viewing": {
+		"message": "का एक टिकटॉक देखना:",
+		"description": "Name of the user will be after the \":\""
+	},
+	"tiktok.buttonViewTikTok": {
+		"message": "टिकटॉक देखें",
+		"description": "Used as the title for the button in Discord."
+	}
 }
