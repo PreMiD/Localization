@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Bijdragers"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Downloads"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Nederlands"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Taal wijzigen"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Nee, bedankt"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Onze website is vertaald naar je taal. Dit kan helpen als je niet goed Engels spreekt."
+    "message": "Nederlands",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "We ondersteunen je taal, wil je overschakelen?"
+    "message": "We ondersteunen je taal, wil je overschakelen?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Ingelogd als"
+  "header.languageNotification.text": {
+    "message": "Onze website is vertaald naar je taal. Dit kan helpen als je niet goed Engels spreekt.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Nee, bedankt",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Taal wijzigen",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Pannenkoeken bakken...;Containers plaatsen...;IP-adressen parseren...;UwU;Regels overtreden...;Met Discord kletsen...;De nieuwe presences bekijken...;Leden bewonderen...;Mappen ordenen...;Afbeeldingen inkleuren...;Partners promoten...;Sponsoren verwennen..."
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Inloggen"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Uitloggen"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Fout melden"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Dashboard"
+    "message": "Pannenkoeken bakken...;Containers plaatsen...;IP-adressen parseren...;UwU;Regels overtreden...;Met Discord kletsen...;De nieuwe presences bekijken...;Leden bewonderen...;Mappen ordenen...;Afbeeldingen inkleuren...;Partners promoten...;Sponsoren verwennen...",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Bibliotheek"
+    "message": "Bibliotheek",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Downloads",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Bijdragers",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Inloggen",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Ingelogd als",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Fout melden",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Dashboard",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Uitloggen",
+    "description": "Logout button"
   }
 }
