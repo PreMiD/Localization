@@ -1,10 +1,10 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Stiahnuť "
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Partnery"
-  }
+	"twitch.downloads": {
+		"message": "Stiahnuť ",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Partnery",
+		"description": "Page name"
+	}
 }
