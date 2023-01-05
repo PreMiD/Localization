@@ -1,90 +1,90 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "Играет в игру"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Смотрит..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Прямой эфир"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Воспроизводится"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "Осталось {0}"
-  },
-  "home.examples.timestamp2": {
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "Прошло {0}"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "Вам понравятся эти функции!"
-  },
-  "home.features.presencesystem.button": {
-    "description": "Features section button",
-    "message": "Посетить магазин"
-  },
-  "home.features.presencesystem.description": {
-    "description": "Features section description",
-    "message": "Мы разработали расширение таким образом, чтобы вы могли добавлять, использовать и управлять Presences, созданные другими пользователями!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "Найдите Presence для **себя**"
-  },
-  "home.features.quickSupport.button": {
-    "description": "Features section button",
-    "message": "Присоединиться к нашему Discord серверу"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "Что-то сбоит, отправляя тонны ошибок или просто не работает? Мы поможем вам избавиться от этих проблем на нашем Discord сервере. Кроме того, мы создали нашу собственную систему поддержки, которая позаботится о том, чтобы ваша проблема была решена как можно скорее."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "Быстрая поддержка"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "Устали от сложных пользовательских интерфейсов? Мы разработали и стараемся сохранить наш пользовательский интерфейс максимально простым и полезным в использовании с такими важными функциями, как:"
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "Настройка приложения и расширения"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Управление статусами"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "Сортировка по категориям"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "Простой пользовательский интерфейс"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "Загрузки "
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "Возможности"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "**PreMiD** — это простая, настраиваемая утилита, позволяющая вам показать, что вы делаете в сети в вашем статусе Discord."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "Язык"
-  }
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** — это простая, настраиваемая утилита, позволяющая вам показать, что вы делаете в сети в вашем статусе Discord.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Возможности",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Загрузки ",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Играет в игру",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "Осталось {0}",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "Прошло {0}",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Воспроизводится",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Прямой эфир",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Смотрит...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Вам понравятся эти функции!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Найдите Presence для **себя**",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Мы разработали расширение таким образом, чтобы вы могли добавлять, использовать и управлять Presences, созданные другими пользователями!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Посетить магазин",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Простой пользовательский интерфейс",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Устали от сложных пользовательских интерфейсов? Мы разработали и стараемся сохранить наш пользовательский интерфейс максимально простым и полезным в использовании с такими важными функциями, как:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Настройка приложения и расширения",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Управление статусами",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Сортировка по категориям",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Быстрая поддержка",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Что-то сбоит, отправляя тонны ошибок или просто не работает? Мы поможем вам избавиться от этих проблем на нашем Discord сервере. Кроме того, мы создали нашу собственную систему поддержки, которая позаботится о том, чтобы ваша проблема была решена как можно скорее.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Присоединиться к нашему Discord серверу",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Язык",
+		"description": "Tippy content of the language selector."
+	}
 }
