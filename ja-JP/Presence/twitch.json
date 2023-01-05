@@ -1,14 +1,14 @@
 {
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "ダウンロード"
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "トップページ"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "パートナー"
-  }
+	"twitch.downloads": {
+		"message": "ダウンロード",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "パートナー",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "トップページ",
+		"description": "Page name"
+	}
 }
