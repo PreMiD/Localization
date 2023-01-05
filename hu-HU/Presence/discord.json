@@ -1,110 +1,110 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Discord Blog"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Márkajelzés oldalt"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Böngészi"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Meghivó link megtekintése"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Főiskola oldalt"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Névjegy oldalt"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "Fejlesztői portál"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Letöltések oldalt"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Barátait nézi..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "az Inspirációs oldalt"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "az Állások oldalt"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discord Merch"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Gyűjteményt néz:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Moderáció oldalt"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Hírszoba oldalt"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "Nitróról olvas..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Nyílt forráskódú oldalt"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Partner oldalt"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "az irányelveket"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Rich Presence oldalt"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Biztonsági Központot"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Biztonság oldalt"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Beállításait nézi..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Discord Státusz"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a StreamKit oldalt"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a Hitelesítés oldalt"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "a \"Miért a Discordot?\" oldalt"
-  }
+	"discord.friends": {
+		"message": "Barátait nézi...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Nitróról olvas...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Beállításait nézi...",
+		"description": ""
+	},
+	"discord.buttonInvite": {
+		"message": "Meghivó link megtekintése",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Böngészi",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "a Letöltések oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "a \"Miért a Discordot?\" oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "a Biztonsági Központot",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "az Állások oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "a Névjegy oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "a Márkajelzés oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "az Inspirációs oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "a Főiskola oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "a Hírszoba oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "a Partner oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "a Hitelesítés oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "a StreamKit oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "a Nyílt forráskódú oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "a Biztonság oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "a Moderáció oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "a Rich Presence oldalt",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "az irányelveket",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Fejlesztői portál",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Discord Státusz",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Discord Blog",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Gyűjteményt néz:",
+		"description": ""
+	}
 }
