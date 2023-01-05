@@ -1,22 +1,22 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "閲覧中:"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "大学のコミュニティページ"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Discordについて"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "セキュリティバグ・バウンティページ"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "ヘルプセンター"
-  }
+	"discord.browseThrough": {
+		"message": "閲覧中:",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.company": {
+		"message": "Discordについて",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "大学のコミュニティページ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "セキュリティバグ・バウンティページ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.support": {
+		"message": "ヘルプセンター",
+		"description": ""
+	}
 }
