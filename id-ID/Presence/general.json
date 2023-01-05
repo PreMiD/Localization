@@ -1,366 +1,366 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Menelusuri..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Dengar Bersama"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Baca Artikel"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Album"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Artis"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Channel"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Tonton Episode"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Film"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Halaman"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Daftar Putar"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Podcast"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Profil"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Serial"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Lagu"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Tonton Film"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Tonton Stream"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Tonton Video"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Memanggil"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Bab"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Kebijakan Cookie"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Mengedit:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Episode"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Forum"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Genre"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Dalam panggilan..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Riwayat insiden"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Melihat suatu kejadian"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Bahasa"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Pendengar"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Mendengarkan musik"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "Mendengarkan {0}{1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Live"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Barang dagangan"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Halaman"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Dijeda"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Bermain"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Kebijakan pribadi"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Membaca"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Membaca tentang:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Membaca artikel:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Membaca di saluran:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Membaca DM dari:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Membaca pos:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Membaca thread:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Dalam putaran"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Memutar ulang semua lagu"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Mencari"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Mencari:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Mencari sesuatu..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Musim"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Keranjang belanja"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Toko"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Ketentuan Layanan"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Mengetik dalam channel:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Mengetik DM untuk:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Riwayat uptime"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Melihat akun mereka"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Melihat anime:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Melihat kategori:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Melihat saluran:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Melihat episode:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Melihat genre:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Melihat halaman beranda"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Melihat daftar:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Melihat manga:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Melihat anggota:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Melihat film:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Melihat halaman:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Melihat daftar putar:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Melihat produk:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Melihat profil:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Melihat serial:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Melihat acara:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Melihat thread:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Melihat pengguna:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Melihat:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Menunggu untuk mulainya siaran langsung"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Menunggu siaran langsung untuk mulai"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Menunggu video untuk tayang perdana"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Menunggu video untuk tayang perdana"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Menonton:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Menonton streaming langsung"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Menonton sebuah film"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Menonton sebuah film serial"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Menonton sebuah pertunjukan"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Menonton video"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Daftar harapan:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Menulis"
-  }
+	"general.anime": {
+		"message": "Anime",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "Menelusuri...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "Bab",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "Mengedit:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "Episode",
+		"description": ""
+	},
+	"general.season": {
+		"message": "Musim",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "Forum",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "Genre",
+		"description": ""
+	},
+	"general.language": {
+		"message": "Bahasa",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "Mendengarkan musik",
+		"description": ""
+	},
+	"general.listeningTo": {
+		"message": "Mendengarkan {0}{1}",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc."
+	},
+	"general.listeners": {
+		"message": "Pendengar",
+		"description": ""
+	},
+	"general.live": {
+		"message": "Live",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "Manga",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "Barang dagangan",
+		"description": ""
+	},
+	"general.page": {
+		"message": "Halaman",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "Dijeda",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "Bermain",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "Membaca DM dari:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "Membaca tentang:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "Membaca artikel:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "Membaca di saluran:",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "Membaca pos:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "Membaca thread:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "Membaca",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "Mencari:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "Mencari sesuatu...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "Mencari",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "Menulis",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "Memanggil",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "Dalam panggilan...",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "Keranjang belanja",
+		"description": ""
+	},
+	"general.store": {
+		"message": "Toko",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "Mengetik DM untuk:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "Mengetik dalam channel:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "Melihat anime:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "Melihat kategori:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "Melihat saluran:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "Melihat episode:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "Melihat genre:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "Melihat halaman beranda",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "Melihat daftar:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "Melihat manga:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "Melihat anggota:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "Melihat film:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "Melihat daftar putar:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "Melihat produk:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "Melihat profil:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "Melihat serial:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "Melihat acara:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "Melihat akun mereka",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "Melihat thread:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "Melihat pengguna:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "Melihat:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "Melihat halaman:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "Menonton sebuah film",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "Menonton sebuah film serial",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "Menonton sebuah pertunjukan",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "Menonton video",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "Menunggu video untuk tayang perdana",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "Menunggu video untuk tayang perdana",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "Menonton streaming langsung",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "Menunggu untuk mulainya siaran langsung",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "Menunggu siaran langsung untuk mulai",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "Menonton:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "Daftar harapan:",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "Kebijakan pribadi",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "Ketentuan Layanan",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Kebijakan Cookie",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "Memutar ulang semua lagu",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "Dalam putaran",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "Melihat suatu kejadian",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "Riwayat insiden",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "Riwayat uptime",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "Lihat Serial",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "Lihat Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "Tonton Episode",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "Tonton Film",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "Tonton Video",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "Tonton Stream",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "Lihat Channel",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "Dengar Bersama",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "Lihat Halaman",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "Lihat Lagu",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "Lihat Album",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "Lihat Profil",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "Lihat Artis",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "Lihat Daftar Putar",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "Lihat Podcast",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "Baca Artikel",
+		"description": "Used as the title for the button in Discord."
+	}
 }
