@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "Bekijkt songteksten van:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Bekijkt album:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Bekijkt de startpagina"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Songteksten bekijken"
-  }
+	"genius.lyrics": {
+		"message": "Bekijkt songteksten van:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Songteksten bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Bekijkt de startpagina",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Bekijkt album:",
+		"description": "Album of a song"
+	}
 }
