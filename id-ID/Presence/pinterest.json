@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Melihat papan:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Melihat pengikut mereka"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Mengedit beranda mereka"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Melihat pin"
-  }
+    "pinterest.board": {
+        "message": "Melihat papan:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Melihat pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Melihat pengikut mereka",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Mengedit beranda mereka",
+        "description": ""
+    }
 }
