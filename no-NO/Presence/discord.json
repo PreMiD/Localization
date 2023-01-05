@@ -1,10 +1,10 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Blar igjennom"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Hjelpesenter"
-  }
+	"discord.browseThrough": {
+		"message": "Blar igjennom",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "Hjelpesenter",
+		"description": ""
+	}
 }
