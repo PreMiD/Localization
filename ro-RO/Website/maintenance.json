@@ -1,18 +1,18 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "Oh nu!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Serverul de Discord"
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "Până când creatorii noștri speciali rezolvă problema, trage o privire aici!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "Pagina de status"
-  }
+	"maintenance.big": {
+		"message": "Oh nu!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Până când creatorii noștri speciali rezolvă problema, trage o privire aici!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Pagina de status",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Serverul de Discord",
+		"description": "Discord Server link on maintenance page"
+	}
 }
