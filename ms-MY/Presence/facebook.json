@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "Baru ditambah"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "Melayari:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Dalam panggilan dengan:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Video disimpan"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Membaca pengguna:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Melihat komuniti pengguna:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Melihat rakan pengguna:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "seseorang... (Pengguna disembunyikan)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Melihat gambar pengguna:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Melihat hantaran pengguna:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Melihat kedai pengguna:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Melihat video pengguna:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Dalam panggilan video dengan:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Melihat cuaca hari ini"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Mengarang mesej"
-  }
+    "facebook.call": {
+        "message": "Dalam panggilan dengan:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Dalam panggilan video dengan:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "seseorang... (Pengguna disembunyikan)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Mengarang mesej",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Membaca pengguna:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Melihat komuniti pengguna:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Melihat gambar pengguna:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Melihat hantaran pengguna:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Melihat kedai pengguna:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Melihat rakan pengguna:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Melihat video pengguna:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Melayari:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Video disimpan",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "Baru ditambah",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Melihat cuaca hari ini",
+        "description": ""
+    }
 }
