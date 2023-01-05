@@ -1,6 +1,6 @@
 {
-  "genius.viewHome": {
-    "description": "",
-    "message": "ホームページを閲覧中"
-  }
+	"genius.viewHome": {
+		"message": "ホームページを閲覧中",
+		"description": ""
+	}
 }
