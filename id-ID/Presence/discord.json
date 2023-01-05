@@ -1,186 +1,186 @@
 {
-  "discord.blog": {
-    "description": "",
-    "message": "Blog Discord"
-  },
-  "discord.branding": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Branding"
-  },
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Menelusuri"
-  },
-  "discord.buttonInvite": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lihat Tautan Undangan"
-  },
-  "discord.channelReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Membaca pada channel: {0}{1} (Server: {2})"
-  },
-  "discord.channelTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Mengetik pada channel: {0}{1} (Server: {2})"
-  },
-  "discord.college": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Kampus"
-  },
-  "discord.company": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Tentang"
-  },
-  "discord.devs.appsBrowse": {
-    "description": "",
-    "message": "Menjelajahi aplikasi mereka"
-  },
-  "discord.devs.appsEdit": {
-    "description": "{0} will be replaced with the name of the app.",
-    "message": "Menyunting aplikasi: {0}"
-  },
-  "discord.devs.docs": {
-    "description": "",
-    "message": "Membaca dokumentasi"
-  },
-  "discord.devs.portal": {
-    "description": "",
-    "message": "Portal Developer"
-  },
-  "discord.devs.serversBrowse": {
-    "description": "",
-    "message": "Menjelajahi server mereka"
-  },
-  "discord.devs.serversEdit": {
-    "description": "{0} will be replaced with the name of the server.",
-    "message": "Melihat insight server: {0}"
-  },
-  "discord.devs.teamsBrowse": {
-    "description": "",
-    "message": "Menjelajahi tim mereka"
-  },
-  "discord.devs.teamsEdit": {
-    "description": "{0} will be replaced with the name of the team.",
-    "message": "Menyunting tim: {0}"
-  },
-  "discord.dmGroupReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Membaca DM grup:{0}{1}"
-  },
-  "discord.dmGroupTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
-    "message": "Mengetik DM grup:{0}{1}"
-  },
-  "discord.dmReading": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Membaca DM dari:{0}{1}"
-  },
-  "discord.dmTyping": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
-    "message": "Mengetik DM untuk:{0}{1}"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Unduhan"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Melihat teman mereka..."
-  },
-  "discord.inspiration": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Inspirasi"
-  },
-  "discord.invite": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
-    "message": "Melihat tautan undangan:{0}{1} (Server: {2})"
-  },
-  "discord.inviteServer": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Melihat tautan undangan{0}untuk server: {1}}"
-  },
-  "discord.jobs": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Pekerjaan"
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discord Merch"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Melihat koleksi:"
-  },
-  "discord.moderation": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Moderasi"
-  },
-  "discord.newsroom": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Berita"
-  },
-  "discord.nitro": {
-    "description": "",
-    "message": "Membaca tentang Nitro..."
-  },
-  "discord.opensource": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Open Source"
-  },
-  "discord.partner": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Mitra"
-  },
-  "discord.policies": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "kebijakan"
-  },
-  "discord.rpc": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Rich Presence"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "Pusat Keamanan"
-  },
-  "discord.security": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Keamanan"
-  },
-  "discord.serverSettings": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
-    "message": "Melihat pengaturan {0}untuk server: {1}"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Melihat pengaturan mereka..."
-  },
-  "discord.status": {
-    "description": "",
-    "message": "Status Discord"
-  },
-  "discord.streamkit": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman StreamKit"
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Pusat Bantuan"
-  },
-  "discord.verification": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman Verifikasi"
-  },
-  "discord.voiceConnectedTo": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
-    "message": "Terhubung panggilan pada:{0}{1} (Server: {2})"
-  },
-  "discord.voiceConnectedWith": {
-    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
-    "message": "Terhubung panggilan dengan:{0}{1}"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "halaman \"Mengapa Discord?\""
-  }
+	"discord.channelReading": {
+		"message": "Membaca pada channel: {0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.channelTyping": {
+		"message": "Mengetik pada channel: {0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.dmReading": {
+		"message": "Membaca DM dari:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmTyping": {
+		"message": "Mengetik DM untuk:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user."
+	},
+	"discord.dmGroupReading": {
+		"message": "Membaca DM grup:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.dmGroupTyping": {
+		"message": "Mengetik DM grup:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group."
+	},
+	"discord.friends": {
+		"message": "Melihat teman mereka...",
+		"description": ""
+	},
+	"discord.nitro": {
+		"message": "Membaca tentang Nitro...",
+		"description": ""
+	},
+	"discord.voiceConnectedWith": {
+		"message": "Terhubung panggilan dengan:{0}{1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group."
+	},
+	"discord.voiceConnectedTo": {
+		"message": "Terhubung panggilan pada:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server."
+	},
+	"discord.settings": {
+		"message": "Melihat pengaturan mereka...",
+		"description": ""
+	},
+	"discord.serverSettings": {
+		"message": "Melihat pengaturan {0}untuk server: {1}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.invite": {
+		"message": "Melihat tautan undangan:{0}{1} (Server: {2})",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server."
+	},
+	"discord.inviteServer": {
+		"message": "Melihat tautan undangan{0}untuk server: {1}}",
+		"description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server."
+	},
+	"discord.buttonInvite": {
+		"message": "Lihat Tautan Undangan",
+		"description": "Used as the title for the button in Discord."
+	},
+	"discord.browseThrough": {
+		"message": "Menelusuri",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "halaman Unduhan",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "halaman \"Mengapa Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "Pusat Keamanan",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.jobs": {
+		"message": "halaman Pekerjaan",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.company": {
+		"message": "halaman Tentang",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.branding": {
+		"message": "halaman Branding",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.inspiration": {
+		"message": "halaman Inspirasi",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.college": {
+		"message": "halaman Kampus",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.newsroom": {
+		"message": "halaman Berita",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.partner": {
+		"message": "halaman Mitra",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.verification": {
+		"message": "halaman Verifikasi",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.streamkit": {
+		"message": "halaman StreamKit",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.opensource": {
+		"message": "halaman Open Source",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.security": {
+		"message": "halaman Keamanan",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.moderation": {
+		"message": "halaman Moderasi",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.rpc": {
+		"message": "halaman Rich Presence",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.policies": {
+		"message": "kebijakan",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.devs.portal": {
+		"message": "Portal Developer",
+		"description": ""
+	},
+	"discord.devs.appsBrowse": {
+		"message": "Menjelajahi aplikasi mereka",
+		"description": ""
+	},
+	"discord.devs.appsEdit": {
+		"message": "Menyunting aplikasi: {0}",
+		"description": "{0} will be replaced with the name of the app."
+	},
+	"discord.devs.teamsBrowse": {
+		"message": "Menjelajahi tim mereka",
+		"description": ""
+	},
+	"discord.devs.teamsEdit": {
+		"message": "Menyunting tim: {0}",
+		"description": "{0} will be replaced with the name of the team."
+	},
+	"discord.devs.serversBrowse": {
+		"message": "Menjelajahi server mereka",
+		"description": ""
+	},
+	"discord.devs.serversEdit": {
+		"message": "Melihat insight server: {0}",
+		"description": "{0} will be replaced with the name of the server."
+	},
+	"discord.devs.docs": {
+		"message": "Membaca dokumentasi",
+		"description": ""
+	},
+	"discord.status": {
+		"message": "Status Discord",
+		"description": ""
+	},
+	"discord.support": {
+		"message": "Pusat Bantuan",
+		"description": ""
+	},
+	"discord.blog": {
+		"message": "Blog Discord",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Melihat koleksi:",
+		"description": ""
+	}
 }
