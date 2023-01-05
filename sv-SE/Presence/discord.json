@@ -1,22 +1,22 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Bläddrar igenom"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Tittar på deras vänner..."
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Visar kollektion:"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Tittar på deras inställningar..."
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Hjälpcenter"
-  }
+	"discord.friends": {
+		"message": "Tittar på deras vänner...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Tittar på deras inställningar...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Bläddrar igenom",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.support": {
+		"message": "Hjälpcenter",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Visar kollektion:",
+		"description": ""
+	}
 }
