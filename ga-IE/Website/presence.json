@@ -1,46 +1,46 @@
 {
-  "presence.page.buttons.sourceCode": {
-    "description": "Source Code button on presence pages.",
-    "message": "Cód Foinse"
-  },
-  "presence.sections.changelog.title": {
-    "description": "The title of the changelog section.",
-    "message": "Athruite logail"
-  },
-  "presence.sections.description.title": {
-    "description": "The title of the description section.",
-    "message": "Cur síos"
-  },
-  "presence.sections.information.author": {
-    "description": "One of the strings from the Information section. [on webite -> Author: (username)]",
-    "message": "Údar"
-  },
-  "presence.sections.information.contributors": {
-    "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "Rannpháirtithe"
-  },
-  "presence.sections.information.likes": {
-    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
-    "message": "Is maith"
-  },
-  "presence.sections.information.supportedurls": {
-    "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
-    "message": "URLanna tacaithe"
-  },
-  "presence.sections.information.tags": {
-    "description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]",
-    "message": "Clibeanna"
-  },
-  "presence.sections.information.title": {
-    "description": "The title of the information section.",
-    "message": "Eolas"
-  },
-  "presence.sections.information.users": {
-    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
-    "message": "Úsáideoirí"
-  },
-  "presence.sections.information.version": {
-    "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
-    "message": "Leagan"
-  }
+	"presence.page.buttons.sourceCode": {
+		"message": "Cód Foinse",
+		"description": "Source Code button on presence pages."
+	},
+	"presence.sections.description.title": {
+		"message": "Cur síos",
+		"description": "The title of the description section."
+	},
+	"presence.sections.changelog.title": {
+		"message": "Athruite logail",
+		"description": "The title of the changelog section."
+	},
+	"presence.sections.information.title": {
+		"message": "Eolas",
+		"description": "The title of the information section."
+	},
+	"presence.sections.information.author": {
+		"message": "Údar",
+		"description": "One of the strings from the Information section. [on webite -> Author: (username)]"
+	},
+	"presence.sections.information.version": {
+		"message": "Leagan",
+		"description": "One of the strings from the Information section. [on webite -> Version: (2.0)]"
+	},
+	"presence.sections.information.likes": {
+		"message": "Is maith",
+		"description": "One of the strings from the Information section. [on webite -> Likes: (56)]"
+	},
+	"presence.sections.information.users": {
+		"message": "Úsáideoirí",
+		"description": "One of the strings from the Information section. [on webite -> Users: (2000)]"
+	},
+	"presence.sections.information.tags": {
+		"message": "Clibeanna",
+		"description": "One of the strings from the Information section. [on webite -> Tags: (tag) (tag) (tag)]"
+	},
+	"presence.sections.information.supportedurls": {
+		"message": "URLanna tacaithe",
+		"description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]"
+	},
+	"presence.sections.information.contributors": {
+		"message": "Rannpháirtithe",
+		"description": "One of the strings from the Information section. [on webite -> Contributors: (array)]"
+	}
 }
