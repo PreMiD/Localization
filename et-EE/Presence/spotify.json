@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "albumid, mis neile meeldivad"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "artistid, kes neile meeldivad"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Parimad podcastid"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Sirvimine"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Tabelite vaatamine"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Uute lugude avastamine"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Spotify allalaadimine"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Esiletõstetud lood"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Žanrite sirvimine"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Viimaste väljaannete vaatamine"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Sulle loodud\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "esitusloendid"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "podcastid mis neile meeldivad"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "laulud, mis neile meeldivad"
-  }
+	"spotify.featured": {
+		"message": "Esiletõstetud lood",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Parimad podcastid",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Tabelite vaatamine",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Žanrite sirvimine",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Viimaste väljaannete vaatamine",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Uute lugude avastamine",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Sirvimine",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcastid mis neile meeldivad",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artistid, kes neile meeldivad",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "albumid, mis neile meeldivad",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "laulud, mis neile meeldivad",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Sulle loodud\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "esitusloendid",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify allalaadimine",
+		"description": ""
+	}
 }
