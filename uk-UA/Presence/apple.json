@@ -1,18 +1,18 @@
 {
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Документація"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Особливості"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Ігри"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Інше"
-  }
+    "apple.other": {
+        "message": "Інше",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "Документація",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "Особливості",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Ігри",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
 }
