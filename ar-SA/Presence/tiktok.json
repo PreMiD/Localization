@@ -1,6 +1,6 @@
 {
-  "tiktok.buttonViewTikTok": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض تيك توك"
-  }
+	"tiktok.buttonViewTikTok": {
+		"message": "عرض تيك توك",
+		"description": "Used as the title for the button in Discord."
+	}
 }
