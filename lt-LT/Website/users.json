@@ -1,6 +1,6 @@
 {
-  "user.switch.contributed": {
-    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
-    "message": "Naudotojas [presences/contributions]"
-  }
+	"user.switch.contributed": {
+		"message": "Naudotojas [presences/contributions]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	}
 }
