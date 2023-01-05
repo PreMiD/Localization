@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Signets"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Explore"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Notifications"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Lis un tweet:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Modifie les paramètres ..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Regarde leur MP"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Regarde aimé par :"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Regarde la liste :"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Regarde le media de:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Regarde les tweets de:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Regarde les tweets (avec réponses) de:"
-  }
+	"twitter.readTweet": {
+		"message": "Lis un tweet:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Regarde leur MP",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Regarde les tweets de:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Regarde les tweets (avec réponses) de:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Regarde le media de:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Regarde aimé par :",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Regarde la liste :",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Signets",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Notifications",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Explore",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Modifie les paramètres ...",
+		"description": ""
+	}
 }
