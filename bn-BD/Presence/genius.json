@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "দেখছে যে গানের লিরিক্স:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "দেখছে অ্যালবাম:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "দেখছে হোমপেজটি"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখছে লিরিক্স"
-  }
+	"genius.lyrics": {
+		"message": "দেখছে যে গানের লিরিক্স:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "দেখছে লিরিক্স",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "দেখছে হোমপেজটি",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "দেখছে অ্যালবাম:",
+		"description": "Album of a song"
+	}
 }
