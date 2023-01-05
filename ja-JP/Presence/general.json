@@ -1,358 +1,358 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "アニメ"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "閲覧中..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "一緒に聞く"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "記事を読む"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "アルバムを見る"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "アーティストを表示"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "チャンネルを見る"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "エピソードを見る"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "映画を見る"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ページを見る"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "プレイリストを見る"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ポッドキャストを見る"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "プロフィールを見る"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "シリーズを見る"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "曲を表示"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "映画を見る"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "ストリームを見る"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "動画を見る"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "発信中"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "チャプター"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Cookie のポリシー"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "編集中:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "エピソード"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "フォーラム"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "ジャンル"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "通話中"
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "問題の履歴"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "発生した問題一覧を閲覧中"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "言語"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "リスナー"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "音楽を再生中"
-  },
-  "general.live": {
-    "description": "",
-    "message": "ライブ"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "マンガ"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "グッズ"
-  },
-  "general.page": {
-    "description": "",
-    "message": "ページ"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "一時停止中"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "プレイ中"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "プライバシーポリシー"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "閲覧中"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "閲覧中:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "記事を閲覧中:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "チャンネルを閲覧中"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "DMを閲覧中:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "投稿を閲覧中:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "スレッドを閲覧中:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "ループ中"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "プレイリストをループ中"
-  },
-  "general.search": {
-    "description": "",
-    "message": "検索中"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "検索中:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "何かを検索中..."
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "ショッピングカート"
-  },
-  "general.store": {
-    "description": "",
-    "message": "ストア"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "利用規約"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "チャンネルで入力中:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "DMを入力中:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "アップタイム履歴"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "自分のアカウントページを閲覧中"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "アニメを閲覧中:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "カテゴリを閲覧中:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "チャンネルを閲覧中:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "エピソード:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "ジャンルを閲覧中:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "ホームページを閲覧中"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "リストを閲覧中:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "マンガを閲覧中:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "メンバーを閲覧中:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "映画を閲覧中:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "ページを閲覧中:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "プレイリストを閲覧中:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "商品を閲覧中:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "プロフィールを閲覧中:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "シリーズを閲覧中:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "閲覧中:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "スレッドを閲覧中:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "ユーザーを閲覧中:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "閲覧中:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "ライブの開始を待機中"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "ライブの開始を待機中"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "動画の公開を待機中"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "動画の公開を待機中"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "視聴中:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "ライブを視聴中"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "映画を鑑賞中"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "シリーズを視聴中"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "ショーを視聴中"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "動画を視聴中"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "ほしい物リスト"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "執筆中"
-  }
+	"general.anime": {
+		"message": "アニメ",
+		"description": ""
+	},
+	"general.browsing": {
+		"message": "閲覧中...",
+		"description": ""
+	},
+	"general.chapter": {
+		"message": "チャプター",
+		"description": ""
+	},
+	"general.dj": {
+		"message": "DJ",
+		"description": ""
+	},
+	"general.editing": {
+		"message": "編集中:",
+		"description": ""
+	},
+	"general.episode": {
+		"message": "エピソード",
+		"description": ""
+	},
+	"general.forums": {
+		"message": "フォーラム",
+		"description": ""
+	},
+	"general.genre": {
+		"message": "ジャンル",
+		"description": ""
+	},
+	"general.language": {
+		"message": "言語",
+		"description": "For choosing a language"
+	},
+	"general.listeningMusic": {
+		"message": "音楽を再生中",
+		"description": ""
+	},
+	"general.listeners": {
+		"message": "リスナー",
+		"description": ""
+	},
+	"general.live": {
+		"message": "ライブ",
+		"description": ""
+	},
+	"general.manga": {
+		"message": "マンガ",
+		"description": ""
+	},
+	"general.merch": {
+		"message": "グッズ",
+		"description": ""
+	},
+	"general.page": {
+		"message": "ページ",
+		"description": ""
+	},
+	"general.paused": {
+		"message": "一時停止中",
+		"description": ""
+	},
+	"general.playing": {
+		"message": "プレイ中",
+		"description": ""
+	},
+	"general.readingDM": {
+		"message": "DMを閲覧中:",
+		"description": ""
+	},
+	"general.readingAbout": {
+		"message": "閲覧中:",
+		"description": ""
+	},
+	"general.readingArticle": {
+		"message": "記事を閲覧中:",
+		"description": ""
+	},
+	"general.readingChannel": {
+		"message": "チャンネルを閲覧中",
+		"description": ""
+	},
+	"general.readingPost": {
+		"message": "投稿を閲覧中:",
+		"description": ""
+	},
+	"general.readingThread": {
+		"message": "スレッドを閲覧中:",
+		"description": ""
+	},
+	"general.reading": {
+		"message": "閲覧中",
+		"description": ""
+	},
+	"general.searchFor": {
+		"message": "検索中:",
+		"description": ""
+	},
+	"general.searchSomething": {
+		"message": "何かを検索中...",
+		"description": ""
+	},
+	"general.search": {
+		"message": "検索中",
+		"description": ""
+	},
+	"general.writing": {
+		"message": "執筆中",
+		"description": ""
+	},
+	"general.calling": {
+		"message": "発信中",
+		"description": ""
+	},
+	"general.inCall": {
+		"message": "通話中",
+		"description": ""
+	},
+	"general.shopCart": {
+		"message": "ショッピングカート",
+		"description": ""
+	},
+	"general.store": {
+		"message": "ストア",
+		"description": ""
+	},
+	"general.typeDM": {
+		"message": "DMを入力中:",
+		"description": ""
+	},
+	"general.typeChannel": {
+		"message": "チャンネルで入力中:",
+		"description": ""
+	},
+	"general.viewAnime": {
+		"message": "アニメを閲覧中:",
+		"description": ""
+	},
+	"general.viewCategory": {
+		"message": "カテゴリを閲覧中:",
+		"description": ""
+	},
+	"general.viewChannel": {
+		"message": "チャンネルを閲覧中:",
+		"description": ""
+	},
+	"general.viewEpisode": {
+		"message": "エピソード:",
+		"description": ""
+	},
+	"general.viewGenre": {
+		"message": "ジャンルを閲覧中:",
+		"description": ""
+	},
+	"general.viewHome": {
+		"message": "ホームページを閲覧中",
+		"description": ""
+	},
+	"general.viewList": {
+		"message": "リストを閲覧中:",
+		"description": ""
+	},
+	"general.viewManga": {
+		"message": "マンガを閲覧中:",
+		"description": ""
+	},
+	"general.viewMember": {
+		"message": "メンバーを閲覧中:",
+		"description": ""
+	},
+	"general.viewMovie": {
+		"message": "映画を閲覧中:",
+		"description": ""
+	},
+	"general.viewPlaylist": {
+		"message": "プレイリストを閲覧中:",
+		"description": ""
+	},
+	"general.viewProduct": {
+		"message": "商品を閲覧中:",
+		"description": ""
+	},
+	"general.viewProfile": {
+		"message": "プロフィールを閲覧中:",
+		"description": ""
+	},
+	"general.viewSeries": {
+		"message": "シリーズを閲覧中:",
+		"description": ""
+	},
+	"general.viewShow": {
+		"message": "閲覧中:",
+		"description": ""
+	},
+	"general.viewAccount": {
+		"message": "自分のアカウントページを閲覧中",
+		"description": ""
+	},
+	"general.viewThread": {
+		"message": "スレッドを閲覧中:",
+		"description": ""
+	},
+	"general.viewUser": {
+		"message": "ユーザーを閲覧中:",
+		"description": ""
+	},
+	"general.viewing": {
+		"message": "閲覧中:",
+		"description": ""
+	},
+	"general.viewPage": {
+		"message": "ページを閲覧中:",
+		"description": ""
+	},
+	"general.watchingMovie": {
+		"message": "映画を鑑賞中",
+		"description": ""
+	},
+	"general.watchingSeries": {
+		"message": "シリーズを視聴中",
+		"description": ""
+	},
+	"general.watchingShow": {
+		"message": "ショーを視聴中",
+		"description": ""
+	},
+	"general.watchingVid": {
+		"message": "動画を視聴中",
+		"description": ""
+	},
+	"general.waitingVid": {
+		"message": "動画の公開を待機中",
+		"description": "For privacy reasons (\"A\" video, as in not specified)"
+	},
+	"general.waitingVidThe": {
+		"message": "動画の公開を待機中",
+		"description": "\"the\" video, as in the video title is specified)"
+	},
+	"general.watchingLive": {
+		"message": "ライブを視聴中",
+		"description": ""
+	},
+	"general.waitingLive": {
+		"message": "ライブの開始を待機中",
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)"
+	},
+	"general.waitingLiveThe": {
+		"message": "ライブの開始を待機中",
+		"description": "\"the\" livestream, as in the livestream title is specified)"
+	},
+	"general.watching": {
+		"message": "視聴中:",
+		"description": ""
+	},
+	"general.wishlist": {
+		"message": "ほしい物リスト",
+		"description": ""
+	},
+	"general.privacy": {
+		"message": "プライバシーポリシー",
+		"description": "A page name"
+	},
+	"general.terms": {
+		"message": "利用規約",
+		"description": "A page name"
+	},
+	"general.cookie": {
+		"message": "Cookie のポリシー",
+		"description": "A page name"
+	},
+	"general.repeatAll": {
+		"message": "プレイリストをループ中",
+		"description": ""
+	},
+	"general.repeat": {
+		"message": "ループ中",
+		"description": ""
+	},
+	"general.incidentView": {
+		"message": "発生した問題一覧を閲覧中",
+		"description": "A page name of statuspages"
+	},
+	"general.incidentHistory": {
+		"message": "問題の履歴",
+		"description": "A page name of statuspages"
+	},
+	"general.uptimeHistory": {
+		"message": "アップタイム履歴",
+		"description": "A page name of statuspages"
+	},
+	"general.buttonViewSeries": {
+		"message": "シリーズを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewMovie": {
+		"message": "映画を見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewEpisode": {
+		"message": "エピソードを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchMovie": {
+		"message": "映画を見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchVideo": {
+		"message": "動画を見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonWatchStream": {
+		"message": "ストリームを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewChannel": {
+		"message": "チャンネルを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonListenAlong": {
+		"message": "一緒に聞く",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPage": {
+		"message": "ページを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewSong": {
+		"message": "曲を表示",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewAlbum": {
+		"message": "アルバムを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewProfile": {
+		"message": "プロフィールを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewArtist": {
+		"message": "アーティストを表示",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPlaylist": {
+		"message": "プレイリストを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonViewPodcast": {
+		"message": "ポッドキャストを見る",
+		"description": "Used as the title for the button in Discord."
+	},
+	"general.buttonReadArticle": {
+		"message": "記事を読む",
+		"description": "Used as the title for the button in Discord."
+	}
 }
