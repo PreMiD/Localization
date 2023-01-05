@@ -1,30 +1,30 @@
 {
-  "presence.activity.browsing": {
-    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence",
-    "message": "กำลังหา..."
-  },
-  "presence.activity.live": {
-    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence",
-    "message": "ไลฟ์"
-  },
-  "presence.activity.reading": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "กำลังอ่าน..."
-  },
-  "presence.activity.searching": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "กำลังค้นหา..."
-  },
-  "presence.media.info.episode": {
-    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated",
-    "message": "ตอนที่ {0}"
+  "presence.playback.playing": {
+    "message": "กำลังเล่น",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence",
-    "message": "หยุดเล่นชั่วคราว"
+    "message": "หยุดเล่นชั่วคราว",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
-  "presence.playback.playing": {
-    "description": "Shows when you hover over the little play icon at your Discord Rich Presence",
-    "message": "กำลังเล่น"
+  "presence.activity.browsing": {
+    "message": "กำลังหา...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "ไลฟ์",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "กำลังอ่าน...",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "กำลังค้นหา...",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "ตอนที่ {0}",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
