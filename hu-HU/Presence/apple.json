@@ -1,154 +1,154 @@
 {
-  "apple.appStoreCon": {
-    "description": "Connecting to the App Store",
-    "message": "Csatlakozás..."
-  },
-  "apple.btnViewApp": {
-    "description": "e.g. \"View App\"",
-    "message": "Alkalmazás megtekintése"
-  },
-  "apple.btnViewDeveloper": {
-    "description": "View the developer of an app",
-    "message": "Fejlesztő megtekintése"
-  },
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "Esemény megtekintése"
-  },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "Termék megtekintése"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "Szolgáltatás megtekintése"
-  },
-  "apple.chooseLang": {
-    "description": "Choosing the language of the website",
-    "message": "Nyelvet választ..."
-  },
-  "apple.comparing": {
-    "description": "e.g. \"Comparing: Apple Watch\"",
-    "message": "Összehasonlít:"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Dokumentáció"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Funkciók"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Játék"
-  },
-  "apple.devNew": {
-    "description": "List of updates",
-    "message": "Újdonságok"
-  },
-  "apple.devNews": {
-    "description": "News and updates (that matter) for developers",
-    "message": "Újdonságok és frissítések"
-  },
-  "apple.devReleases": {
-    "description": "New iOS, iPadOS etc. releases",
-    "message": "Kiadások"
-  },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "Erőforrások"
-  },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "Videók"
-  },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "Preferenciák"
-  },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "Regisztráció"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Naptár"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Névjegyek"
-  },
-  "apple.iCloudKeynoteWait": {
-    "description": "Before the keynote begins, you'll be in the waiting room",
-    "message": "Várószoba"
-  },
-  "apple.iCloudMail": {
-    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Levél"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Jegyzetek"
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Fotók"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Emlékeztetők"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Egyéb"
-  },
-  "apple.overview": {
-    "description": "Overview of e.g. all pages of a category",
-    "message": "Áttekintés"
-  },
-  "apple.productsPlatform": {
-    "description": "Products/platforms for companies",
-    "message": "Termékek és Platform"
-  },
-  "apple.purchasingAdvice": {
-    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
-    "message": "Vásárlási tipp"
-  },
-  "apple.shopBands": {
-    "description": "Bands (Bracelets) for the Apple Watch",
-    "message": "Apple Watch szíjak"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "Kedvencek"
-  },
-  "apple.shopGiftCards": {
-    "description": "Gift cards for e.g. the App Store",
-    "message": "Ajándékkártya"
-  },
-  "apple.shopStudio": {
-    "description": "Choose your own design components for a product",
-    "message": "Apple Watch Studio"
-  },
-  "apple.storeFinder": {
-    "description": "Tool used to find the nearest store",
-    "message": "Bolt kereső"
-  },
-  "apple.support": {
-    "description": "Support for products, services/apps from Apple, etc.",
-    "message": "Apple Támogatás"
-  },
-  "apple.supportArticle": {
-    "description": "Support article",
-    "message": "Apple Támogatási Cikk"
-  },
-  "apple.viewEvent": {
-    "description": "Viewing an event (e.g. September event)",
-    "message": "Eseményt néz"
-  },
-  "apple.viewService": {
-    "description": "e.g. \"Viewing Service: Fitness+\"",
-    "message": "Szolgáltatást néz:"
-  }
+    "apple.comparing": {
+        "message": "Összehasonlít:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "Szolgáltatást néz:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.productsPlatform": {
+        "message": "Termékek és Platform",
+        "description": "Products/platforms for companies"
+    },
+    "apple.overview": {
+        "message": "Áttekintés",
+        "description": "Overview of e.g. all pages of a category"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Vásárlási tipp",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.storeFinder": {
+        "message": "Bolt kereső",
+        "description": "Tool used to find the nearest store"
+    },
+    "apple.viewEvent": {
+        "message": "Eseményt néz",
+        "description": "Viewing an event (e.g. September event)"
+    },
+    "apple.chooseLang": {
+        "message": "Nyelvet választ...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "Egyéb",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopBands": {
+        "message": "Apple Watch szíjak",
+        "description": "Bands (Bracelets) for the Apple Watch"
+    },
+    "apple.shopStudio": {
+        "message": "Apple Watch Studio",
+        "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "Kedvencek",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Ajándékkártya",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.support": {
+        "message": "Apple Támogatás",
+        "description": "Support for products, services/apps from Apple, etc."
+    },
+    "apple.supportArticle": {
+        "message": "Apple Támogatási Cikk",
+        "description": "Support article"
+    },
+    "apple.appStoreCon": {
+        "message": "Csatlakozás...",
+        "description": "Connecting to the App Store"
+    },
+    "apple.iCloudMail": {
+        "message": "Levél",
+        "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudContacts": {
+        "message": "Névjegyek",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Naptár",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Fotók",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Jegyzetek",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Emlékeztetők",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudKeynoteWait": {
+        "message": "Várószoba",
+        "description": "Before the keynote begins, you'll be in the waiting room"
+    },
+    "apple.devNew": {
+        "message": "Újdonságok",
+        "description": "List of updates"
+    },
+    "apple.devDocs": {
+        "message": "Dokumentáció",
+        "description": "Developer documentation"
+    },
+    "apple.devResources": {
+        "message": "Erőforrások",
+        "description": "Apple Design Resources"
+    },
+    "apple.devFeatures": {
+        "message": "Funkciók",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Játék",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumPreferences": {
+        "message": "Preferenciák",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumRegister": {
+        "message": "Regisztráció",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "Videók",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.devNews": {
+        "message": "Újdonságok és frissítések",
+        "description": "News and updates (that matter) for developers"
+    },
+    "apple.devReleases": {
+        "message": "Kiadások",
+        "description": "New iOS, iPadOS etc. releases"
+    },
+    "apple.btnViewProduct": {
+        "message": "Termék megtekintése",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Szolgáltatás megtekintése",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Esemény megtekintése",
+        "description": "Button text"
+    },
+    "apple.btnViewApp": {
+        "message": "Alkalmazás megtekintése",
+        "description": "e.g. \"View App\""
+    },
+    "apple.btnViewDeveloper": {
+        "message": "Fejlesztő megtekintése",
+        "description": "View the developer of an app"
+    }
 }
