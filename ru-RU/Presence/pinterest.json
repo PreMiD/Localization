@@ -1,18 +1,18 @@
 {
-  "pinterest.board": {
-    "description": "",
-    "message": "Панель просмотра:"
-  },
-  "pinterest.follow": {
-    "description": "",
-    "message": "Смотрит подписчиков"
-  },
-  "pinterest.home": {
-    "description": "",
-    "message": "Редактирует на домашней страницы"
-  },
-  "pinterest.pin": {
-    "description": "",
-    "message": "Смотрит pin"
-  }
+    "pinterest.board": {
+        "message": "Панель просмотра:",
+        "description": ""
+    },
+    "pinterest.pin": {
+        "message": "Смотрит pin",
+        "description": ""
+    },
+    "pinterest.follow": {
+        "message": "Смотрит подписчиков",
+        "description": ""
+    },
+    "pinterest.home": {
+        "message": "Редактирует на домашней страницы",
+        "description": ""
+    }
 }
