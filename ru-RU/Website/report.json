@@ -1,58 +1,58 @@
 {
-  "report.activebugs": {
-    "description": "Lists users active bugs",
-    "message": "Активные ошибки"
-  },
-  "report.browser": {
-    "description": "Select Box for the user to select their browser",
-    "message": "Выберите ваш браузер и версию - Вы можете получить версию, посетив поддержку:Firefox или chrome://help"
-  },
-  "report.bugcount": {
-    "description": "Amount of bug reports user can send",
-    "message": "Осталось {count}/3 отчёта"
-  },
-  "report.button": {
-    "description": "Button to send the information inputed.",
-    "message": "Отчет"
-  },
-  "report.description": {
-    "description": "Text for the user to write information about the bug.",
-    "message": "Предоставьте ссылку на живой пример или недвусмысленный набор шагов для воспроизведения этой ошибки."
-  },
-  "report.error": {
-    "description": "User needs to input more notification",
-    "message": "Требуется больше информации"
-  },
-  "report.error.unauth": {
-    "description": "Users Discord not verified",
-    "message": "Учетная запись Discord должна быть подтверждена"
-  },
-  "report.info": {
-    "description": "Tells the user about submitting a bug",
-    "message": "Сообщить об ошибках можно на сайте PreMiD и на сервере Discord PreMiD. Об ошибках в присутствии сообщается создателю присутствия. Сообщите об ошибках только на английском языке."
-  },
-  "report.os": {
-    "description": "Select Box for the user to select their operating system",
-    "message": "Выберите вашу операционную систему и версию"
-  },
-  "report.overview": {
-    "description": "Text for the user to write a brief of the bug information.",
-    "message": "Предоставьте ясное и краткое описание того, что является ошибкой."
-  },
-  "report.success": {
-    "description": "Success notification",
-    "message": "Ошибка отправлена"
-  },
-  "report.title": {
-    "description": "Text to indicate the page.",
-    "message": "Сообщить об ошибке"
-  },
-  "report.toomany": {
-    "description": "User has too many active reports",
-    "message": "У вас слишком много активных отчетов. Дождитесь рассмотрения отправленных отчетов. Еженедельная проверка отчетов, будьте терпеливы."
-  },
-  "report.toomany.alert": {
-    "description": "User has too many active reports",
-    "message": "У вас слишком много активных отчетов."
-  }
+	"report.title": {
+		"message": "Сообщить об ошибке",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "Осталось {count}/3 отчёта",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Сообщить об ошибках можно на сайте PreMiD и на сервере Discord PreMiD. Об ошибках в присутствии сообщается создателю присутствия. Сообщите об ошибках только на английском языке.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Предоставьте ясное и краткое описание того, что является ошибкой.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Выберите вашу операционную систему и версию",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Выберите ваш браузер и версию - Вы можете получить версию, посетив поддержку:Firefox или chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Предоставьте ссылку на живой пример или недвусмысленный набор шагов для воспроизведения этой ошибки.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Отчет",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "У вас слишком много активных отчетов. Дождитесь рассмотрения отправленных отчетов. Еженедельная проверка отчетов, будьте терпеливы.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "У вас слишком много активных отчетов.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Ошибка отправлена",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Требуется больше информации",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Учетная запись Discord должна быть подтверждена",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Активные ошибки",
+		"description": "Lists users active bugs"
+	}
 }
