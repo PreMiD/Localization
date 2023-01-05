@@ -1,6 +1,6 @@
 {
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Ndeleng DM"
-  }
+	"twitter.viewDms": {
+		"message": "Ndeleng DM",
+		"description": ""
+	}
 }
