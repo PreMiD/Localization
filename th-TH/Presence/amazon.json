@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "กำลังดูที่อยู่ของเขา"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "กำลังดูการตั้งค่าโฆษณาของเขา"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "กำลังดูยอดเงินคงเหลือของเขา"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ตะกร้าสินค้า"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "กำลังดูหมวดหมู่ทั้งหมด"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "บัตรของขวัญ"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "กำลังดูรายการประวัติของเขา"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "รายละเอียดคำสั่งซื้อ"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "ประวัติการสั่งซื้อ"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "กำลังดูวิธีชำระเงินต่างๆ"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "กำลังดูสัตว์เลี้ยงของเขา"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "กำลังดู Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "กำลังดูวิดีโอ Prime:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "กำลังดูรายการแนะนำ"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "กำลังดูร้านค้า:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "ดูสถานะการสมัครเป็นสมาชิก"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "กําลังดู"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "สิ่งที่อยากได้"
-  }
+    "amazon.subscriptions": {
+        "message": "ดูสถานะการสมัครเป็นสมาชิก",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "กำลังดูการตั้งค่าโฆษณาของเขา",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "กำลังดูยอดเงินคงเหลือของเขา",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "กำลังดูวิธีชำระเงินต่างๆ",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "กำลังดูที่อยู่ของเขา",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "กำลังดูสัตว์เลี้ยงของเขา",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "กำลังดูหมวดหมู่ทั้งหมด",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "กำลังดู Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "กําลังดู",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "ประวัติการสั่งซื้อ",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "รายละเอียดคำสั่งซื้อ",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "ตะกร้าสินค้า",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "สิ่งที่อยากได้",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "บัตรของขวัญ",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "กำลังดูรายการแนะนำ",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "กำลังดูรายการประวัติของเขา",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "กำลังดูร้านค้า:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "กำลังดูวิดีโอ Prime:",
+        "description": ""
+    }
 }
