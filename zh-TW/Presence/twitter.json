@@ -1,6 +1,6 @@
 {
-  "twitter.viewDms": {
-    "description": "",
-    "message": "正在檢視他們的私訊"
-  }
+	"twitter.viewDms": {
+		"message": "正在檢視他們的私訊",
+		"description": ""
+	}
 }
