@@ -1,30 +1,30 @@
 {
-  "presence.activity.browsing": {
-    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence",
-    "message": "Böngészés..."
-  },
-  "presence.activity.live": {
-    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence",
-    "message": "Élő közvetítés"
-  },
-  "presence.activity.reading": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "Olvasás"
-  },
-  "presence.activity.searching": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "Keresés"
-  },
-  "presence.media.info.episode": {
-    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated",
-    "message": "{0} epizód"
+  "presence.playback.playing": {
+    "message": "Lejátszás",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence",
-    "message": "Lejátszás szüneteltetve"
+    "message": "Lejátszás szüneteltetve",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
-  "presence.playback.playing": {
-    "description": "Shows when you hover over the little play icon at your Discord Rich Presence",
-    "message": "Lejátszás"
+  "presence.activity.browsing": {
+    "message": "Böngészés...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "Élő közvetítés",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "Olvasás",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "Keresés",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "{0} epizód",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
