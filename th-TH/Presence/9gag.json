@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "กำลังอ่านเกี่ยวกับ 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "กำลังดูคอลเล็กชั่น:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "กำลังดูว่ามีอะไรใหม่ ๆ:"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "กำลังดูมุกตลก:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "กำลังดูสิ่งที่เป็นที่นิยม"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "กำลังดูหน้าร้านค้า:"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "กำลังดูแท็ก:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "กำลังดูสิ่งที่เป็นที่นิยม"
-  }
+    "9gag.gag": {
+        "message": "กำลังดูมุกตลก:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "กำลังดูสิ่งที่เป็นที่นิยม",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "กำลังดูสิ่งที่เป็นที่นิยม",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "กำลังดูว่ามีอะไรใหม่ ๆ:",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "กำลังดูแท็ก:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "กำลังอ่านเกี่ยวกับ 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "กำลังดูหน้าร้านค้า:",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "กำลังดูคอลเล็กชั่น:",
+        "description": ""
+    }
 }
