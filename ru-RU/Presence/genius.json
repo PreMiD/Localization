@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "Просмотр текстов песен:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Просмотр альбома:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Смотрит домашней страницы"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Просмотр текстов песен"
-  }
+	"genius.lyrics": {
+		"message": "Просмотр текстов песен:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Просмотр текстов песен",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Смотрит домашней страницы",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Просмотр альбома:",
+		"description": "Album of a song"
+	}
 }
