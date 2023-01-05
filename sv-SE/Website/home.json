@@ -1,90 +1,90 @@
 {
-  "home.examples.playingagame": {
-    "description": "Discord Rich Presence -> Playing a game",
-    "message": "Spela ett spel"
-  },
-  "home.examples.status.browsing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Bläddrar..."
-  },
-  "home.examples.status.live": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Live"
-  },
-  "home.examples.status.playing": {
-    "description": "Discord Rich Presence -> small image text;",
-    "message": "Spelar upp"
-  },
-  "home.examples.timestamp": {
-    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} kvar"
-  },
-  "home.examples.timestamp2": {
-    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} förflutit"
-  },
-  "home.features.heading": {
-    "description": "Features section",
-    "message": "Du kommer älska våra funktioner!"
-  },
-  "home.features.presencesystem.button": {
-    "description": "Features section button",
-    "message": "Besök butiken"
-  },
-  "home.features.presencesystem.description": {
-    "description": "Features section description",
-    "message": "Vi skapade vårat tillägg på ett sätt som låter dig lägga till och använda Presencer skapade av andra och hantera de i vårat tillägg!"
-  },
-  "home.features.presencesystem.heading": {
-    "description": "Features section subheading",
-    "message": "Hitta **din** presence"
-  },
-  "home.features.quickSupport.button": {
-    "description": "Features section button",
-    "message": "Gå med i vår Discord"
-  },
-  "home.features.quickSupport.description": {
-    "description": "Features section description",
-    "message": "Något är buggat, ger dig massor av fel eller helt enkelt fungerar inter? Vi hjälper dig att bli av med dessa problem i vår Discord-server, vi skapade också vårt eget supportsystem som ser till att ditt problem blir löst så snabbt som möjligt."
-  },
-  "home.features.quickSupport.heading": {
-    "description": "Features section subheading",
-    "message": "Support"
-  },
-  "home.features.simpleInterface.description": {
-    "description": "Features section description",
-    "message": "Trött på komplicerade användargränssnitt? Det är därför vi skapade och försöker hålla våran UI så enkel som möjlig med viktiga funktioner som:"
-  },
-  "home.features.simpleInterface.description.1": {
-    "description": "Features section description point",
-    "message": "Program och tilläggs inställningar"
-  },
-  "home.features.simpleInterface.description.2": {
-    "description": "Features section description point",
-    "message": "Presence hantering"
-  },
-  "home.features.simpleInterface.description.3": {
-    "description": "Features section description point",
-    "message": "Sortera efter kategori"
-  },
-  "home.features.simpleInterface.heading": {
-    "description": "Features section subheading",
-    "message": "Enkelt gränssnitt"
-  },
-  "home.introduction.button.downloads": {
-    "description": "Downloads button -> redirects to /downloads page",
-    "message": "Nedladdningar"
-  },
-  "home.introduction.button.features": {
-    "description": "Introduction button",
-    "message": "Funktioner"
-  },
-  "home.introduction.paragraph": {
-    "description": "First phrase that users read on our website",
-    "message": "**PreMiD** är ett enkelt, konfigurerbart verktyg som låter dig visa vad du gör på webben i din Discords spelstatus."
-  },
-  "home.languageSelector.tippy": {
-    "description": "Tippy content of the language selector.",
-    "message": "Webbplatsspråk"
-  }
+	"home.introduction.paragraph": {
+		"message": "**PreMiD** är ett enkelt, konfigurerbart verktyg som låter dig visa vad du gör på webben i din Discords spelstatus.",
+		"description": "First phrase that users read on our website"
+	},
+	"home.introduction.button.features": {
+		"message": "Funktioner",
+		"description": "Introduction button"
+	},
+	"home.introduction.button.downloads": {
+		"message": "Nedladdningar",
+		"description": "Downloads button -> redirects to /downloads page"
+	},
+	"home.examples.playingagame": {
+		"message": "Spela ett spel",
+		"description": "Discord Rich Presence -> Playing a game"
+	},
+	"home.examples.timestamp": {
+		"message": "{0} kvar",
+		"description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.timestamp2": {
+		"message": "{0} förflutit",
+		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable"
+	},
+	"home.examples.status.playing": {
+		"message": "Spelar upp",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.live": {
+		"message": "Live",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.examples.status.browsing": {
+		"message": "Bläddrar...",
+		"description": "Discord Rich Presence -> small image text;"
+	},
+	"home.features.heading": {
+		"message": "Du kommer älska våra funktioner!",
+		"description": "Features section"
+	},
+	"home.features.presencesystem.heading": {
+		"message": "Hitta **din** presence",
+		"description": "Features section subheading"
+	},
+	"home.features.presencesystem.description": {
+		"message": "Vi skapade vårat tillägg på ett sätt som låter dig lägga till och använda Presencer skapade av andra och hantera de i vårat tillägg!",
+		"description": "Features section description"
+	},
+	"home.features.presencesystem.button": {
+		"message": "Besök butiken",
+		"description": "Features section button"
+	},
+	"home.features.simpleInterface.heading": {
+		"message": "Enkelt gränssnitt",
+		"description": "Features section subheading"
+	},
+	"home.features.simpleInterface.description": {
+		"message": "Trött på komplicerade användargränssnitt? Det är därför vi skapade och försöker hålla våran UI så enkel som möjlig med viktiga funktioner som:",
+		"description": "Features section description"
+	},
+	"home.features.simpleInterface.description.1": {
+		"message": "Program och tilläggs inställningar",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.2": {
+		"message": "Presence hantering",
+		"description": "Features section description point"
+	},
+	"home.features.simpleInterface.description.3": {
+		"message": "Sortera efter kategori",
+		"description": "Features section description point"
+	},
+	"home.features.quickSupport.heading": {
+		"message": "Support",
+		"description": "Features section subheading"
+	},
+	"home.features.quickSupport.description": {
+		"message": "Något är buggat, ger dig massor av fel eller helt enkelt fungerar inter? Vi hjälper dig att bli av med dessa problem i vår Discord-server, vi skapade också vårt eget supportsystem som ser till att ditt problem blir löst så snabbt som möjligt.",
+		"description": "Features section description"
+	},
+	"home.features.quickSupport.button": {
+		"message": "Gå med i vår Discord",
+		"description": "Features section button"
+	},
+	"home.languageSelector.tippy": {
+		"message": "Webbplatsspråk",
+		"description": "Tippy content of the language selector."
+	}
 }
