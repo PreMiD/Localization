@@ -1,22 +1,22 @@
 {
   "animepahe.latestRelease": {
-    "description": "Recently released content, can be new or old anime, its just new to the site",
-    "message": "เนื้อหาใหม่ล่าสุด"
+    "message": "เนื้อหาใหม่ล่าสุด",
+    "description": "Recently released content, can be new or old anime, its just new to the site"
   },
   "animepahe.season": {
-    "description": "TV show/series season eg. Season 5 of The Flash",
-    "message": "ซีซัน"
+    "message": "ซีซัน",
+    "description": "TV show/series season eg. Season 5 of The Flash"
   },
   "animepahe.special": {
-    "description": "A type of related content; a special release episode not included in the original release often with differing style",
-    "message": "ตอนพิเศษ"
-  },
-  "animepahe.timeSeason": {
-    "description": "Time Season eg. The season is now Winter",
-    "message": "ฤดูกาล"
+    "message": "ตอนพิเศษ",
+    "description": "A type of related content; a special release episode not included in the original release often with differing style"
   },
   "animepahe.view": {
-    "description": "{0} will be replaced by \"Pahe\" or \"AniList\"",
-    "message": "ดูใน {0}"
+    "message": "ดูใน {0}",
+    "description": "{0} will be replaced by \"Pahe\" or \"AniList\""
+  },
+  "animepahe.timeSeason": {
+    "message": "ฤดูกาล",
+    "description": "Time Season eg. The season is now Winter"
   }
 }
