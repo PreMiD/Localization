@@ -1,54 +1,54 @@
 {
-  "kahoot.buttonJoinGame": {
-    "description": "Used as the title for the button in Discord. {0} is the Game ID",
-    "message": "انضم إلى اللعبة: {0}"
-  },
-  "kahoot.correctAnswer": {
-    "description": "Used when the user anwered correct on a question",
-    "message": "اجابة صحيحة"
-  },
-  "kahoot.createHome": {
-    "description": "Used when the user is viewing the create.kahoot.it home page",
-    "message": "يشاهد الصفحة الرئيسية"
-  },
-  "kahoot.gameOver": {
-    "description": "Used when the Game is finished",
-    "message": "انتهت اللعبة"
-  },
-  "kahoot.gameStarting": {
-    "description": "Used when a Kahoot Game is starting",
-    "message": "بدأت اللعبة!"
-  },
-  "kahoot.ndPlace": {
-    "description": "Used in the context of 2nd place",
-    "message": "المركز الثاني"
-  },
-  "kahoot.of": {
-    "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
-    "message": "{1} من {0}"
-  },
-  "kahoot.playing": {
-    "description": "Used as the first line when a user is answering a question",
-    "message": "يلعب..."
-  },
-  "kahoot.points": {
-    "description": "Used to display how many points a user has. {0} is the number of points",
-    "message": "نقاط: {0}"
-  },
-  "kahoot.questionNumber": {
-    "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of",
-    "message": "سؤال: {0}"
-  },
-  "kahoot.rdPlace": {
-    "description": "Used in the context of 3rd place",
-    "message": "المركز الثالث"
-  },
-  "kahoot.stPlace": {
-    "description": "Used in the context of 1st place",
-    "message": "المركز الأول"
-  },
-  "kahoot.topX": {
-    "description": "Used in the context of Top 5",
-    "message": "أفضل {0}"
-  }
+    "kahoot.buttonJoinGame": {
+        "message": "انضم إلى اللعبة: {0}",
+        "description": "Used as the title for the button in Discord. {0} is the Game ID"
+    },
+    "kahoot.gameStarting": {
+        "message": "بدأت اللعبة!",
+        "description": "Used when a Kahoot Game is starting"
+    },
+    "kahoot.playing": {
+        "message": "يلعب...",
+        "description": "Used as the first line when a user is answering a question"
+    },
+    "kahoot.correctAnswer": {
+        "message": "اجابة صحيحة",
+        "description": "Used when the user anwered correct on a question"
+    },
+    "kahoot.gameOver": {
+        "message": "انتهت اللعبة",
+        "description": "Used when the Game is finished"
+    },
+    "kahoot.points": {
+        "message": "نقاط: {0}",
+        "description": "Used to display how many points a user has. {0} is the number of points"
+    },
+    "kahoot.questionNumber": {
+        "message": "سؤال: {0}",
+        "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of"
+    },
+    "kahoot.stPlace": {
+        "message": "المركز الأول",
+        "description": "Used in the context of 1st place"
+    },
+    "kahoot.ndPlace": {
+        "message": "المركز الثاني",
+        "description": "Used in the context of 2nd place"
+    },
+    "kahoot.rdPlace": {
+        "message": "المركز الثالث",
+        "description": "Used in the context of 3rd place"
+    },
+    "kahoot.topX": {
+        "message": "أفضل {0}",
+        "description": "Used in the context of Top 5"
+    },
+    "kahoot.of": {
+        "message": "{1} من {0}",
+        "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions"
+    },
+    "kahoot.createHome": {
+        "message": "يشاهد الصفحة الرئيسية",
+        "description": "Used when the user is viewing the create.kahoot.it home page"
+    }
 }
