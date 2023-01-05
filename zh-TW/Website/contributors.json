@@ -1,34 +1,34 @@
 {
-	"contributors.cards.copyUserId": {
-		"description": "Tippy message when you hover on the avatar of a credit card.",
-		"message": "按一下來複製用戶id"
-	},
-	"contributors.cards.userIdCopied": {
-		"description": "Notification after user ID was copied.",
-		"message": "用戶ID已複製"
-	},
-	"contributors.headings.staff": {
-		"description": "Heading for group of users.",
-		"message": "職員"
-	},
-	"contributors.headings.translators": {
-		"description": "Heading for group of users.",
-		"message": "翻譯員"
-	},
-	"contributors.roles.booster": {
-		"description": "'Booster' title for contributors page and user pages.",
-		"message": "加成者"
-	},
-	"contributors.roles.donator": {
-		"description": "'Donator' title for contributors page.",
-		"message": "捐贈者"
-	},
-	"contributors.roles.proofreader": {
-		"description": "'Proofreader' title for contributors and user pages.",
-		"message": "校對員"
-	},
-	"contributors.roles.translator": {
-		"description": "'Translator' title for contributors page.",
-		"message": "翻譯員"
-	}
+  "contributors.cards.copyUserId": {
+    "description": "Tippy message when you hover on the avatar of a credit card.",
+    "message": "按一下來複製用戶id"
+  },
+  "contributors.cards.userIdCopied": {
+    "description": "Notification after user ID was copied.",
+    "message": "用戶ID已複製"
+  },
+  "contributors.headings.staff": {
+    "description": "Heading for group of users.",
+    "message": "職員"
+  },
+  "contributors.headings.translators": {
+    "description": "Heading for group of users.",
+    "message": "翻譯員"
+  },
+  "contributors.roles.booster": {
+    "description": "'Booster' title for contributors page and user pages.",
+    "message": "加成者"
+  },
+  "contributors.roles.donator": {
+    "description": "'Donator' title for contributors page.",
+    "message": "捐贈者"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "校對員"
+  },
+  "contributors.roles.translator": {
+    "description": "'Translator' title for contributors page.",
+    "message": "翻譯員"
+  }
 }

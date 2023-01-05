@@ -1,30 +1,30 @@
 {
-	"user.geniusPresenceDev.message1": {
-		"description": "'Genuis Presence Developer' tippy description for user pages.",
-		"message": "活躍的 Presence 開發者"
-	},
-	"user.geniusPresenceDev.message2": {
-		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
-		"message": "創建了超過100個狀態"
-	},
-	"user.importantPresenceDev.message1": {
-		"description": "'Important Presence Developer' tippy description for user pages.",
-		"message": " Presence主要開發者"
-	},
-	"user.importantPresenceDev.message2": {
-		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
-		"message": "已創建 {0} 個 Presence"
-	},
-	"user.presences.contributed": {
-		"description": "Tippy content (mode 2) in user profile.",
-		"message": "按這裏顯示該用戶有參與製作的 presences"
-	},
-	"user.roles.presenceDeveloper": {
-		"description": "'Presence Developer' title for user pages.",
-		"message": "Presence 開發者"
-	},
-	"user.roles.presenceVerifier": {
-		"description": "'Presence Verifier' title for user pages.",
-		"message": "Presence 審核人員"
-	}
+  "user.geniusPresenceDev.message1": {
+    "description": "'Genuis Presence Developer' tippy description for user pages.",
+    "message": "活躍的 Presence 開發者"
+  },
+  "user.geniusPresenceDev.message2": {
+    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "創建了超過100個狀態"
+  },
+  "user.importantPresenceDev.message1": {
+    "description": "'Important Presence Developer' tippy description for user pages.",
+    "message": " Presence主要開發者"
+  },
+  "user.importantPresenceDev.message2": {
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "已創建 {0} 個 Presence"
+  },
+  "user.presences.contributed": {
+    "description": "Tippy content (mode 2) in user profile.",
+    "message": "按這裏顯示該用戶有參與製作的 presences"
+  },
+  "user.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for user pages.",
+    "message": "Presence 開發者"
+  },
+  "user.roles.presenceVerifier": {
+    "description": "'Presence Verifier' title for user pages.",
+    "message": "Presence 審核人員"
+  }
 }

@@ -1,86 +1,86 @@
 {
-	"home.examples.playingagame": {
-		"description": "Discord Rich Presence -> Playing a game",
-		"message": "正在玩遊戲"
-	},
-	"home.examples.status.browsing": {
-		"description": "Discord Rich Presence -> small image text;",
-		"message": "瀏覽中..."
-	},
-	"home.examples.status.live": {
-		"description": "Discord Rich Presence -> small image text;",
-		"message": "直播"
-	},
-	"home.examples.status.playing": {
-		"description": "Discord Rich Presence -> small image text;",
-		"message": "播放中"
-	},
-	"home.examples.timestamp2": {
-		"description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
-		"message": "已經過了{0}"
-	},
-	"home.features.heading": {
-		"description": "Features section",
-		"message": "你會愛上這些功能的!"
-	},
-	"home.features.presencesystem.button": {
-		"description": "Features section button",
-		"message": "前往店鋪"
-	},
-	"home.features.presencesystem.description": {
-		"description": "Features section description",
-		"message": "我們開發的擴展程序有方式允許您添加和使用其他用戶創建的狀態, 並可在擴展程序中對其進行管理"
-	},
-	"home.features.presencesystem.heading": {
-		"description": "Features section subheading",
-		"message": "尋找 **您的** 狀態"
-	},
-	"home.features.quickSupport.button": {
-		"description": "Features section button",
-		"message": "加入我們的 Discord 服務器"
-	},
-	"home.features.quickSupport.description": {
-		"description": "Features section description",
-		"message": "一些奇怪的事情發生了，給你一堆錯誤信息或單純只是無法運作? 我們在Discord伺服器將給予你協助，我們同時還創立了獨特的協助系統，它將保證你的問題能盡快解決。"
-	},
-	"home.features.quickSupport.heading": {
-		"description": "Features section subheading",
-		"message": "快速的客服"
-	},
-	"home.features.simpleInterface.description": {
-		"description": "Features section description",
-		"message": "對複雜的使用者介面感到厭倦? 這就是為甚麼我們嘗試讓介面能夠簡潔卻保留以下的重要功能:"
-	},
-	"home.features.simpleInterface.description.1": {
-		"description": "Features section description point",
-		"message": "應用程序和擴展程序設置"
-	},
-	"home.features.simpleInterface.description.2": {
-		"description": "Features section description point",
-		"message": "狀態管理"
-	},
-	"home.features.simpleInterface.description.3": {
-		"description": "Features section description point",
-		"message": "按類別排序"
-	},
-	"home.features.simpleInterface.heading": {
-		"description": "Features section subheading",
-		"message": "簡單的用戶界面"
-	},
-	"home.introduction.button.downloads": {
-		"description": "Downloads button -> redirects to /downloads page",
-		"message": "下載"
-	},
-	"home.introduction.button.features": {
-		"description": "Introduction button",
-		"message": "功能"
-	},
-	"home.introduction.paragraph": {
-		"description": "First phrase that users read on our website",
-		"message": "**PreMiD** 是一個簡單的可配置實用程序，可讓您以Discord遊戲動態中顯示您在瀏覽器上正在做什麼。"
-	},
-	"home.languageSelector.tippy": {
-		"description": "Tippy content of the language selector.",
-		"message": "網頁語言"
-	}
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "正在玩遊戲"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "瀏覽中..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "直播"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "播放中"
+  },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "已經過了{0}"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "你會愛上這些功能的!"
+  },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "前往店鋪"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "我們開發的擴展程序有方式允許您添加和使用其他用戶創建的狀態, 並可在擴展程序中對其進行管理"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "尋找 **您的** 狀態"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "加入我們的 Discord 服務器"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "一些奇怪的事情發生了，給你一堆錯誤信息或單純只是無法運作? 我們在Discord伺服器將給予你協助，我們同時還創立了獨特的協助系統，它將保證你的問題能盡快解決。"
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "快速的客服"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "對複雜的使用者介面感到厭倦? 這就是為甚麼我們嘗試讓介面能夠簡潔卻保留以下的重要功能:"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "應用程序和擴展程序設置"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "狀態管理"
+  },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "按類別排序"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "簡單的用戶界面"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "下載"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "功能"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "**PreMiD** 是一個簡單的可配置實用程序，可讓您以Discord遊戲動態中顯示您在瀏覽器上正在做什麼。"
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "網頁語言"
+  }
 }
