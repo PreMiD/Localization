@@ -1,30 +1,30 @@
 {
-  "merch.cart": {
-    "description": "Add product to cart",
-    "message": "Agregar al carrito"
-  },
-  "merch.error.noitem": {
-    "description": "Error message when no size selected",
-    "message": "Ningún artículo para agregar a su carrito"
-  },
-  "merch.fit": {
-    "description": "Product sizes",
-    "message": "**Escoge tu talla**"
-  },
-  "merch.help": {
-    "description": "Link to customer support, {0}{1} is the replacement for the link",
-    "message": "¿Experimentando problemas con nuestra tienda o un pedido? Póngase en contacto con nuestro {0}servicio de atención al cliente{1}"
-  },
-  "merch.item.added": {
-    "description": "{0} replaced with product name",
-    "message": "{0} agregado a tu carrito"
-  },
-  "merch.swag": {
-    "description": "Subtitle for store",
-    "message": "Encuentra tu **Swag**"
-  },
-  "merch.title": {
-    "description": "Merch store title",
-    "message": "¡Bienvenidos a la tienda oficial de **PreMiD**!"
-  }
+	"merch.title": {
+		"message": "¡Bienvenidos a la tienda oficial de **PreMiD**!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Encuentra tu **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Escoge tu talla**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Agregar al carrito",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "¿Experimentando problemas con nuestra tienda o un pedido? Póngase en contacto con nuestro {0}servicio de atención al cliente{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} agregado a tu carrito",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Ningún artículo para agregar a su carrito",
+		"description": "Error message when no size selected"
+	}
 }
