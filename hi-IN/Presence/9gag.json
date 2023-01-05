@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "सभी 9गैग के बारे में पढ़ना"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "संग्रह देखें"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "देखना क्या है ताजा"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "गैग देखना:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "देखने में क्या गर्म है"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "होम पेज देखना"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "टैग देखना:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "देखना क्या है ट्रेंडिंग"
-  }
+    "9gag.gag": {
+        "message": "गैग देखना:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "देखने में क्या गर्म है",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "देखना क्या है ट्रेंडिंग",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "देखना क्या है ताजा",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "टैग देखना:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "सभी 9गैग के बारे में पढ़ना",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "होम पेज देखना",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "संग्रह देखें",
+        "description": ""
+    }
 }
