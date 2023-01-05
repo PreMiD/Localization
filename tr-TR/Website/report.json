@@ -1,58 +1,58 @@
 {
-  "report.activebugs": {
-    "description": "Lists users active bugs",
-    "message": "Aktif Hatalar"
-  },
-  "report.browser": {
-    "description": "Select Box for the user to select their browser",
-    "message": "Tarayıcınızı ve Sürümünüzü Seçin. Firefox'da about:support, Chrome'da ise chrome://help sayfalarından sürümünüzü öğrenebilirsiniz."
-  },
-  "report.bugcount": {
-    "description": "Amount of bug reports user can send",
-    "message": "{count}/3 hakkınız kaldı"
-  },
-  "report.button": {
-    "description": "Button to send the information inputed.",
-    "message": "Bildir"
-  },
-  "report.description": {
-    "description": "Text for the user to write information about the bug.",
-    "message": "Hatanın canlı bir örneğine dair bir bağlantı sağlayınız veya hatanın nasıl tekrar üretilebileceğine dair kesin ve açık bir şekilde yazılmış adımlar yazınız."
-  },
-  "report.error": {
-    "description": "User needs to input more notification",
-    "message": "Daha Fazla Bilgi Gerekli"
-  },
-  "report.error.unauth": {
-    "description": "Users Discord not verified",
-    "message": "Discord hesabınızın doğrulanmış olması gerekmektedir"
-  },
-  "report.info": {
-    "description": "Tells the user about submitting a bug",
-    "message": "Hata bildirimleri sadece PreMiD sitesi ve PreMiD Discord sunucusu içerisindeki hataları kapsamaktadır. Servis hataları için servisin yapımcısına ulaşmanız gerekmektedir. Hata bildirimleri sadece İngilizce olmalıdır."
-  },
-  "report.os": {
-    "description": "Select Box for the user to select their operating system",
-    "message": "İşletim sisteminizi ve sürümünü seçin"
-  },
-  "report.overview": {
-    "description": "Text for the user to write a brief of the bug information.",
-    "message": "Hatanın ne olduğuna dair açık ve özlü bir açıklama belirtiniz."
-  },
-  "report.success": {
-    "description": "Success notification",
-    "message": "Hata Bildirildi"
-  },
-  "report.title": {
-    "description": "Text to indicate the page.",
-    "message": "Hata Bildir"
-  },
-  "report.toomany": {
-    "description": "User has too many active reports",
-    "message": "Çok fazla aktif raporunuz var. Gönderdiğiniz raporların incelenmesini bekleyin. Raporlar haftalık olarak kontrol edilir, sabırlı olun."
-  },
-  "report.toomany.alert": {
-    "description": "User has too many active reports",
-    "message": "Aktif sayıda çok fazla raporunuz bulunuyor."
-  }
+	"report.title": {
+		"message": "Hata Bildir",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 hakkınız kaldı",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Hata bildirimleri sadece PreMiD sitesi ve PreMiD Discord sunucusu içerisindeki hataları kapsamaktadır. Servis hataları için servisin yapımcısına ulaşmanız gerekmektedir. Hata bildirimleri sadece İngilizce olmalıdır.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Hatanın ne olduğuna dair açık ve özlü bir açıklama belirtiniz.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "İşletim sisteminizi ve sürümünü seçin",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Tarayıcınızı ve Sürümünüzü Seçin. Firefox'da about:support, Chrome'da ise chrome://help sayfalarından sürümünüzü öğrenebilirsiniz.",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Hatanın canlı bir örneğine dair bir bağlantı sağlayınız veya hatanın nasıl tekrar üretilebileceğine dair kesin ve açık bir şekilde yazılmış adımlar yazınız.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Bildir",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Çok fazla aktif raporunuz var. Gönderdiğiniz raporların incelenmesini bekleyin. Raporlar haftalık olarak kontrol edilir, sabırlı olun.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Aktif sayıda çok fazla raporunuz bulunuyor.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Hata Bildirildi",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Daha Fazla Bilgi Gerekli",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord hesabınızın doğrulanmış olması gerekmektedir",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Aktif Hatalar",
+		"description": "Lists users active bugs"
+	}
 }
