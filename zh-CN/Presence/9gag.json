@@ -1,6 +1,6 @@
 {
-  "9gag.trending": {
-    "description": "",
-    "message": "查看热门内容"
-  }
+    "9gag.trending": {
+        "message": "查看热门内容",
+        "description": ""
+    }
 }
