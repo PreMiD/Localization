@@ -1,58 +1,58 @@
 {
-  "contributors.cards.copyUserId": {
-    "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "Clicca per copiare l’ID dell'utente."
-  },
-  "contributors.cards.userIdCopied": {
-    "description": "Notification after user ID was copied.",
-    "message": "ID dell'utente copiato!"
-  },
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "Staff"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Sostenitori"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "Traduttori"
-  },
-  "contributors.roles.booster": {
-    "description": "'Booster' title for contributors page and user pages.",
-    "message": "Booster"
-  },
-  "contributors.roles.communityManager": {
-    "description": "'Community Manager' title for contributors and user pages.",
-    "message": "Manager della Community"
-  },
-  "contributors.roles.discordModerator": {
-    "description": "'Discord Moderator' title for contributors and user pages.",
-    "message": "Moderatore Discord"
-  },
-  "contributors.roles.donator": {
-    "description": "'Donator' title for contributors page.",
-    "message": "Donatore"
-  },
-  "contributors.roles.humanResources": {
-    "description": "'Human Resources' title for contributors and user pages.",
-    "message": "Risorse Umane"
-  },
-  "contributors.roles.localizationManager": {
-    "description": "'Localization Manager' title for contributors and user pages.",
-    "message": "Responsabile della localizzazione"
-  },
-  "contributors.roles.proofreader": {
-    "description": "'Proofreader' title for contributors and user pages.",
-    "message": "Correttore di bozze"
-  },
-  "contributors.roles.technicalSupport": {
-    "description": "'Technical Support' title for contributors and user pages.",
-    "message": "Supporto Tecnico"
-  },
-  "contributors.roles.translator": {
-    "description": "'Translator' title for contributors page.",
-    "message": "Traduttore"
-  }
+	"contributors.headings.staff": {
+		"message": "Staff",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Sostenitori",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.discordModerator": {
+		"message": "Moderatore Discord",
+		"description": "'Discord Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.technicalSupport": {
+		"message": "Supporto Tecnico",
+		"description": "'Technical Support' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Responsabile della localizzazione",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "Manager della Community",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.humanResources": {
+		"message": "Risorse Umane",
+		"description": "'Human Resources' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Correttore di bozze",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Traduttori",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Donatore",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Booster",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Traduttore",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Clicca per copiare l’ID dell'utente.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "ID dell'utente copiato!",
+		"description": "Notification after user ID was copied."
+	}
 }
