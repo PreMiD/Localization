@@ -1,38 +1,38 @@
 {
-  "discord.browseThrough": {
-    "description": "The first part of the next 17 strings",
-    "message": "Navigând prin"
-  },
-  "discord.download": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "pagina de descărcări"
-  },
-  "discord.friends": {
-    "description": "",
-    "message": "Se uită la prietenii săi..."
-  },
-  "discord.merch": {
-    "description": "",
-    "message": "Discord Merch"
-  },
-  "discord.merch.collection": {
-    "description": "",
-    "message": "Se uită la colecția:"
-  },
-  "discord.safety": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "centrul de securitate"
-  },
-  "discord.settings": {
-    "description": "",
-    "message": "Se uită la setărilor lor..."
-  },
-  "discord.support": {
-    "description": "",
-    "message": "Centrul de Ajutor"
-  },
-  "discord.why": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "pagina \"De ce Discord?\""
-  }
+	"discord.friends": {
+		"message": "Se uită la prietenii săi...",
+		"description": ""
+	},
+	"discord.settings": {
+		"message": "Se uită la setărilor lor...",
+		"description": ""
+	},
+	"discord.browseThrough": {
+		"message": "Navigând prin",
+		"description": "The first part of the next 17 strings"
+	},
+	"discord.download": {
+		"message": "pagina de descărcări",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.why": {
+		"message": "pagina \"De ce Discord?\"",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.safety": {
+		"message": "centrul de securitate",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"discord.support": {
+		"message": "Centrul de Ajutor",
+		"description": ""
+	},
+	"discord.merch": {
+		"message": "Discord Merch",
+		"description": ""
+	},
+	"discord.merch.collection": {
+		"message": "Se uită la colecția:",
+		"description": ""
+	}
 }
