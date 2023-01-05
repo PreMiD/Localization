@@ -1,74 +1,74 @@
 {
-  "namemc.buttonViewServer": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Server bekijken"
-  },
-  "namemc.capes": {
-    "description": "",
-    "message": "Bekijkt capes"
-  },
-  "namemc.claim": {
-    "description": "",
-    "message": "Bekijkt hoe je je profiel kunt opeisen"
-  },
-  "namemc.profileEdit": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Bewerkt {0}profielinformatie"
-  },
-  "namemc.servers": {
-    "description": "",
-    "message": "Bekijkt servers"
-  },
-  "namemc.skinsNew": {
-    "description": "Skins is how you appear in the game.",
-    "message": "Bekijkt nieuwe skins"
-  },
-  "namemc.skinsRandom": {
-    "description": "Skins is how you appear in the game.",
-    "message": "Bekijkt willekeurige skins"
-  },
-  "namemc.skinsTag": {
-    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
-    "message": "Bekijkt skins met {0} tag"
-  },
-  "namemc.skinsTagged": {
-    "description": "Skins is how you appear in the game.",
-    "message": "Bekijkt getagde skins"
-  },
-  "namemc.skinsTop": {
-    "description": "Skins is how you appear in the game.",
-    "message": "Bekijkt de top skins"
-  },
-  "namemc.skinsTrending": {
-    "description": "Skins is how you appear in the game.",
-    "message": "Bekijkt populaire skins"
-  },
-  "namemc.upcomingNames": {
-    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
-    "message": "Bekijkt aankomende namen"
-  },
-  "namemc.viewCape": {
-    "description": "",
-    "message": "Bekijkt cape:"
-  },
-  "namemc.viewEmojis": {
-    "description": "You can have an emoji next to your name, you select it here.",
-    "message": "Bekijkt profielemoji's"
-  },
-  "namemc.viewFriends": {
-    "description": "",
-    "message": "Bekijkt vrienden"
-  },
-  "namemc.viewServer": {
-    "description": "",
-    "message": "Bekijkt server:"
-  },
-  "namemc.viewSkin": {
-    "description": "Skins is how you appear in the game.",
-    "message": "Bekijkt een skin"
-  },
-  "namemc.viewSkins": {
-    "description": "",
-    "message": "Bekijkt eigen skins"
-  }
+	"namemc.upcomingNames": {
+		"message": "Bekijkt aankomende namen",
+		"description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked."
+	},
+	"namemc.skinsTrending": {
+		"message": "Bekijkt populaire skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTop": {
+		"message": "Bekijkt de top skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsNew": {
+		"message": "Bekijkt nieuwe skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsRandom": {
+		"message": "Bekijkt willekeurige skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTagged": {
+		"message": "Bekijkt getagde skins",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.skinsTag": {
+		"message": "Bekijkt skins met {0} tag",
+		"description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag."
+	},
+	"namemc.viewSkin": {
+		"message": "Bekijkt een skin",
+		"description": "Skins is how you appear in the game."
+	},
+	"namemc.capes": {
+		"message": "Bekijkt capes",
+		"description": ""
+	},
+	"namemc.viewCape": {
+		"message": "Bekijkt cape:",
+		"description": ""
+	},
+	"namemc.servers": {
+		"message": "Bekijkt servers",
+		"description": ""
+	},
+	"namemc.viewServer": {
+		"message": "Bekijkt server:",
+		"description": ""
+	},
+	"namemc.buttonViewServer": {
+		"message": "Server bekijken",
+		"description": "Used as the title for the button in Discord."
+	},
+	"namemc.claim": {
+		"message": "Bekijkt hoe je je profiel kunt opeisen",
+		"description": ""
+	},
+	"namemc.profileEdit": {
+		"message": "Bewerkt {0}profielinformatie",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"namemc.viewFriends": {
+		"message": "Bekijkt vrienden",
+		"description": ""
+	},
+	"namemc.viewSkins": {
+		"message": "Bekijkt eigen skins",
+		"description": ""
+	},
+	"namemc.viewEmojis": {
+		"message": "Bekijkt profielemoji's",
+		"description": "You can have an emoji next to your name, you select it here."
+	}
 }
