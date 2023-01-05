@@ -1,58 +1,58 @@
 {
-  "header.contributors": {
-    "description": "Contributors tab",
-    "message": "Учасники проєкту"
-  },
-  "header.downloads": {
-    "description": "Downloads tab",
-    "message": "Завантаження"
-  },
   "header.language": {
-    "description": "Replace English with the name of YOUR language!",
-    "message": "Українська"
-  },
-  "header.languageNotification.btnAccept": {
-    "description": "Button that switches language after click.",
-    "message": "Змінити мову"
-  },
-  "header.languageNotification.btnDecline": {
-    "description": "Button that will decline notification.",
-    "message": "Ні, дякую"
-  },
-  "header.languageNotification.text": {
-    "description": "Text in language notification when user has different language.",
-    "message": "Наша веб-сторінка була перекладена вашою мовою. Це допоможе у випадку, якщо ви не знаєте англійську дуже добре."
+    "message": "Українська",
+    "description": "Replace English with the name of YOUR language!"
   },
   "header.languageNotification.title": {
-    "description": "Heading of the language notification when user has different language.",
-    "message": "Ми підтримуємо вашу мову, хочете перемкнутися?"
+    "message": "Ми підтримуємо вашу мову, хочете перемкнутися?",
+    "description": "Heading of the language notification when user has different language."
   },
-  "header.lia": {
-    "description": "Indicates which user is logged in",
-    "message": "Авторизовано як"
+  "header.languageNotification.text": {
+    "message": "Наша веб-сторінка була перекладена вашою мовою. Це допоможе у випадку, якщо ви не знаєте англійську дуже добре.",
+    "description": "Text in language notification when user has different language."
+  },
+  "header.languageNotification.btnDecline": {
+    "message": "Ні, дякую",
+    "description": "Button that will decline notification."
+  },
+  "header.languageNotification.btnAccept": {
+    "message": "Змінити мову",
+    "description": "Button that switches language after click."
   },
   "header.loader.phrases": {
-    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
-    "message": "Випікаємо млинці…;Ліпимо вареники…;Розміщуємо контейнери;Створюємо сай…т;Порушуємо усі можливі правила…;Надсилаємо вашу IP-адресу до СБУ…;(╯°□°）╯︵ ┻━┻;┬─┬ ノ( ゜-゜ノ);Читаємо ваші повідомлення у соц. мережах…;"
-  },
-  "header.login": {
-    "description": "Login Button",
-    "message": "Увійти"
-  },
-  "header.logout": {
-    "description": "Logout button",
-    "message": "Вихід"
-  },
-  "header.rab": {
-    "description": "Report a bug button",
-    "message": "Повідомити про помилку"
-  },
-  "header.staff": {
-    "description": "Dashboard button",
-    "message": "Панель управління"
+    "message": "Випікаємо млинці…;Ліпимо вареники…;Розміщуємо контейнери;Створюємо сай…т;Порушуємо усі можливі правила…;Надсилаємо вашу IP-адресу до СБУ…;(╯°□°）╯︵ ┻━┻;┬─┬ ノ( ゜-゜ノ);Читаємо ваші повідомлення у соц. мережах…;",
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]"
   },
   "header.store": {
-    "description": "Store tab",
-    "message": "Магазин"
+    "message": "Магазин",
+    "description": "Store tab"
+  },
+  "header.downloads": {
+    "message": "Завантаження",
+    "description": "Downloads tab"
+  },
+  "header.contributors": {
+    "message": "Учасники проєкту",
+    "description": "Contributors tab"
+  },
+  "header.login": {
+    "message": "Увійти",
+    "description": "Login Button"
+  },
+  "header.lia": {
+    "message": "Авторизовано як",
+    "description": "Indicates which user is logged in"
+  },
+  "header.rab": {
+    "message": "Повідомити про помилку",
+    "description": "Report a bug button"
+  },
+  "header.staff": {
+    "message": "Панель управління",
+    "description": "Dashboard button"
+  },
+  "header.logout": {
+    "message": "Вихід",
+    "description": "Logout button"
   }
 }
