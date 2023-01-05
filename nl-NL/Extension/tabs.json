@@ -1,58 +1,58 @@
 {
-  "donate": {
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time",
-    "message": "Doneren"
-  },
   "tab.button.changelog": {
-    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
-    "message": "Wijzigingen"
+    "message": "Wijzigingen",
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "Wiki"
-  },
-  "tab.installed.error": {
-    "description": "Error message of the tab which opens when you install PreMiD for the first time",
-    "message": "**Oei!** We konden geen verbinding maken met de applicatie... Heb je deze wel geïnstalleerd?"
+    "message": "Wiki",
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "description": "Title of the tab which opens when you install PreMiD for the first time",
-    "message": "Bedankt"
-  },
-  "tab.installed.link.installApplication": {
-    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
-    "message": "Applicatie installeren"
-  },
-  "tab.installed.link.troubleshooting": {
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "Probleemoplossing"
-  },
-  "tab.installed.start": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
-    "message": "Begin met het gebruiken van {0}"
+    "message": "Bedankt",
+    "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
-    "message": "voor het installeren van {0}"
+    "message": "voor het installeren van {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
-  "tab.updated.changed": {
-    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
-    "message": "Veranderd"
+  "tab.installed.start": {
+    "message": "Begin met het gebruiken van {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
-  "tab.updated.fixed": {
-    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
-    "message": "Opgelost"
+  "donate": {
+    "message": "Doneren",
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.error": {
+    "message": "**Oei!** We konden geen verbinding maken met de applicatie... Heb je deze wel geïnstalleerd?",
+    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.troubleshooting": {
+    "message": "Probleemoplossing",
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.installApplication": {
+    "message": "Applicatie installeren",
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "description": "Title of the tab which opens when PreMiD was updated",
-    "message": "Niveau omhoog!"
-  },
-  "tab.updated.new": {
-    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
-    "message": "Nieuw"
+    "message": "Niveau omhoog!",
+    "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
-    "message": "{0} is geüpdatet!"
+    "message": "{0} is geüpdatet!",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.new": {
+    "message": "Nieuw",
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.changed": {
+    "message": "Veranderd",
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.fixed": {
+    "message": "Opgelost",
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
