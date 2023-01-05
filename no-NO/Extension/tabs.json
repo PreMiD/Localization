@@ -1,58 +1,58 @@
 {
-  "donate": {
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time",
-    "message": "Doner"
-  },
   "tab.button.changelog": {
-    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
-    "message": "Endringslogg"
+    "message": "Endringslogg",
+    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.button.wiki": {
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "Wiki"
-  },
-  "tab.installed.error": {
-    "description": "Error message of the tab which opens when you install PreMiD for the first time",
-    "message": "**Å nei!** Vi kunne ikke koble til programmet... er den installert?"
+    "message": "Wiki",
+    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.heading": {
-    "description": "Title of the tab which opens when you install PreMiD for the first time",
-    "message": "Takk"
-  },
-  "tab.installed.link.installApplication": {
-    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
-    "message": "Installer applikasjon"
-  },
-  "tab.installed.link.troubleshooting": {
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "Feilsøking"
-  },
-  "tab.installed.start": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
-    "message": "Kom i gang med {0}"
+    "message": "Takk",
+    "description": "Title of the tab which opens when you install PreMiD for the first time"
   },
   "tab.installed.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
-    "message": "for at du installerte {0}"
+    "message": "for at du installerte {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time"
   },
-  "tab.updated.changed": {
-    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
-    "message": "Endret"
+  "tab.installed.start": {
+    "message": "Kom i gang med {0}",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time"
   },
-  "tab.updated.fixed": {
-    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
-    "message": "Løst"
+  "donate": {
+    "message": "Doner",
+    "description": "Donate button of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.error": {
+    "message": "**Å nei!** Vi kunne ikke koble til programmet... er den installert?",
+    "description": "Error message of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.troubleshooting": {
+    "message": "Feilsøking",
+    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time"
+  },
+  "tab.installed.link.installApplication": {
+    "message": "Installer applikasjon",
+    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time"
   },
   "tab.updated.heading": {
-    "description": "Title of the tab which opens when PreMiD was updated",
-    "message": "Nivå opp!"
-  },
-  "tab.updated.new": {
-    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
-    "message": "Ny"
+    "message": "Nivå opp!",
+    "description": "Title of the tab which opens when PreMiD was updated"
   },
   "tab.updated.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
-    "message": "{0} har blitt oppdatert!"
+    "message": "{0} har blitt oppdatert!",
+    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.new": {
+    "message": "Ny",
+    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.changed": {
+    "message": "Endret",
+    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated"
+  },
+  "tab.updated.fixed": {
+    "message": "Løst",
+    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated"
   }
 }
