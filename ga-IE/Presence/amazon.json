@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Ag féachaint ar a seoltaí"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Ag féachaint ar a gcuid adprefs"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Ag féachaint ar a n-iarmhéid"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "cart siopadóireacht"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Ag féachaint ar gach catagóir"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "cártaí bronntanais"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Ag féachaint ar a stair"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "sonraí ordú"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "stair ordú"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Ag féachaint ar mhodhanna íocaíochta"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Ag féachaint ar a gcuid peataí"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Ag féachaint ar Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Ag Breathnú ar Phríomh-Fhíseán:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Breathnú molta"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Siopa féachana:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Ag féachaint ar shíntiúis"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Ag féachaint ar a gcuid"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "liosta Mianta"
-  }
+    "amazon.subscriptions": {
+        "message": "Ag féachaint ar shíntiúis",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Ag féachaint ar a gcuid adprefs",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Ag féachaint ar a n-iarmhéid",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Ag féachaint ar mhodhanna íocaíochta",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Ag féachaint ar a seoltaí",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Ag féachaint ar a gcuid peataí",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Ag féachaint ar gach catagóir",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Ag féachaint ar Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Ag féachaint ar a gcuid",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "stair ordú",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "sonraí ordú",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "cart siopadóireacht",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "liosta Mianta",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "cártaí bronntanais",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Breathnú molta",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Ag féachaint ar a stair",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Siopa féachana:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Ag Breathnú ar Phríomh-Fhíseán:",
+        "description": ""
+    }
 }
