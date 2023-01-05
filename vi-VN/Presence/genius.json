@@ -1,18 +1,18 @@
 {
-  "genius.lyrics": {
-    "description": "Song name will be listed after the \":\"",
-    "message": "Đang xem lời bài hát của:"
-  },
-  "genius.viewAlbum": {
-    "description": "Album of a song",
-    "message": "Đang xem album:"
-  },
-  "genius.viewHome": {
-    "description": "",
-    "message": "Đang xem trang chủ"
-  },
-  "genius.viewLyrics": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem lời bài hát"
-  }
+	"genius.lyrics": {
+		"message": "Đang xem lời bài hát của:",
+		"description": "Song name will be listed after the \":\""
+	},
+	"genius.viewLyrics": {
+		"message": "Xem lời bài hát",
+		"description": "Used as the title for the button in Discord."
+	},
+	"genius.viewHome": {
+		"message": "Đang xem trang chủ",
+		"description": ""
+	},
+	"genius.viewAlbum": {
+		"message": "Đang xem album:",
+		"description": "Album of a song"
+	}
 }
