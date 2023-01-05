@@ -1,6 +1,6 @@
 {
   "google classroom.class": {
-    "description": "Displayed when a user is viewing a class",
-    "message": "يشاهد الفصل"
+    "message": "يشاهد الفصل",
+    "description": "Displayed when a user is viewing a class"
   }
 }
