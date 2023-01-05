@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Kirjanmerkit"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Selaa"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Ilmoitukset"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Lukee twiittiä käyttäjältä:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Muuttamassa asetuksia..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Katselee yksityisviestejään"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Lukee tykättyjä twiittejä käyttäjältä:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Tarkastelee luetteloa:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Tarkastelee mediaa käyttäjältä:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Katselee twiittejä käyttäjältä:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Lukee twiittejä (ja vastauksia) käyttäjältä:"
-  }
+	"twitter.readTweet": {
+		"message": "Lukee twiittiä käyttäjältä:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Katselee yksityisviestejään",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Katselee twiittejä käyttäjältä:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Lukee twiittejä (ja vastauksia) käyttäjältä:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Tarkastelee mediaa käyttäjältä:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Lukee tykättyjä twiittejä käyttäjältä:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Tarkastelee luetteloa:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Kirjanmerkit",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Ilmoitukset",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Selaa",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Muuttamassa asetuksia...",
+		"description": ""
+	}
 }
