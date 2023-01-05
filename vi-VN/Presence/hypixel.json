@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Đang xem PM"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Đang xem game:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Đang xem danh sách staff"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Đang xem thông báo từ forums"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Đang xem thông báo từ các threads"
-  }
+    "hypixel.staff": {
+        "message": "Đang xem danh sách staff",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Đang xem thông báo từ các threads",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Đang xem thông báo từ forums",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Đang xem PM",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Đang xem game:",
+        "description": ""
+    }
 }
