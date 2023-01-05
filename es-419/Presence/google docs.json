@@ -1,50 +1,50 @@
 {
-  "google docs.browsingDoc": {
-    "description": "Displayed when the user is browsing their Google Documents",
-    "message": "Buscando documentos"
-  },
-  "google docs.browsingForm": {
-    "description": "Displayed when the user is browsing their Google Forms",
-    "message": "Buscando formularios"
-  },
-  "google docs.browsingPresentation": {
-    "description": "Displayed when the user is browsing their Google presentation",
-    "message": "Buscando presentaciones"
-  },
-  "google docs.browsingSheet": {
-    "description": "Displayed when the user is browsing their Google Sheets",
-    "message": "Buscando hojas de cálculo"
-  },
-  "google docs.editingDoc": {
-    "description": "Displayed when the user is editing a Google Document",
-    "message": "Editando un documento"
-  },
-  "google docs.editingForm": {
-    "description": "Displayed when the user is editing a Google Form",
-    "message": "Editando un formulario"
-  },
-  "google docs.editingPresentation": {
-    "description": "Displayed when the user is editing a Google presentation",
-    "message": "Editando una presentación"
-  },
-  "google docs.editingSheet": {
-    "description": "Displayed when the user is eiditng a Google Sheet",
-    "message": "Editando una hoja de cálculo"
-  },
-  "google docs.viewingDoc": {
-    "description": "Displayed when the user is viewing a Google Document",
-    "message": "Mirando un documento"
-  },
-  "google docs.viewingForm": {
-    "description": "Displayed when the user is viewing a Google Form",
-    "message": "Mirando un formulario"
-  },
-  "google docs.viewingPresentation": {
-    "description": "Displayed when the user is viewing a Google presentation",
-    "message": "Mirando una presentación"
-  },
-  "google docs.viewingSheet": {
-    "description": "Displayed when the user is viewing a Google Sheet",
-    "message": "Mirando una hoja de cálculo"
-  }
+	"google docs.editingDoc": {
+		"message": "Editando un documento",
+		"description": "Displayed when the user is editing a Google Document"
+	},
+	"google docs.viewingDoc": {
+		"message": "Mirando un documento",
+		"description": "Displayed when the user is viewing a Google Document"
+	},
+	"google docs.browsingDoc": {
+		"message": "Buscando documentos",
+		"description": "Displayed when the user is browsing their Google Documents"
+	},
+	"google docs.editingForm": {
+		"message": "Editando un formulario",
+		"description": "Displayed when the user is editing a Google Form"
+	},
+	"google docs.viewingForm": {
+		"message": "Mirando un formulario",
+		"description": "Displayed when the user is viewing a Google Form"
+	},
+	"google docs.browsingForm": {
+		"message": "Buscando formularios",
+		"description": "Displayed when the user is browsing their Google Forms"
+	},
+	"google docs.editingSheet": {
+		"message": "Editando una hoja de cálculo",
+		"description": "Displayed when the user is eiditng a Google Sheet"
+	},
+	"google docs.viewingSheet": {
+		"message": "Mirando una hoja de cálculo",
+		"description": "Displayed when the user is viewing a Google Sheet"
+	},
+	"google docs.browsingSheet": {
+		"message": "Buscando hojas de cálculo",
+		"description": "Displayed when the user is browsing their Google Sheets"
+	},
+	"google docs.editingPresentation": {
+		"message": "Editando una presentación",
+		"description": "Displayed when the user is editing a Google presentation"
+	},
+	"google docs.viewingPresentation": {
+		"message": "Mirando una presentación",
+		"description": "Displayed when the user is viewing a Google presentation"
+	},
+	"google docs.browsingPresentation": {
+		"message": "Buscando presentaciones",
+		"description": "Displayed when the user is browsing their Google presentation"
+	}
 }
