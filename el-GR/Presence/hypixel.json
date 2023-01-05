@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Προβάλει των DMs τους"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Προβάλει παιχνίδι:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Προβάλει λίστας προσωπικού"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Προβάλει των φόρουμ που βλέπουν"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Προβάλει των νημάτων που βλέπουν"
-  }
+    "hypixel.staff": {
+        "message": "Προβάλει λίστας προσωπικού",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Προβάλει των νημάτων που βλέπουν",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Προβάλει των φόρουμ που βλέπουν",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Προβάλει των DMs τους",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Προβάλει παιχνίδι:",
+        "description": ""
+    }
 }
