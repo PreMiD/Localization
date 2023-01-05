@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Закладки"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Обнаружить"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Уведомления"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Читает твит:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Изменяет некоторых настроек..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Смотрит личные сообщения"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Смотрит лайков:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Смотрит список:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Смотрит медиа:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Просмотр твитов:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Просмотр твитов (с ответами):"
-  }
+	"twitter.readTweet": {
+		"message": "Читает твит:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Смотрит личные сообщения",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Просмотр твитов:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Просмотр твитов (с ответами):",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Смотрит медиа:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Смотрит лайков:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Смотрит список:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Закладки",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Уведомления",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Обнаружить",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Изменяет некоторых настроек...",
+		"description": ""
+	}
 }
