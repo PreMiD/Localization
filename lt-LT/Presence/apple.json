@@ -1,18 +1,18 @@
 {
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Dokumentacija"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Ypatybės"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Žaidimai"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Kita"
-  }
+    "apple.other": {
+        "message": "Kita",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "Dokumentacija",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "Ypatybės",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Žaidimai",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    }
 }
