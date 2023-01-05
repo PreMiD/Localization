@@ -1,98 +1,98 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Đang duyệt qua"
-  },
-  "v live.channelBoard": {
-    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
-    "message": "Đang xem bảng \"{0}\""
-  },
-  "v live.channelHome": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Đang xem trang chủ"
-  },
-  "v live.channelList": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "danh sách các kênh"
-  },
-  "v live.channelMy": {
-    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
-    "message": "Đang xem trang \"của tôi\""
-  },
-  "v live.channelSchedule": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Đang xem trang lịch trình"
-  },
-  "v live.channelStore": {
-    "description": "Second part of the \"of {0}'s channel\" string",
-    "message": "Đang xem trang cửa hàng"
-  },
-  "v live.charts": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang biểu đồ"
-  },
-  "v live.coins": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "số dư coin"
-  },
-  "v live.devices": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "các thiết bị đã kết nối"
-  },
-  "v live.events": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang sự kiện"
-  },
-  "v live.followed": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "các kênh đã theo dõi"
-  },
-  "v live.newVid": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang video mới"
-  },
-  "v live.ofChannel": {
-    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
-    "message": "của kênh {0}"
-  },
-  "v live.policies": {
-    "description": "",
-    "message": "Đang đọc các chính sách"
-  },
-  "v live.product": {
-    "description": "{0} will be replaced with the name of the publisher of the product",
-    "message": "Đang xem các sản phẩm của {0}"
-  },
-  "v live.profile": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "trang cá nhân"
-  },
-  "v live.profileEdit": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Đang chỉnh sửa{0}hồ sơ của họ"
-  },
-  "v live.purchases": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "các giao dịch gần đây"
-  },
-  "v live.recentUploads": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Đang lướt qua các tải lên mới nhất{0}của những người họ theo dõi"
-  },
-  "v live.store": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang cửa hàng"
-  },
-  "v live.upcoming": {
-    "description": "Second part of the \"Browsing through\" string",
-    "message": "trang sắp tới"
-  },
-  "v live.viewTheir": {
-    "description": "The first part of the next 6 strings",
-    "message": "Đang xem"
-  },
-  "v live.watched": {
-    "description": "The second part of the \"Viewing their\" string",
-    "message": "video đã xem"
-  }
+	"v live.browseThrough": {
+		"message": "Đang duyệt qua",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.newVid": {
+		"message": "trang video mới",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.charts": {
+		"message": "trang biểu đồ",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.upcoming": {
+		"message": "trang sắp tới",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.channelList": {
+		"message": "danh sách các kênh",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.events": {
+		"message": "trang sự kiện",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.store": {
+		"message": "trang cửa hàng",
+		"description": "Second part of the \"Browsing through\" string"
+	},
+	"v live.recentUploads": {
+		"message": "Đang lướt qua các tải lên mới nhất{0}của những người họ theo dõi",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.ofChannel": {
+		"message": "của kênh {0}",
+		"description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings"
+	},
+	"v live.channelHome": {
+		"message": "Đang xem trang chủ",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelSchedule": {
+		"message": "Đang xem trang lịch trình",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelMy": {
+		"message": "Đang xem trang \"của tôi\"",
+		"description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelStore": {
+		"message": "Đang xem trang cửa hàng",
+		"description": "Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.channelBoard": {
+		"message": "Đang xem bảng \"{0}\"",
+		"description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string"
+	},
+	"v live.product": {
+		"message": "Đang xem các sản phẩm của {0}",
+		"description": "{0} will be replaced with the name of the publisher of the product"
+	},
+	"v live.profileEdit": {
+		"message": "Đang chỉnh sửa{0}hồ sơ của họ",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"v live.viewTheir": {
+		"message": "Đang xem",
+		"description": "The first part of the next 6 strings"
+	},
+	"v live.profile": {
+		"message": "trang cá nhân",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.watched": {
+		"message": "video đã xem",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.purchases": {
+		"message": "các giao dịch gần đây",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.coins": {
+		"message": "số dư coin",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.devices": {
+		"message": "các thiết bị đã kết nối",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.followed": {
+		"message": "các kênh đã theo dõi",
+		"description": "The second part of the \"Viewing their\" string"
+	},
+	"v live.policies": {
+		"message": "Đang đọc các chính sách",
+		"description": ""
+	}
 }
