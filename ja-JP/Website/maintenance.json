@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "メンテナンス中です。"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Discordサーバーに入る"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "技術的な問題が発生しており、スタッフが問題の解決に取り掛かっています。\nご不便をおかけして申し訳ありません。"
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "また後で戻って確認してください。"
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "スタッフが問題を解決している間に、ここを見ることができます。"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "ステータスを確認する"
-  }
+	"maintenance.big": {
+		"message": "メンテナンス中です。",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "技術的な問題が発生しており、スタッフが問題の解決に取り掛かっています。\nご不便をおかけして申し訳ありません。",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "また後で戻って確認してください。",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "スタッフが問題を解決している間に、ここを見ることができます。",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "ステータスを確認する",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Discordサーバーに入る",
+		"description": "Discord Server link on maintenance page"
+	}
 }
