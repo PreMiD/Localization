@@ -1,78 +1,78 @@
 {
-  "1337x.about": {
-    "description": "",
-    "message": "A ler sobre o 1337x"
-  },
-  "1337x.animeTorrents": {
-    "description": "",
-    "message": "A ver torrents de anime"
-  },
-  "1337x.appTorrents": {
-    "description": "",
-    "message": "A ver torrents de aplicações"
-  },
-  "1337x.docTorrents": {
-    "description": "",
-    "message": "A ver torrents de documentários"
-  },
-  "1337x.gamesTorrents": {
-    "description": "",
-    "message": "A ver torrents de jogos"
-  },
-  "1337x.latestEpisode": {
-    "description": "",
-    "message": "A ver os últimos episódios"
-  },
-  "1337x.movieLibrary": {
-    "description": "",
-    "message": "A ver a biblioteca de filmes"
-  },
-  "1337x.moviesTorrents": {
-    "description": "",
-    "message": "A ver torrents de filmes"
-  },
-  "1337x.musicTorrents": {
-    "description": "",
-    "message": "A ver torrents de música"
-  },
-  "1337x.otherTorrents": {
-    "description": "",
-    "message": "A ver outras torrents"
-  },
-  "1337x.rules": {
-    "description": "",
-    "message": "A ler as regras"
-  },
-  "1337x.seriesLibrary": {
-    "description": "",
-    "message": "A ver a biblioteca de séries"
-  },
-  "1337x.top": {
-    "description": "",
-    "message": "A ver o top 100"
-  },
-  "1337x.trending": {
-    "description": "",
-    "message": "A ver as tendências"
-  },
-  "1337x.tvTorrents": {
-    "description": "",
-    "message": "A ver torrents de televisão"
-  },
-  "1337x.upload": {
-    "description": "",
-    "message": "A enviar algo"
-  },
-  "1337x.viewTorrent": {
-    "description": "",
-    "message": "A ver a torrent"
-  },
-  "1337x.writing": {
-    "description": "",
-    "message": "A escrever para o 1337x"
-  },
-  "1337x.xxxTorrents": {
-    "description": "XXX as in NSFW",
-    "message": "A ver torrents de XXX"
-  }
+    "1337x.movieLibrary": {
+        "message": "A ver a biblioteca de filmes",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "A ver a biblioteca de séries",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "A ver os últimos episódios",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "A ver o top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "A ver as tendências",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "A ver torrents de anime",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "A ver torrents de aplicações",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "A ver torrents de documentários",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "A ver torrents de jogos",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "A ver torrents de filmes",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "A ver torrents de música",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "A ver outras torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "A ver torrents de televisão",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "A ver torrents de XXX",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "A enviar algo",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "A ler as regras",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "A escrever para o 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "A ler sobre o 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "A ver a torrent",
+        "description": ""
+    }
 }
