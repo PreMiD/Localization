@@ -1,94 +1,94 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Pendokumenan"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Mengenai PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageApiVersion": {
-    "description": "A page name // {0} will be replaced with the version number.",
-    "message": "Memahami API v{0}"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Penyumbang"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Muat Turun"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Laman Utama"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "Memahami iframe"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Pemasangan"
-  },
-  "premid.pageInstallFor": {
-    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
-    "message": "Pemasangan untuk {0}"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "Menetapkan metadata.json"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Kelas Presence"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Pembangunan Presence"
-  },
-  "premid.pagePresenceGuide": {
-    "description": "A page name",
-    "message": "Garis Panduan Presence"
-  },
-  "premid.pageSlideshowClass": {
-    "description": "A page name",
-    "message": "Kelas Slideshow"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Mulakan"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Kedai"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Keperluan Sistem"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Selesaikan masalah"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "Menetapkan TypeScript"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Rakan Kongsi"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "Melihat halaman:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Melihat Presence:"
-  }
+	"premid.viewPage": {
+		"message": "Melihat halaman:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Pendokumenan",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Melihat Presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Laman Utama",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Penyumbang",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Muat Turun",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Kedai",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Rakan Kongsi",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Mengenai PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Keperluan Sistem",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Pemasangan",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Pemasangan untuk {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Selesaikan masalah",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Mulakan",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "Memahami API v{0}",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Pembangunan Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Garis Panduan Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Kelas Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Kelas Slideshow",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Memahami iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Menetapkan metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Menetapkan TypeScript",
+		"description": "A page name"
+	}
 }
