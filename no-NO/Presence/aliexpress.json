@@ -1,18 +1,18 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Ser på sine adresser"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Ser på sine kuponger"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "slettede ordre"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Meldingssenter"
-  }
+    "aliexpress.message": {
+        "message": "Meldingssenter",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.deletedOrders": {
+        "message": "slettede ordre",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.coupons": {
+        "message": "Ser på sine kuponger",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Ser på sine adresser",
+        "description": ""
+    }
 }
