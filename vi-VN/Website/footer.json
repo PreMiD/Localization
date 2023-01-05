@@ -1,110 +1,110 @@
 {
-  "footer.copyright.line1": {
-    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
-    "message": "{0} bởi {1}"
-  },
-  "footer.copyright.line2": {
-    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
-    "message": "Website được duy trì bởi {0}"
-  },
-  "footer.developers.documentation": {
-    "description": "Documentation -> redirects to docs.premid.app",
-    "message": "Tài liệu"
-  },
-  "footer.developers.heading": {
-    "description": "Developer section",
-    "message": "Nhà phát triển"
-  },
-  "footer.developers.richpresence": {
-    "description": "Rich Presence -> redirects to discord.com/rich-presence",
-    "message": "Rich Presence"
-  },
-  "footer.followUs.heading": {
-    "description": "Follow Us section",
-    "message": "Theo dõi chúng tôi"
-  },
-  "footer.help.getsupport": {
-    "description": "Get Support -> redirects to Discord invite",
-    "message": "Nhận trợ giúp"
-  },
-  "footer.help.heading": {
-    "description": "Help section",
-    "message": "Trợ giúp"
-  },
-  "footer.help.information": {
-    "description": "Information section",
-    "message": "Thông tin"
-  },
-  "footer.help.information.cookies": {
-    "description": "meant to be 'Cookie Policy'",
-    "message": "Cookies"
-  },
-  "footer.help.information.privacy": {
-    "description": "meant to be 'Privacy Policy'",
-    "message": "Quyền riêng tư"
-  },
-  "footer.help.information.terms": {
-    "description": "meant to be 'Terms of Service'",
-    "message": "Điều khoản"
-  },
-  "footer.help.troubleshooting": {
-    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
-    "message": "Gỡ rối"
-  },
-  "footer.language": {
-    "description": "You know how to translate that word? I hope you do :D",
-    "message": "Ngôn ngữ"
-  },
-  "footer.more.heading": {
-    "description": "More section",
-    "message": "Thêm"
-  },
-  "footer.more.status": {
-    "description": "Status -> redirects to status.premid.app",
-    "message": "Trạng thái"
-  },
-  "footer.more.wiki": {
-    "description": "Wiki -> redirects to wiki.premid.app",
-    "message": "Wiki"
-  },
-  "footer.partners.heading": {
-    "description": "Partner section",
-    "message": "Đối tác"
-  },
-  "footer.partners.more": {
-    "description": "Button next to all listed partners on the footer.",
-    "message": "Bấm vào đây để xem tất cả những đối tác & nhà tài trợ."
-  },
-  "footer.supportus.contribute": {
-    "description": "Contribute -> redirects to github.com/premid",
-    "message": "Đóng góp"
-  },
-  "footer.supportus.donate": {
-    "description": "Donate -> redirects to patreon.com/timeraa",
-    "message": "Ủng hộ"
-  },
-  "footer.supportus.heading": {
-    "description": "Support us section",
-    "message": "Hỗ trợ chúng tôi"
-  },
-  "footer.supportus.jobs": {
-    "description": "Work for us! -> redirects to /jobs page",
-    "message": "Làm việc với chúng tôi!"
-  },
-  "footer.supportus.translate": {
-    "description": "Translate -> redirects to locilazation page",
-    "message": "Dịch thuật"
-  },
-  "footer.usercount.button": {
-    "description": "Install button under the promotional message",
-    "message": "Cài đặt"
-  },
-  "footer.usercount.heading": {
-    "description": "Promotional heading",
-    "message": "Đã sẵn sàng sử dụng PreMiD chưa?"
-  },
-  "footer.usercount.message": {
-    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
-    "message": "Tham gia với hơn {0} người dùng hôm nay!"
-  }
+	"footer.language": {
+		"message": "Ngôn ngữ",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.heading": {
+		"message": "Đã sẵn sàng sử dụng PreMiD chưa?",
+		"description": "Promotional heading"
+	},
+	"footer.usercount.message": {
+		"message": "Tham gia với hơn {0} người dùng hôm nay!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "Cài đặt",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "Đối tác",
+		"description": "Partner section"
+	},
+	"footer.followUs.heading": {
+		"message": "Theo dõi chúng tôi",
+		"description": "Follow Us section"
+	},
+	"footer.developers.heading": {
+		"message": "Nhà phát triển",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "Tài liệu",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "Hỗ trợ chúng tôi",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "Ủng hộ",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "Đóng góp",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "Dịch thuật",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.supportus.jobs": {
+		"message": "Làm việc với chúng tôi!",
+		"description": "Work for us! -> redirects to /jobs page"
+	},
+	"footer.help.heading": {
+		"message": "Trợ giúp",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "Gỡ rối",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "Nhận trợ giúp",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "Thông tin",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "Cookies",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "Quyền riêng tư",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "Điều khoản",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "Thêm",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "Trạng thái",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "Wiki",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} bởi {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "Website được duy trì bởi {0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	},
+	"footer.partners.more": {
+		"message": "Bấm vào đây để xem tất cả những đối tác & nhà tài trợ.",
+		"description": "Button next to all listed partners on the footer."
+	}
 }
