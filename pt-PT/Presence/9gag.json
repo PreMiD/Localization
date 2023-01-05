@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "A ler tudo sobre o 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "A ver coleções"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "A ver o que há de novo"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "A ver gag"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "A ver o que está na moda"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "A ver a página da loja"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "A ver tag"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "A ver as tendências"
-  }
+    "9gag.gag": {
+        "message": "A ver gag",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "A ver o que está na moda",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "A ver as tendências",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "A ver o que há de novo",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "A ver tag",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "A ler tudo sobre o 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "A ver a página da loja",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "A ver coleções",
+        "description": ""
+    }
 }
