@@ -1,262 +1,262 @@
 {
-  "twitch.access": {
-    "description": "Page name",
-    "message": "Доступность"
-  },
-  "twitch.achievements": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Достижения"
-  },
-  "twitch.activity": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Активность сообщества"
-  },
-  "twitch.ads": {
-    "description": "Page name",
-    "message": "Выбор рекламы"
-  },
-  "twitch.affiliate": {
-    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
-    "message": "Партнерская программа Twitch"
-  },
-  "twitch.blogArchive": {
-    "description": "{0} will be replaced with the year",
-    "message": "Просмотр журнала {0} архивный блог"
-  },
-  "twitch.blogBrowse": {
-    "description": "",
-    "message": "Просмотр последних записей блога..."
-  },
-  "twitch.blogs": {
-    "description": "",
-    "message": "Блоги Twitch"
-  },
-  "twitch.brand": {
-    "description": "",
-    "message": "Чтение о бренде Twitch..."
-  },
-  "twitch.brandExpression": {
-    "description": "Page name",
-    "message": "Максимум нашего выражения"
-  },
-  "twitch.brandMadness": {
-    "description": "Page name",
-    "message": "Принося метод к нашему (любимому) безумию"
-  },
-  "twitch.brandReal": {
-    "description": "Page name",
-    "message": "Сохранение реальности Twitch"
-  },
-  "twitch.brandTogether": {
-    "description": "Page name",
-    "message": "Принесите всё вместе"
-  },
-  "twitch.brandWatch": {
-    "description": "Watching as in watching a video",
-    "message": "Смотрите развитие бренда Twitch"
-  },
-  "twitch.camp": {
-    "description": "",
-    "message": "Лагерь создателя"
-  },
-  "twitch.campBasic": {
-    "description": "Page name",
-    "message": "Изучите основы"
-  },
-  "twitch.campConnect": {
-    "description": "Page name",
-    "message": "Общайтесь и участвуйте"
-  },
-  "twitch.campLevel": {
-    "description": "Page name",
-    "message": "Уровень повышен"
-  },
-  "twitch.campLive": {
-    "description": "Page name",
-    "message": "Живое обучение"
-  },
-  "twitch.campMusic": {
-    "description": "Page name",
-    "message": "Музыка на Twitch"
-  },
-  "twitch.campReward": {
-    "description": "Page name",
-    "message": "Получить вознаграждение"
-  },
-  "twitch.campSetup": {
-    "description": "Page name",
-    "message": "Настройка вашего потока"
-  },
-  "twitch.channelAnaly": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Аналитика каналов"
-  },
-  "twitch.channelSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Настройки Канала"
-  },
-  "twitch.clips": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Клипы"
-  },
-  "twitch.colls": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Видео Коллекции"
-  },
-  "twitch.dashboard": {
-    "description": "Page name",
-    "message": "Панель создателя"
-  },
-  "twitch.dashboardManage": {
-    "description": "",
-    "message": "Управление их потоком..."
-  },
-  "twitch.dev": {
-    "description": "Page name",
-    "message": "Разработчики Twitch"
-  },
-  "twitch.devDocs": {
-    "description": "Page name",
-    "message": "Документация разработчика Twitch"
-  },
-  "twitch.devProduct": {
-    "description": "Page name",
-    "message": "Продукты для разработчиков Twitch"
-  },
-  "twitch.devShowcase": {
-    "description": "Page name",
-    "message": "Истории успеха сообщества"
-  },
-  "twitch.devSupport": {
-    "description": "Page name",
-    "message": "Полезные ресурсы"
-  },
-  "twitch.downloads": {
-    "description": "Page name",
-    "message": "Загрузки"
-  },
-  "twitch.dropsSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Настройки выпадающих"
-  },
-  "twitch.esports": {
-    "description": "",
-    "message": "Просмотр киберспорта..."
-  },
-  "twitch.extensions": {
-    "description": "",
-    "message": "Просмотр расширений"
-  },
-  "twitch.followList": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Список Подписчиков"
-  },
-  "twitch.guidelines": {
-    "description": "Page name",
-    "message": "Принципы сообщества"
-  },
-  "twitch.help": {
-    "description": "Page name",
-    "message": "Справочный центр"
-  },
-  "twitch.helpTopic": {
-    "description": "",
-    "message": "Просмотр темы:"
-  },
-  "twitch.helpTopicCatalog": {
-    "description": "",
-    "message": "Просмотр каталога тем..."
-  },
-  "twitch.home": {
-    "description": "Page name",
-    "message": "Главная страница"
-  },
-  "twitch.jobs": {
-    "description": "Page name",
-    "message": "Вакансии"
-  },
-  "twitch.manageRoles": {
-    "description": "",
-    "message": "Управление их ролями в сообществе..."
-  },
-  "twitch.modStreamer": {
-    "description": "",
-    "message": "Модерирующий стример:"
-  },
-  "twitch.moderationSettings": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Настройки Модерации"
-  },
-  "twitch.partners": {
-    "description": "Page name",
-    "message": "Партнеры"
-  },
-  "twitch.press": {
-    "description": "Page name",
-    "message": "Пресс-центр"
-  },
-  "twitch.produce": {
-    "description": "",
-    "message": "В видео производителе..."
-  },
-  "twitch.redeem": {
-    "description": "",
-    "message": "Погашение кода..."
-  },
-  "twitch.security": {
-    "description": "Page name",
-    "message": "Безопасность"
-  },
-  "twitch.squad": {
-    "description": "",
-    "message": "Смотрит отряд..."
-  },
-  "twitch.streamSum": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Сводка потока"
-  },
-  "twitch.subs": {
-    "description": "",
-    "message": "Просмотр их подписок..."
-  },
-  "twitch.tools": {
-    "description": "",
-    "message": "Просмотр потоковых инструментов"
-  },
-  "twitch.turbo": {
-    "description": "Page name",
-    "message": "Турбо"
-  },
-  "twitch.viewDropsComp": {
-    "description": "",
-    "message": "Просмотр активных кампаний с выходами..."
-  },
-  "twitch.viewDropsInv": {
-    "description": "",
-    "message": "Просмотр их инвентаря..."
-  },
-  "twitch.viewFollow": {
-    "description": "",
-    "message": "Просмотр людей, на которых я подписан..."
-  },
-  "twitch.viewFriends": {
-    "description": "",
-    "message": "Просмотр своих друзей..."
-  },
-  "twitch.viewSettings": {
-    "description": "",
-    "message": "Просмотр их настроек..."
-  },
-  "twitch.viewTeam": {
-    "description": "",
-    "message": "Команда просмотра:"
-  },
-  "twitch.viewTheir": {
-    "description": "Part 1 of the next 10 strings",
-    "message": "Смотрит"
-  },
-  "twitch.wallet": {
-    "description": "",
-    "message": "Просмотр кошелька..."
-  }
+	"twitch.downloads": {
+		"message": "Загрузки",
+		"description": "Page name"
+	},
+	"twitch.jobs": {
+		"message": "Вакансии",
+		"description": "Page name"
+	},
+	"twitch.turbo": {
+		"message": "Турбо",
+		"description": "Page name"
+	},
+	"twitch.partners": {
+		"message": "Партнеры",
+		"description": "Page name"
+	},
+	"twitch.press": {
+		"message": "Пресс-центр",
+		"description": "Page name"
+	},
+	"twitch.security": {
+		"message": "Безопасность",
+		"description": "Page name"
+	},
+	"twitch.access": {
+		"message": "Доступность",
+		"description": "Page name"
+	},
+	"twitch.ads": {
+		"message": "Выбор рекламы",
+		"description": "Page name"
+	},
+	"twitch.guidelines": {
+		"message": "Принципы сообщества",
+		"description": "Page name"
+	},
+	"twitch.home": {
+		"message": "Главная страница",
+		"description": "Page name"
+	},
+	"twitch.wallet": {
+		"message": "Просмотр кошелька...",
+		"description": ""
+	},
+	"twitch.esports": {
+		"message": "Просмотр киберспорта...",
+		"description": ""
+	},
+	"twitch.viewFollow": {
+		"message": "Просмотр людей, на которых я подписан...",
+		"description": ""
+	},
+	"twitch.viewTeam": {
+		"message": "Команда просмотра:",
+		"description": ""
+	},
+	"twitch.viewDropsInv": {
+		"message": "Просмотр их инвентаря...",
+		"description": ""
+	},
+	"twitch.viewDropsComp": {
+		"message": "Просмотр активных кампаний с выходами...",
+		"description": ""
+	},
+	"twitch.viewSettings": {
+		"message": "Просмотр их настроек...",
+		"description": ""
+	},
+	"twitch.viewFriends": {
+		"message": "Просмотр своих друзей...",
+		"description": ""
+	},
+	"twitch.subs": {
+		"message": "Просмотр их подписок...",
+		"description": ""
+	},
+	"twitch.squad": {
+		"message": "Смотрит отряд...",
+		"description": ""
+	},
+	"twitch.modStreamer": {
+		"message": "Модерирующий стример:",
+		"description": ""
+	},
+	"twitch.redeem": {
+		"message": "Погашение кода...",
+		"description": ""
+	},
+	"twitch.camp": {
+		"message": "Лагерь создателя",
+		"description": ""
+	},
+	"twitch.campBasic": {
+		"message": "Изучите основы",
+		"description": "Page name"
+	},
+	"twitch.campSetup": {
+		"message": "Настройка вашего потока",
+		"description": "Page name"
+	},
+	"twitch.campLevel": {
+		"message": "Уровень повышен",
+		"description": "Page name"
+	},
+	"twitch.campConnect": {
+		"message": "Общайтесь и участвуйте",
+		"description": "Page name"
+	},
+	"twitch.campReward": {
+		"message": "Получить вознаграждение",
+		"description": "Page name"
+	},
+	"twitch.campMusic": {
+		"message": "Музыка на Twitch",
+		"description": "Page name"
+	},
+	"twitch.campLive": {
+		"message": "Живое обучение",
+		"description": "Page name"
+	},
+	"twitch.dashboard": {
+		"message": "Панель создателя",
+		"description": "Page name"
+	},
+	"twitch.dashboardManage": {
+		"message": "Управление их потоком...",
+		"description": ""
+	},
+	"twitch.manageRoles": {
+		"message": "Управление их ролями в сообществе...",
+		"description": ""
+	},
+	"twitch.produce": {
+		"message": "В видео производителе...",
+		"description": ""
+	},
+	"twitch.viewTheir": {
+		"message": "Смотрит",
+		"description": "Part 1 of the next 10 strings"
+	},
+	"twitch.channelAnaly": {
+		"message": "Аналитика каналов",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.streamSum": {
+		"message": "Сводка потока",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.achievements": {
+		"message": "Достижения",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.activity": {
+		"message": "Активность сообщества",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.followList": {
+		"message": "Список Подписчиков",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.colls": {
+		"message": "Видео Коллекции",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.clips": {
+		"message": "Клипы",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.channelSettings": {
+		"message": "Настройки Канала",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.moderationSettings": {
+		"message": "Настройки Модерации",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.dropsSettings": {
+		"message": "Настройки выпадающих",
+		"description": "Part 2 of the string: \"Viewing their\""
+	},
+	"twitch.tools": {
+		"message": "Просмотр потоковых инструментов",
+		"description": ""
+	},
+	"twitch.extensions": {
+		"message": "Просмотр расширений",
+		"description": ""
+	},
+	"twitch.brand": {
+		"message": "Чтение о бренде Twitch...",
+		"description": ""
+	},
+	"twitch.brandReal": {
+		"message": "Сохранение реальности Twitch",
+		"description": "Page name"
+	},
+	"twitch.brandMadness": {
+		"message": "Принося метод к нашему (любимому) безумию",
+		"description": "Page name"
+	},
+	"twitch.brandExpression": {
+		"message": "Максимум нашего выражения",
+		"description": "Page name"
+	},
+	"twitch.brandTogether": {
+		"message": "Принесите всё вместе",
+		"description": "Page name"
+	},
+	"twitch.brandWatch": {
+		"message": "Смотрите развитие бренда Twitch",
+		"description": "Watching as in watching a video"
+	},
+	"twitch.blogs": {
+		"message": "Блоги Twitch",
+		"description": ""
+	},
+	"twitch.blogArchive": {
+		"message": "Просмотр журнала {0} архивный блог",
+		"description": "{0} will be replaced with the year"
+	},
+	"twitch.blogBrowse": {
+		"message": "Просмотр последних записей блога...",
+		"description": ""
+	},
+	"twitch.help": {
+		"message": "Справочный центр",
+		"description": "Page name"
+	},
+	"twitch.helpTopic": {
+		"message": "Просмотр темы:",
+		"description": ""
+	},
+	"twitch.helpTopicCatalog": {
+		"message": "Просмотр каталога тем...",
+		"description": ""
+	},
+	"twitch.affiliate": {
+		"message": "Партнерская программа Twitch",
+		"description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation."
+	},
+	"twitch.dev": {
+		"message": "Разработчики Twitch",
+		"description": "Page name"
+	},
+	"twitch.devDocs": {
+		"message": "Документация разработчика Twitch",
+		"description": "Page name"
+	},
+	"twitch.devProduct": {
+		"message": "Продукты для разработчиков Twitch",
+		"description": "Page name"
+	},
+	"twitch.devShowcase": {
+		"message": "Истории успеха сообщества",
+		"description": "Page name"
+	},
+	"twitch.devSupport": {
+		"message": "Полезные ресурсы",
+		"description": "Page name"
+	}
 }
