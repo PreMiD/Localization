@@ -1,58 +1,58 @@
 {
-  "report.activebugs": {
-    "description": "Lists users active bugs",
-    "message": "Активни бъгове"
-  },
-  "report.browser": {
-    "description": "Select Box for the user to select their browser",
-    "message": "Изберете своя Браузър и Версип - Можете да видите версията си чрез посещаване about:support на Firefox или chrome://help"
-  },
-  "report.bugcount": {
-    "description": "Amount of bug reports user can send",
-    "message": "{count}/3 Докладвания ви остават"
-  },
-  "report.button": {
-    "description": "Button to send the information inputed.",
-    "message": "Докладване"
-  },
-  "report.description": {
-    "description": "Text for the user to write information about the bug.",
-    "message": "Предоставете връзка към истински пример или недвусмислен набор от стъпки за възпроизвеждане на тази грешка."
-  },
-  "report.error": {
-    "description": "User needs to input more notification",
-    "message": "Повече информация е нужна"
-  },
-  "report.error.unauth": {
-    "description": "Users Discord not verified",
-    "message": "Discord акаунта трябва да бъде потвърден"
-  },
-  "report.info": {
-    "description": "Tells the user about submitting a bug",
-    "message": "Докладване на бъгове са за бъгове в сайта на PreMiD и PreMiD Discord групата. Бъговете за присъствия трябва да бъдат докладвани към създателя на това присъствие. Докладвайте бъгове само на Английски."
-  },
-  "report.os": {
-    "description": "Select Box for the user to select their operating system",
-    "message": "Изберете своята Операционна система и Версия"
-  },
-  "report.overview": {
-    "description": "Text for the user to write a brief of the bug information.",
-    "message": "Предоставете ясно и кратко описание на какво представлява грешката."
-  },
-  "report.success": {
-    "description": "Success notification",
-    "message": "Бъг-а ви бе изпратен"
-  },
-  "report.title": {
-    "description": "Text to indicate the page.",
-    "message": "Докладване за грешка"
-  },
-  "report.toomany": {
-    "description": "User has too many active reports",
-    "message": "Имате твърде много активни докладвания. Изчакайте за вашите изпратени докладвания да бъдат проверени. Докладванията са проверявани на седмична база, бъдете търпеливи."
-  },
-  "report.toomany.alert": {
-    "description": "User has too many active reports",
-    "message": "Имаш твърде много активни докладвания."
-  }
+	"report.title": {
+		"message": "Докладване за грешка",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count}/3 Докладвания ви остават",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "Докладване на бъгове са за бъгове в сайта на PreMiD и PreMiD Discord групата. Бъговете за присъствия трябва да бъдат докладвани към създателя на това присъствие. Докладвайте бъгове само на Английски.",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "Предоставете ясно и кратко описание на какво представлява грешката.",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "Изберете своята Операционна система и Версия",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "Изберете своя Браузър и Версип - Можете да видите версията си чрез посещаване about:support на Firefox или chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "Предоставете връзка към истински пример или недвусмислен набор от стъпки за възпроизвеждане на тази грешка.",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "Докладване",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "Имате твърде много активни докладвания. Изчакайте за вашите изпратени докладвания да бъдат проверени. Докладванията са проверявани на седмична база, бъдете търпеливи.",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "Имаш твърде много активни докладвания.",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Бъг-а ви бе изпратен",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "Повече информация е нужна",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord акаунта трябва да бъде потвърден",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "Активни бъгове",
+		"description": "Lists users active bugs"
+	}
 }
