@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Смотрит адреса"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Смотрит рекламных предпочтении"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Просмотр их баланса"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "корзина"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Смотрит все категории"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "подарочные карточки"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Просмотр их истории"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "подробности заказа"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "история заказов"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Смотрит способов оплаты"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Просмотр своих питомцев"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Смотрит Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Смотрит Prime видео:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Смотрит рекомендованных"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Смотрит магазин:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Смотрит подписки"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Смотрит"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "желает"
-  }
+    "amazon.subscriptions": {
+        "message": "Смотрит подписки",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Смотрит рекламных предпочтении",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Просмотр их баланса",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Смотрит способов оплаты",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Смотрит адреса",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Просмотр своих питомцев",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Смотрит все категории",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Смотрит Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Смотрит",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "история заказов",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "подробности заказа",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "корзина",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "желает",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "подарочные карточки",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Смотрит рекомендованных",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Просмотр их истории",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Смотрит магазин:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Смотрит Prime видео:",
+        "description": ""
+    }
 }
