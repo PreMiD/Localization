@@ -1,58 +1,58 @@
 {
-  "facebook.browse": {
-    "description": "",
-    "message": "Nggoleki:"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "Telpon karo:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "Video sing disimpen"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "Maca tentang pengguna:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "Ndeleng komunitas saka pengguna:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "Ndeleng kanca pengguna:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "uwong... (Pengguna didhelikake)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "Ndeleng foto saka pengguna:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "Ndeleng post saka pengguna:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "Ndeleng toko saka pengguna:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "Ndeleng video saka pengguna:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "Telpon video karo:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "Ndeleng cuaca dina iki"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "Nulis pesen"
-  }
+    "facebook.call": {
+        "message": "Telpon karo:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "Telpon video karo:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "uwong... (Pengguna didhelikake)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "Nulis pesen",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "Maca tentang pengguna:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "Ndeleng komunitas saka pengguna:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "Ndeleng foto saka pengguna:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "Ndeleng post saka pengguna:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "Ndeleng toko saka pengguna:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "Ndeleng kanca pengguna:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "Ndeleng video saka pengguna:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "Nggoleki:",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "Video sing disimpen",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "Ndeleng cuaca dina iki",
+        "description": ""
+    }
 }
