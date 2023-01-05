@@ -1,150 +1,150 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Потрібна допомога?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Магазин присутностей"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Усе"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Аніме"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Ігри"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Музика"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Інше"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Соц. мережі"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Відео і прямі трансляції"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Халепа!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Помилка при завантаженні творців"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Опис"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Основне"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Присутності"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Налаштування"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Немає з’єднання з інтернетом!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Схоже, у вас немає інтернет-з'єднання! PreMiD не зможе показувати присутності на даний момент."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Не з’єднано"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD не вдалося підключитися до свого застосунку! Він встановлений і працює?\n*Усунення несправності*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Відсутній зв’язок з Discord!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD не вдалося підключитися до вашого Discord застосунку! Він встановлений і працює? *Усунення несправності*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Застаріле розширення"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Ваше розширення застаріле. Оновіть його, щоб отримати останні функції, завантаживши його з нашого сайту."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Термінове оновлення"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "Ми випустили термінове оновлення для розширення. Будь ласка, оновіть його для того, щоб продовжити використання PreMiD."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Застарілий додаток"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "Ваш додаток PreMiD застарів. Будь ласка, оновіть його для продовження використання PreMiD."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Творці"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Налаштування"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Готово"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Завантажити присутність"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Керування"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Немає доданих присутностей"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Автоматичний запуск"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Увімкнено"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Керування медіа"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
-    "message": "Заголовок рядка меню"
-  }
+	"popup.navigation.settings": {
+		"message": "Налаштування",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.navigation.credits": {
+		"message": "Творці",
+		"description": "Title of the 'credits' section at the navigation in the popup"
+	},
+	"popup.headings.settings": {
+		"message": "Налаштування",
+		"description": "Title of the 'settings' section at the navigation in the popup"
+	},
+	"popup.headings.general": {
+		"message": "Основне",
+		"description": "Title of the 'general' area of the 'settings' section in the popup"
+	},
+	"popup.headings.description": {
+		"message": "Опис",
+		"description": "Title of the description area in the presence settings view."
+	},
+	"popup.setting.enabled": {
+		"message": "Увімкнено",
+		"description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.mediaControl": {
+		"message": "Керування медіа",
+		"description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.titleMenubar": {
+		"message": "Заголовок рядка меню",
+		"description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.setting.autoLaunch": {
+		"message": "Автоматичний запуск",
+		"description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)"
+	},
+	"popup.headings.presences": {
+		"message": "Присутності",
+		"description": "Title of the 'presences' area of the 'settings' section in the popup"
+	},
+	"popup.presences.manage": {
+		"message": "Керування",
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.noPresences": {
+		"message": "Немає доданих присутностей",
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.presences.done": {
+		"message": "Готово",
+		"description": "Done button"
+	},
+	"popup.presences.load": {
+		"message": "Завантажити присутність",
+		"description": "Load Presence button"
+	},
+	"popup.buttons.presenceStore": {
+		"message": "Магазин присутностей",
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)"
+	},
+	"popup.buttons.help": {
+		"message": "Потрібна допомога?",
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)"
+	},
+	"popup.credits.error.heading": {
+		"message": "Халепа!",
+		"description": "Title of the error message (located at the 'credits' tab in the popup)"
+	},
+	"popup.credits.error.message": {
+		"message": "Помилка при завантаженні творців",
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)"
+	},
+	"popup.info.notConnected": {
+		"message": "Не з’єднано",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.notConnected.message": {
+		"message": "PreMiD не вдалося підключитися до свого застосунку! Він встановлений і працює?\n*Усунення несправності*",
+		"description": "Shown when the extension can't connect to the application"
+	},
+	"popup.info.unsupportedAppVersion": {
+		"message": "Застарілий додаток",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"message": "Ваш додаток PreMiD застарів. Будь ласка, оновіть його для продовження використання PreMiD.",
+		"description": "Shown when application is outdated"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"message": "Застаріле розширення",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"message": "Ваше розширення застаріле. Оновіть його, щоб отримати останні функції, завантаживши його з нашого сайту.",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"message": "Термінове оновлення",
+		"description": "Shown when Extension is outdated. Only for Safari port."
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"message": "Ми випустили термінове оновлення для розширення. Будь ласка, оновіть його для того, щоб продовжити використання PreMiD.",
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port."
+	},
+	"popup.info.noInternet": {
+		"message": "Немає з’єднання з інтернетом!",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.noInternet.message": {
+		"message": "Схоже, у вас немає інтернет-з'єднання! PreMiD не зможе показувати присутності на даний момент.",
+		"description": "Shown when the user has no internet connection"
+	},
+	"popup.info.notConnectedDiscord": {
+		"message": "Відсутній зв’язок з Discord!",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"message": "PreMiD не вдалося підключитися до вашого Discord застосунку! Він встановлений і працює? *Усунення несправності*",
+		"description": "Shown in the extension when the application can't connect to Discord"
+	},
+	"popup.category.all": {
+		"message": "Усе",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.anime": {
+		"message": "Аніме",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.music": {
+		"message": "Музика",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.games": {
+		"message": "Ігри",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.socials": {
+		"message": "Соц. мережі",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.videos": {
+		"message": "Відео і прямі трансляції",
+		"description": "Category name shown when you open tags"
+	},
+	"popup.category.other": {
+		"message": "Інше",
+		"description": "Category name shown when you open tags"
+	}
 }
