@@ -1,30 +1,30 @@
 {
-  "presence.activity.browsing": {
-    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence",
-    "message": "Otsib..."
-  },
-  "presence.activity.live": {
-    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence",
-    "message": "Otse"
-  },
-  "presence.activity.reading": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "Loeb"
-  },
-  "presence.activity.searching": {
-    "description": "Shows when you hover over the little icon at your Discord Rich Presence",
-    "message": "Otsib"
-  },
-  "presence.media.info.episode": {
-    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated",
-    "message": "Episood {0}"
+  "presence.playback.playing": {
+    "message": "Mängib tagasi",
+    "description": "Shows when you hover over the little play icon at your Discord Rich Presence"
   },
   "presence.playback.paused": {
-    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence",
-    "message": "Mängimine pausil"
+    "message": "Mängimine pausil",
+    "description": "Shows when you hover over the little paused icon at your Discord Rich Presence"
   },
-  "presence.playback.playing": {
-    "description": "Shows when you hover over the little play icon at your Discord Rich Presence",
-    "message": "Mängib tagasi"
+  "presence.activity.browsing": {
+    "message": "Otsib...",
+    "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence"
+  },
+  "presence.activity.live": {
+    "message": "Otse",
+    "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence"
+  },
+  "presence.activity.reading": {
+    "message": "Loeb",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.activity.searching": {
+    "message": "Otsib",
+    "description": "Shows when you hover over the little icon at your Discord Rich Presence"
+  },
+  "presence.media.info.episode": {
+    "message": "Episood {0}",
+    "description": "Shows the current episode at your Discord Rich Presence; {0} will be replaced -> is a variable and should not be translated"
   }
 }
