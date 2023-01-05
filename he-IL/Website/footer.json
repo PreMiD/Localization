@@ -1,94 +1,94 @@
 {
-  "footer.copyright.line1": {
-    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
-    "message": "{0} על ידי {1}"
-  },
-  "footer.copyright.line2": {
-    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
-    "message": "אתר מתוחזק על ידי{0}"
-  },
-  "footer.developers.documentation": {
-    "description": "Documentation -> redirects to docs.premid.app",
-    "message": "תיעוד"
-  },
-  "footer.developers.heading": {
-    "description": "Developer section",
-    "message": "מפתחים"
-  },
-  "footer.developers.richpresence": {
-    "description": "Rich Presence -> redirects to discord.com/rich-presence",
-    "message": "Rich Presence"
-  },
-  "footer.help.getsupport": {
-    "description": "Get Support -> redirects to Discord invite",
-    "message": "קבל עזרה"
-  },
-  "footer.help.heading": {
-    "description": "Help section",
-    "message": "עזרה"
-  },
-  "footer.help.information": {
-    "description": "Information section",
-    "message": "מידע"
-  },
-  "footer.help.information.cookies": {
-    "description": "meant to be 'Cookie Policy'",
-    "message": "עוגיות"
-  },
-  "footer.help.information.privacy": {
-    "description": "meant to be 'Privacy Policy'",
-    "message": "פרטיות"
-  },
-  "footer.help.information.terms": {
-    "description": "meant to be 'Terms of Service'",
-    "message": "תנאי שימוש"
-  },
-  "footer.help.troubleshooting": {
-    "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
-    "message": "פתרון תקלות"
-  },
-  "footer.language": {
-    "description": "You know how to translate that word? I hope you do :D",
-    "message": "שפה"
-  },
-  "footer.more.heading": {
-    "description": "More section",
-    "message": "עוד"
-  },
-  "footer.more.status": {
-    "description": "Status -> redirects to status.premid.app",
-    "message": "סטטוס"
-  },
-  "footer.more.wiki": {
-    "description": "Wiki -> redirects to wiki.premid.app",
-    "message": "וויקי"
-  },
-  "footer.partners.heading": {
-    "description": "Partner section",
-    "message": "שותפים"
-  },
-  "footer.supportus.contribute": {
-    "description": "Contribute -> redirects to github.com/premid",
-    "message": "תרום"
-  },
-  "footer.supportus.donate": {
-    "description": "Donate -> redirects to patreon.com/timeraa",
-    "message": "תרום"
-  },
-  "footer.supportus.heading": {
-    "description": "Support us section",
-    "message": "תמוך בנו"
-  },
-  "footer.supportus.translate": {
-    "description": "Translate -> redirects to locilazation page",
-    "message": "תרגם"
-  },
-  "footer.usercount.button": {
-    "description": "Install button under the promotional message",
-    "message": "התקן"
-  },
-  "footer.usercount.message": {
-    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
-    "message": "הצטרף ל{0} משתמשים כבר היום!"
-  }
+	"footer.language": {
+		"message": "שפה",
+		"description": "You know how to translate that word? I hope you do :D"
+	},
+	"footer.usercount.message": {
+		"message": "הצטרף ל{0} משתמשים כבר היום!",
+		"description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable"
+	},
+	"footer.usercount.button": {
+		"message": "התקן",
+		"description": "Install button under the promotional message"
+	},
+	"footer.partners.heading": {
+		"message": "שותפים",
+		"description": "Partner section"
+	},
+	"footer.developers.heading": {
+		"message": "מפתחים",
+		"description": "Developer section"
+	},
+	"footer.developers.documentation": {
+		"message": "תיעוד",
+		"description": "Documentation -> redirects to docs.premid.app"
+	},
+	"footer.developers.richpresence": {
+		"message": "Rich Presence",
+		"description": "Rich Presence -> redirects to discord.com/rich-presence"
+	},
+	"footer.supportus.heading": {
+		"message": "תמוך בנו",
+		"description": "Support us section"
+	},
+	"footer.supportus.donate": {
+		"message": "תרום",
+		"description": "Donate -> redirects to patreon.com/timeraa"
+	},
+	"footer.supportus.contribute": {
+		"message": "תרום",
+		"description": "Contribute -> redirects to github.com/premid"
+	},
+	"footer.supportus.translate": {
+		"message": "תרגם",
+		"description": "Translate -> redirects to locilazation page"
+	},
+	"footer.help.heading": {
+		"message": "עזרה",
+		"description": "Help section"
+	},
+	"footer.help.troubleshooting": {
+		"message": "פתרון תקלות",
+		"description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting"
+	},
+	"footer.help.getsupport": {
+		"message": "קבל עזרה",
+		"description": "Get Support -> redirects to Discord invite"
+	},
+	"footer.help.information": {
+		"message": "מידע",
+		"description": "Information section"
+	},
+	"footer.help.information.cookies": {
+		"message": "עוגיות",
+		"description": "meant to be 'Cookie Policy'"
+	},
+	"footer.help.information.privacy": {
+		"message": "פרטיות",
+		"description": "meant to be 'Privacy Policy'"
+	},
+	"footer.help.information.terms": {
+		"message": "תנאי שימוש",
+		"description": "meant to be 'Terms of Service'"
+	},
+	"footer.more.heading": {
+		"message": "עוד",
+		"description": "More section"
+	},
+	"footer.more.status": {
+		"message": "סטטוס",
+		"description": "Status -> redirects to status.premid.app"
+	},
+	"footer.more.wiki": {
+		"message": "וויקי",
+		"description": "Wiki -> redirects to wiki.premid.app"
+	},
+	"footer.copyright.line1": {
+		"message": "{0} על ידי {1}",
+		"description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables"
+	},
+	"footer.copyright.line2": {
+		"message": "אתר מתוחזק על ידי{0}",
+		"description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable"
+	}
 }
