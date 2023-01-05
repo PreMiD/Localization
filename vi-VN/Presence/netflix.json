@@ -1,18 +1,18 @@
 {
-  "netflix.latest": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Đang xem có gì mới và{0}thịnh hành trên Netflix"
-  },
-  "netflix.profile": {
-    "description": "",
-    "message": "Đang quản lí hồ sơ"
-  },
-  "netflix.referral": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
-    "message": "Đang lấy link{0}giới thiệu của họ"
-  },
-  "netflix.viewList": {
-    "description": "List as in their saved series/movies.",
-    "message": "Đang xem danh sách"
-  }
+	"netflix.viewList": {
+		"message": "Đang xem danh sách",
+		"description": "List as in their saved series/movies."
+	},
+	"netflix.profile": {
+		"message": "Đang quản lí hồ sơ",
+		"description": ""
+	},
+	"netflix.latest": {
+		"message": "Đang xem có gì mới và{0}thịnh hành trên Netflix",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	},
+	"netflix.referral": {
+		"message": "Đang lấy link{0}giới thiệu của họ",
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line."
+	}
 }
