@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "Leabharmharcanna"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "Taiscéalaíocht"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "Fógraí"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "Tweet léitheoireachta de:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "Athrú ar roinnt socruithe..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "Ag féachaint ar a gcuid DManna"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "Is maith le lucht féachana:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "Liosta féachana:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "Meáin féachana de:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "Ag féachaint ar thweets de:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "Ag féachaint ar thweets (le freagraí) ar:"
-  }
+	"twitter.readTweet": {
+		"message": "Tweet léitheoireachta de:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "Ag féachaint ar a gcuid DManna",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "Ag féachaint ar thweets de:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "Ag féachaint ar thweets (le freagraí) ar:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "Meáin féachana de:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "Is maith le lucht féachana:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "Liosta féachana:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "Leabharmharcanna",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "Fógraí",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "Taiscéalaíocht",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "Athrú ar roinnt socruithe...",
+		"description": ""
+	}
 }
