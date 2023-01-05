@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "Gach eolas faoi 9GAG"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "Bailiúchán féachana:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "Ag féachaint ar a bhfuil úr"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "Ag féachaint ar gobán:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "Ag féachaint ar a bhfuil te"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "Ag féachaint ar leathanach siopa"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "Clib féachana:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "Ag féachaint ar a bhfuil ag titim amach"
-  }
+    "9gag.gag": {
+        "message": "Ag féachaint ar gobán:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "Ag féachaint ar a bhfuil te",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "Ag féachaint ar a bhfuil ag titim amach",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "Ag féachaint ar a bhfuil úr",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "Clib féachana:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "Gach eolas faoi 9GAG",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "Ag féachaint ar leathanach siopa",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "Bailiúchán féachana:",
+        "description": ""
+    }
 }
