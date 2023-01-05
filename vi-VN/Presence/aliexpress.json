@@ -1,66 +1,66 @@
 {
-  "aliexpress.address": {
-    "description": "",
-    "message": "Đang xem địa chỉ của họ"
-  },
-  "aliexpress.coupons": {
-    "description": "",
-    "message": "Đang xem phiếu giảm giá của họ"
-  },
-  "aliexpress.deletedOrders": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "đơn hàng đã xoá"
-  },
-  "aliexpress.feedback": {
-    "description": "",
-    "message": "Phản hồi đến AliExpress"
-  },
-  "aliexpress.helpCenter": {
-    "description": "",
-    "message": "Trung tâm trợ giúp AliExpress"
-  },
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "Trung tâm tin nhắn"
-  },
-  "aliexpress.orders": {
-    "description": "",
-    "message": "Đang xem đơn đặt hàng của họ"
-  },
-  "aliexpress.recentlyViewProducts1": {
-    "description": "Part 1 of 2",
-    "message": "Đang xem lịch sử gần đây"
-  },
-  "aliexpress.recentlyViewProducts2": {
-    "description": "Part 2 of 2",
-    "message": "sản phẩm đã xem"
-  },
-  "aliexpress.refunds": {
-    "description": "Part 2 of \"Viewing their\"",
-    "message": "Hoàn tiền & Tranh chấp"
-  },
-  "aliexpress.sale": {
-    "description": "",
-    "message": "Đang duyệt qua sale"
-  },
-  "aliexpress.sellCenter": {
-    "description": "",
-    "message": "Trung tâm bán hàng AliExpress"
-  },
-  "aliexpress.store": {
-    "description": "",
-    "message": "Đang xem cửa hàng:"
-  },
-  "aliexpress.theirAli": {
-    "description": "",
-    "message": "Đang xem AliExpress của họ"
-  },
-  "aliexpress.trade": {
-    "description": "",
-    "message": "Trung tâm thương mại AliExpress"
-  },
-  "aliexpress.viewTheir": {
-    "description": "Part 1 ",
-    "message": "Đang xem"
-  }
+    "aliexpress.store": {
+        "message": "Đang xem cửa hàng:",
+        "description": ""
+    },
+    "aliexpress.message": {
+        "message": "Trung tâm tin nhắn",
+        "description": "Meaning Direct messages"
+    },
+    "aliexpress.sale": {
+        "message": "Đang duyệt qua sale",
+        "description": ""
+    },
+    "aliexpress.recentlyViewProducts1": {
+        "message": "Đang xem lịch sử gần đây",
+        "description": "Part 1 of 2"
+    },
+    "aliexpress.recentlyViewProducts2": {
+        "message": "sản phẩm đã xem",
+        "description": "Part 2 of 2"
+    },
+    "aliexpress.theirAli": {
+        "message": "Đang xem AliExpress của họ",
+        "description": ""
+    },
+    "aliexpress.feedback": {
+        "message": "Phản hồi đến AliExpress",
+        "description": ""
+    },
+    "aliexpress.orders": {
+        "message": "Đang xem đơn đặt hàng của họ",
+        "description": ""
+    },
+    "aliexpress.viewTheir": {
+        "message": "Đang xem",
+        "description": "Part 1 "
+    },
+    "aliexpress.refunds": {
+        "message": "Hoàn tiền & Tranh chấp",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.deletedOrders": {
+        "message": "đơn hàng đã xoá",
+        "description": "Part 2 of \"Viewing their\""
+    },
+    "aliexpress.trade": {
+        "message": "Trung tâm thương mại AliExpress",
+        "description": ""
+    },
+    "aliexpress.coupons": {
+        "message": "Đang xem phiếu giảm giá của họ",
+        "description": ""
+    },
+    "aliexpress.address": {
+        "message": "Đang xem địa chỉ của họ",
+        "description": ""
+    },
+    "aliexpress.helpCenter": {
+        "message": "Trung tâm trợ giúp AliExpress",
+        "description": ""
+    },
+    "aliexpress.sellCenter": {
+        "message": "Trung tâm bán hàng AliExpress",
+        "description": ""
+    }
 }
