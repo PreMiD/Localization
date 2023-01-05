@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "広告を視聴中"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "チャンネルのプレイリスト"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "閲覧中:"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "チャンネルの動画一覧"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "履歴"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "ライブラリ"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "を閲覧中:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "購入済み"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "チャンネルの概要を閲覧中:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "報告履歴を閲覧中"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "チャンネル {0} 内の検索中:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "アーティストページ"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "チャンネルアナリティクス"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "チャンネルのコメント"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "チャンネルの翻訳"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "ダッシュボードを閲覧中"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "動画を編集中:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "動画のアナリティクスを閲覧中:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "動画のコメントを閲覧中:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "動画の翻訳を閲覧中:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "閲覧中:"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "投稿した動画一覧を閲覧中"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "登録チャンネル"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "急上昇ランキングを閲覧中"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "アップロード中…"
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "再生リストを閲覧中"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "オーディオライブラリーを閲覧中"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "ライブダッシュボードを閲覧中"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "ライブを閲覧中"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "チャンネルのコミュニティ投稿"
-  }
+    "youtube.ad": {
+        "message": "広告を視聴中",
+        "description": ""
+    },
+    "youtube.browsingVideos": {
+        "message": "チャンネルの動画一覧",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.browsingPlaylists": {
+        "message": "チャンネルのプレイリスト",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.viewingCommunityPost": {
+        "message": "チャンネルのコミュニティ投稿",
+        "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)"
+    },
+    "youtube.ofChannel": {
+        "message": "を閲覧中:",
+        "description": "Second part of multiple strings"
+    },
+    "youtube.readingChannel": {
+        "message": "チャンネルの概要を閲覧中:",
+        "description": ""
+    },
+    "youtube.searchChannel": {
+        "message": "チャンネル {0} 内の検索中:",
+        "description": "{0} will be replaced with the channel name"
+    },
+    "youtube.trending": {
+        "message": "急上昇ランキングを閲覧中",
+        "description": ""
+    },
+    "youtube.browsingThrough": {
+        "message": "閲覧中:",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.subscriptions": {
+        "message": "登録チャンネル",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.library": {
+        "message": "ライブラリ",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.history": {
+        "message": "履歴",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.purchases": {
+        "message": "購入済み",
+        "description": "Part two of \"Browsing through\""
+    },
+    "youtube.reportHistory": {
+        "message": "報告履歴を閲覧中",
+        "description": ""
+    },
+    "youtube.upload": {
+        "message": "アップロード中…",
+        "description": ""
+    },
+    "youtube.viewAllPlaylist": {
+        "message": "再生リストを閲覧中",
+        "description": ""
+    },
+    "youtube.viewLiveEvents": {
+        "message": "ライブを閲覧中",
+        "description": ""
+    },
+    "youtube.viewLiveDashboard": {
+        "message": "ライブダッシュボードを閲覧中",
+        "description": ""
+    },
+    "youtube.viewAudioLibrary": {
+        "message": "オーディオライブラリーを閲覧中",
+        "description": ""
+    },
+    "youtube.studio.viewVideos": {
+        "message": "投稿した動画一覧を閲覧中",
+        "description": ""
+    },
+    "youtube.studio.editVideo": {
+        "message": "動画を編集中:",
+        "description": ""
+    },
+    "youtube.studio.videoAnalytics": {
+        "message": "動画のアナリティクスを閲覧中:",
+        "description": ""
+    },
+    "youtube.studio.videoComments": {
+        "message": "動画のコメントを閲覧中:",
+        "description": ""
+    },
+    "youtube.studio.videoTranslations": {
+        "message": "動画の翻訳を閲覧中:",
+        "description": ""
+    },
+    "youtube.studio.viewTheir": {
+        "message": "閲覧中:",
+        "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)"
+    },
+    "youtube.studio.channelAnalytics": {
+        "message": "チャンネルアナリティクス",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelComments": {
+        "message": "チャンネルのコメント",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.channelTranslations": {
+        "message": "チャンネルの翻訳",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.artistPage": {
+        "message": "アーティストページ",
+        "description": "Part two of \"Viewing their\""
+    },
+    "youtube.studio.dashboard": {
+        "message": "ダッシュボードを閲覧中",
+        "description": ""
+    }
 }
