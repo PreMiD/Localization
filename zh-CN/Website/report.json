@@ -1,58 +1,58 @@
 {
-  "report.activebugs": {
-    "description": "Lists users active bugs",
-    "message": "未解决的 Bug"
-  },
-  "report.browser": {
-    "description": "Select Box for the user to select their browser",
-    "message": "选择你的浏览器和版本 - 你可以通过访问 chrome://help 或 about:support 来获得版本"
-  },
-  "report.bugcount": {
-    "description": "Amount of bug reports user can send",
-    "message": "剩余 {count}/3 次"
-  },
-  "report.button": {
-    "description": "Button to send the information inputed.",
-    "message": "反馈"
-  },
-  "report.description": {
-    "description": "Text for the user to write information about the bug.",
-    "message": "一个重现此 Bug 的实时演示或一套明确的步骤。"
-  },
-  "report.error": {
-    "description": "User needs to input more notification",
-    "message": "需要更多的信息"
-  },
-  "report.error.unauth": {
-    "description": "Users Discord not verified",
-    "message": "Discord 帐户需要验证"
-  },
-  "report.info": {
-    "description": "Tells the user about submitting a bug",
-    "message": "反馈 Bug 指的是是关于 PreMiD 网站和 PreMiD Discord 服务器中的存在 Bug。Presence 中的 Bug 请报告给 Presence 的作者。请使用英文进行反馈。"
-  },
-  "report.os": {
-    "description": "Select Box for the user to select their operating system",
-    "message": "选择你的操作系统与版本"
-  },
-  "report.overview": {
-    "description": "Text for the user to write a brief of the bug information.",
-    "message": "一个清晰和简洁的 Bug 描述。"
-  },
-  "report.success": {
-    "description": "Success notification",
-    "message": "Bug 已提交"
-  },
-  "report.title": {
-    "description": "Text to indicate the page.",
-    "message": "反馈 Bug"
-  },
-  "report.toomany": {
-    "description": "User has too many active reports",
-    "message": "你还有未解决的反馈，请等待你的提交被审阅。反馈会在一周内解决，请耐心等待。"
-  },
-  "report.toomany.alert": {
-    "description": "User has too many active reports",
-    "message": "你有过多未解决的反馈。"
-  }
+	"report.title": {
+		"message": "反馈 Bug",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "剩余 {count}/3 次",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "反馈 Bug 指的是是关于 PreMiD 网站和 PreMiD Discord 服务器中的存在 Bug。Presence 中的 Bug 请报告给 Presence 的作者。请使用英文进行反馈。",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "一个清晰和简洁的 Bug 描述。",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "选择你的操作系统与版本",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "选择你的浏览器和版本 - 你可以通过访问 chrome://help 或 about:support 来获得版本",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "一个重现此 Bug 的实时演示或一套明确的步骤。",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "反馈",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "你还有未解决的反馈，请等待你的提交被审阅。反馈会在一周内解决，请耐心等待。",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "你有过多未解决的反馈。",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "Bug 已提交",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "需要更多的信息",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord 帐户需要验证",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "未解决的 Bug",
+		"description": "Lists users active bugs"
+	}
 }
