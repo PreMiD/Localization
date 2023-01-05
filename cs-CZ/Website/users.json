@@ -1,38 +1,38 @@
 {
-  "user.geniusPresenceDev.message1": {
-    "description": "'Genuis Presence Developer' tippy description for user pages.",
-    "message": "Geniální Vývojář Presencí"
-  },
-  "user.geniusPresenceDev.message2": {
-    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
-    "message": "Vytvořil {0} Presencí!"
-  },
-  "user.importantPresenceDev.message1": {
-    "description": "'Important Presence Developer' tippy description for user pages.",
-    "message": "Důležitý Vývojář Presencí"
-  },
-  "user.importantPresenceDev.message2": {
-    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
-    "message": "Vytvořil {0} presencí."
-  },
-  "user.presences.contributed": {
-    "description": "Tippy content (mode 2) in user profile.",
-    "message": "Klikni sem pro zobrazení presencí, k nimž tento uživatel přispěl."
-  },
-  "user.presences.created": {
-    "description": "Tippy content in user profile.",
-    "message": "Klikni sem pro zobrazení Presencí, které uživatel vytvořil."
-  },
-  "user.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for user pages.",
-    "message": "Vývojář Presencí"
-  },
-  "user.roles.presenceVerifier": {
-    "description": "'Presence Verifier' title for user pages.",
-    "message": "Ověřovatel Presencí"
-  },
-  "user.switch.contributed": {
-    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
-    "message": "Uživatel [Presence/příspěvky]"
-  }
+	"user.roles.presenceDeveloper": {
+		"message": "Vývojář Presencí",
+		"description": "'Presence Developer' title for user pages."
+	},
+	"user.roles.presenceVerifier": {
+		"message": "Ověřovatel Presencí",
+		"description": "'Presence Verifier' title for user pages."
+	},
+	"user.importantPresenceDev.message1": {
+		"message": "Důležitý Vývojář Presencí",
+		"description": "'Important Presence Developer' tippy description for user pages."
+	},
+	"user.importantPresenceDev.message2": {
+		"message": "Vytvořil {0} presencí.",
+		"description": "'Important Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.geniusPresenceDev.message1": {
+		"message": "Geniální Vývojář Presencí",
+		"description": "'Genuis Presence Developer' tippy description for user pages."
+	},
+	"user.geniusPresenceDev.message2": {
+		"message": "Vytvořil {0} Presencí!",
+		"description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences."
+	},
+	"user.switch.contributed": {
+		"message": "Uživatel [Presence/příspěvky]",
+		"description": "The tippy message to switch between user's presences and presences that user has contributed to."
+	},
+	"user.presences.created": {
+		"message": "Klikni sem pro zobrazení Presencí, které uživatel vytvořil.",
+		"description": "Tippy content in user profile."
+	},
+	"user.presences.contributed": {
+		"message": "Klikni sem pro zobrazení presencí, k nimž tento uživatel přispěl.",
+		"description": "Tippy content (mode 2) in user profile."
+	}
 }
