@@ -1,18 +1,18 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Üzeneteit nézi"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Játékot néz:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Staff listát néz"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Nézi a megnézett fórumait"
-  }
+    "hypixel.staff": {
+        "message": "Staff listát néz",
+        "description": ""
+    },
+    "hypixel.watchForums": {
+        "message": "Nézi a megnézett fórumait",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Üzeneteit nézi",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Játékot néz:",
+        "description": ""
+    }
 }
