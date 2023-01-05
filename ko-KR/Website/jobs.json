@@ -1,110 +1,110 @@
 {
-  "jobs.benefit1.description": {
-    "description": "Benefit card description.",
-    "message": "PreMiD 배후에 있는 분과 연락해 보세요."
-  },
-  "jobs.benefit1.title": {
-    "description": "Benefit card title.",
-    "message": "만나기"
-  },
-  "jobs.benefit2.description": {
-    "description": "Benefit card description.",
-    "message": "저희 개발과 마케팅을 살펴 보세요."
-  },
-  "jobs.benefit2.title": {
-    "description": "Benefit card title.",
-    "message": "미리 맛보기"
-  },
-  "jobs.benefit3.description": {
-    "description": "Benefit card description.",
-    "message": "강력한 Discord 권한과 색상 역할이 있어요."
-  },
-  "jobs.benefit3.title": {
-    "description": "Benefit card title.",
-    "message": "영광 누리기"
-  },
-  "jobs.benefit4.description": {
-    "description": "Benefit card description.",
-    "message": "나의 기여로 이 프로젝트를 운영할 수 있어요."
-  },
-  "jobs.benefit4.title": {
-    "description": "Benefit card title.",
-    "message": "PreMiD 지원하기"
-  },
-  "jobs.benefit5.description": {
-    "description": "Benefit card description.",
-    "message": "천천히 하셔도 돼요. 이건 자원 봉사니까요."
-  },
-  "jobs.benefit5.title": {
-    "description": "Benefit card title.",
-    "message": "휴식 취하기"
-  },
-  "jobs.benefit6.description": {
-    "description": "Benefit card description.",
-    "message": "다른 분보다 더 빨리 새 기능을 체험해 보세요."
-  },
-  "jobs.benefit6.title": {
-    "description": "Benefit card title.",
-    "message": "미리 해보기"
-  },
-  "jobs.benefits.title": {
-    "description": "Text before the benefits cards.",
-    "message": "최고의 혜택"
-  },
-  "jobs.errors.alreadyApplied": {
-    "description": "Notification when you applied already.",
-    "message": "이미 이전에 신청하셨어요!"
-  },
-  "jobs.guild.explanation": {
-    "description": "Explanation why users should be in Discord server to perform job application.",
-    "message": "신청하기 위해서는 내가 Discord 서버에 참가해 있어야 해요. 그렇지 않으면 최종 선발 시 연락을 드릴 수 없게 돼요!"
-  },
-  "jobs.guild.required": {
-    "description": "Title of the modal the user will see if it's not in Discord server.",
-    "message": "Discord 서버 참가하기"
-  },
-  "jobs.header.description": {
-    "description": "The second part of the jobs page.",
-    "message": "가장 거대한 Rich Presence 프로그램에 도움을 줄 준비가 되었나요?"
-  },
-  "jobs.header.title": {
-    "description": "First part of the jobs page.",
-    "message": "PreMiD를 위해 일하기"
-  },
-  "jobs.modal.buttons.cancel": {
-    "description": "Cancel, button in the modal.",
-    "message": "취소"
-  },
-  "jobs.modal.buttons.join": {
-    "description": "Join Discord button in the modal.",
-    "message": "참가"
-  },
-  "jobs.modal.buttons.next": {
-    "description": "Next button in the modal.",
-    "message": "다음"
-  },
-  "jobs.modal.error": {
-    "description": "Error when user did not fill all the fields.",
-    "message": "모든 입력란을 완성해 주세요"
-  },
-  "jobs.modal.notice": {
-    "description": "Notice for applicants.",
-    "message": "PreMiD는 오픈 소스 프로젝트라서, 비영리 팀임을 의미하죠. 모든 후원이나 Patreon 돈은 제품으로 돌아가요. PreMiD에 일자리를 신청함으로써 내가 팀에 자원해 내가 한 일에 대한 보상을 받지 않을 것이라는 걸 동의하시는 거예요."
-  },
-  "jobs.modal.step": {
-    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
-    "message": "{0}/2 단계"
-  },
-  "jobs.modal.title": {
-    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
-    "message": "{0}으(로) 신청하기"
-  },
-  "jobs.openings.title": {
-    "description": "Text before the available job positions cards.",
-    "message": "채용"
-  },
-  "jobs.success.applied": {
-    "description": "Notification when applying.",
-    "message": "신청해 주셔서 감사드려요!"
-  }
+	"jobs.modal.title": {
+		"message": "{0}으(로) 신청하기",
+		"description": "Jobs apply modal title, {0} will be replaced with the job name."
+	},
+	"jobs.modal.step": {
+		"message": "{0}/2 단계",
+		"description": "Step indicator of the modal. {0} will be replaced with the current page ."
+	},
+	"jobs.modal.buttons.next": {
+		"message": "다음",
+		"description": "Next button in the modal."
+	},
+	"jobs.modal.buttons.join": {
+		"message": "참가",
+		"description": "Join Discord button in the modal."
+	},
+	"jobs.modal.buttons.cancel": {
+		"message": "취소",
+		"description": "Cancel, button in the modal."
+	},
+	"jobs.modal.error": {
+		"message": "모든 입력란을 완성해 주세요",
+		"description": "Error when user did not fill all the fields."
+	},
+	"jobs.modal.notice": {
+		"message": "PreMiD는 오픈 소스 프로젝트라서, 비영리 팀임을 의미하죠. 모든 후원이나 Patreon 돈은 제품으로 돌아가요. PreMiD에 일자리를 신청함으로써 내가 팀에 자원해 내가 한 일에 대한 보상을 받지 않을 것이라는 걸 동의하시는 거예요.",
+		"description": "Notice for applicants."
+	},
+	"jobs.guild.required": {
+		"message": "Discord 서버 참가하기",
+		"description": "Title of the modal the user will see if it's not in Discord server."
+	},
+	"jobs.guild.explanation": {
+		"message": "신청하기 위해서는 내가 Discord 서버에 참가해 있어야 해요. 그렇지 않으면 최종 선발 시 연락을 드릴 수 없게 돼요!",
+		"description": "Explanation why users should be in Discord server to perform job application."
+	},
+	"jobs.header.title": {
+		"message": "PreMiD를 위해 일하기",
+		"description": "First part of the jobs page."
+	},
+	"jobs.header.description": {
+		"message": "가장 거대한 Rich Presence 프로그램에 도움을 줄 준비가 되었나요?",
+		"description": "The second part of the jobs page."
+	},
+	"jobs.openings.title": {
+		"message": "채용",
+		"description": "Text before the available job positions cards."
+	},
+	"jobs.benefits.title": {
+		"message": "최고의 혜택",
+		"description": "Text before the benefits cards."
+	},
+	"jobs.benefit1.title": {
+		"message": "만나기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit1.description": {
+		"message": "PreMiD 배후에 있는 분과 연락해 보세요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit2.title": {
+		"message": "미리 맛보기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit2.description": {
+		"message": "저희 개발과 마케팅을 살펴 보세요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit3.title": {
+		"message": "영광 누리기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit3.description": {
+		"message": "강력한 Discord 권한과 색상 역할이 있어요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit4.title": {
+		"message": "PreMiD 지원하기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit4.description": {
+		"message": "나의 기여로 이 프로젝트를 운영할 수 있어요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit5.title": {
+		"message": "휴식 취하기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit5.description": {
+		"message": "천천히 하셔도 돼요. 이건 자원 봉사니까요.",
+		"description": "Benefit card description."
+	},
+	"jobs.benefit6.title": {
+		"message": "미리 해보기",
+		"description": "Benefit card title."
+	},
+	"jobs.benefit6.description": {
+		"message": "다른 분보다 더 빨리 새 기능을 체험해 보세요.",
+		"description": "Benefit card description."
+	},
+	"jobs.success.applied": {
+		"message": "신청해 주셔서 감사드려요!",
+		"description": "Notification when applying."
+	},
+	"jobs.errors.alreadyApplied": {
+		"message": "이미 이전에 신청하셨어요!",
+		"description": "Notification when you applied already."
+	}
 }
