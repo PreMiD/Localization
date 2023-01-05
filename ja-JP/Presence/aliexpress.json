@@ -1,6 +1,6 @@
 {
-  "aliexpress.message": {
-    "description": "Meaning Direct messages",
-    "message": "メッセージセンター"
-  }
+    "aliexpress.message": {
+        "message": "メッセージセンター",
+        "description": "Meaning Direct messages"
+    }
 }
