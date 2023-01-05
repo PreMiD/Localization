@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Viendo sus direcciones"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Viendo sus preferencias de anuncios"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Viendo su saldo"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "cesta de la compra"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Viendo todas las categorías"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "tarjetas de regalo"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Viendo su historial"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "detalles del pedido"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "historial de pedidos"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Viendo métodos de pago"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Viendo sus mascotas"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Viendo Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Viendo un Video Prime:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Viendo recomendados"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Revisando la tienda:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Viendo sus suscripciones"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Revisando sus"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "lista de deseados"
-  }
+    "amazon.subscriptions": {
+        "message": "Viendo sus suscripciones",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Viendo sus preferencias de anuncios",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Viendo su saldo",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Viendo métodos de pago",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Viendo sus direcciones",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Viendo sus mascotas",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Viendo todas las categorías",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Viendo Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Revisando sus",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "historial de pedidos",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "detalles del pedido",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "cesta de la compra",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "lista de deseados",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "tarjetas de regalo",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Viendo recomendados",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Viendo su historial",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Revisando la tienda:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Viendo un Video Prime:",
+        "description": ""
+    }
 }
