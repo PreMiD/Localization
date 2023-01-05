@@ -1,122 +1,122 @@
 {
-  "gmail.accountSetting": {
-    "description": "Displayed when the user is modifying their account's settings",
-    "message": "A configurar as definições das contas e importação"
-  },
-  "gmail.addonsSettings": {
-    "description": "Displayed when the user is modifying their add-ons",
-    "message": "A configurar os suplementos"
-  },
-  "gmail.advancedSettings": {
-    "description": "Displayed when the user is modifying their advanced settings",
-    "message": "A configurar as definições avançadas"
-  },
-  "gmail.categoryForum": {
-    "description": "Displayed when viewing emails in the forums category.",
-    "message": "A ver a categoria dos fóruns"
-  },
   "gmail.categoryPrimary": {
-    "description": "Displayed when viewing emails in the primary category.",
-    "message": "A ver a categoria principal"
-  },
-  "gmail.categoryPromotions": {
-    "description": "Displayed when viewing emails in the promotions category.",
-    "message": "A ver a categoria das promoções"
+    "message": "A ver a categoria principal",
+    "description": "Displayed when viewing emails in the primary category."
   },
   "gmail.categorySocial": {
-    "description": "Displayed when viewing emails in the social category.",
-    "message": "A ver categoria social"
+    "message": "A ver categoria social",
+    "description": "Displayed when viewing emails in the social category."
   },
   "gmail.categoryUpdates": {
-    "description": "Displayed when viewing emails in the updates category.",
-    "message": "A ver a categoria das atualizações"
+    "message": "A ver a categoria das atualizações",
+    "description": "Displayed when viewing emails in the updates category."
   },
-  "gmail.chatSettings": {
-    "description": "Displayed when the user is modifying their chat settings",
-    "message": "A configurar as definições de chat e meet"
+  "gmail.categoryPromotions": {
+    "message": "A ver a categoria das promoções",
+    "description": "Displayed when viewing emails in the promotions category."
   },
-  "gmail.composingEmail": {
-    "description": "Displayed when the user is composing an email",
-    "message": "A escrever um email"
-  },
-  "gmail.filterSettings": {
-    "description": "Displayed when the user is modifying their filters and blocked addresses",
-    "message": "A configurar os filtros e endereços bloqueados"
-  },
-  "gmail.fwdAndPOPSettings": {
-    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
-    "message": "A configurar as definições de encaminhamento e POP/IMAP"
-  },
-  "gmail.generalSettings": {
-    "description": "Displayed when the user is modifying their settings",
-    "message": "A configurar as definições gerais"
+  "gmail.categoryForum": {
+    "message": "A ver a categoria dos fóruns",
+    "description": "Displayed when viewing emails in the forums category."
   },
   "gmail.inLabel": {
-    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
-    "message": "A ver o marcador"
+    "message": "A ver o marcador",
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below."
   },
-  "gmail.inboxSettings": {
-    "description": "Displayed when the user is modifying their inbox settings",
-    "message": "A configurar as definições da caixa de entrada"
+  "gmail.generalSettings": {
+    "message": "A configurar as definições gerais",
+    "description": "Displayed when the user is modifying their settings"
   },
   "gmail.labelSettings": {
-    "description": "Displayed when the user is modifying their labels",
-    "message": "A configurar as definições dos marcadores"
+    "message": "A configurar as definições dos marcadores",
+    "description": "Displayed when the user is modifying their labels"
   },
-  "gmail.lookingForEmail": {
-    "description": "Displayed when the user is searching for an email",
-    "message": "A procurar um email"
+  "gmail.inboxSettings": {
+    "message": "A configurar as definições da caixa de entrada",
+    "description": "Displayed when the user is modifying their inbox settings"
+  },
+  "gmail.accountSetting": {
+    "message": "A configurar as definições das contas e importação",
+    "description": "Displayed when the user is modifying their account's settings"
+  },
+  "gmail.filterSettings": {
+    "message": "A configurar os filtros e endereços bloqueados",
+    "description": "Displayed when the user is modifying their filters and blocked addresses"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "message": "A configurar as definições de encaminhamento e POP/IMAP",
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings"
+  },
+  "gmail.addonsSettings": {
+    "message": "A configurar os suplementos",
+    "description": "Displayed when the user is modifying their add-ons"
+  },
+  "gmail.chatSettings": {
+    "message": "A configurar as definições de chat e meet",
+    "description": "Displayed when the user is modifying their chat settings"
+  },
+  "gmail.advancedSettings": {
+    "message": "A configurar as definições avançadas",
+    "description": "Displayed when the user is modifying their advanced settings"
   },
   "gmail.offlineSettings": {
-    "description": "Displayed when the user is modifying their offline settings",
-    "message": "A configurar as definições offline"
+    "message": "A configurar as definições offline",
+    "description": "Displayed when the user is modifying their offline settings"
   },
   "gmail.themesSettings": {
-    "description": "Displayed when the user is modifying their theme in the settings",
-    "message": "A escolher um tema"
+    "message": "A escolher um tema",
+    "description": "Displayed when the user is modifying their theme in the settings"
   },
-  "gmail.viewingAllEmails": {
-    "description": "Displayed when the user is viewing all their emails",
-    "message": "A ver todos os emails"
-  },
-  "gmail.viewingChats": {
-    "description": "Displayed when the user is viewing their chats",
-    "message": "A ver os chats"
-  },
-  "gmail.viewingDrafts": {
-    "description": "Displayed when the user is viewing their drafts",
-    "message": "A ver os rascunhos"
+  "gmail.lookingForEmail": {
+    "message": "A procurar um email",
+    "description": "Displayed when the user is searching for an email"
   },
   "gmail.viewingEmail": {
-    "description": "Displayed when the user is viewing an email",
-    "message": "A ver um email"
-  },
-  "gmail.viewingImportantEmails": {
-    "description": "Displayed when the user is viewing emails marked as important",
-    "message": "A ver os emails importantes"
-  },
-  "gmail.viewingScheduled": {
-    "description": "Displayed when the user is viewing their scheduled emails",
-    "message": "A ver os emails agendados"
-  },
-  "gmail.viewingSentEmails": {
-    "description": "Displayed when the user is viewing the emails they have sent",
-    "message": "A ver os emails enviados"
-  },
-  "gmail.viewingSnoozedEmails": {
-    "description": "Displayed when the user is viewing their snoozed emails",
-    "message": "A ver os emails suspensos"
-  },
-  "gmail.viewingSpam": {
-    "description": "Displayed when the user is viewing their spam",
-    "message": "A ver o spam"
+    "message": "A ver um email",
+    "description": "Displayed when the user is viewing an email"
   },
   "gmail.viewingStarredEmails": {
-    "description": "Displayed when the user is viewing emails marked with a star",
-    "message": "A ver os emails com estrela"
+    "message": "A ver os emails com estrela",
+    "description": "Displayed when the user is viewing emails marked with a star"
+  },
+  "gmail.viewingSentEmails": {
+    "message": "A ver os emails enviados",
+    "description": "Displayed when the user is viewing the emails they have sent"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "message": "A ver os emails suspensos",
+    "description": "Displayed when the user is viewing their snoozed emails"
+  },
+  "gmail.viewingDrafts": {
+    "message": "A ver os rascunhos",
+    "description": "Displayed when the user is viewing their drafts"
+  },
+  "gmail.viewingImportantEmails": {
+    "message": "A ver os emails importantes",
+    "description": "Displayed when the user is viewing emails marked as important"
   },
   "gmail.viewingTrash": {
-    "description": "Displayed when the user is viewing their trash",
-    "message": "A ver o lixo"
+    "message": "A ver o lixo",
+    "description": "Displayed when the user is viewing their trash"
+  },
+  "gmail.viewingChats": {
+    "message": "A ver os chats",
+    "description": "Displayed when the user is viewing their chats"
+  },
+  "gmail.viewingScheduled": {
+    "message": "A ver os emails agendados",
+    "description": "Displayed when the user is viewing their scheduled emails"
+  },
+  "gmail.viewingSpam": {
+    "message": "A ver o spam",
+    "description": "Displayed when the user is viewing their spam"
+  },
+  "gmail.viewingAllEmails": {
+    "message": "A ver todos os emails",
+    "description": "Displayed when the user is viewing all their emails"
+  },
+  "gmail.composingEmail": {
+    "message": "A escrever um email",
+    "description": "Displayed when the user is composing an email"
   }
 }
