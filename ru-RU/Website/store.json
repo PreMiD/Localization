@@ -1,98 +1,98 @@
 {
-  "store.card.presence.add": {
-    "description": "Button that will appear on hover after extension is installed.",
-    "message": "Добавить присутствие"
-  },
-  "store.card.presence.included": {
-    "description": "The message that appears instead of the buttons.",
-    "message": "Автоматически включается при посещении сайта."
-  },
-  "store.card.presence.remove": {
-    "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "Удалить присутствие"
-  },
-  "store.cards.creator": {
-    "description": "Creator of a presence",
-    "message": "Автор"
-  },
-  "store.cards.extraStepsRequired": {
-    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "Этот презенс требует дополнительных настроек. Пожалуйста, перейдите на его страницу для получения дополнительной информации."
-  },
-  "store.cards.partner": {
-    "description": "Presence card partner flame",
-    "message": "Партнерское Присутствие"
-  },
-  "store.cards.popular": {
-    "description": "Presence card popular flame",
-    "message": "Этот презенс очень популярен среди пользователей."
-  },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Всё"
-  },
-  "store.category.filters.allowAdult": {
-    "description": "Adult content checkbox",
-    "message": "Показать NSFW"
-  },
-  "store.category.filters.heading": {
-    "description": "Searh filters option at the store page",
-    "message": "Фильтры"
-  },
-  "store.category.filters.likedOnly": {
-    "description": "Liked presences only checkbox",
-    "message": "Только понравившиеся Присутствия"
-  },
-  "store.category.filters.mostUsed": {
-    "description": "Most used first checkbox",
-    "message": "Наиболее используемые"
-  },
-  "store.category.games": {
-    "description": "Category at the top",
-    "message": "Игры"
-  },
-  "store.category.heading": {
-    "description": "Category heading",
-    "message": "Категории"
-  },
-  "store.category.music": {
-    "description": "Category at the top",
-    "message": "Музыка"
-  },
-  "store.category.other": {
-    "description": "Category at the top",
-    "message": "Прочее"
-  },
-  "store.category.socials": {
-    "description": "Category at the top",
-    "message": "Соц. сети"
-  },
-  "store.category.videos": {
-    "description": "Category at the top",
-    "message": "Видео и Стримы"
-  },
-  "store.filters.added": {
-    "description": "Store filter to display/not display already installed presences.",
-    "message": "Показать добавленные Присутствия"
-  },
-  "store.header.search": {
-    "description": "Search bar text when nothing is stated",
-    "message": "Поиск презенса"
-  },
-  "store.message.error": {
-    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
-    "message": "Расширение не подключено."
-  },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Поиск"
-  },
-  "store.search.filters": {
-    "description": "Little message next to the keys of search filters on the store.",
-    "message": "Введите"
-  },
-  "store.search.removeFilter": {
-    "description": "Remove message for active search filters.",
-    "message": "Нажмите, чтобы удалить фильтр"
-  }
+	"store.message.error": {
+		"message": "Расширение не подключено.",
+		"description": "Error message (of the tippy next to the logo) when the extension wasn't detected"
+	},
+	"store.cards.creator": {
+		"message": "Автор",
+		"description": "Creator of a presence"
+	},
+	"store.cards.popular": {
+		"message": "Этот презенс очень популярен среди пользователей.",
+		"description": "Presence card popular flame"
+	},
+	"store.cards.partner": {
+		"message": "Партнерское Присутствие",
+		"description": "Presence card partner flame"
+	},
+	"store.cards.extraStepsRequired": {
+		"message": "Этот презенс требует дополнительных настроек. Пожалуйста, перейдите на его страницу для получения дополнительной информации.",
+		"description": "Information flame when presence requires extra steps, like Custom Status and VLC presences."
+	},
+	"store.header.search": {
+		"message": "Поиск презенса",
+		"description": "Search bar text when nothing is stated"
+	},
+	"store.card.presence.add": {
+		"message": "Добавить присутствие",
+		"description": "Button that will appear on hover after extension is installed."
+	},
+	"store.card.presence.remove": {
+		"message": "Удалить присутствие",
+		"description": "Button that will appear on hover after extension and presence is installed."
+	},
+	"store.card.presence.included": {
+		"message": "Автоматически включается при посещении сайта.",
+		"description": "The message that appears instead of the buttons."
+	},
+	"store.category.filters.heading": {
+		"message": "Фильтры",
+		"description": "Searh filters option at the store page"
+	},
+	"store.category.filters.mostUsed": {
+		"message": "Наиболее используемые",
+		"description": "Most used first checkbox"
+	},
+	"store.category.filters.allowAdult": {
+		"message": "Показать NSFW",
+		"description": "Adult content checkbox"
+	},
+	"store.category.filters.likedOnly": {
+		"message": "Только понравившиеся Присутствия",
+		"description": "Liked presences only checkbox"
+	},
+	"store.filters.added": {
+		"message": "Показать добавленные Присутствия",
+		"description": "Store filter to display/not display already installed presences."
+	},
+	"store.category.heading": {
+		"message": "Категории",
+		"description": "Category heading"
+	},
+	"store.category.all": {
+		"message": "Всё",
+		"description": "Category at the top"
+	},
+	"store.category.games": {
+		"message": "Игры",
+		"description": "Category at the top"
+	},
+	"store.category.music": {
+		"message": "Музыка",
+		"description": "Category at the top"
+	},
+	"store.category.socials": {
+		"message": "Соц. сети",
+		"description": "Category at the top"
+	},
+	"store.category.videos": {
+		"message": "Видео и Стримы",
+		"description": "Category at the top"
+	},
+	"store.category.other": {
+		"message": "Прочее",
+		"description": "Category at the top"
+	},
+	"store.search": {
+		"message": "Поиск",
+		"description": "Placeholder for presence search"
+	},
+	"store.search.filters": {
+		"message": "Введите",
+		"description": "Little message next to the keys of search filters on the store."
+	},
+	"store.search.removeFilter": {
+		"message": "Нажмите, чтобы удалить фильтр",
+		"description": "Remove message for active search filters."
+	}
 }
