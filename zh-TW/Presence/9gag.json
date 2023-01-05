@@ -1,34 +1,34 @@
 {
-  "9gag.about": {
-    "description": "",
-    "message": "正在檢視9GAG:"
-  },
-  "9gag.collection": {
-    "description": "",
-    "message": "正在檢視收藏:"
-  },
-  "9gag.fresh": {
-    "description": "",
-    "message": "正在檢視最新的內容:"
-  },
-  "9gag.gag": {
-    "description": "",
-    "message": "正在檢視帖:"
-  },
-  "9gag.hot": {
-    "description": "",
-    "message": "正在檢視熱門內容:"
-  },
-  "9gag.store": {
-    "description": "",
-    "message": "正在檢視商店頁面:"
-  },
-  "9gag.tag": {
-    "description": "",
-    "message": "正在檢視tag:"
-  },
-  "9gag.trending": {
-    "description": "",
-    "message": "正在瀏覽現在的趨勢"
-  }
+    "9gag.gag": {
+        "message": "正在檢視帖:",
+        "description": ""
+    },
+    "9gag.hot": {
+        "message": "正在檢視熱門內容:",
+        "description": ""
+    },
+    "9gag.trending": {
+        "message": "正在瀏覽現在的趨勢",
+        "description": ""
+    },
+    "9gag.fresh": {
+        "message": "正在檢視最新的內容:",
+        "description": ""
+    },
+    "9gag.tag": {
+        "message": "正在檢視tag:",
+        "description": ""
+    },
+    "9gag.about": {
+        "message": "正在檢視9GAG:",
+        "description": ""
+    },
+    "9gag.store": {
+        "message": "正在檢視商店頁面:",
+        "description": ""
+    },
+    "9gag.collection": {
+        "message": "正在檢視收藏:",
+        "description": ""
+    }
 }
