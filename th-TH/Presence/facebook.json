@@ -1,62 +1,62 @@
 {
-  "facebook.added": {
-    "description": "",
-    "message": "เพิ่งเพิ่มเร็ว ๆ นี้"
-  },
-  "facebook.browse": {
-    "description": "",
-    "message": "กำลังเรียกดู"
-  },
-  "facebook.call": {
-    "description": "",
-    "message": "กำลังคอลกับ:"
-  },
-  "facebook.savedVids": {
-    "description": "",
-    "message": "วิดีโอที่บันทึกไว้"
-  },
-  "facebook.userAbout": {
-    "description": "",
-    "message": "กำลังอ่านเกี่ยวกับผู้ใช้:"
-  },
-  "facebook.userCommunity": {
-    "description": "",
-    "message": "กำลังดูโพสต์ชุมชนของผู้ใช้:"
-  },
-  "facebook.userFriends": {
-    "description": "",
-    "message": "กำลังดูเพื่อนของ:"
-  },
-  "facebook.userHidden": {
-    "description": "Shows when you dont want to show who you are calling/texting.",
-    "message": "ใครสักคน (ผู้ใช้ที่ซ่อนไว้)"
-  },
-  "facebook.userPics": {
-    "description": "",
-    "message": "กำลังดูรูปภาพของ:"
-  },
-  "facebook.userPosts": {
-    "description": "",
-    "message": "กำลังดูโพสต์ของ:"
-  },
-  "facebook.userShop": {
-    "description": "",
-    "message": "กำลังดูร้านค้าของ:"
-  },
-  "facebook.userVids": {
-    "description": "",
-    "message": "กำลังดูวิดีโอของ:"
-  },
-  "facebook.vcall": {
-    "description": "",
-    "message": "กำลังวิดีโอคอลกับ:"
-  },
-  "facebook.weather": {
-    "description": "",
-    "message": "กำลังดูสภาพอากาศวันนี้"
-  },
-  "facebook.writing": {
-    "description": "",
-    "message": "ร่างข้อความ"
-  }
+    "facebook.call": {
+        "message": "กำลังคอลกับ:",
+        "description": ""
+    },
+    "facebook.vcall": {
+        "message": "กำลังวิดีโอคอลกับ:",
+        "description": ""
+    },
+    "facebook.userHidden": {
+        "message": "ใครสักคน (ผู้ใช้ที่ซ่อนไว้)",
+        "description": "Shows when you dont want to show who you are calling/texting."
+    },
+    "facebook.writing": {
+        "message": "ร่างข้อความ",
+        "description": ""
+    },
+    "facebook.userAbout": {
+        "message": "กำลังอ่านเกี่ยวกับผู้ใช้:",
+        "description": ""
+    },
+    "facebook.userCommunity": {
+        "message": "กำลังดูโพสต์ชุมชนของผู้ใช้:",
+        "description": ""
+    },
+    "facebook.userPics": {
+        "message": "กำลังดูรูปภาพของ:",
+        "description": ""
+    },
+    "facebook.userPosts": {
+        "message": "กำลังดูโพสต์ของ:",
+        "description": ""
+    },
+    "facebook.userShop": {
+        "message": "กำลังดูร้านค้าของ:",
+        "description": ""
+    },
+    "facebook.userFriends": {
+        "message": "กำลังดูเพื่อนของ:",
+        "description": ""
+    },
+    "facebook.userVids": {
+        "message": "กำลังดูวิดีโอของ:",
+        "description": ""
+    },
+    "facebook.browse": {
+        "message": "กำลังเรียกดู",
+        "description": ""
+    },
+    "facebook.savedVids": {
+        "message": "วิดีโอที่บันทึกไว้",
+        "description": ""
+    },
+    "facebook.added": {
+        "message": "เพิ่งเพิ่มเร็ว ๆ นี้",
+        "description": ""
+    },
+    "facebook.weather": {
+        "message": "กำลังดูสภาพอากาศวันนี้",
+        "description": ""
+    }
 }
