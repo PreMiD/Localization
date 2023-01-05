@@ -1,46 +1,46 @@
 {
-  "twitter.bookmarks": {
-    "description": "",
-    "message": "الإشارات المرجعيّة"
-  },
-  "twitter.explore": {
-    "description": "",
-    "message": "استكشاف"
-  },
-  "twitter.notifs": {
-    "description": "",
-    "message": "الإشعارات"
-  },
-  "twitter.readTweet": {
-    "description": "after the \":\" it will say the username",
-    "message": "يشاهد التغريدة:"
-  },
-  "twitter.settings": {
-    "description": "",
-    "message": "يغيير بعض الإعدادات..."
-  },
-  "twitter.viewDms": {
-    "description": "",
-    "message": "يشاهد الرسائل المباشرة الخاصة بهم"
-  },
-  "twitter.viewLiked": {
-    "description": "",
-    "message": "يشاهد معجبين من طرفـ:"
-  },
-  "twitter.viewList": {
-    "description": "",
-    "message": "يشاهد القائمة:"
-  },
-  "twitter.viewMedia": {
-    "description": "",
-    "message": "يشاهد وسائط الإعلام التالية:"
-  },
-  "twitter.viewTweets": {
-    "description": "",
-    "message": "يشاهد تغريدات ل:"
-  },
-  "twitter.viewTweetsWithReplies": {
-    "description": "",
-    "message": "يشاهدلتغريدات (مع الردود) ل:"
-  }
+	"twitter.readTweet": {
+		"message": "يشاهد التغريدة:",
+		"description": "after the \":\" it will say the username"
+	},
+	"twitter.viewDms": {
+		"message": "يشاهد الرسائل المباشرة الخاصة بهم",
+		"description": ""
+	},
+	"twitter.viewTweets": {
+		"message": "يشاهد تغريدات ل:",
+		"description": ""
+	},
+	"twitter.viewTweetsWithReplies": {
+		"message": "يشاهدلتغريدات (مع الردود) ل:",
+		"description": ""
+	},
+	"twitter.viewMedia": {
+		"message": "يشاهد وسائط الإعلام التالية:",
+		"description": ""
+	},
+	"twitter.viewLiked": {
+		"message": "يشاهد معجبين من طرفـ:",
+		"description": ""
+	},
+	"twitter.viewList": {
+		"message": "يشاهد القائمة:",
+		"description": ""
+	},
+	"twitter.bookmarks": {
+		"message": "الإشارات المرجعيّة",
+		"description": ""
+	},
+	"twitter.notifs": {
+		"message": "الإشعارات",
+		"description": ""
+	},
+	"twitter.explore": {
+		"message": "استكشاف",
+		"description": ""
+	},
+	"twitter.settings": {
+		"message": "يغيير بعض الإعدادات...",
+		"description": ""
+	}
 }
