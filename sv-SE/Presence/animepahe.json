@@ -1,22 +1,22 @@
 {
   "animepahe.latestRelease": {
-    "description": "Recently released content, can be new or old anime, its just new to the site",
-    "message": "Senaste Versionen"
+    "message": "Senaste Versionen",
+    "description": "Recently released content, can be new or old anime, its just new to the site"
   },
   "animepahe.season": {
-    "description": "TV show/series season eg. Season 5 of The Flash",
-    "message": "Säsong"
+    "message": "Säsong",
+    "description": "TV show/series season eg. Season 5 of The Flash"
   },
   "animepahe.special": {
-    "description": "A type of related content; a special release episode not included in the original release often with differing style",
-    "message": "Speciell"
-  },
-  "animepahe.timeSeason": {
-    "description": "Time Season eg. The season is now Winter",
-    "message": "Säsong"
+    "message": "Speciell",
+    "description": "A type of related content; a special release episode not included in the original release often with differing style"
   },
   "animepahe.view": {
-    "description": "{0} will be replaced by \"Pahe\" or \"AniList\"",
-    "message": "Titta på {0}"
+    "message": "Titta på {0}",
+    "description": "{0} will be replaced by \"Pahe\" or \"AniList\""
+  },
+  "animepahe.timeSeason": {
+    "message": "Säsong",
+    "description": "Time Season eg. The season is now Winter"
   }
 }
