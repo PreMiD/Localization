@@ -1,6 +1,6 @@
 {
-  "v live.browseThrough": {
-    "description": "The first part of the next 6 strings",
-    "message": "Se uită la"
-  }
+	"v live.browseThrough": {
+		"message": "Se uită la",
+		"description": "The first part of the next 6 strings"
+	}
 }
