@@ -1,58 +1,58 @@
 {
-  "report.activebugs": {
-    "description": "Lists users active bugs",
-    "message": "सक्रिय कीड़े"
-  },
-  "report.browser": {
-    "description": "Select Box for the user to select their browser",
-    "message": "अपने ब्राउज़र और संस्करण का चयन करें - आप के बारे में पर जाकर संस्करण प्राप्त कर सकते हैं: Firefox या chrome://help"
-  },
-  "report.bugcount": {
-    "description": "Amount of bug reports user can send",
-    "message": "{count} / 3 रिपोर्टें शेष हैं"
-  },
-  "report.button": {
-    "description": "Button to send the information inputed.",
-    "message": "रिपोर्ट"
-  },
-  "report.description": {
-    "description": "Text for the user to write information about the bug.",
-    "message": "इस बग को पुन: पेश करने के लिए एक जीवंत उदाहरण या चरणों के एक अस्पष्ट सेट के लिए एक लिंक प्रदान करें।"
-  },
-  "report.error": {
-    "description": "User needs to input more notification",
-    "message": "यह जानकारी आवश्यक है।"
-  },
-  "report.error.unauth": {
-    "description": "Users Discord not verified",
-    "message": "Discord खाते को सत्यापित करने की आवश्यकता है"
-  },
-  "report.info": {
-    "description": "Tells the user about submitting a bug",
-    "message": "रिपोर्टिंग कीड़े PreMiD साइट और PreMiD Discord सर्वर के भीतर बग के लिए हैं। Presence के लिए कीड़े को presence के निर्माता को सूचित किया जाना है। केवल अंग्रेजी में बग रिपोर्ट करें।"
-  },
-  "report.os": {
-    "description": "Select Box for the user to select their operating system",
-    "message": "अपना ऑपरेटिंग सिस्टम और संस्करण चुनें"
-  },
-  "report.overview": {
-    "description": "Text for the user to write a brief of the bug information.",
-    "message": "बग क्या है इसका स्पष्ट और संक्षिप्त विवरण प्रदान करें।"
-  },
-  "report.success": {
-    "description": "Success notification",
-    "message": "बग प्रस्तुत किया"
-  },
-  "report.title": {
-    "description": "Text to indicate the page.",
-    "message": "गलती सूचित करें"
-  },
-  "report.toomany": {
-    "description": "User has too many active reports",
-    "message": "आपके पास बहुत सी सक्रिय रिपोर्ट हैं। अपनी सबमिट की गई रिपोर्ट की समीक्षा करने के लिए प्रतीक्षा करें। साप्ताहिक आधार पर रिपोर्ट की जाँच की जाती है, धैर्य रखें।"
-  },
-  "report.toomany.alert": {
-    "description": "User has too many active reports",
-    "message": "आपके पास बहुत सी सक्रिय रिपोर्ट हैं।"
-  }
+	"report.title": {
+		"message": "गलती सूचित करें",
+		"description": "Text to indicate the page."
+	},
+	"report.bugcount": {
+		"message": "{count} / 3 रिपोर्टें शेष हैं",
+		"description": "Amount of bug reports user can send"
+	},
+	"report.info": {
+		"message": "रिपोर्टिंग कीड़े PreMiD साइट और PreMiD Discord सर्वर के भीतर बग के लिए हैं। Presence के लिए कीड़े को presence के निर्माता को सूचित किया जाना है। केवल अंग्रेजी में बग रिपोर्ट करें।",
+		"description": "Tells the user about submitting a bug"
+	},
+	"report.overview": {
+		"message": "बग क्या है इसका स्पष्ट और संक्षिप्त विवरण प्रदान करें।",
+		"description": "Text for the user to write a brief of the bug information."
+	},
+	"report.os": {
+		"message": "अपना ऑपरेटिंग सिस्टम और संस्करण चुनें",
+		"description": "Select Box for the user to select their operating system"
+	},
+	"report.browser": {
+		"message": "अपने ब्राउज़र और संस्करण का चयन करें - आप के बारे में पर जाकर संस्करण प्राप्त कर सकते हैं: Firefox या chrome://help",
+		"description": "Select Box for the user to select their browser"
+	},
+	"report.description": {
+		"message": "इस बग को पुन: पेश करने के लिए एक जीवंत उदाहरण या चरणों के एक अस्पष्ट सेट के लिए एक लिंक प्रदान करें।",
+		"description": "Text for the user to write information about the bug."
+	},
+	"report.button": {
+		"message": "रिपोर्ट",
+		"description": "Button to send the information inputed."
+	},
+	"report.toomany": {
+		"message": "आपके पास बहुत सी सक्रिय रिपोर्ट हैं। अपनी सबमिट की गई रिपोर्ट की समीक्षा करने के लिए प्रतीक्षा करें। साप्ताहिक आधार पर रिपोर्ट की जाँच की जाती है, धैर्य रखें।",
+		"description": "User has too many active reports"
+	},
+	"report.toomany.alert": {
+		"message": "आपके पास बहुत सी सक्रिय रिपोर्ट हैं।",
+		"description": "User has too many active reports"
+	},
+	"report.success": {
+		"message": "बग प्रस्तुत किया",
+		"description": "Success notification"
+	},
+	"report.error": {
+		"message": "यह जानकारी आवश्यक है।",
+		"description": "User needs to input more notification"
+	},
+	"report.error.unauth": {
+		"message": "Discord खाते को सत्यापित करने की आवश्यकता है",
+		"description": "Users Discord not verified"
+	},
+	"report.activebugs": {
+		"message": "सक्रिय कीड़े",
+		"description": "Lists users active bugs"
+	}
 }
