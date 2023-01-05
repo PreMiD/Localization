@@ -1,46 +1,46 @@
 {
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "O PreMiDe"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Prispievatelia"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Stiahnuť "
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Inštalácia"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Trieda Prítomnosti"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Začíname"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Obchod"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Systémové Požiadavky"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Riešenie problémov"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Partnery"
-  }
+	"premid.pageContributors": {
+		"message": "Prispievatelia",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Stiahnuť ",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Obchod",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Partnery",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "O PreMiDe",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Systémové Požiadavky",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Inštalácia",
+		"description": "A page name"
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Riešenie problémov",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Začíname",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Trieda Prítomnosti",
+		"description": "A page name"
+	}
 }
