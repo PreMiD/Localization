@@ -1,58 +1,58 @@
 {
-  "contributors.cards.copyUserId": {
-    "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "คลิกเพื่อคัดลอก User ID"
-  },
-  "contributors.cards.userIdCopied": {
-    "description": "Notification after user ID was copied.",
-    "message": "คัดลอก User ID แล้ว!"
-  },
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "ทีมงาน"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "ผู้สนับสนุน"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "แปลภาษา"
-  },
-  "contributors.roles.booster": {
-    "description": "'Booster' title for contributors page and user pages.",
-    "message": "บูสเตอร์"
-  },
-  "contributors.roles.communityManager": {
-    "description": "'Community Manager' title for contributors and user pages.",
-    "message": "ผู้จัดการคอมมูนิตี้"
-  },
-  "contributors.roles.discordModerator": {
-    "description": "'Discord Moderator' title for contributors and user pages.",
-    "message": "ผู้ดูแล Discord"
-  },
-  "contributors.roles.donator": {
-    "description": "'Donator' title for contributors page.",
-    "message": "ผู้บริจาค"
-  },
-  "contributors.roles.humanResources": {
-    "description": "'Human Resources' title for contributors and user pages.",
-    "message": "ฝ่ายทรัพยากรมนุษย์"
-  },
-  "contributors.roles.localizationManager": {
-    "description": "'Localization Manager' title for contributors and user pages.",
-    "message": "ผู้จัดการการแปลภาษา"
-  },
-  "contributors.roles.proofreader": {
-    "description": "'Proofreader' title for contributors and user pages.",
-    "message": "นักตรวจทาน"
-  },
-  "contributors.roles.technicalSupport": {
-    "description": "'Technical Support' title for contributors and user pages.",
-    "message": "ฝ่ายสนับสนุนด้านเทคนิค"
-  },
-  "contributors.roles.translator": {
-    "description": "'Translator' title for contributors page.",
-    "message": "ผู้แปลภาษา"
-  }
+	"contributors.headings.staff": {
+		"message": "ทีมงาน",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "ผู้สนับสนุน",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.discordModerator": {
+		"message": "ผู้ดูแล Discord",
+		"description": "'Discord Moderator' title for contributors and user pages."
+	},
+	"contributors.roles.technicalSupport": {
+		"message": "ฝ่ายสนับสนุนด้านเทคนิค",
+		"description": "'Technical Support' title for contributors and user pages."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "ผู้จัดการการแปลภาษา",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.communityManager": {
+		"message": "ผู้จัดการคอมมูนิตี้",
+		"description": "'Community Manager' title for contributors and user pages."
+	},
+	"contributors.roles.humanResources": {
+		"message": "ฝ่ายทรัพยากรมนุษย์",
+		"description": "'Human Resources' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "นักตรวจทาน",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "แปลภาษา",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "ผู้บริจาค",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "บูสเตอร์",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "ผู้แปลภาษา",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "คลิกเพื่อคัดลอก User ID",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "คัดลอก User ID แล้ว!",
+		"description": "Notification after user ID was copied."
+	}
 }
