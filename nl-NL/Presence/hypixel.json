@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Bekijkt zijn/haar privéberichten"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Bekijkt spel:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Bekijkt medewerkerlijst"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Bekijkt zijn/haar bekeken forums"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Bekijkt zijn/haar bekeken conversaties"
-  }
+    "hypixel.staff": {
+        "message": "Bekijkt medewerkerlijst",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Bekijkt zijn/haar bekeken conversaties",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Bekijkt zijn/haar bekeken forums",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Bekijkt zijn/haar privéberichten",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Bekijkt spel:",
+        "description": ""
+    }
 }
