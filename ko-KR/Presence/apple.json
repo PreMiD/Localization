@@ -1,42 +1,42 @@
 {
-  "apple.btnViewOS": {
-    "description": "e.g. \"View iOS 15\"",
-    "message": "{0} 보기"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "서비스 보기"
-  },
-  "apple.btnViewWWDC": {
-    "description": "e.g.: \"View WWDC21\"",
-    "message": "{0} 보기"
-  },
-  "apple.chooseLang": {
-    "description": "Choosing the language of the website",
-    "message": "언어를 고르는 중..."
-  },
-  "apple.comparing": {
-    "description": "e.g. \"Comparing: Apple Watch\"",
-    "message": "비교 중:"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "문서"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "기능"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "게임"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "기타"
-  },
-  "apple.viewService": {
-    "description": "e.g. \"Viewing Service: Fitness+\"",
-    "message": "서비스 보는 중:"
-  }
+    "apple.comparing": {
+        "message": "비교 중:",
+        "description": "e.g. \"Comparing: Apple Watch\""
+    },
+    "apple.viewService": {
+        "message": "서비스 보는 중:",
+        "description": "e.g. \"Viewing Service: Fitness+\""
+    },
+    "apple.chooseLang": {
+        "message": "언어를 고르는 중...",
+        "description": "Choosing the language of the website"
+    },
+    "apple.other": {
+        "message": "기타",
+        "description": "Other pages not added to the code"
+    },
+    "apple.devDocs": {
+        "message": "문서",
+        "description": "Developer documentation"
+    },
+    "apple.devFeatures": {
+        "message": "기능",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "게임",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.btnViewService": {
+        "message": "서비스 보기",
+        "description": "Button text"
+    },
+    "apple.btnViewOS": {
+        "message": "{0} 보기",
+        "description": "e.g. \"View iOS 15\""
+    },
+    "apple.btnViewWWDC": {
+        "message": "{0} 보기",
+        "description": "e.g.: \"View WWDC21\""
+    }
 }
