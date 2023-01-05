@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Vendo as suas mensagens diretas"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Vendo o jogo:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Vendo a lista da equipe"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Vendo os seus fóruns assistidos"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Vendo os seus artigos assistidos"
-  }
+    "hypixel.staff": {
+        "message": "Vendo a lista da equipe",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Vendo os seus artigos assistidos",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Vendo os seus fóruns assistidos",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Vendo as suas mensagens diretas",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Vendo o jogo:",
+        "description": ""
+    }
 }
