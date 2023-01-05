@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Direkt mesajlarına bakıyor"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Oyuna bakıyor:"
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Yetkili listesine bakıyor"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "İzlediği forumlara bakıyor"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "İzlediği konulara bakıyor"
-  }
+    "hypixel.staff": {
+        "message": "Yetkili listesine bakıyor",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "İzlediği konulara bakıyor",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "İzlediği forumlara bakıyor",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Direkt mesajlarına bakıyor",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Oyuna bakıyor:",
+        "description": ""
+    }
 }
