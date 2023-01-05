@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "album yang mereka sukai"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "artis yang mereka sukai"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "Podcast terbaik"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "Menjelajahi"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "Melihat grafik"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "Menemukan lagu baru"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Mengunduh Spotify"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "Lagu pilihan"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "Menjelajahi genre"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "Melihat rilisan terbaru"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"Made for you\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "daftar putar mereka"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "podcast yang mereka sukai"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "lagu yang mereka sukai"
-  }
+	"spotify.featured": {
+		"message": "Lagu pilihan",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "Podcast terbaik",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "Melihat grafik",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "Menjelajahi genre",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "Melihat rilisan terbaru",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "Menemukan lagu baru",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "Menjelajahi",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "podcast yang mereka sukai",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "artis yang mereka sukai",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "album yang mereka sukai",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "lagu yang mereka sukai",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"Made for you\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "daftar putar mereka",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Mengunduh Spotify",
+		"description": ""
+	}
 }
