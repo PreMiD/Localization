@@ -1,6 +1,6 @@
 {
-  "watchmojo.buttonPlayTrivia": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "لعب تريفيا"
-  }
+	"watchmojo.buttonPlayTrivia": {
+		"message": "لعب تريفيا",
+		"description": "Used as the title for the button in Discord."
+	}
 }
