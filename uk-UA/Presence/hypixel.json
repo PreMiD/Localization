@@ -1,22 +1,22 @@
 {
-  "hypixel.dm": {
-    "description": "",
-    "message": "Переглядає приватні повідомлення"
-  },
-  "hypixel.game": {
-    "description": "",
-    "message": "Переглядає гру "
-  },
-  "hypixel.staff": {
-    "description": "",
-    "message": "Переглядає список персоналу"
-  },
-  "hypixel.watchForums": {
-    "description": "Forum categories they get notifications from",
-    "message": "Переглядає свої переглянуті форуми"
-  },
-  "hypixel.watchThreads": {
-    "description": "Articles they get notifications from",
-    "message": "Переглядає свої переглянуті теми"
-  }
+    "hypixel.staff": {
+        "message": "Переглядає список персоналу",
+        "description": ""
+    },
+    "hypixel.watchThreads": {
+        "message": "Переглядає свої переглянуті теми",
+        "description": "Articles they get notifications from"
+    },
+    "hypixel.watchForums": {
+        "message": "Переглядає свої переглянуті форуми",
+        "description": "Forum categories they get notifications from"
+    },
+    "hypixel.dm": {
+        "message": "Переглядає приватні повідомлення",
+        "description": ""
+    },
+    "hypixel.game": {
+        "message": "Переглядає гру ",
+        "description": ""
+    }
 }
