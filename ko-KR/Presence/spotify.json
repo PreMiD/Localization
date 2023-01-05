@@ -1,58 +1,58 @@
 {
-  "spotify.albumLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "좋아요 표시한 앨범"
-  },
-  "spotify.artistsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "좋아하는 아티스트"
-  },
-  "spotify.bestPodcasts": {
-    "description": "",
-    "message": "최고의 팟캐스트"
-  },
-  "spotify.browse": {
-    "description": "First section of the next 6 strings",
-    "message": "살펴보는 중:"
-  },
-  "spotify.charts": {
-    "description": "",
-    "message": "차트 보는 중"
-  },
-  "spotify.discover": {
-    "description": "",
-    "message": "신규 곡 찾는 중"
-  },
-  "spotify.download": {
-    "description": "",
-    "message": "Spotify 다운로드 중"
-  },
-  "spotify.featured": {
-    "description": "",
-    "message": "추천된 곡"
-  },
-  "spotify.genres": {
-    "description": "",
-    "message": "장르 검색 중"
-  },
-  "spotify.latest": {
-    "description": "",
-    "message": "최신 발매 곡 보는 중"
-  },
-  "spotify.madeForYou": {
-    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
-    "message": "\"나만의 음악\""
-  },
-  "spotify.playlists": {
-    "description": "\"Browsing through\" + this",
-    "message": "플레이리스트"
-  },
-  "spotify.podcastsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "좋아하는 팟캐스트"
-  },
-  "spotify.songsLike": {
-    "description": "\"Browsing through\" + this",
-    "message": "좋아요 표시한 곡"
-  }
+	"spotify.featured": {
+		"message": "추천된 곡",
+		"description": ""
+	},
+	"spotify.bestPodcasts": {
+		"message": "최고의 팟캐스트",
+		"description": ""
+	},
+	"spotify.charts": {
+		"message": "차트 보는 중",
+		"description": ""
+	},
+	"spotify.genres": {
+		"message": "장르 검색 중",
+		"description": ""
+	},
+	"spotify.latest": {
+		"message": "최신 발매 곡 보는 중",
+		"description": ""
+	},
+	"spotify.discover": {
+		"message": "신규 곡 찾는 중",
+		"description": ""
+	},
+	"spotify.browse": {
+		"message": "살펴보는 중:",
+		"description": "First section of the next 6 strings"
+	},
+	"spotify.podcastsLike": {
+		"message": "좋아하는 팟캐스트",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.artistsLike": {
+		"message": "좋아하는 아티스트",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.albumLike": {
+		"message": "좋아요 표시한 앨범",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.songsLike": {
+		"message": "좋아요 표시한 곡",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.madeForYou": {
+		"message": "\"나만의 음악\"",
+		"description": "\"Browsing through\" + this (Recommend by spotify is what it means)"
+	},
+	"spotify.playlists": {
+		"message": "플레이리스트",
+		"description": "\"Browsing through\" + this"
+	},
+	"spotify.download": {
+		"message": "Spotify 다운로드 중",
+		"description": ""
+	}
 }
