@@ -1,90 +1,90 @@
 {
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "Vezi evenimentul"
-  },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "Vezi produsul"
-  },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "Vezi serviciul"
-  },
-  "apple.devDocs": {
-    "description": "Developer documentation",
-    "message": "Documentație"
-  },
-  "apple.devFeatures": {
-    "description": "Features for app design",
-    "message": "Caracteristici"
-  },
-  "apple.devGames": {
-    "description": "Apps classified under the \"Games\" category on the App Store",
-    "message": "Jocuri"
-  },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "Resurse"
-  },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "Videoclipuri"
-  },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "Preferinţe"
-  },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "Înregistrare"
-  },
-  "apple.healthcare": {
-    "description": "The organized provision of medical care to individuals or a community",
-    "message": "Sănătate"
-  },
-  "apple.iCloudCalendar": {
-    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Calendar"
-  },
-  "apple.iCloudContacts": {
-    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Contacte"
-  },
-  "apple.iCloudNotes": {
-    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Notițe"
-  },
-  "apple.iCloudPhotos": {
-    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Poze"
-  },
-  "apple.iCloudReminders": {
-    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
-    "message": "Remindere"
-  },
-  "apple.other": {
-    "description": "Other pages not added to the code",
-    "message": "Altele"
-  },
-  "apple.purchasingAdvice": {
-    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
-    "message": "Sfaturi de achiziție"
-  },
-  "apple.shopAccessories": {
-    "description": "Accessories for Apple products (e.g iPhone case)",
-    "message": "Accesorii Apple"
-  },
-  "apple.shopFavorites": {
-    "description": "Favorite products",
-    "message": "Favorite"
-  },
-  "apple.shopGiftCards": {
-    "description": "Gift cards for e.g. the App Store",
-    "message": "Carduri cadou"
-  },
-  "apple.shopStudio": {
-    "description": "Choose your own design components for a product",
-    "message": "Studio Apple Watch"
-  }
+    "apple.healthcare": {
+        "message": "Sănătate",
+        "description": "The organized provision of medical care to individuals or a community"
+    },
+    "apple.purchasingAdvice": {
+        "message": "Sfaturi de achiziție",
+        "description": "Purchasing advice for e.g. what iPhone is the best for me?"
+    },
+    "apple.other": {
+        "message": "Altele",
+        "description": "Other pages not added to the code"
+    },
+    "apple.shopAccessories": {
+        "message": "Accesorii Apple",
+        "description": "Accessories for Apple products (e.g iPhone case)"
+    },
+    "apple.shopStudio": {
+        "message": "Studio Apple Watch",
+        "description": "Choose your own design components for a product"
+    },
+    "apple.shopFavorites": {
+        "message": "Favorite",
+        "description": "Favorite products"
+    },
+    "apple.shopGiftCards": {
+        "message": "Carduri cadou",
+        "description": "Gift cards for e.g. the App Store"
+    },
+    "apple.iCloudContacts": {
+        "message": "Contacte",
+        "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudCalendar": {
+        "message": "Calendar",
+        "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudPhotos": {
+        "message": "Poze",
+        "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudNotes": {
+        "message": "Notițe",
+        "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.iCloudReminders": {
+        "message": "Remindere",
+        "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them"
+    },
+    "apple.devDocs": {
+        "message": "Documentație",
+        "description": "Developer documentation"
+    },
+    "apple.devResources": {
+        "message": "Resurse",
+        "description": "Apple Design Resources"
+    },
+    "apple.devFeatures": {
+        "message": "Caracteristici",
+        "description": "Features for app design"
+    },
+    "apple.devGames": {
+        "message": "Jocuri",
+        "description": "Apps classified under the \"Games\" category on the App Store"
+    },
+    "apple.forumPreferences": {
+        "message": "Preferinţe",
+        "description": "Profile settings/preferences, e.g. change username"
+    },
+    "apple.forumRegister": {
+        "message": "Înregistrare",
+        "description": "Register a new account (alternative translation: registering)"
+    },
+    "apple.devVideos": {
+        "message": "Videoclipuri",
+        "description": "E.g. WWDC videos, old Keynotes, etc."
+    },
+    "apple.btnViewProduct": {
+        "message": "Vezi produsul",
+        "description": "Button text"
+    },
+    "apple.btnViewService": {
+        "message": "Vezi serviciul",
+        "description": "Button text"
+    },
+    "apple.btnViewEvent": {
+        "message": "Vezi evenimentul",
+        "description": "Button text"
+    }
 }
