@@ -1,42 +1,42 @@
 {
-  "contributors.cards.copyUserId": {
-    "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "Uzspied, lai nokopētu lietotāja ID."
-  },
-  "contributors.cards.userIdCopied": {
-    "description": "Notification after user ID was copied.",
-    "message": "Lietotāja ID nokopēts!"
-  },
-  "contributors.headings.staff": {
-    "description": "Heading for group of users.",
-    "message": "Personāls"
-  },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Atbalstītāji"
-  },
-  "contributors.headings.translators": {
-    "description": "Heading for group of users.",
-    "message": "Tulki"
-  },
-  "contributors.roles.booster": {
-    "description": "'Booster' title for contributors page and user pages.",
-    "message": "Atbalstītājs"
-  },
-  "contributors.roles.donator": {
-    "description": "'Donator' title for contributors page.",
-    "message": "Ziedotājs"
-  },
-  "contributors.roles.localizationManager": {
-    "description": "'Localization Manager' title for contributors and user pages.",
-    "message": "Lokalizācijas Vadītājs"
-  },
-  "contributors.roles.proofreader": {
-    "description": "'Proofreader' title for contributors and user pages.",
-    "message": "Korektors"
-  },
-  "contributors.roles.translator": {
-    "description": "'Translator' title for contributors page.",
-    "message": "Tulks"
-  }
+	"contributors.headings.staff": {
+		"message": "Personāls",
+		"description": "Heading for group of users."
+	},
+	"contributors.headings.supporters": {
+		"message": "Atbalstītāji",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.localizationManager": {
+		"message": "Lokalizācijas Vadītājs",
+		"description": "'Localization Manager' title for contributors and user pages."
+	},
+	"contributors.roles.proofreader": {
+		"message": "Korektors",
+		"description": "'Proofreader' title for contributors and user pages."
+	},
+	"contributors.headings.translators": {
+		"message": "Tulki",
+		"description": "Heading for group of users."
+	},
+	"contributors.roles.donator": {
+		"message": "Ziedotājs",
+		"description": "'Donator' title for contributors page."
+	},
+	"contributors.roles.booster": {
+		"message": "Atbalstītājs",
+		"description": "'Booster' title for contributors page and user pages."
+	},
+	"contributors.roles.translator": {
+		"message": "Tulks",
+		"description": "'Translator' title for contributors page."
+	},
+	"contributors.cards.copyUserId": {
+		"message": "Uzspied, lai nokopētu lietotāja ID.",
+		"description": "Tippy message when you hover on the avatar of a credit card."
+	},
+	"contributors.cards.userIdCopied": {
+		"message": "Lietotāja ID nokopēts!",
+		"description": "Notification after user ID was copied."
+	}
 }
