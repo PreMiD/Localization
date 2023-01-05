@@ -1,26 +1,26 @@
 {
-  "maintenance.big": {
-    "description": "The big text on maintenance page",
-    "message": "Oh não!"
-  },
-  "maintenance.discordserver": {
-    "description": "Discord Server link on maintenance page",
-    "message": "Servidor do Discord"
-  },
-  "maintenance.heading": {
-    "description": "Heading on maintenance page",
-    "message": "Infelizmente estamos a ter dificuldades técnicas mas voltaremos em breve. Pedimos desculpa pelo incómodo."
-  },
-  "maintenance.heading2": {
-    "description": "Heading on maintenance page",
-    "message": "Volta mais tarde para mais informações."
-  },
-  "maintenance.message": {
-    "description": "Message on maintenance page",
-    "message": "Até que nossos programadores especiais consertem isto, diverte-te a olhar por aqui!"
-  },
-  "maintenance.statuspage": {
-    "description": "Status Page link on maintenance page",
-    "message": "Página de Status"
-  }
+	"maintenance.big": {
+		"message": "Oh não!",
+		"description": "The big text on maintenance page"
+	},
+	"maintenance.heading": {
+		"message": "Infelizmente estamos a ter dificuldades técnicas mas voltaremos em breve. Pedimos desculpa pelo incómodo.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.heading2": {
+		"message": "Volta mais tarde para mais informações.",
+		"description": "Heading on maintenance page"
+	},
+	"maintenance.message": {
+		"message": "Até que nossos programadores especiais consertem isto, diverte-te a olhar por aqui!",
+		"description": "Message on maintenance page"
+	},
+	"maintenance.statuspage": {
+		"message": "Página de Status",
+		"description": "Status Page link on maintenance page"
+	},
+	"maintenance.discordserver": {
+		"message": "Servidor do Discord",
+		"description": "Discord Server link on maintenance page"
+	}
 }
