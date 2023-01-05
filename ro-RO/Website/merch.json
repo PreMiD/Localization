@@ -1,6 +1,6 @@
 {
-  "merch.cart": {
-    "description": "Add product to cart",
-    "message": "Adaugă în coș"
-  }
+	"merch.cart": {
+		"message": "Adaugă în coș",
+		"description": "Add product to cart"
+	}
 }
