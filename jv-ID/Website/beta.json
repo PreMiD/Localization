@@ -1,46 +1,46 @@
 {
-  "beta.description.1": {
-    "description": "Section description",
-    "message": "**PreMiD Beta** saiki kasediya kanggo kabeh!"
-  },
-  "beta.description.2": {
-    "description": "Section description",
-    "message": "Apa sing sampeyan oleh sawise mendaftar?"
-  },
-  "beta.features.1": {
-    "description": "Features list",
-    "message": "Fitur-fitur anyar"
-  },
-  "beta.features.2": {
-    "description": "Features list",
-    "message": "Akses ning teks channel super rahasia PreMiD"
-  },
-  "beta.features.3": {
-    "description": "Features list",
-    "message": "Role spesial ning server Discord kami"
-  },
-  "beta.register.button": {
-    "description": "Sign up button text",
-    "message": "Daftar saiki!"
-  },
-  "beta.register.text": {
-    "description": "{0} will be replaced with the beta testers count -> is a variable",
-    "message": "Wis siap? Gabung {0} Beta Tester liyane!"
-  },
-  "beta.title": {
-    "description": "Beta page title",
-    "message": "Pengin fitur anyar?"
-  },
-  "error.noslots": {
-    "description": "Shows when the beta slots are full.",
-    "message": "Kayane kami ora duwe slot beta tester maneh."
-  },
-  "thankyou.description": {
-    "description": "Thank You page description",
-    "message": "Kethek kita nyoba supaya sampeyan mlebu program beta sakcepet'e. Matur nuwun wis ndhaptar!"
-  },
-  "thankyou.title": {
-    "description": "Thank You page title",
-    "message": "Bagus! Sampeyan saiki pengguna beta!"
-  }
+	"beta.title": {
+		"message": "Pengin fitur anyar?",
+		"description": "Beta page title"
+	},
+	"beta.description.1": {
+		"message": "**PreMiD Beta** saiki kasediya kanggo kabeh!",
+		"description": "Section description"
+	},
+	"beta.description.2": {
+		"message": "Apa sing sampeyan oleh sawise mendaftar?",
+		"description": "Section description"
+	},
+	"beta.features.1": {
+		"message": "Fitur-fitur anyar",
+		"description": "Features list"
+	},
+	"beta.features.2": {
+		"message": "Akses ning teks channel super rahasia PreMiD",
+		"description": "Features list"
+	},
+	"beta.features.3": {
+		"message": "Role spesial ning server Discord kami",
+		"description": "Features list"
+	},
+	"beta.register.text": {
+		"message": "Wis siap? Gabung {0} Beta Tester liyane!",
+		"description": "{0} will be replaced with the beta testers count -> is a variable"
+	},
+	"beta.register.button": {
+		"message": "Daftar saiki!",
+		"description": "Sign up button text"
+	},
+	"thankyou.title": {
+		"message": "Bagus! Sampeyan saiki pengguna beta!",
+		"description": "Thank You page title"
+	},
+	"thankyou.description": {
+		"message": "Kethek kita nyoba supaya sampeyan mlebu program beta sakcepet'e. Matur nuwun wis ndhaptar!",
+		"description": "Thank You page description"
+	},
+	"error.noslots": {
+		"message": "Kayane kami ora duwe slot beta tester maneh.",
+		"description": "Shows when the beta slots are full."
+	}
 }
