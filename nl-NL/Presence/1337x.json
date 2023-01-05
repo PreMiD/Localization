@@ -1,78 +1,78 @@
 {
-  "1337x.about": {
-    "description": "",
-    "message": "Leest over 1337x"
-  },
-  "1337x.animeTorrents": {
-    "description": "",
-    "message": "Bekijkt Anime Torrents"
-  },
-  "1337x.appTorrents": {
-    "description": "",
-    "message": "Bekijkt Apps Torrents"
-  },
-  "1337x.docTorrents": {
-    "description": "",
-    "message": "Bekijkt Documentaires Torrents"
-  },
-  "1337x.gamesTorrents": {
-    "description": "",
-    "message": "Bekijkt Spellen Torrents"
-  },
-  "1337x.latestEpisode": {
-    "description": "",
-    "message": "Bekijkt de laatste afleveringen"
-  },
-  "1337x.movieLibrary": {
-    "description": "",
-    "message": "Bekijkt de filmbibliotheek"
-  },
-  "1337x.moviesTorrents": {
-    "description": "",
-    "message": "Bekijkt Film Torrents"
-  },
-  "1337x.musicTorrents": {
-    "description": "",
-    "message": "Bekijkt Muziek Torrents"
-  },
-  "1337x.otherTorrents": {
-    "description": "",
-    "message": "Bekijkt Andere Torrents"
-  },
-  "1337x.rules": {
-    "description": "",
-    "message": "Leest de regels"
-  },
-  "1337x.seriesLibrary": {
-    "description": "",
-    "message": "Bekijkt de series bibliotheek"
-  },
-  "1337x.top": {
-    "description": "",
-    "message": "Bekijkt de top 100"
-  },
-  "1337x.trending": {
-    "description": "",
-    "message": "Bekijkt wat er trending is"
-  },
-  "1337x.tvTorrents": {
-    "description": "",
-    "message": "Bekijkt TV Torrents"
-  },
-  "1337x.upload": {
-    "description": "",
-    "message": "Iets aan het uploaden..."
-  },
-  "1337x.viewTorrent": {
-    "description": "",
-    "message": "Bekijkt torrent:"
-  },
-  "1337x.writing": {
-    "description": "",
-    "message": "Schrijft naar 1337x"
-  },
-  "1337x.xxxTorrents": {
-    "description": "XXX as in NSFW",
-    "message": "Bekijkt XXX Torrents"
-  }
+    "1337x.movieLibrary": {
+        "message": "Bekijkt de filmbibliotheek",
+        "description": ""
+    },
+    "1337x.seriesLibrary": {
+        "message": "Bekijkt de series bibliotheek",
+        "description": ""
+    },
+    "1337x.latestEpisode": {
+        "message": "Bekijkt de laatste afleveringen",
+        "description": ""
+    },
+    "1337x.top": {
+        "message": "Bekijkt de top 100",
+        "description": ""
+    },
+    "1337x.trending": {
+        "message": "Bekijkt wat er trending is",
+        "description": ""
+    },
+    "1337x.animeTorrents": {
+        "message": "Bekijkt Anime Torrents",
+        "description": ""
+    },
+    "1337x.appTorrents": {
+        "message": "Bekijkt Apps Torrents",
+        "description": ""
+    },
+    "1337x.docTorrents": {
+        "message": "Bekijkt Documentaires Torrents",
+        "description": ""
+    },
+    "1337x.gamesTorrents": {
+        "message": "Bekijkt Spellen Torrents",
+        "description": ""
+    },
+    "1337x.moviesTorrents": {
+        "message": "Bekijkt Film Torrents",
+        "description": ""
+    },
+    "1337x.musicTorrents": {
+        "message": "Bekijkt Muziek Torrents",
+        "description": ""
+    },
+    "1337x.otherTorrents": {
+        "message": "Bekijkt Andere Torrents",
+        "description": ""
+    },
+    "1337x.tvTorrents": {
+        "message": "Bekijkt TV Torrents",
+        "description": ""
+    },
+    "1337x.xxxTorrents": {
+        "message": "Bekijkt XXX Torrents",
+        "description": "XXX as in NSFW"
+    },
+    "1337x.upload": {
+        "message": "Iets aan het uploaden...",
+        "description": ""
+    },
+    "1337x.rules": {
+        "message": "Leest de regels",
+        "description": ""
+    },
+    "1337x.writing": {
+        "message": "Schrijft naar 1337x",
+        "description": ""
+    },
+    "1337x.about": {
+        "message": "Leest over 1337x",
+        "description": ""
+    },
+    "1337x.viewTorrent": {
+        "message": "Bekijkt torrent:",
+        "description": ""
+    }
 }
