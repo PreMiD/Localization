@@ -1,74 +1,74 @@
 {
-  "amazon.address": {
-    "description": "",
-    "message": "Гледа своите адреси"
-  },
-  "amazon.adprefs": {
-    "description": "",
-    "message": "Гледа своите предпочитания за реклами"
-  },
-  "amazon.balance": {
-    "description": "",
-    "message": "Гледа своя баланс"
-  },
-  "amazon.cart": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "кошница"
-  },
-  "amazon.catergoriesAll": {
-    "description": "",
-    "message": "Гледа всички категорий"
-  },
-  "amazon.giftcards": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "гифткарти"
-  },
-  "amazon.history": {
-    "description": "",
-    "message": "Гледа своята история"
-  },
-  "amazon.orderDetails": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "детайли за поръчка"
-  },
-  "amazon.orderHistory": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "история на поръчките"
-  },
-  "amazon.payment": {
-    "description": "",
-    "message": "Гледа начини за плащане"
-  },
-  "amazon.pets": {
-    "description": "",
-    "message": "Гледа своите домашни любимци"
-  },
-  "amazon.prime": {
-    "description": "",
-    "message": "Гледа Amazon Prime"
-  },
-  "amazon.primeVid": {
-    "description": "",
-    "message": "Гледа Prime видео:"
-  },
-  "amazon.recommended": {
-    "description": "",
-    "message": "Гледа препоръчани"
-  },
-  "amazon.store": {
-    "description": "",
-    "message": "Гледа магазин:"
-  },
-  "amazon.subscriptions": {
-    "description": "",
-    "message": "Гледа абонаментите"
-  },
-  "amazon.viewTheir": {
-    "description": "Part 1 of the next 5 strings",
-    "message": "Гледа своите"
-  },
-  "amazon.wishlist": {
-    "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "списък с желания"
-  }
+    "amazon.subscriptions": {
+        "message": "Гледа абонаментите",
+        "description": ""
+    },
+    "amazon.adprefs": {
+        "message": "Гледа своите предпочитания за реклами",
+        "description": ""
+    },
+    "amazon.balance": {
+        "message": "Гледа своя баланс",
+        "description": ""
+    },
+    "amazon.payment": {
+        "message": "Гледа начини за плащане",
+        "description": ""
+    },
+    "amazon.address": {
+        "message": "Гледа своите адреси",
+        "description": ""
+    },
+    "amazon.pets": {
+        "message": "Гледа своите домашни любимци",
+        "description": ""
+    },
+    "amazon.catergoriesAll": {
+        "message": "Гледа всички категорий",
+        "description": ""
+    },
+    "amazon.prime": {
+        "message": "Гледа Amazon Prime",
+        "description": ""
+    },
+    "amazon.viewTheir": {
+        "message": "Гледа своите",
+        "description": "Part 1 of the next 5 strings"
+    },
+    "amazon.orderHistory": {
+        "message": "история на поръчките",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.orderDetails": {
+        "message": "детайли за поръчка",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.cart": {
+        "message": "кошница",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.wishlist": {
+        "message": "списък с желания",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.giftcards": {
+        "message": "гифткарти",
+        "description": "Part 2 of the string: \"Viewing their\""
+    },
+    "amazon.recommended": {
+        "message": "Гледа препоръчани",
+        "description": ""
+    },
+    "amazon.history": {
+        "message": "Гледа своята история",
+        "description": ""
+    },
+    "amazon.store": {
+        "message": "Гледа магазин:",
+        "description": ""
+    },
+    "amazon.primeVid": {
+        "message": "Гледа Prime видео:",
+        "description": ""
+    }
 }
