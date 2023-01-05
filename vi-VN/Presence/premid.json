@@ -1,94 +1,94 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Tài liệu"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Về PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageApiVersion": {
-    "description": "A page name // {0} will be replaced with the version number.",
-    "message": "Hiểu thêm về API v{0}"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Người đóng góp"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Tải về"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Trang chủ"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "Hiểu thêm về iframe"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Cài đặt"
-  },
-  "premid.pageInstallFor": {
-    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
-    "message": "Cài đặt cho {0}"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "Tinh chỉnh metadata.json"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Lớp Presence"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Phát triển Presence"
-  },
-  "premid.pagePresenceGuide": {
-    "description": "A page name",
-    "message": "Nguyên tắc Presence"
-  },
-  "premid.pageSlideshowClass": {
-    "description": "A page name",
-    "message": "Lớp Slideshow"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Bắt đầu"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Cửa hàng"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Yêu cầu hệ thống"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Gỡ rối"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "Tinh chỉnh TypeScript"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Đối tác"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "Đang xem trang:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Đang xem presence:"
-  }
+	"premid.viewPage": {
+		"message": "Đang xem trang:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Tài liệu",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Đang xem presence:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Trang chủ",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Người đóng góp",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Tải về",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Cửa hàng",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Đối tác",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Về PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Yêu cầu hệ thống",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Cài đặt",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Cài đặt cho {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Gỡ rối",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Bắt đầu",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "Hiểu thêm về API v{0}",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Phát triển Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Nguyên tắc Presence",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Lớp Presence",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Lớp Slideshow",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Hiểu thêm về iframe",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Tinh chỉnh metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Tinh chỉnh TypeScript",
+		"description": "A page name"
+	}
 }
