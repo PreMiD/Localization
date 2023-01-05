@@ -1,30 +1,30 @@
 {
-  "merch.cart": {
-    "description": "Add product to cart",
-    "message": "Įdėti į krepšelį"
-  },
-  "merch.error.noitem": {
-    "description": "Error message when no size selected",
-    "message": "Krepšelis yra tuščias"
-  },
-  "merch.fit": {
-    "description": "Product sizes",
-    "message": "**Pasirinkite savo dydį**"
-  },
-  "merch.help": {
-    "description": "Link to customer support, {0}{1} is the replacement for the link",
-    "message": "Susidūrete su problemomis mūsų svetainėje arba užsakyme? Susisiekite su mūsų {0}Klientų pagalba{1}"
-  },
-  "merch.item.added": {
-    "description": "{0} replaced with product name",
-    "message": "{0} buvo pridėtas į jūsų krepšelį"
-  },
-  "merch.swag": {
-    "description": "Subtitle for store",
-    "message": "Raskite savo **Swag**"
-  },
-  "merch.title": {
-    "description": "Merch store title",
-    "message": "Sveiki atvykę į oficialų **PreMiD** prekių parduotuvę!"
-  }
+	"merch.title": {
+		"message": "Sveiki atvykę į oficialų **PreMiD** prekių parduotuvę!",
+		"description": "Merch store title"
+	},
+	"merch.swag": {
+		"message": "Raskite savo **Swag**",
+		"description": "Subtitle for store"
+	},
+	"merch.fit": {
+		"message": "**Pasirinkite savo dydį**",
+		"description": "Product sizes"
+	},
+	"merch.cart": {
+		"message": "Įdėti į krepšelį",
+		"description": "Add product to cart"
+	},
+	"merch.help": {
+		"message": "Susidūrete su problemomis mūsų svetainėje arba užsakyme? Susisiekite su mūsų {0}Klientų pagalba{1}",
+		"description": "Link to customer support, {0}{1} is the replacement for the link"
+	},
+	"merch.item.added": {
+		"message": "{0} buvo pridėtas į jūsų krepšelį",
+		"description": "{0} replaced with product name"
+	},
+	"merch.error.noitem": {
+		"message": "Krepšelis yra tuščias",
+		"description": "Error message when no size selected"
+	}
 }
