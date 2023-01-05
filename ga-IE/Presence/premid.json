@@ -1,94 +1,94 @@
 {
-  "premid.docs": {
-    "description": "as in documents",
-    "message": "Doiciméadú"
-  },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Maidir le PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
-  "premid.pageApiVersion": {
-    "description": "A page name // {0} will be replaced with the version number.",
-    "message": "An API v{0} a thuiscint"
-  },
-  "premid.pageContributors": {
-    "description": "A page name",
-    "message": "Rannpháirtithe"
-  },
-  "premid.pageDownloads": {
-    "description": "A page name",
-    "message": "Íoslódálacha"
-  },
-  "premid.pageHome": {
-    "description": "A page name",
-    "message": "Leathanach baile"
-  },
-  "premid.pageIframe": {
-    "description": "A page name",
-    "message": "Iframe a thuiscint"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Suiteáil"
-  },
-  "premid.pageInstallFor": {
-    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
-    "message": "Suiteáil do {0}"
-  },
-  "premid.pageMetadata": {
-    "description": "A page name",
-    "message": "Cumraigh metadata.json"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Rang Láithreachta"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Forbairt Láithreachta"
-  },
-  "premid.pagePresenceGuide": {
-    "description": "A page name",
-    "message": "Treoirlínte Láithreachta"
-  },
-  "premid.pageSlideshowClass": {
-    "description": "A page name",
-    "message": "Rang Taispeántas Sleamhnán"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Ag tosú"
-  },
-  "premid.pageStore": {
-    "description": "A page name",
-    "message": "Stór"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Riachtanais an Chórais"
-  },
-  "premid.pageTroubleshooting": {
-    "description": "A page name",
-    "message": "Fabhtcheartú"
-  },
-  "premid.pageTs": {
-    "description": "A page name",
-    "message": "Cumraigh TypeScript"
-  },
-  "premid.partners": {
-    "description": "A page name",
-    "message": "Comhpháirtithe"
-  },
-  "premid.viewPage": {
-    "description": "",
-    "message": "Leathanach féachana:"
-  },
-  "premid.viewPresence": {
-    "description": "",
-    "message": "Láithreacht féachana:"
-  }
+	"premid.viewPage": {
+		"message": "Leathanach féachana:",
+		"description": ""
+	},
+	"premid.docs": {
+		"message": "Doiciméadú",
+		"description": "as in documents"
+	},
+	"premid.viewPresence": {
+		"message": "Láithreacht féachana:",
+		"description": ""
+	},
+	"premid.pageHome": {
+		"message": "Leathanach baile",
+		"description": "A page name"
+	},
+	"premid.pageContributors": {
+		"message": "Rannpháirtithe",
+		"description": "A page name"
+	},
+	"premid.pageDownloads": {
+		"message": "Íoslódálacha",
+		"description": "A page name"
+	},
+	"premid.pageStore": {
+		"message": "Stór",
+		"description": "A page name"
+	},
+	"premid.partners": {
+		"message": "Comhpháirtithe",
+		"description": "A page name"
+	},
+	"premid.pageAbout": {
+		"message": "Maidir le PreMiD",
+		"description": "A page name"
+	},
+	"premid.pageSysReq": {
+		"message": "Riachtanais an Chórais",
+		"description": "A page name"
+	},
+	"premid.pageInstall": {
+		"message": "Suiteáil",
+		"description": "A page name"
+	},
+	"premid.pageInstallFor": {
+		"message": "Suiteáil do {0}",
+		"description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc."
+	},
+	"premid.pageTroubleshooting": {
+		"message": "Fabhtcheartú",
+		"description": "A page name"
+	},
+	"premid.pageStart": {
+		"message": "Ag tosú",
+		"description": "A page name"
+	},
+	"premid.pageApi": {
+		"message": "API",
+		"description": "A page name"
+	},
+	"premid.pageApiVersion": {
+		"message": "An API v{0} a thuiscint",
+		"description": "A page name // {0} will be replaced with the version number."
+	},
+	"premid.pagePresenceDev": {
+		"message": "Forbairt Láithreachta",
+		"description": "A page name"
+	},
+	"premid.pagePresenceGuide": {
+		"message": "Treoirlínte Láithreachta",
+		"description": "A page name"
+	},
+	"premid.pagePresenceClass": {
+		"message": "Rang Láithreachta",
+		"description": "A page name"
+	},
+	"premid.pageSlideshowClass": {
+		"message": "Rang Taispeántas Sleamhnán",
+		"description": "A page name"
+	},
+	"premid.pageIframe": {
+		"message": "Iframe a thuiscint",
+		"description": "A page name"
+	},
+	"premid.pageMetadata": {
+		"message": "Cumraigh metadata.json",
+		"description": "A page name"
+	},
+	"premid.pageTs": {
+		"message": "Cumraigh TypeScript",
+		"description": "A page name"
+	}
 }
