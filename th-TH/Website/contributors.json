@@ -43,6 +43,10 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "ผู้จัดการการแปลภาษา"
   },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "ผู้จัดการโปรเจกต์"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "นักตรวจทาน"
