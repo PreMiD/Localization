@@ -7,6 +7,10 @@
     "description": "",
     "message": "Navegando..."
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Navegar"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Escuchar"
@@ -58,6 +62,10 @@
   "general.buttonViewSeries": {
     "description": "Used as the title for the button in Discord.",
     "message": "Ver serie"
+  },
+  "general.buttonViewShow": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Ver Serie"
   },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
