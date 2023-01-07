@@ -7,6 +7,10 @@
     "description": "",
     "message": "Menelusuri..."
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Telusuri"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Dengar Bersama"
@@ -18,6 +22,10 @@
   "general.buttonViewAlbum": {
     "description": "Used as the title for the button in Discord.",
     "message": "Lihat Album"
+  },
+  "general.buttonViewArticle": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Lihat Artikel"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
