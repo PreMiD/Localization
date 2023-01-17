@@ -55,6 +55,10 @@
     "description": "Used as the title for the button in Discord.",
     "message": "Ver série"
   },
+  "general.buttonViewShow": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Ver série"
+  },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Ver música"
