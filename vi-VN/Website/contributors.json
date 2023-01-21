@@ -23,17 +23,37 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Người ủng hộ máy chủ"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Quản lý cộng đồng"
+  },
+  "contributors.roles.discordModerator": {
+    "description": "'Discord Moderator' title for contributors and user pages.",
+    "message": "Người quản lí Discord"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Người ủng hộ"
+  },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Nhân sự"
   },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Quản lí khu vực hoá"
   },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Quản lí dự án"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Hiệu đính viên"
+  },
+  "contributors.roles.technicalSupport": {
+    "description": "'Technical Support' title for contributors and user pages.",
+    "message": "Hỗ trợ kĩ thuật"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
