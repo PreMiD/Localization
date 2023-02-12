@@ -159,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "Taiga คือ Discord Bot ที่มีฟีเจอร์บางอย่างที่คุณต้องการ!"
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio เป็นวิทยุออนไลน์ที่ขับเคลื่อนโดยชุมชน โดยให้ความบันเทิงทางวิทยุแบบไม่มีโฆษณาตลอด 24 ชั่วโมงทุกวัน บทข่าวรายวัน และอีกมากมาย!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "Open-Source Wiki ที่ดีเเละขยายได้มากที่สุด!"
