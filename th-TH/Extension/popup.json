@@ -61,7 +61,7 @@
   },
   "popup.info.noInternet": {
     "description": "Shown when the user has no internet connection",
-    "message": "ไม่พบการเชื่อมต่ออินเตอร์เน๊ต!"
+    "message": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต!"
   },
   "popup.info.noInternet.message": {
     "description": "Shown when the user has no internet connection",
