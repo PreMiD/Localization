@@ -43,6 +43,10 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Honosításkezelő"
   },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Projekt menedzsment"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Lektor"
