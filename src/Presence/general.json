@@ -123,10 +123,6 @@
     "description": "A page name of statuspages",
     "message": "Incident history"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Viewing an incident"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Language"
@@ -175,9 +171,29 @@
     "description": "",
     "message": "Reading"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Reading in a channel"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "Reading a DM"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Reading a post"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Reading a thread"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Reading about:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Reading an article"
   },
   "general.readingArticle": {
     "description": "",
@@ -243,13 +259,69 @@
     "description": "",
     "message": "Typing in DMs to:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Typing in DMs"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Uptime history"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Viewing a list"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Viewing a manga"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Viewing a member"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Viewing a movie"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Viewing a page"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Viewing a playlist"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Viewing a product"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Viewing a profile"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Viewing a serie"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Viewing a show"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Viewing a thread"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Viewing their account"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Viewing an incident"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Viewing an user"
   },
   "general.viewAnime": {
     "description": "",
@@ -274,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Viewing home page"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Viewing incident about:"
   },
   "general.viewList": {
     "description": "",
@@ -326,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "Viewing:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Viewing a wishlist"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Viewing wishlist of:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
