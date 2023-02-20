@@ -63,6 +63,10 @@
     "description": "Used as the title for the button in Discord.",
     "message": "Lihat Serial"
   },
+  "general.buttonViewShow": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Lihat Acara"
+  },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Lihat Lagu"
