@@ -171,9 +171,29 @@
     "description": "",
     "message": "Membaca"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Membaca dalam saluran"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "Membaca DM"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Membaca hantaran"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Membaca bebenang"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Membaca mengenai:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Membaca rencana"
   },
   "general.readingArticle": {
     "description": "",
@@ -239,13 +259,69 @@
     "description": "",
     "message": "Menaip di DM untuk:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Menaip dalam DM"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Sejarah masa hidup"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Melihat senarai"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Melihat manga"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Melihat ahli"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Melihat filem"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Melihat halaman"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Melihat senarai main"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Melihat produk"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Melihat profil"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Melihat siri"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Melihat rancangan"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Melihat bebenang"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Melihat akaun miliknya"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Melihat kejadian"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Melihat pengguna"
   },
   "general.viewAnime": {
     "description": "",
@@ -270,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Melihat halaman utama"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Melihat kejadian mengenai:"
   },
   "general.viewList": {
     "description": "",
@@ -322,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "Melihat:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Melihat senarai hasrat"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Melihat senarai hasrat:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
