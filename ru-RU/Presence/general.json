@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "История происшествий"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Смотрит происшествие"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Язык"
