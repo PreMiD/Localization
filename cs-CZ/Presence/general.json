@@ -103,10 +103,6 @@
     "description": "A page name of statuspages",
     "message": "Historie incidentů"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Prohlíží incident"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Jazyk"

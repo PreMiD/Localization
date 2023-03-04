@@ -123,10 +123,6 @@
     "description": "A page name of statuspages",
     "message": "Hata geçmişi"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Bir olaya bakıyor"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Dil"

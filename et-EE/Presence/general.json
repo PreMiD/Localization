@@ -103,10 +103,6 @@
     "description": "A page name of statuspages",
     "message": "Intsidentide ajalugu"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Intsidenti vaatamine"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Keel"

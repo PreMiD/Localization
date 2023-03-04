@@ -123,10 +123,6 @@
     "description": "A page name of statuspages",
     "message": "Riwayat insiden"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Melihat suatu kejadian"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Bahasa"

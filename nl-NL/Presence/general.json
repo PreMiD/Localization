@@ -123,10 +123,6 @@
     "description": "A page name of statuspages",
     "message": "Incidentengeschiedenis"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Bekijkt een incident"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Taal"

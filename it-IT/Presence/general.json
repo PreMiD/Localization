@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Cronologia degli incidenti"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Visualizzando un imprevisto"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Lingua"

@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "История на грешки"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Преглед на грешка"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "език"

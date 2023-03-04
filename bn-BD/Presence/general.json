@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "ঘটনার রিপোর্ট"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "দেখছে একটি ঘটনা"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "ভাষা"

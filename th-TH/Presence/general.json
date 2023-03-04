@@ -123,10 +123,6 @@
     "description": "A page name of statuspages",
     "message": "ประวัติเหตุการณ์"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "กำลังดูเหตุการณ์"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "ภาษา"

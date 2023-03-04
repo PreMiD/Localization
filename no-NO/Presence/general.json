@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Hendelseshistorikk"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Ser på en hendelse"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Språk"

@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Stair na dteagmhas"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Ag féachaint ar eachtra"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Teanga"
