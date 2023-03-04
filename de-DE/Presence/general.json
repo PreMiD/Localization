@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Störungsverlauf"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Sieht sich ein Vorfall an"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Sprache"
