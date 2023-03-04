@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "تاریخچه وقایع"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "درحال مشاهده یک رخداد"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "زبان"
