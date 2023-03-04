@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Az incidensek előzményei"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Incidenst néz"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Nyelv"
