@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "問題の履歴"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "発生した問題一覧を閲覧中"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "言語"
