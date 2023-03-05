@@ -171,9 +171,25 @@
     "description": "",
     "message": "Bezig met lezen"
   },
+  "general.readingADM": {
+    "description": "",
+    "message": "Leest een privébericht"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Leest een post"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Leest een thread"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Leest over:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Leest een artikel"
   },
   "general.readingArticle": {
     "description": "",
@@ -239,13 +255,65 @@
     "description": "",
     "message": "Typt in privéberichten naar:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Typt een privébericht"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Beschikbaarheidsgeschiedenis"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Bekijkt een lijst"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Bekijkt een lid"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Bekijkt een film"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Bekijkt een pagina"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Bekijkt een afspeellijst"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Bekijkt een product"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Bekijkt een profiel"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Bekijkt een serie"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Bekijkt een programma"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Bekijkt een thread"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Bekijkt zijn/haar account"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Bekijkt een incident"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Bekijkt een gebruiker"
   },
   "general.viewAnime": {
     "description": "",
@@ -322,6 +390,14 @@
   "general.viewing": {
     "description": "",
     "message": "Bekijkt:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Bekijkt een verlanglijst"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Bekijkt verlanglijst van:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
