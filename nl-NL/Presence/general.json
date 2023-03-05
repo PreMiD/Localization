@@ -171,6 +171,10 @@
     "description": "",
     "message": "Bezig met lezen"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Leest in een kanaal"
+  },
   "general.readingADM": {
     "description": "",
     "message": "Leest een privébericht"
@@ -267,6 +271,10 @@
     "description": "",
     "message": "Bekijkt een lijst"
   },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Bekijkt een manga"
+  },
   "general.viewAMember": {
     "description": "",
     "message": "Bekijkt een lid"
@@ -338,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Bekijkt de startpagina"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Bekijkt incident:"
   },
   "general.viewList": {
     "description": "",
