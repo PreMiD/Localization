@@ -303,6 +303,14 @@
     "description": "",
     "message": "مشاهده حساب‌شان"
   },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "درحال مشاهده یک رخداد"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "درحال بازدید از یک کاربر"
+  },
   "general.viewAnime": {
     "description": "",
     "message": "مشاهده انیمه:"
@@ -326,6 +334,10 @@
   "general.viewHome": {
     "description": "",
     "message": "مشاهده صفحه اصلی"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "درحال مشاهده رخداد درباره:"
   },
   "general.viewList": {
     "description": "",
@@ -378,6 +390,14 @@
   "general.viewing": {
     "description": "",
     "message": "دیدن:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "درحال دیدن یک لیست‌دلخواه"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "درحال دیدن لیست‌دلخواه:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
