@@ -16,7 +16,7 @@
 		"message": "Browsing through"
 	},
 	"youtube.browsingTypeVideos": {
-		"description": "",
+		"description": "The topic in those gray chips on the youtube home page",
 		"message": "Browsing through {0} videos"
 	},
 	"youtube.browsingVideos": {
