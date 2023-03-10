@@ -95,6 +95,10 @@
     "description": "Partnership application modal title.",
     "message": "Кандидатствай за партньор"
   },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Присъедини се към семейството, получи някои бонуси специално за партньори и покажи колко си готин."
+  },
   "partners.header.title": {
     "description": "Heading for page.",
     "message": "Партньори"
@@ -155,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "taiga е Discord бот, който се опитва да предлага всички функций, които ти трябват на веднъж!"
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio е поддържано от общността онлайн радио, което предоставя 24/7 радио развлечение, всекидневни новинарски статии и още много!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "Най-мощният и разтегателен, отворен source Wiki софтуер."
@@ -194,6 +202,10 @@
   "partners.why.benefit1.description": {
     "description": "Description for the first benefit.",
     "message": "Нашият екип ще ви предостави presence от ваш избор."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Вашият безплатен Presence"
   },
   "partners.why.benefit2.description": {
     "description": "Description for the second benefit.",

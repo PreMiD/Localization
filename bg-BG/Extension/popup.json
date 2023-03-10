@@ -7,6 +7,10 @@
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
     "message": "Presence Магазин"
   },
+  "popup.category.all": {
+    "description": "Category name shown when you open tags",
+    "message": "Всичко"
+  },
   "popup.category.anime": {
     "description": "Category name shown when you open tags",
     "message": "Аниме"
@@ -18,6 +22,10 @@
   "popup.category.music": {
     "description": "Category name shown when you open tags",
     "message": "Mузика"
+  },
+  "popup.category.other": {
+    "description": "Category name shown when you open tags",
+    "message": "Други"
   },
   "popup.category.socials": {
     "description": "Category name shown when you open tags",
@@ -43,6 +51,10 @@
     "description": "Title of the 'general' area of the 'settings' section in the popup",
     "message": "Общ"
   },
+  "popup.headings.presences": {
+    "description": "Title of the 'presences' area of the 'settings' section in the popup",
+    "message": "Presences"
+  },
   "popup.headings.settings": {
     "description": "Title of the 'settings' section at the navigation in the popup",
     "message": "Настройки"
@@ -50,6 +62,10 @@
   "popup.info.noInternet": {
     "description": "Shown when the user has no internet connection",
     "message": "Няма връзка с интернет!"
+  },
+  "popup.info.noInternet.message": {
+    "description": "Shown when the user has no internet connection",
+    "message": "Изглежда, че нямате връзка с интернет! PreMiD няма да може да показва presence в момента."
   },
   "popup.info.notConnected": {
     "description": "Shown when the extension can't connect to the application",
@@ -62,6 +78,10 @@
   "popup.info.notConnectedDiscord": {
     "description": "Shown in the extension when the application can't connect to Discord",
     "message": "Няма връзка с Discord!"
+  },
+  "popup.info.notConnectedDiscord.message": {
+    "description": "Shown in the extension when the application can't connect to Discord",
+    "message": "PreMiD не успя да се свърже с твоето Discord приложение! Изтеглено ли е и работи ли?\n*Отстраняване на неизправности*"
   },
   "popup.info.safari.outdatedExtension": {
     "description": "Shown when Extension is outdated. Only for Safari port.",
@@ -95,6 +115,10 @@
     "description": "Title of the 'settings' section at the navigation in the popup",
     "message": "Настройки"
   },
+  "popup.presences.done": {
+    "description": "Done button",
+    "message": "Готово"
+  },
   "popup.presences.load": {
     "description": "Load Presence button",
     "message": "Зареди Presence"
@@ -110,6 +134,10 @@
   "popup.setting.autoLaunch": {
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
     "message": "Автоматично стартиране"
+  },
+  "popup.setting.enabled": {
+    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
+    "message": "Активирано"
   },
   "popup.setting.mediaControl": {
     "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",

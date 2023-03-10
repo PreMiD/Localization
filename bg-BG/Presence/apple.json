@@ -167,6 +167,10 @@
     "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
     "message": "Напомняния"
   },
+  "apple.other": {
+    "description": "Other pages not added to the code",
+    "message": "Други"
+  },
   "apple.overview": {
     "description": "Overview of e.g. all pages of a category",
     "message": "Общ оглед"
