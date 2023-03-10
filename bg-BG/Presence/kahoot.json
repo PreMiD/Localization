@@ -11,6 +11,18 @@
     "description": "Used when the user is viewing the create.kahoot.it home page",
     "message": "Гледа началната страница"
   },
+  "kahoot.drumRoll": {
+    "description": "Used when a player is waiting to receive their final ranking",
+    "message": "Изчакване за крайно класиране..."
+  },
+  "kahoot.editingKahoot": {
+    "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below.",
+    "message": "Редактира Kahoot:"
+  },
+  "kahoot.feedback": {
+    "description": "Used when a player is providing feedback about the quiz to the host",
+    "message": "Дава отзив"
+  },
   "kahoot.firstPlace": {
     "description": "Used to display who was first place in a game. {0} is a player name",
     "message": "Първо място: {0}"
@@ -27,6 +39,10 @@
     "description": "Used when a Kahoot Game is starting",
     "message": "Играта започва!"
   },
+  "kahoot.gameSummary": {
+    "description": "Used when the host is viewing the summary of a game",
+    "message": "Гледа обобщението на играта"
+  },
   "kahoot.incorrectAnswer": {
     "description": "Used when the user answered incorrectly on a question",
     "message": "Неправилен отговор"
@@ -35,9 +51,25 @@
     "description": "Used when a user is joining a Kahoot Game.",
     "message": "Присъединяване към играта..."
   },
+  "kahoot.kahootDetails": {
+    "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below.",
+    "message": "Гледа подробности за Kahoot:"
+  },
+  "kahoot.liveCourseActivity": {
+    "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name.",
+    "message": "Дейност #{0}: {1}"
+  },
   "kahoot.loadingPage": {
     "description": "Used when a page is loading",
     "message": "Зареждане на страница..."
+  },
+  "kahoot.login": {
+    "description": "Used when a user is logging in",
+    "message": "Вписва се"
+  },
+  "kahoot.myKahoots": {
+    "description": "Used when the user is viewing their own kahoots",
+    "message": "Гледа техните Kahoots"
   },
   "kahoot.ndPlace": {
     "description": "Used in the context of 2nd place",
@@ -47,6 +79,10 @@
     "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
     "message": "{0} от {1}"
   },
+  "kahoot.onPodium": {
+    "description": "Used in the context of a player/team being withing the top 3",
+    "message": "На Подиума"
+  },
   "kahoot.playing": {
     "description": "Used as the first line when a user is answering a question",
     "message": "Играе..."
@@ -54,6 +90,14 @@
   "kahoot.points": {
     "description": "Used to display how many points a user has. {0} is the number of points",
     "message": "Точки: {0}"
+  },
+  "kahoot.position": {
+    "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
+    "message": "Позиция: {0}"
+  },
+  "kahoot.previewingKahoot": {
+    "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below.",
+    "message": "Прави предварителен преглед на Kahoot:"
   },
   "kahoot.questionLoading": {
     "description": "Used when the next question is loading",
@@ -79,6 +123,10 @@
     "description": "Used when a user is looking at the results of the question they just answered",
     "message": "Преглед на резултатите:"
   },
+  "kahoot.searchKahoots": {
+    "description": "Used when the user is searching for Kahoots. The search query will be displayed below.",
+    "message": "Търси Kahoots:"
+  },
   "kahoot.slideShowing": {
     "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz",
     "message": "Показване на слайд със съдържание:"
@@ -91,6 +139,10 @@
     "description": "Used in the context of 1st place",
     "message": "1-во място"
   },
+  "kahoot.teamTalk": {
+    "description": "Used when a player is talking to their team during team talk time",
+    "message": "Обсъждане с отбора"
+  },
   "kahoot.topX": {
     "description": "Used in the context of Top 5",
     "message": "Топ {0}"
@@ -98,5 +150,9 @@
   "kahoot.waiting": {
     "description": "Used when the user is waiting for a Kahoot Game to start",
     "message": "Чака да започне..."
+  },
+  "kahoot.waitingAnswer": {
+    "description": "Used when a player is waiting for the question results",
+    "message": "Изчаква резултатите..."
   }
 }
