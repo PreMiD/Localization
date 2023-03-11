@@ -171,9 +171,21 @@
     "description": "",
     "message": "Membaca"
   },
+  "general.readingADM": {
+    "description": "",
+    "message": "Membaca Pesan Langsung"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Membaca postingan"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Membaca tentang:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Membaca sebuah artikel"
   },
   "general.readingArticle": {
     "description": "",
@@ -239,9 +251,41 @@
     "description": "",
     "message": "Mengetik DM untuk:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Mengetik di Pesan Langsung"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Riwayat uptime"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Melihat manga"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Melihat anggota"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Melihat film"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Melihat halaman"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Melihat daftar putar"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Melihat produk"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Melihat profil"
   },
   "general.viewAccount": {
     "description": "",
