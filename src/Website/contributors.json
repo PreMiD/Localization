@@ -11,7 +11,7 @@
     "description": "Heading for group of users.",
     "message": "Staff"
   },
-  "contributors.headings.supporters": {
+  "contributors.headings.support": {
     "description": "Heading for group of users.",
     "message": "Supporters"
   },
@@ -27,9 +27,9 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Community Manager"
   },
-  "contributors.roles.discordModerator": {
-    "description": "'Discord Moderator' title for contributors and user pages.",
-    "message": "Discord Moderator"
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderator"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -51,9 +51,9 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Proofreader"
   },
-  "contributors.roles.technicalSupport": {
-    "description": "'Technical Support' title for contributors and user pages.",
-    "message": "Technical Support"
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Support"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
