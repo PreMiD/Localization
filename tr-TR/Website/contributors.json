@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Ekip"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Destekçiler"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Çevirmenler"
@@ -22,6 +26,10 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Topluluk Yöneticisi"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderatör"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
