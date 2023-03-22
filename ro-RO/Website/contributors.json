@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "Personal"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Suporteri"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Traducători"
@@ -26,6 +22,10 @@
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Donator"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Asistență"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
