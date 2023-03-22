@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "Csapat"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Támogatók"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Fordítók"
@@ -26,10 +22,6 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Közösségi Menedzser"
-  },
-  "contributors.roles.discordModerator": {
-    "description": "'Discord Moderator' title for contributors and user pages.",
-    "message": "Discord Moderátor"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -51,9 +43,9 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Lektor"
   },
-  "contributors.roles.technicalSupport": {
-    "description": "'Technical Support' title for contributors and user pages.",
-    "message": "Technikai Támogatás"
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Támogatás"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
