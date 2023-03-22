@@ -7,10 +7,6 @@
     "description": "Heading for group of users.",
     "message": "צוות"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "תומכים"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "מתרגמים"
