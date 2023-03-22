@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "Osoblje"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Donatori"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Prevoditelji"
