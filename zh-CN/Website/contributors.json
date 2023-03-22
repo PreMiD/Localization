@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "工作人员"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "赞助者"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "翻译人员"
