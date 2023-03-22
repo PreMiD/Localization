@@ -7,6 +7,10 @@
     "description": "",
     "message": "Сърфирането ..."
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Прегледай"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Слушайте заедно"
@@ -18,6 +22,10 @@
   "general.buttonViewAlbum": {
     "description": "Used as the title for the button in Discord.",
     "message": "Преглед на албума"
+  },
+  "general.buttonViewArticle": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Виж статията"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
@@ -54,6 +62,10 @@
   "general.buttonViewSeries": {
     "description": "Used as the title for the button in Discord.",
     "message": "Погледни серий"
+  },
+  "general.buttonViewShow": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Виж шоуто"
   },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
@@ -123,6 +135,10 @@
     "description": "",
     "message": "Слуша музика"
   },
+  "general.listeningTo": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+    "message": "Слуша{0}{1}"
+  },
   "general.live": {
     "description": "",
     "message": "Live"
@@ -155,9 +171,29 @@
     "description": "",
     "message": "четене"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Четене в канал"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "Чете ЛС"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Чете публикация"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Чете тема"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Чете за:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Чете статия"
   },
   "general.readingArticle": {
     "description": "",
@@ -223,9 +259,37 @@
     "description": "",
     "message": "Пише на лично на:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Пише в ЛС"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "История на ъптайм"
+  },
+  "general.viewAList": {
+    "description": "",
+    "message": "Гледа списък"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Гледа манга"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Преглежда член"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Преглежда филм"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Преглежда страница"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Преглежда плейлист"
   },
   "general.viewAccount": {
     "description": "",
