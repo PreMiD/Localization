@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "Foireann"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Lucht tacaíochta"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Aistritheoirí"
@@ -34,6 +30,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Léitheoir profaí"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Tacaíocht"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "Jadro týmu"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Podporovatelé"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Překladatelé"

@@ -1,1 +1,10 @@
-{}
+{
+  "amazon.store": {
+    "description": "",
+    "message": "Tittar på butiken:"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "Tittar på deras"
+  }
+}
