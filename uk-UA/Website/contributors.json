@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "Штат"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Прихильники"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Перекладачі"
@@ -34,6 +30,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Редактор"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Підтримка"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
