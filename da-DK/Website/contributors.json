@@ -3,10 +3,6 @@
     "description": "Heading for group of users.",
     "message": "Personale"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Supportere"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Oversættere"
