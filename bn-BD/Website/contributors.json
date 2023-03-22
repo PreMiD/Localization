@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "স্টাফ"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "সাপোর্টারস"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "অনুবাদকগণ"
@@ -34,6 +30,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "প্রুফরিডার"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "সাপোর্ট"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
