@@ -45,7 +45,7 @@
   },
   "apple.btnViewWWDC": {
     "description": "e.g.: \"View WWDC21\"",
-    "message": "Преглед на {0}"
+    "message": "Виж {0}"
   },
   "apple.chooseLang": {
     "description": "Choosing the language of the website",
@@ -69,7 +69,7 @@
   },
   "apple.devFeatures": {
     "description": "Features for app design",
-    "message": "Функции"
+    "message": "Характеристики"
   },
   "apple.devGames": {
     "description": "Apps classified under the \"Games\" category on the App Store",
