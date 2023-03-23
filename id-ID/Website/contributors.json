@@ -23,6 +23,10 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Pengelola Komunitas"
   },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderator"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Donatur"
