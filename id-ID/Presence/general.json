@@ -295,6 +295,10 @@
     "description": "",
     "message": "Melihat akun mereka"
   },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Melihat pengguna"
+  },
   "general.viewAnime": {
     "description": "",
     "message": "Melihat anime:"
