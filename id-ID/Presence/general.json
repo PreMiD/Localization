@@ -259,6 +259,10 @@
     "description": "A page name of statuspages",
     "message": "Riwayat uptime"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Melihat daftar"
+  },
   "general.viewAManga": {
     "description": "",
     "message": "Melihat manga"
