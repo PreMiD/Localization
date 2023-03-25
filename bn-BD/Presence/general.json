@@ -7,6 +7,10 @@
     "description": "",
     "message": "ব্রাউজ করছে..."
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "খোঁজো"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "শোনো একসাথে"
@@ -18,6 +22,10 @@
   "general.buttonViewAlbum": {
     "description": "Used as the title for the button in Discord.",
     "message": "দেখো অ্যালবামটি"
+  },
+  "general.buttonViewArticle": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "দেখো প্রবন্ধটি"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
@@ -33,7 +41,7 @@
   },
   "general.buttonViewMovie": {
     "description": "Used as the title for the button in Discord.",
-    "message": "মুভিটি সম্পর্কে দেখো"
+    "message": "দেখো মুভিটি"
   },
   "general.buttonViewPage": {
     "description": "Used as the title for the button in Discord.",
@@ -54,6 +62,10 @@
   "general.buttonViewSeries": {
     "description": "Used as the title for the button in Discord.",
     "message": "দেখো সিরিজটি"
+  },
+  "general.buttonViewShow": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "দেখো অনুষ্ঠানটি"
   },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
@@ -123,6 +135,10 @@
     "description": "",
     "message": "গান শুনছে"
   },
+  "general.listeningTo": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+    "message": "শুনছে {0}{1}"
+  },
   "general.live": {
     "description": "",
     "message": "লাইভ"
@@ -155,9 +171,29 @@
     "description": "",
     "message": "পড়ছে"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "পড়ছে একটি চ্যানেলে"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "পড়ছে একটি DM"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "পড়ছে একটি পোস্ট"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "পড়ছে একটি থ্রেড"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "পড়ছে যার সম্পর্কে:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "পড়ছে একটি প্রবন্ধ"
   },
   "general.readingArticle": {
     "description": "",
@@ -169,7 +205,7 @@
   },
   "general.readingDM": {
     "description": "",
-    "message": "পড়ছে DMs যার থেকে:"
+    "message": "পড়ছে DM গুলো যার থেকে:"
   },
   "general.readingPost": {
     "description": "",
@@ -221,15 +257,71 @@
   },
   "general.typeDM": {
     "description": "",
-    "message": "টাইপ করছে DMs এ যাকে:"
+    "message": "টাইপ করছে DM এ যাকে:"
+  },
+  "general.typeInDM": {
+    "description": "",
+    "message": "টাইপ করছে DM এ"
   },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "আপটাইম রিপোর্ট"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "দেখছে একটি লিস্ট"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "দেখছে একটি মাংগা"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "দেখছে একটি মেম্বারকে"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "দেখছে একটি মুভি"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "দেখছে একটি পেজ"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "দেখছে একটি প্লেলিস্ট"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "দেখছে একটি প্রোডাক্ট"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "দেখছে একটি প্রোফাইল"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "দেখছে একটি সিরিজ"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "দেখছে একটি অনুষ্ঠান"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "দেখছে একটি থ্রেড"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "দেখছে তার অ্যাকাউন্ট"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "দেখছে স্ট্যাটাস পেজের একটি ঘটনা"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "দেখছে একজন ইউজারকে"
   },
   "general.viewAnime": {
     "description": "",
@@ -254,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "দেখছে হোমপেজ"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "দেখছে স্ট্যাটাস পেজের ঘটনা:"
   },
   "general.viewList": {
     "description": "",
@@ -306,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "দেখছে:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "দেখছে একটি উইশলিস্ট"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "দেখছে একজনের উইশলিস্ট:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
