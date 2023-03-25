@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "স্টাফ"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "সাপোর্টার"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "অনুবাদকগণ"
@@ -18,6 +22,14 @@
   "contributors.roles.booster": {
     "description": "'Booster' title for contributors page and user pages.",
     "message": "বুস্টার"
+  },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "কমিউনিটি ম্যানেজার"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "মডারেটর"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
