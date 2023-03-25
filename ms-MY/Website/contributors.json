@@ -27,9 +27,9 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Pengurus Komuniti"
   },
-  "contributors.roles.discordModerator": {
-    "description": "'Discord Moderator' title for contributors and user pages.",
-    "message": "Moderator Discord"
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderator"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -51,9 +51,9 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Pembaca Pruf"
   },
-  "contributors.roles.technicalSupport": {
-    "description": "'Technical Support' title for contributors and user pages.",
-    "message": "Sokongan Teknikal"
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Sokongan"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

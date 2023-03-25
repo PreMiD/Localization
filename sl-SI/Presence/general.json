@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Zgodovina incidentov"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Ogledovanje incidenta"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Jezik"

@@ -103,10 +103,6 @@
     "description": "A page name of statuspages",
     "message": "事件記錄"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "查看某次事件"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "語言"

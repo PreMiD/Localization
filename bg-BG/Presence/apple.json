@@ -45,7 +45,7 @@
   },
   "apple.btnViewWWDC": {
     "description": "e.g.: \"View WWDC21\"",
-    "message": "Преглед на {0}"
+    "message": "Виж {0}"
   },
   "apple.chooseLang": {
     "description": "Choosing the language of the website",
@@ -69,7 +69,7 @@
   },
   "apple.devFeatures": {
     "description": "Features for app design",
-    "message": "Функции"
+    "message": "Характеристики"
   },
   "apple.devGames": {
     "description": "Apps classified under the \"Games\" category on the App Store",
@@ -166,6 +166,10 @@
   "apple.iCloudReminders": {
     "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
     "message": "Напомняния"
+  },
+  "apple.other": {
+    "description": "Other pages not added to the code",
+    "message": "Други"
   },
   "apple.overview": {
     "description": "Overview of e.g. all pages of a category",

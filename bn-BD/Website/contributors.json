@@ -13,7 +13,7 @@
   },
   "contributors.headings.supporters": {
     "description": "Heading for group of users.",
-    "message": "সাপোর্টারস"
+    "message": "সাপোর্টার"
   },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
@@ -23,17 +23,37 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "বুস্টার"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "কমিউনিটি ম্যানেজার"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "মডারেটর"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "অর্থ সাহায্যকারী"
+  },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "মানব সম্পদ"
   },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "স্থানীয়করণ ম্যানেজার"
   },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "প্রজেক্ট ম্যানেজমেন্ট"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "প্রুফরিডার"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "সাপোর্ট"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

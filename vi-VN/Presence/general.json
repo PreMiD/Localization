@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Lịch sử sự cố"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Đang xem một sự cố"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Ngôn ngữ"

@@ -13,7 +13,7 @@
   },
   "contributors.headings.supporters": {
     "description": "Heading for group of users.",
-    "message": "Donadores"
+    "message": "Colaboradores"
   },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
@@ -27,9 +27,9 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Community Manager"
   },
-  "contributors.roles.discordModerator": {
-    "description": "'Discord Moderator' title for contributors and user pages.",
-    "message": "Moderador de Discord"
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderador"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -51,9 +51,9 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Revisor de traducciones"
   },
-  "contributors.roles.technicalSupport": {
-    "description": "'Technical Support' title for contributors and user pages.",
-    "message": "Soporte Técnico"
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Soporte"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

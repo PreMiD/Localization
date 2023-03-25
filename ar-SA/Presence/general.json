@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "سجل الحادثة"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "جاري رؤية حادثة"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "اللغة"

@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "हादसा इतिहास"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "किसी घटना को देखना"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "भाषा"

@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Tapahtumahistoria"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Tarkastelee vikatapahtumaa"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Kieli"

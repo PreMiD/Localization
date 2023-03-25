@@ -95,10 +95,6 @@
     "description": "A page name of statuspages",
     "message": "Riwayat kadediyan"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Ndeleng kadediyan"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Basa"

@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "사고 기록"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "사고 보는 중"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "언어"

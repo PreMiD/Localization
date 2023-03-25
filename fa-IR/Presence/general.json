@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "تاریخچه وقایع"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "درحال مشاهده یک رخداد"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "زبان"
@@ -163,9 +159,29 @@
     "description": "",
     "message": "در‌حال خواندن"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "درحال خواندن در یک کانال"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "درحال خواندن یک DM"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "درحال خواندن یک پست"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "درحال خواندن یک thread"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "خواندن درباره:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "درحال خواندن یک مقاله"
   },
   "general.readingArticle": {
     "description": "",
@@ -231,13 +247,69 @@
     "description": "",
     "message": "نوشتن DM به:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "درحال نوشتن در DM"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "تاریخچه مدت فعالیت"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "درحال بازدید یک لیست"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "درحال بازدید از یک مانگا"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "درحال بازدید از یک عضو"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "درحال دیدن یک فیلم"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "درحال دیدن یک صفحه"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "درحال بازدید از یک لیست پخش"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "درحال مشاهده یک محصول"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "درحال بازدید از یک پروفایل"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "درحال بازدید از یک سری"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "درحال دیدن یک نمایش"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "درحال دیدن یک thread"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "مشاهده حساب‌شان"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "درحال مشاهده یک رخداد"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "درحال بازدید از یک کاربر"
   },
   "general.viewAnime": {
     "description": "",
@@ -262,6 +334,10 @@
   "general.viewHome": {
     "description": "",
     "message": "مشاهده صفحه اصلی"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "درحال مشاهده رخداد درباره:"
   },
   "general.viewList": {
     "description": "",
@@ -314,6 +390,14 @@
   "general.viewing": {
     "description": "",
     "message": "دیدن:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "درحال دیدن یک لیست‌دلخواه"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "درحال دیدن لیست‌دلخواه:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",

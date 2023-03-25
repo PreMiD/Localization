@@ -11,10 +11,6 @@
     "description": "Heading for group of users.",
     "message": "Personāls"
   },
-  "contributors.headings.supporters": {
-    "description": "Heading for group of users.",
-    "message": "Atbalstītāji"
-  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Tulki"

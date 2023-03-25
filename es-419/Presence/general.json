@@ -7,6 +7,10 @@
     "description": "",
     "message": "Navegando..."
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Navegar"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Escuchar"
@@ -18,6 +22,10 @@
   "general.buttonViewAlbum": {
     "description": "Used as the title for the button in Discord.",
     "message": "Ver álbum"
+  },
+  "general.buttonViewArticle": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Ver artículo"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
@@ -52,6 +60,10 @@
     "message": "Ver perfil"
   },
   "general.buttonViewSeries": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Ver serie"
+  },
+  "general.buttonViewShow": {
     "description": "Used as the title for the button in Discord.",
     "message": "Ver serie"
   },
@@ -110,10 +122,6 @@
   "general.incidentHistory": {
     "description": "A page name of statuspages",
     "message": "Historial de incidentes"
-  },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Viendo una incidencia"
   },
   "general.language": {
     "description": "For choosing a language",

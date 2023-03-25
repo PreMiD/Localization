@@ -57,7 +57,7 @@
   },
   "downloads.extdownloading.header": {
     "description": "Header above extension download buttons.",
-    "message": "разширение"
+    "message": "Разширение"
   },
   "downloads.header.subtitle": {
     "description": "Subtitle for header",

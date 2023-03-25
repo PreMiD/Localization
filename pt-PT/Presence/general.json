@@ -7,6 +7,10 @@
     "description": "",
     "message": "A procurar"
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Explorar"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Ouvir em conjunto"
@@ -18,6 +22,10 @@
   "general.buttonViewAlbum": {
     "description": "Used as the title for the button in Discord.",
     "message": "Ver álbum"
+  },
+  "general.buttonViewArticle": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Ver artigo"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
@@ -115,10 +123,6 @@
     "description": "A page name of statuspages",
     "message": "Histórico de incidentes"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "A ver um incidente"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Idioma"
@@ -167,9 +171,29 @@
     "description": "",
     "message": "A ler"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "A ler num canal"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "A ler uma DM"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "A ler um post"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "A ler um tópico"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "A ler sobre"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "A ler um artigo"
   },
   "general.readingArticle": {
     "description": "",
@@ -235,13 +259,69 @@
     "description": "",
     "message": "A escrever uma mensagem para"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "A escrever nas DMs"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Histórico de atividade"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "A ver uma lista"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "A ver um manga"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "A ver um membro"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "A ver um filme"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "A ver uma página"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "A ver uma playlist"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "A ver um produto"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "A ver um perfil"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "A ver uma série"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "A ver uma série"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "A ver um tópico"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "A ver a sua conta"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "A ver um incidente"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "A ver um utilizador"
   },
   "general.viewAnime": {
     "description": "",
@@ -266,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "A ver a página inicial"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "A ver um incidente sobre"
   },
   "general.viewList": {
     "description": "",
@@ -318,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "A ver"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "A ver a lista de desejos"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "A ver a lista de desejos de"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",

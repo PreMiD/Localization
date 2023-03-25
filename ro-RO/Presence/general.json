@@ -111,10 +111,6 @@
     "description": "A page name of statuspages",
     "message": "Istoricul incidentelor"
   },
-  "general.incidentView": {
-    "description": "A page name of statuspages",
-    "message": "Se uită la un incident"
-  },
   "general.language": {
     "description": "For choosing a language",
     "message": "Limbă"

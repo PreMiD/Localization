@@ -41,7 +41,7 @@
   },
   "store.category.filters.likedOnly": {
     "description": "Liked presences only checkbox",
-    "message": "Само харесани Presence"
+    "message": "Само харесани Presences"
   },
   "store.category.filters.mostUsed": {
     "description": "Most used first checkbox",
@@ -69,7 +69,7 @@
   },
   "store.category.videos": {
     "description": "Category at the top",
-    "message": "Видеоклипове и потоци"
+    "message": "Видеоклипове и стрииймове"
   },
   "store.filters.added": {
     "description": "Store filter to display/not display already installed presences.",
