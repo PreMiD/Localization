@@ -47,6 +47,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Projectbeheerder"
   },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Bijdrager"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Proeflezer"

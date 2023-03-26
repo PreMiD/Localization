@@ -47,6 +47,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Gestão de Projeto"
   },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Contribuidor"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Revisor"
