@@ -7,9 +7,17 @@
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "Bladert door afspeellijsten heen"
 	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "Bladert door Shorts"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Bladert door"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "Bladert door video's met kenmerk '{0}'"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
@@ -78,6 +86,10 @@
 	"youtube.studio.videoTranslations": {
 		"description": "",
 		"message": "Bekijkt de vertalingen van video:"
+	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "Bekijkt eigen inhoud"
 	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
