@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "वर्तमान में एक विज्ञापन देख रहे हैं"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "प्लेलिस्ट के माध्यम से ब्राउज़ करना"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "के माध्यम से ब्राउज़ करना"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "वीडियो के माध्यम से ब्राउज़िंग"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "उनका इतिहास"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "उनका पुस्तकालय"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "चैनल का:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "उनकी खरीद"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "चैनल के बारे में पढ़ना:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "उनकी रिपोर्ट इतिहास को देखना"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "चैनल के माध्यम से खोज: {0} के लिए:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "कलाकार पृष्ठ"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "चैनल विश्लेषण"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "चैनल टिप्पणियाँ"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "चैनल अनुवाद"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "डैशबोर्ड देखना"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "वीडियो का संपादन:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "वीडियो का विश्लेषण देखना:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "वीडियो के कमेंट्स देखें:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "वीडियो का अनुवाद देखना:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "उनका देखना"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "उनके वीडियो देखना"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "उनकी सदस्यता"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "देखना क्या है ट्रेंडिंग"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "कुछ अपलोड कर रहा है..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "उनकी सभी प्लेलिस्ट देख रहे हैं"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "ऑडियो लाइब्रेरी देखना"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "उनका लाइव डैशबोर्ड देखना"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "उनके लाइव इवेंट देखना"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "समुदाय पोस्ट देखना"
-  }
+	"youtube.ad": {
+		"description": "",
+		"message": "वर्तमान में एक विज्ञापन देख रहे हैं"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "प्लेलिस्ट के माध्यम से ब्राउज़ करना"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "के माध्यम से ब्राउज़ करना"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "वीडियो के माध्यम से ब्राउज़िंग"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "उनका इतिहास"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "उनका पुस्तकालय"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "चैनल का:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "उनकी खरीद"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "चैनल के बारे में पढ़ना:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "उनकी रिपोर्ट इतिहास को देखना"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "चैनल के माध्यम से खोज: {0} के लिए:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "कलाकार पृष्ठ"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "चैनल विश्लेषण"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "चैनल टिप्पणियाँ"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "चैनल अनुवाद"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "डैशबोर्ड देखना"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "वीडियो का संपादन:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "वीडियो का विश्लेषण देखना:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "वीडियो के कमेंट्स देखें:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "वीडियो का अनुवाद देखना:"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "उनका देखना"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "उनके वीडियो देखना"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "उनकी सदस्यता"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "देखना क्या है ट्रेंडिंग"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "कुछ अपलोड कर रहा है..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "उनकी सभी प्लेलिस्ट देख रहे हैं"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "ऑडियो लाइब्रेरी देखना"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "उनका लाइव डैशबोर्ड देखना"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "उनके लाइव इवेंट देखना"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "समुदाय पोस्ट देखना"
+	}
 }
