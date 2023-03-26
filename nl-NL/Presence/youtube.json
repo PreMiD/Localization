@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Bekijkt momenteel een advertentie"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Bladert door afspeellijsten heen"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Bladert door"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Bladert door video's heen"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "zijn/haar geschiedenis"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "zijn/haar bibliotheek"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "van kanaal:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "zijn/haar aankopen"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Leest over kanaal:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Bekijk zijn/haar rapportagegeschiedenis"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Zoekt door kanaal: {0} voor:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "artiest pagina"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanaal analytics"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanaal reacties"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanaal vertalingen"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Bekijkt zijn/haar dashboard"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Bewerkt video:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Bekijkt analytics van video:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Bekijkt reacties van video:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Bekijkt de vertalingen van video:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Bekijkt zijn/haar"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Bekijkt zijn/haar video's"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "zijn/haar abonnementen"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Bekijkt wat er trending is"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Iets aan het uploaden..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Bekijkt al zijn/haar afspeellijsten"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Bekijkt de audiobibliotheek"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Bekijkt zijn/haar live dashboard"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Bekijkt zijn/haar live evenementen"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Bekijkt community berichten"
-  }
+	"youtube.ad": {
+		"description": "",
+		"message": "Bekijkt momenteel een advertentie"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Bladert door afspeellijsten heen"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Bladert door"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Bladert door video's heen"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "zijn/haar geschiedenis"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "zijn/haar bibliotheek"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "van kanaal:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "zijn/haar aankopen"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Leest over kanaal:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Bekijk zijn/haar rapportagegeschiedenis"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Zoekt door kanaal: {0} voor:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "artiest pagina"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanaal analytics"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanaal reacties"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanaal vertalingen"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "Bekijkt zijn/haar dashboard"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "Bewerkt video:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "Bekijkt analytics van video:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "Bekijkt reacties van video:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Bekijkt de vertalingen van video:"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Bekijkt zijn/haar"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "Bekijkt zijn/haar video's"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "zijn/haar abonnementen"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Bekijkt wat er trending is"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "Iets aan het uploaden..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Bekijkt al zijn/haar afspeellijsten"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "Bekijkt de audiobibliotheek"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "Bekijkt zijn/haar live dashboard"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "Bekijkt zijn/haar live evenementen"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Bekijkt community berichten"
+	}
 }

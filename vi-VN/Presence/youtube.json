@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Đang xem quảng cáo"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Đang duyệt qua playlist"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Đang duyệt qua"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Đang duyệt qua video"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "lịch sử của họ"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "thư viện của họ"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "của kênh:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "đã mua"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Đang đọc về kênh:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Đang xem lịch sử report"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Đang tìm kiếm qua kênh: {0} về:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "trang nghệ sĩ"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "thống kê kênh"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "bình luận kênh"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "bản dịch kênh"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Đang xem bảng điều khiển"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Chỉnh sửa video:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Đang xem thống kê của video:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Đang đọc comments của:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Đang xem bản dịch của video:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Đang xem"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Đang xem video của họ"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "dịch vụ đã đăng ký"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Đang xem cái gì đang thịnh hành"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Đang tải lên..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Đang xem playlists của họ"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Đang xem thư viện âm thanh"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Đang xem bảng điều khiển live stream"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Đang xem sự kiện trực tiếp của họ"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Đang xem bài viết cộng đồng"
-  }
+	"youtube.ad": {
+		"description": "",
+		"message": "Đang xem quảng cáo"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Đang duyệt qua playlist"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Đang duyệt qua"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Đang duyệt qua video"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "lịch sử của họ"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "thư viện của họ"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "của kênh:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "đã mua"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Đang đọc về kênh:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Đang xem lịch sử report"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Đang tìm kiếm qua kênh: {0} về:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "trang nghệ sĩ"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "thống kê kênh"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "bình luận kênh"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "bản dịch kênh"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "Đang xem bảng điều khiển"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "Chỉnh sửa video:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "Đang xem thống kê của video:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "Đang đọc comments của:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Đang xem bản dịch của video:"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Đang xem"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "Đang xem video của họ"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "dịch vụ đã đăng ký"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Đang xem cái gì đang thịnh hành"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "Đang tải lên..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Đang xem playlists của họ"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "Đang xem thư viện âm thanh"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "Đang xem bảng điều khiển live stream"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "Đang xem sự kiện trực tiếp của họ"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Đang xem bài viết cộng đồng"
+	}
 }

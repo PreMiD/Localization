@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Se uită la o reclamă"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Navigând printre playlist-uri"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Se uită la"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Navigând printre videoclipuri"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "istoricul lor"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "biblioteca sa"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "a canalului:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "achiziţiile lor"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Citește despre canalul:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Se uită la istoricul report-urilor"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Se uită la canalul: {0} pentru:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "pagina artistului"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "analiticele canalului"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "comentariile canalului"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "traducerile canalului"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Vizualizează panoul său de control"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Editând videoclipul:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Se uită la analiticele videoclipului:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Se uită la comentariile videoclipului:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Se uită la traducerile videoclipului:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Uitându-se la"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Se uită la videoclipurile sale"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "abonamentele sale"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Se uită la ce este în tendințe"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Uploadează ceva..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Se uită la playlist-urile sale"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Se uită la libraria sa audio"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Se uită la panoul său de control pentru live"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Se uită la evenimentele sale live"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Vizualizează postările comunității"
-  }
+	"youtube.ad": {
+		"description": "",
+		"message": "Se uită la o reclamă"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Navigând printre playlist-uri"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Se uită la"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Navigând printre videoclipuri"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "istoricul lor"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "biblioteca sa"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "a canalului:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "achiziţiile lor"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Citește despre canalul:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Se uită la istoricul report-urilor"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Se uită la canalul: {0} pentru:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "pagina artistului"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "analiticele canalului"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "comentariile canalului"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "traducerile canalului"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "Vizualizează panoul său de control"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "Editând videoclipul:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "Se uită la analiticele videoclipului:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "Se uită la comentariile videoclipului:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Se uită la traducerile videoclipului:"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Uitându-se la"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "Se uită la videoclipurile sale"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "abonamentele sale"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Se uită la ce este în tendințe"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "Uploadează ceva..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Se uită la playlist-urile sale"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "Se uită la libraria sa audio"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "Se uită la panoul său de control pentru live"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "Se uită la evenimentele sale live"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Vizualizează postările comunității"
+	}
 }

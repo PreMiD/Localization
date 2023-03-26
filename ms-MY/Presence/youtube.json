@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Sedang menonton iklan"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Melayari senarai main"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Melayari"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Melayari video"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "sejarahnya"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "perpustakaannya"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "saluran:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "pembeliannya"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Membaca mengenai saluran:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Melihat sejarah laporannya"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Mencari di saluran: {0} untuk:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "halaman artis"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "analisis saluran"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "ulasan saluran"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "terjemahan saluran"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Melihat papan pemukanya"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Menyunting video:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Melihat analisis video:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Melihat ulasan video:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Melihat terjemahan video:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Melihat"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Melihat videonya"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "langganannya"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Melihat apa yang sohor kini"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Memuat naik sesuatu..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Melihat kesemua senarai mainnya"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Melihat perpustakaan audio"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Melihat papan pemuka langsungnya"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Melihat peristiwa langsungnya"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Melihat hantaran komuniti"
-  }
+	"youtube.ad": {
+		"description": "",
+		"message": "Sedang menonton iklan"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Melayari senarai main"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Melayari"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Melayari video"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "sejarahnya"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "perpustakaannya"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "saluran:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "pembeliannya"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Membaca mengenai saluran:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Melihat sejarah laporannya"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Mencari di saluran: {0} untuk:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "halaman artis"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "analisis saluran"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "ulasan saluran"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "terjemahan saluran"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "Melihat papan pemukanya"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "Menyunting video:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "Melihat analisis video:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "Melihat ulasan video:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Melihat terjemahan video:"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Melihat"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "Melihat videonya"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "langganannya"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Melihat apa yang sohor kini"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "Memuat naik sesuatu..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Melihat kesemua senarai mainnya"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "Melihat perpustakaan audio"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "Melihat papan pemuka langsungnya"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "Melihat peristiwa langsungnya"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Melihat hantaran komuniti"
+	}
 }
