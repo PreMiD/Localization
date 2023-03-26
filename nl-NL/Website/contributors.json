@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Medewerkers"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Supporters"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Vertalers"
@@ -22,6 +26,10 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Communitybeheerder"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderator"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
