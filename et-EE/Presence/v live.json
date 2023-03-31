@@ -3,6 +3,10 @@
     "description": "The first part of the next 6 strings",
     "message": "Sirvimine"
   },
+  "v live.channelHome": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Avalehe vaatamine"
+  },
   "v live.viewTheir": {
     "description": "The first part of the next 6 strings",
     "message": "Vaatamine"
