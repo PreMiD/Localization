@@ -299,6 +299,10 @@
     "description": "",
     "message": "Vaatamine:"
   },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Vaatab soovinimekirja"
+  },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
     "message": "Otseülekande algamise ootamine"
