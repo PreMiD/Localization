@@ -15,9 +15,17 @@
     "description": "A page name",
     "message": "Metadata.jsoni konfigureerimine"
   },
+  "premid.pagePresenceClass": {
+    "description": "A page name",
+    "message": "Presence-i klass"
+  },
   "premid.pagePresenceDev": {
     "description": "A page name",
     "message": "Presence-i arendamine"
+  },
+  "premid.pageSlideshowClass": {
+    "description": "A page name",
+    "message": "Slaidiseansi klass"
   },
   "premid.pageStart": {
     "description": "A page name",
