@@ -35,6 +35,10 @@
     "description": "'Donator' title for contributors page.",
     "message": "Annetaja"
   },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Inimressursiosakond"
+  },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Lokaliseerimishaldur"
