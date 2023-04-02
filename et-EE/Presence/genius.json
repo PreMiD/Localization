@@ -1,1 +1,18 @@
-{}
+{
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "Sõnade vaatamine:"
+  },
+  "genius.viewAlbum": {
+    "description": "Album of a song",
+    "message": "Albumi vaatamine:"
+  },
+  "genius.viewHome": {
+    "description": "",
+    "message": "Avalehe vaatamine"
+  },
+  "genius.viewLyrics": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Kuva sõnad"
+  }
+}

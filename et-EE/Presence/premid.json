@@ -1,4 +1,12 @@
 {
+  "premid.pageAbout": {
+    "description": "A page name",
+    "message": "PreMiD'i kohta"
+  },
+  "premid.pageApi": {
+    "description": "A page name",
+    "message": "API"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Abilised"
@@ -10,6 +18,10 @@
   "premid.pageIframe": {
     "description": "A page name",
     "message": "Iframe'i mõistmine"
+  },
+  "premid.pageInstall": {
+    "description": "A page name",
+    "message": "Paigaldamine"
   },
   "premid.pageMetadata": {
     "description": "A page name",
