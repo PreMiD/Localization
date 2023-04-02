@@ -42,5 +42,33 @@
   "namemc.skinsTrending": {
     "description": "Skins is how you appear in the game.",
     "message": "Trendivate kehade vaatamine"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "Eelseisvate nimede vaatamine"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "Keebi vaatamine:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "Profiili emotikonide vaatamine"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "Sõprade vaatamine"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "Serveri vaatamine:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Skinni vaatamine"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "Skinnide vaatamine"
   }
 }
