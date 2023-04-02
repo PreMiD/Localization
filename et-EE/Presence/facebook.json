@@ -1,1 +1,62 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "Hiljuti Lisatud"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "Sirvimine:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "Kõnes kasutajaga:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "Salvestatud videod"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "Kasutaja kohta lugemine:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "Kasutaja kogukonna vaatamine:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "Kasutaja sõprade vaatamine:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "keegi... (Kasutaja on peidetud)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "Kasutaja fotode vaatamine:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "Kasutaja postituste vaatamine:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "Kasutaja poe vaatamine:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "Kasutaja videote vaatamine:"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "Videokõnes kasutajaga:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Tänase ilma vaatamine"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "Sõnumi koostamine"
+  }
+}
