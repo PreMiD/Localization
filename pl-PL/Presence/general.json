@@ -171,9 +171,29 @@
     "description": "",
     "message": "Czyta"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Przegląda kanał"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "Czyta wiadomości prywatne"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Czyta post"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Czyta wątek"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Czyta o:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Czyta artykuł"
   },
   "general.readingArticle": {
     "description": "",
@@ -239,13 +259,69 @@
     "description": "",
     "message": "Pisze wiadomość prywatną do:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Pisze wiadomość prywatną"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Historia czasu pracy"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Przegląda listę"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Ogląda mange"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Wyświetla użytkownika"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Ogląda film"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Przegląda stronę"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Przegląda playlistę"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Ogląda produkt"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Przegląda profil"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Ogląda serial"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Ogląda program"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Przegląda wątek"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Przegląda swoje konto"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Przegląda incydent"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Przegląda użytkownika"
   },
   "general.viewAnime": {
     "description": "",
@@ -270,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Przegląda stronę główną"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Przeglądanie incydentu o:"
   },
   "general.viewList": {
     "description": "",
@@ -322,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "Przegląda:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Ogląda listę życzeń"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Ogląda listę życzeń:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
