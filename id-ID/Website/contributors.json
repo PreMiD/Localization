@@ -43,6 +43,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Pengelola Proyek"
   },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Kontributor"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korektor"

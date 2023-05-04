@@ -291,6 +291,10 @@
     "description": "",
     "message": "Melihat profil"
   },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Melihat serial"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Melihat akun mereka"
