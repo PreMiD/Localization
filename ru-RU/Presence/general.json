@@ -259,13 +259,69 @@
     "description": "",
     "message": "Печатает ЛС:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Ввод DM"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "История бесперебойной работы"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Просмотр списка"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Просмотр манги"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Просмотр участника"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Просмотр фильма"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Просмотр страницы"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Просмотр списка воспроизведения"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Просмотр продукта"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Просмотр профиля"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Просмотр серии"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Просмотр шоу"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Просмотр темы"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Смотрит свою учётную запись"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Просмотр инцидента"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Просмотр пользователя"
   },
   "general.viewAnime": {
     "description": "",
@@ -290,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Смотрит главную страницу"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Просмотр инцидента о:"
   },
   "general.viewList": {
     "description": "",
@@ -342,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "Смотрит:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Просмотр списка желаний"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Просмотр списка пожеланий:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
