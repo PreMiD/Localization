@@ -7,6 +7,10 @@
     "description": "Heading for group of users.",
     "message": "צוות"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "תומכים"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "מתרגמים"
@@ -15,9 +19,29 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "מאיץ"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "מנהל קהילה"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "מנחה"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "תורם"
+  },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "משאבי אנוש"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "ניהול פרוייקט"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "תרומה"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

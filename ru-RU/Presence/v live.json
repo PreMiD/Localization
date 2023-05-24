@@ -7,6 +7,10 @@
     "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
     "message": "Просмотр доски «{0}»"
   },
+  "v live.channelHome": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Просмотр домашней страницы"
+  },
   "v live.channelList": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "список каналов"

@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Персонал"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Спонсоры"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Переводчики"
@@ -23,6 +27,10 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Менеджер сообщества"
   },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Модератор"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Донатер"
@@ -34,6 +42,10 @@
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Менеджер по локализации"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Управляющий проектом"
   },
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
