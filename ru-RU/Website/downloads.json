@@ -157,7 +157,7 @@
   },
   "downloads.warning.differentVersion2": {
     "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Эта версия специфична для Linux и не относится к другим системам. Основная версия приложения {0}"
+    "message": "Эта версия характерна только для Linux и не распространяется на другие системы. Основной версией приложения является {0}"
   },
   "downloads.warning.message.opera": {
     "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
