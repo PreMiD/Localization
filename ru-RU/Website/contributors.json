@@ -49,7 +49,7 @@
   },
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
-    "message": "Учасник"
+    "message": "Участник"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",

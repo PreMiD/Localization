@@ -5,7 +5,7 @@
   },
   "tab.button.changelog": {
     "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
-    "message": "Изменение"
+    "message": "Список изменений"
   },
   "tab.button.wiki": {
     "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",

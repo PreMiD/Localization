@@ -1,7 +1,7 @@
 {
   "footer.copyright.line1": {
     "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
-    "message": "{0} с {1}"
+    "message": "{0} от {1}"
   },
   "footer.copyright.line2": {
     "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
