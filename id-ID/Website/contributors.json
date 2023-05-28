@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Staf"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Pendukung"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Penerjemah"
