@@ -9,7 +9,7 @@
   },
   "store.card.presence.remove": {
     "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "Удалить присутствие"
+    "message": "Удалить презенс"
   },
   "store.cards.creator": {
     "description": "Creator of a presence",
