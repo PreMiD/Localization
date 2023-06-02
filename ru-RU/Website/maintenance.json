@@ -13,7 +13,7 @@
   },
   "maintenance.heading2": {
     "description": "Heading on maintenance page",
-    "message": "Пожалуйста, вернитесь попозже если вы хотите узнать больше подробностей."
+    "message": "Пожалуйста, вернитесь позже за дополнительной информацией."
   },
   "maintenance.message": {
     "description": "Message on maintenance page",
