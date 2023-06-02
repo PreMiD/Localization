@@ -17,7 +17,7 @@
   },
   "user.presences.contributed": {
     "description": "Tippy content (mode 2) in user profile.",
-    "message": "Нажмите сюда, чтобы увидеть презенсы, в которые внес вклад этот пользователь."
+    "message": "Нажмите сюда, чтобы увидеть Presences, в которые внес вклад этот пользователь."
   },
   "user.presences.created": {
     "description": "Tippy content in user profile.",
