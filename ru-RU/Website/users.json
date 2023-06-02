@@ -25,11 +25,11 @@
   },
   "user.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for user pages.",
-    "message": "Разработчик Присутствия"
+    "message": "Разработчик Presence"
   },
   "user.roles.presenceVerifier": {
     "description": "'Presence Verifier' title for user pages.",
-    "message": "Верификатор присутствия"
+    "message": "Проверяющий Presence"
   },
   "user.switch.contributed": {
     "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
