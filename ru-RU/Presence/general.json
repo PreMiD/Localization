@@ -177,15 +177,15 @@
   },
   "general.readingADM": {
     "description": "",
-    "message": "Чтение DM"
+    "message": "Читает ЛС"
   },
   "general.readingAPost": {
     "description": "",
-    "message": "Чтение сообщения"
+    "message": "Читает пост"
   },
   "general.readingAThread": {
     "description": "",
-    "message": "Чтение нити"
+    "message": "Читает тему"
   },
   "general.readingAbout": {
     "description": "",
@@ -193,7 +193,7 @@
   },
   "general.readingAnArticle": {
     "description": "",
-    "message": "Чтение статьи"
+    "message": "Читает статью"
   },
   "general.readingArticle": {
     "description": "",
