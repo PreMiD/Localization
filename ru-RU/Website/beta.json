@@ -31,6 +31,10 @@
     "description": "Beta page title",
     "message": "Хотите новых функций?"
   },
+  "error.noslots": {
+    "description": "Shows when the beta slots are full.",
+    "message": "Похоже, у нас больше нет слотов для бета-тестирования."
+  },
   "thankyou.description": {
     "description": "Thank You page description",
     "message": "Наши обезьяны работают над тем, чтобы как можно быстрее записать вас в нашу программу бета-тестирования. Спасибо за регистрацию!"
