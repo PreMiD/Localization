@@ -5,7 +5,7 @@
   },
   "presence.sections.changelog.title": {
     "description": "The title of the changelog section.",
-    "message": "Список изменений"
+    "message": "Изменения"
   },
   "presence.sections.description.title": {
     "description": "The title of the description section.",
