@@ -261,7 +261,7 @@
   },
   "general.typeInDM": {
     "description": "",
-    "message": "Ввод DM"
+    "message": "Печатает в ЛС"
   },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
@@ -281,7 +281,7 @@
   },
   "general.viewAMovie": {
     "description": "",
-    "message": "Просмотр фильма"
+    "message": "Смотрит фильм"
   },
   "general.viewAPage": {
     "description": "",
@@ -289,27 +289,27 @@
   },
   "general.viewAPlaylist": {
     "description": "",
-    "message": "Просмотр списка воспроизведения"
+    "message": "Смотрит плейлист"
   },
   "general.viewAProduct": {
     "description": "",
-    "message": "Просмотр продукта"
+    "message": "Смотрит продукт"
   },
   "general.viewAProfile": {
     "description": "",
-    "message": "Просмотр профиля"
+    "message": "Смотрит профиль"
   },
   "general.viewASeries": {
     "description": "",
-    "message": "Просмотр серии"
+    "message": "Смотрит серию"
   },
   "general.viewAShow": {
     "description": "",
-    "message": "Просмотр шоу"
+    "message": "Смотрит шоу"
   },
   "general.viewAThread": {
     "description": "",
-    "message": "Просмотр темы"
+    "message": "Смотрит тему"
   },
   "general.viewAccount": {
     "description": "",
@@ -317,11 +317,11 @@
   },
   "general.viewAnIncident": {
     "description": "A page name of statuspages",
-    "message": "Просмотр инцидента"
+    "message": "Смотрит инцидент"
   },
   "general.viewAnUser": {
     "description": "",
-    "message": "Просмотр пользователя"
+    "message": "Смотрит пользователя"
   },
   "general.viewAnime": {
     "description": "",
@@ -349,7 +349,7 @@
   },
   "general.viewIncident": {
     "description": "A page name of statuspages",
-    "message": "Просмотр инцидента о:"
+    "message": "Смотрит инцидент:"
   },
   "general.viewList": {
     "description": "",
@@ -357,7 +357,7 @@
   },
   "general.viewManga": {
     "description": "",
-    "message": "Смотрит манга:"
+    "message": "Читает мангу:"
   },
   "general.viewMember": {
     "description": "",
@@ -405,11 +405,11 @@
   },
   "general.viewingAWishlist": {
     "description": "",
-    "message": "Просмотр списка желаний"
+    "message": "Смотрит список желаемого"
   },
   "general.viewingWishlist": {
     "description": "",
-    "message": "Просмотр списка пожеланий:"
+    "message": "Смотрит список желаемого:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
@@ -453,7 +453,7 @@
   },
   "general.wishlist": {
     "description": "",
-    "message": "Избранное:"
+    "message": "Список желаемого:"
   },
   "general.writing": {
     "description": "",
