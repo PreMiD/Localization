@@ -9,15 +9,15 @@
 	},
 	"youtube.browsingShorts": {
 		"description": "",
-		"message": "Просматриваю шорты"
+		"message": "Смотрит Shorts"
 	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-		"message": "Смотрит через"
+		"message": "Смотрит на"
 	},
 	"youtube.browsingTypeVideos": {
 		"description": "The topic in those gray chips on the youtube home page",
-		"message": "Просмотр видео через {0}"
+		"message": "Ищет видео в {0}"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
