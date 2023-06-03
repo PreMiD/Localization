@@ -9,7 +9,7 @@
   },
   "general.buttonBrowse": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Просматривать"
+    "message": "Посмотреть"
   },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
@@ -25,7 +25,7 @@
   },
   "general.buttonViewArticle": {
     "description": "Used as the title for the button in Discord.",
-    "message": "Просмотреть статью"
+    "message": "Посмотреть статью"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
@@ -173,7 +173,7 @@
   },
   "general.readingAChannel": {
     "description": "",
-    "message": "Чтение в канале"
+    "message": "Читает в канале"
   },
   "general.readingADM": {
     "description": "",
@@ -221,7 +221,7 @@
   },
   "general.repeatAll": {
     "description": "",
-    "message": "Зацикливание всех песен"
+    "message": "Все песни на повторе"
   },
   "general.search": {
     "description": "",
