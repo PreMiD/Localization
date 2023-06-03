@@ -49,7 +49,7 @@
 	},
 	"youtube.searchChannel": {
 		"description": "{0} will be replaced with the channel name",
-		"message": "Ищет по каналу: {0} для:"
+		"message": "Ищет по каналу {0}:"
 	},
 	"youtube.studio.artistPage": {
 		"description": "Part two of \"Viewing their\"",
