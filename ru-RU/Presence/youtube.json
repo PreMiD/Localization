@@ -25,11 +25,11 @@
 	},
 	"youtube.history": {
 		"description": "Part two of \"Browsing through\"",
-		"message": "их история"
+		"message": "свою историю"
 	},
 	"youtube.library": {
 		"description": "Part two of \"Browsing through\"",
-		"message": "их библиотека"
+		"message": "свою библиотеку"
 	},
 	"youtube.ofChannel": {
 		"description": "Second part of multiple strings",
@@ -37,7 +37,7 @@
 	},
 	"youtube.purchases": {
 		"description": "Part two of \"Browsing through\"",
-		"message": "их покупки"
+		"message": "свои покупки"
 	},
 	"youtube.readingChannel": {
 		"description": "",

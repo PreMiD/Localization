@@ -217,7 +217,7 @@
   },
   "general.repeat": {
     "description": "",
-    "message": "В цикле"
+    "message": "На повторе"
   },
   "general.repeatAll": {
     "description": "",
@@ -269,15 +269,15 @@
   },
   "general.viewAList": {
     "description": "",
-    "message": "Просмотр списка"
+    "message": "Смотрит список"
   },
   "general.viewAManga": {
     "description": "",
-    "message": "Просмотр манги"
+    "message": "Читает мангу"
   },
   "general.viewAMember": {
     "description": "",
-    "message": "Просмотр участника"
+    "message": "Смотрит участника"
   },
   "general.viewAMovie": {
     "description": "",
@@ -285,7 +285,7 @@
   },
   "general.viewAPage": {
     "description": "",
-    "message": "Просмотр страницы"
+    "message": "Смотрит страницу"
   },
   "general.viewAPlaylist": {
     "description": "",
