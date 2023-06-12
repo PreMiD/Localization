@@ -5,7 +5,7 @@
   },
   "popup.buttons.presenceStore": {
     "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "فروشگاه Presence ها"
+    "message": "فروشگاه Presence"
   },
   "popup.category.all": {
     "description": "Category name shown when you open tags",
