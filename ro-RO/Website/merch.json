@@ -2,5 +2,9 @@
   "merch.cart": {
     "description": "Add product to cart",
     "message": "Adaugă în coș"
+  },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "Găsește-ți **Swag**"
   }
 }
