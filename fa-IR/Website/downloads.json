@@ -49,7 +49,7 @@
   },
   "downloads.error.noaccess.description": {
     "description": "More info if the user doesn't alpha/beta access.",
-    "message": "شما می توانید به نسخه بتای برنامه بپیوندید از طریق **اینجا** اونم مجانی. بجنبید! ما فقط {0} جای خالی دیگر دردسترس داریم"
+    "message": "می توانید به برنامه بتای ما در **اینجا** به صورت رایگان بپیوندید. فقط عجله کنید! ما {0} جای خالی دیگر در دسترس داریم"
   },
   "downloads.error.noaccess.title": {
     "description": "Error message if the user doesn't alpha/beta access.",
