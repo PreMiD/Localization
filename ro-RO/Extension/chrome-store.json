@@ -1,4 +1,8 @@
 {
+  "extension.description.full": {
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
+    "message": "PreMiD este un utilitar simplu, configurabil, care vă permite să arătați ce faceți pe web în starea dvs. de redare Discord.\n\nDe exemplu, când începeți să vizionați un videoclip pe YouTube, extensia noastră preia toate informațiile necesare din pagină și le trimite aplicației noastre, care apoi stabilește starea în profilul dvs. de Discord.\n\nPreMiD acceptă peste 500 de site-uri web și funcționează în continuare datorită comunității sale puternice, care adaugă prezențe noi în fiecare zi.\n\nPentru a utiliza PreMiD, trebuie să adăugați această extensie și să instalați aplicația oficială PreMiD găsită pe site-ul nostru. Acest lucru se datorează constrângerilor din modul în care funcționează SDK-ul Rich Presence al Discord.\n\n{0} Site-ul nostru web\n{1}\n\n{3} Serverul nostru Discord\n{4}\n\n{5} Depanare\n{6}\n\n{7} Organizația noastră GitHub\n{8}\n\n{9} Donați\n{10}\n\nDacă vă place PreMiD, vă rugăm să lăsați o recenzie, să o împărtășiți cu prietenii dvs. sau să donați."
+  },
   "extension.description.short": {
     "description": "Short description in extension store",
     "message": "Prezența ta pentru serviciile web!"
