@@ -34,5 +34,9 @@
   "jobs.openings.title": {
     "description": "Text before the available job positions cards.",
     "message": "Posturi disponibile"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "Vă mulțumim pentru aplicare!"
   }
 }
