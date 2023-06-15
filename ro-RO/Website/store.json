@@ -1,11 +1,51 @@
 {
+  "store.card.presence.add": {
+    "description": "Button that will appear on hover after extension is installed.",
+    "message": "Adăugați prezență"
+  },
+  "store.card.presence.included": {
+    "description": "The message that appears instead of the buttons.",
+    "message": "Această Prezență este activată automat la vizitarea site-ului său."
+  },
+  "store.card.presence.remove": {
+    "description": "Button that will appear on hover after extension and presence is installed.",
+    "message": "Eliminați prezența"
+  },
   "store.cards.creator": {
     "description": "Creator of a presence",
     "message": "Autor"
   },
+  "store.cards.extraStepsRequired": {
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
+    "message": "Această prezență necesită pași suplimentari, vă rugăm să verificați pagina sa pentru mai multe informații."
+  },
+  "store.cards.partner": {
+    "description": "Presence card partner flame",
+    "message": "Prezența în parteneriat"
+  },
+  "store.cards.popular": {
+    "description": "Presence card popular flame",
+    "message": "Această prezenţă este foarte populară în jurul utilizatorilor."
+  },
   "store.category.all": {
     "description": "Category at the top",
     "message": "Toate"
+  },
+  "store.category.filters.allowAdult": {
+    "description": "Adult content checkbox",
+    "message": "Arată NSFW"
+  },
+  "store.category.filters.heading": {
+    "description": "Searh filters option at the store page",
+    "message": "Filtre"
+  },
+  "store.category.filters.likedOnly": {
+    "description": "Liked presences only checkbox",
+    "message": "Doar prezențe apreciate"
+  },
+  "store.category.filters.mostUsed": {
+    "description": "Most used first checkbox",
+    "message": "Cel mai folosit primul"
   },
   "store.category.games": {
     "description": "Category at the top",
@@ -31,8 +71,28 @@
     "description": "Category at the top",
     "message": "Video & Stream-uri"
   },
+  "store.filters.added": {
+    "description": "Store filter to display/not display already installed presences.",
+    "message": "Arată prezențele adăugate"
+  },
+  "store.header.search": {
+    "description": "Search bar text when nothing is stated",
+    "message": "Căutare Prezență"
+  },
+  "store.message.error": {
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
+    "message": "Extensia nu este conectată."
+  },
   "store.search": {
     "description": "Placeholder for presence search",
     "message": "Caută"
+  },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "Introducere"
+  },
+  "store.search.removeFilter": {
+    "description": "Remove message for active search filters.",
+    "message": "Faceți click pentru a elimina filtrul"
   }
 }
