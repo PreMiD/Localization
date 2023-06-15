@@ -59,9 +59,29 @@
     "description": "Name field's placeholder.",
     "message": "Ex: PreMiD"
   },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Dacă sunteți mai degrabă interogați într-o slujbă directă la PreMiD, atunci aruncați o privire la **publicitatea noastră privind locul de muncă**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Autentificat ca {0}"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Alegeți o opțiune"
+  },
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "Altele"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Vă mulțumim pentru aplicare!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Aplică pentru partener"
   },
   "partners.header.title": {
     "description": "Heading for page.",
@@ -70,6 +90,14 @@
   "partners.requirements.title": {
     "description": "Heading for the requirements.",
     "message": "Cerințe"
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Sponsori"
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Prezența ta liberă"
   },
   "partners.why.benefit5.title": {
     "description": "Heading for the fifth benefit.",
