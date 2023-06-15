@@ -1,4 +1,64 @@
 {
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Aplică acum!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Hai să mergem împreună în rai!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Te rugăm să completezi toate câmpurile."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Descriere maximă de 150 de caractere."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Vă rugăm să adăugați un link (trebuie să înceapă cu http:// și să se termine cu .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Deja ai aplicat pentru parteneriat."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Aplică"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Închide"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Descriere: (Maximum 150 de caractere)"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Link imagine: (550x300, doar PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Ex: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Link"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Ex: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Nume"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Ex: PreMiD"
+  },
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "Altele"
@@ -10,5 +70,9 @@
   "partners.requirements.title": {
     "description": "Heading for the requirements.",
     "message": "Cerințe"
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Fii faimos"
   }
 }
