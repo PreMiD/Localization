@@ -1,4 +1,28 @@
 {
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "Luați legătura cu oamenii din spatele PreMiD."
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "Întâlnește-ne"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "Aruncă o privire la dezvoltarea și marketingul nostru."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "Furișări"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "Permisiuni Discord puternice și un rol colorat."
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "Onoare"
+  },
   "jobs.guild.required": {
     "description": "Title of the modal the user will see if it's not in Discord server.",
     "message": "Intrați pe serverul nostru de Discord"
