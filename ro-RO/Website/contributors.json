@@ -39,6 +39,10 @@
     "description": "'Human Resources' title for contributors and user pages.",
     "message": "Resurse umane"
   },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "Manager de localizare"
+  },
   "contributors.roles.projectManagement": {
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Manager de proiect"
@@ -46,6 +50,10 @@
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Contribuitor"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "Corector"
   },
   "contributors.roles.support": {
     "description": "'Support' title for contributors and user pages.",
