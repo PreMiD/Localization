@@ -3,8 +3,28 @@
     "description": "Add product to cart",
     "message": "Adaugă în coș"
   },
+  "merch.error.noitem": {
+    "description": "Error message when no size selected",
+    "message": "Niciun element de adăugat în coș"
+  },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "**Alege potrivirea**"
+  },
+  "merch.help": {
+    "description": "Link to customer support, {0}{1} is the replacement for the link",
+    "message": "Întâmpinați probleme cu magazinul nostru sau o comandă? Contactați {0}echipa noastră de asistență pentru clienți{1}"
+  },
+  "merch.item.added": {
+    "description": "{0} replaced with product name",
+    "message": "{0} Articol adăugat în coșul tău"
+  },
   "merch.swag": {
     "description": "Subtitle for store",
     "message": "Găsește-ți **Swag**"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "Bine ați venit la magazinul oficial **PreMiD** Magazin de marfă!"
   }
 }
