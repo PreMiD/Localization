@@ -1,1 +1,14 @@
-{}
+{
+  "1337x.about": {
+    "description": "",
+    "message": "Citește despre 1337x"
+  },
+  "1337x.animeTorrents": {
+    "description": "",
+    "message": "Vizualizarea torrentelor Anime"
+  },
+  "1337x.appTorrents": {
+    "description": "",
+    "message": "Vizualizarea aplicațiilor torrent"
+  }
+}
