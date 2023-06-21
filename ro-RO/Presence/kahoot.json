@@ -7,6 +7,10 @@
     "description": "Used when the user anwered correct on a question",
     "message": "Răspuns corect"
   },
+  "kahoot.createHome": {
+    "description": "Used when the user is viewing the create.kahoot.it home page",
+    "message": "Vizualizarea paginii de start"
+  },
   "kahoot.firstPlace": {
     "description": "Used to display who was first place in a game. {0} is a player name",
     "message": "Primul loc: {0}"

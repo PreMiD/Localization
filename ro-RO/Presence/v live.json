@@ -3,8 +3,88 @@
     "description": "The first part of the next 6 strings",
     "message": "Se uită la"
   },
+  "v live.channelBoard": {
+    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
+    "message": "Vizualizarea panoului \"{0}\""
+  },
+  "v live.channelHome": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Vizualizarea paginii de start"
+  },
+  "v live.channelList": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "lista canalelor"
+  },
+  "v live.channelMy": {
+    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
+    "message": "Vizualizarea paginii „mele”"
+  },
+  "v live.channelStore": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Vizualizarea paginii magazinului"
+  },
+  "v live.charts": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina cu diagrame"
+  },
+  "v live.coins": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "sold de monede"
+  },
+  "v live.devices": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "dispozitivele conectate"
+  },
+  "v live.events": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina de evenimente"
+  },
+  "v live.followed": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "canale urmărite"
+  },
+  "v live.newVid": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "noua pagină de videoclipuri"
+  },
+  "v live.ofChannel": {
+    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
+    "message": "din canalul {0}"
+  },
+  "v live.policies": {
+    "description": "",
+    "message": "Citirea politicilor"
+  },
+  "v live.product": {
+    "description": "{0} will be replaced with the name of the publisher of the product",
+    "message": "Vizualizarea produsului {0}"
+  },
+  "v live.profile": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "pagina de profil"
+  },
+  "v live.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Editarea{0}propriului profil"
+  },
+  "v live.purchases": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "achiziții recente"
+  },
+  "v live.store": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina magazinului"
+  },
+  "v live.upcoming": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina următoare"
+  },
   "v live.viewTheir": {
     "description": "The first part of the next 6 strings",
     "message": "Vizualizarea lor"
+  },
+  "v live.watched": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "a vizionat videoclipurile"
   }
 }
