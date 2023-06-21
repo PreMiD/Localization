@@ -43,6 +43,10 @@
     "description": "Benefit card description.",
     "message": "Testează caracteristicile noi înainte de oricine altcineva."
   },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "Pre-acces"
+  },
   "jobs.benefits.title": {
     "description": "Text before the benefits cards.",
     "message": "Beneficii ridicate"
@@ -50,6 +54,10 @@
   "jobs.errors.alreadyApplied": {
     "description": "Notification when you applied already.",
     "message": "Ai aplicat deja înainte!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "Pentru a putea aplica trebuie să te alături serverului nostru de Discord. Altfel nu vom putea să te contactăm dacă vei sfârși prin a fi selectat!"
   },
   "jobs.guild.required": {
     "description": "Title of the modal the user will see if it's not in Discord server.",
