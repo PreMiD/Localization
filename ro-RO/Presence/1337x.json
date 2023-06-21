@@ -10,5 +10,33 @@
   "1337x.appTorrents": {
     "description": "",
     "message": "Vizualizarea aplicațiilor torrent"
+  },
+  "1337x.docTorrents": {
+    "description": "",
+    "message": "Vizualizează torrentele documentelor"
+  },
+  "1337x.gamesTorrents": {
+    "description": "",
+    "message": "Vizualizează Torrentele Jocurilor"
+  },
+  "1337x.latestEpisode": {
+    "description": "",
+    "message": "Vizualizarea ultimelor episoade"
+  },
+  "1337x.movieLibrary": {
+    "description": "",
+    "message": "Vizualizează galeriei de filme"
+  },
+  "1337x.moviesTorrents": {
+    "description": "",
+    "message": "Vizualizarea torrentelor de filme"
+  },
+  "1337x.musicTorrents": {
+    "description": "",
+    "message": "Vizualizează Torrente de Muzică"
+  },
+  "1337x.otherTorrents": {
+    "description": "",
+    "message": "Vizualizează alte tipuri de torrente"
   }
 }
