@@ -7,6 +7,10 @@
     "description": "",
     "message": "Navigare..."
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Caută"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Ascultă împreună"
@@ -18,6 +22,10 @@
   "general.buttonViewAlbum": {
     "description": "Used as the title for the button in Discord.",
     "message": "Vezi albumul"
+  },
+  "general.buttonViewArticle": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Vezi articolul"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
@@ -54,6 +62,10 @@
   "general.buttonViewSeries": {
     "description": "Used as the title for the button in Discord.",
     "message": "Vezi serialul"
+  },
+  "general.buttonViewShow": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Vezi spectacolul"
   },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
@@ -123,6 +135,10 @@
     "description": "",
     "message": "Ascultând muzică"
   },
+  "general.listeningTo": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+    "message": "Ascultă{0}{1}"
+  },
   "general.live": {
     "description": "",
     "message": "În direct"
@@ -155,9 +171,29 @@
     "description": "",
     "message": "Citește"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Citește din canalul"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "Citește un DM"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Citește o postare"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Citește o temă"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Citește despre:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Citește un articol"
   },
   "general.readingArticle": {
     "description": "",
@@ -223,13 +259,69 @@
     "description": "",
     "message": "Scrie în DM-uri cu:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Scrie în DMs"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Istoricul uptime-ului"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Se uită la listă"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Se uită la manga"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Vizualizează un membru"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Vizualizează un film"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Vizualizează o pagină"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Vizualizează o listă de redare"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Se uită la un produs"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Vizualizează un profil"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Vizualizează un serial"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Vizualizează un spectacol"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Vizualizează o temă"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Se uită la contul său"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Vizualizează un incident"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Vizualizează un utilizator"
   },
   "general.viewAnime": {
     "description": "",
@@ -254,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Se uită la pagina principală"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Vizualizează incidentul despre:"
   },
   "general.viewList": {
     "description": "",
@@ -306,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "Se uită la:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Vizualizează o listă de dorințe"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Se uită la lista dorințelor de:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
