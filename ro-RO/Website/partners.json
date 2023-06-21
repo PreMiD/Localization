@@ -35,6 +35,10 @@
     "description": "Description field.",
     "message": "Descriere: (Maximum 150 de caractere)"
   },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Descriere model"
+  },
   "partners.apply.form.imageLink": {
     "description": "Do not change the sizes.",
     "message": "Link imagine: (550x300, doar PNG)"
@@ -67,6 +71,10 @@
     "description": "{0} will be replaced with user account.",
     "message": "Autentificat ca {0}"
   },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Nu ești tu?"
+  },
   "partners.apply.select.default": {
     "description": "Select default placeholder.",
     "message": "Alegeți o opțiune"
@@ -74,6 +82,10 @@
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "Altele"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Site web"
   },
   "partners.apply.success": {
     "description": "Success message when applying.",
@@ -86,6 +98,10 @@
   "partners.header.title": {
     "description": "Heading for page.",
     "message": "Parteneri"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Așa te uiți la animație."
   },
   "partners.requirements.title": {
     "description": "Heading for the requirements.",
