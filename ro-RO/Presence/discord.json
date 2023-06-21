@@ -1,4 +1,8 @@
 {
+  "discord.blog": {
+    "description": "",
+    "message": "Blog Discord"
+  },
   "discord.browseThrough": {
     "description": "The first part of the next 17 strings",
     "message": "Navigând prin"
