@@ -1,1 +1,114 @@
-{}
+{
+  "gmail.accountSetting": {
+    "description": "Displayed when the user is modifying their account's settings",
+    "message": "Configurează setările de Cont și Import"
+  },
+  "gmail.addonsSettings": {
+    "description": "Displayed when the user is modifying their add-ons",
+    "message": "Configurează Extensiile"
+  },
+  "gmail.advancedSettings": {
+    "description": "Displayed when the user is modifying their advanced settings",
+    "message": "Configurarea setărilor avansate"
+  },
+  "gmail.categoryForum": {
+    "description": "Displayed when viewing emails in the forums category.",
+    "message": "Vizualizează Categoria de Forumuri"
+  },
+  "gmail.categoryPrimary": {
+    "description": "Displayed when viewing emails in the primary category.",
+    "message": "Vizualizează categoria Principală"
+  },
+  "gmail.categoryPromotions": {
+    "description": "Displayed when viewing emails in the promotions category.",
+    "message": "Vizionează Categoria de Promoții"
+  },
+  "gmail.categorySocial": {
+    "description": "Displayed when viewing emails in the social category.",
+    "message": "Vizualizează categoria Socială"
+  },
+  "gmail.categoryUpdates": {
+    "description": "Displayed when viewing emails in the updates category.",
+    "message": "Vizualizează Categoria de Actualizări"
+  },
+  "gmail.composingEmail": {
+    "description": "Displayed when the user is composing an email",
+    "message": "Compunerea unui e-mail"
+  },
+  "gmail.filterSettings": {
+    "description": "Displayed when the user is modifying their filters and blocked addresses",
+    "message": "Configurează Filtrele și Adresele Blocate"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
+    "message": "Configurare, redirecționare și setări POP/IMAP"
+  },
+  "gmail.generalSettings": {
+    "description": "Displayed when the user is modifying their settings",
+    "message": "Configurează setările Generale"
+  },
+  "gmail.inLabel": {
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
+    "message": "Vizualizează o etichetă"
+  },
+  "gmail.inboxSettings": {
+    "description": "Displayed when the user is modifying their inbox settings",
+    "message": "Configurează setările Inbox"
+  },
+  "gmail.lookingForEmail": {
+    "description": "Displayed when the user is searching for an email",
+    "message": "Căutarea unui email"
+  },
+  "gmail.offlineSettings": {
+    "description": "Displayed when the user is modifying their offline settings",
+    "message": "Configurarea setărilor offline"
+  },
+  "gmail.themesSettings": {
+    "description": "Displayed when the user is modifying their theme in the settings",
+    "message": "Alegerea unei teme"
+  },
+  "gmail.viewingAllEmails": {
+    "description": "Displayed when the user is viewing all their emails",
+    "message": "Vizualizarea tuturor e-mailurilor"
+  },
+  "gmail.viewingChats": {
+    "description": "Displayed when the user is viewing their chats",
+    "message": "Vizualizarea chat-urilor"
+  },
+  "gmail.viewingDrafts": {
+    "description": "Displayed when the user is viewing their drafts",
+    "message": "Vizualizarea schițelor"
+  },
+  "gmail.viewingEmail": {
+    "description": "Displayed when the user is viewing an email",
+    "message": "Vizualizarea unui e-mail"
+  },
+  "gmail.viewingImportantEmails": {
+    "description": "Displayed when the user is viewing emails marked as important",
+    "message": "Vizualizarea e-mailurilor importante"
+  },
+  "gmail.viewingScheduled": {
+    "description": "Displayed when the user is viewing their scheduled emails",
+    "message": "Vizualizarea e-mailurilor programate"
+  },
+  "gmail.viewingSentEmails": {
+    "description": "Displayed when the user is viewing the emails they have sent",
+    "message": "Vizualizarea e-mailurilor trimise"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "description": "Displayed when the user is viewing their snoozed emails",
+    "message": "Vizualizarea e-mailurilor amânate"
+  },
+  "gmail.viewingSpam": {
+    "description": "Displayed when the user is viewing their spam",
+    "message": "Vizualizarea e-mailurilor spam"
+  },
+  "gmail.viewingStarredEmails": {
+    "description": "Displayed when the user is viewing emails marked with a star",
+    "message": "Vizualizarea e-mailurilor marcate cu stea"
+  },
+  "gmail.viewingTrash": {
+    "description": "Displayed when the user is viewing their trash",
+    "message": "Vizualizarea gunoiului"
+  }
+}
