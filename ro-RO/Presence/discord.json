@@ -39,6 +39,34 @@
     "description": "",
     "message": "Citește documentația"
   },
+  "discord.devs.serversBrowse": {
+    "description": "",
+    "message": "Navigând prin serverele lor"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "Navigând prin echipele lor"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "Editare echipă: {0}"
+  },
+  "discord.dmGroupReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Citirea în grupul DM:{0}{1}"
+  },
+  "discord.dmGroupTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Tastarea în grupul DM:{0}{1}"
+  },
+  "discord.dmReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Citirea mesajelor DM de la:{0}{1}"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Tastare în DM pentru:{0}{1}"
+  },
   "discord.download": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "pagina de descărcări"
@@ -46,6 +74,10 @@
   "discord.friends": {
     "description": "",
     "message": "Se uită la prietenii săi..."
+  },
+  "discord.inspiration": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina de inspirație"
   },
   "discord.merch": {
     "description": "",
