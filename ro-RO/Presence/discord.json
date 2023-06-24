@@ -39,6 +39,10 @@
     "description": "",
     "message": "Citește documentația"
   },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "Portal pentru dezvoltatori"
+  },
   "discord.devs.serversBrowse": {
     "description": "",
     "message": "Navigând prin serverele lor"
@@ -79,6 +83,10 @@
     "description": "Second part of the \"Browsing through\" string",
     "message": "pagina de inspirație"
   },
+  "discord.jobs": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina de joburi"
+  },
   "discord.merch": {
     "description": "",
     "message": "Discord Merch"
@@ -87,17 +95,65 @@
     "description": "",
     "message": "Se uită la colecția:"
   },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina de moderare"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "Citind despre Nitro..."
+  },
+  "discord.opensource": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "deschide Pagina Sursă"
+  },
+  "discord.partner": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina partenerului"
+  },
+  "discord.policies": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "politicile"
+  },
   "discord.safety": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "centrul de securitate"
+  },
+  "discord.security": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina de securitate"
+  },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Vizualizează setările{0}ale serverului: {1}"
   },
   "discord.settings": {
     "description": "",
     "message": "Se uită la setărilor lor..."
   },
+  "discord.status": {
+    "description": "",
+    "message": "Discord Status"
+  },
+  "discord.streamkit": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina StreamKit"
+  },
   "discord.support": {
     "description": "",
     "message": "Centrul de Ajutor"
+  },
+  "discord.verification": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "pagina de verificare"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Voce conectată la:{0}{1} (Server: {2})"
+  },
+  "discord.voiceConnectedWith": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
+    "message": "Voce conectată cu:{0}{1}"
   },
   "discord.why": {
     "description": "Second part of the \"Browsing through\" string",

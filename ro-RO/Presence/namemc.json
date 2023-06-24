@@ -31,6 +31,10 @@
     "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
     "message": "Vizualizarea caracterelor cu {0} Tag"
   },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "Vizualizarea numelor viitoare"
+  },
   "namemc.viewCape": {
     "description": "",
     "message": "Vizualizează Capa:"
