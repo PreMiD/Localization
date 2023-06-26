@@ -31,6 +31,10 @@
     "description": "Displayed when viewing emails in the updates category.",
     "message": "Vizualizează Categoria de Actualizări"
   },
+  "gmail.chatSettings": {
+    "description": "Displayed when the user is modifying their chat settings",
+    "message": "Configurarea setărilor Chat și Meet"
+  },
   "gmail.composingEmail": {
     "description": "Displayed when the user is composing an email",
     "message": "Compunerea unui e-mail"
