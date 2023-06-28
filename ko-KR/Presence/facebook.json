@@ -1,1 +1,34 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "최근 추가된 항목"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "찾아보는 중:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "통화 중:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "저장된 영상"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "누군가... (사용자 숨김)"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "영상 통화 중:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "오늘의 날씨 보는 중"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "메시지를 작성하는 중"
+  }
+}
