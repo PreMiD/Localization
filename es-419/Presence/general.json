@@ -171,9 +171,29 @@
     "description": "",
     "message": "Leyendo"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Leyendo en un canal"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "Leyendo un MD"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Leyendo una publicación"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Leyendo un hilo"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Leyendo acerca de:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Leyendo un artículo"
   },
   "general.readingArticle": {
     "description": "",
@@ -239,13 +259,69 @@
     "description": "",
     "message": "Escribiendo en MDs para:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Escribiendo en MDs"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Historial del tiempo de funcionamiento"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Viendo una lista"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Viendo un manga"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Viendo un miembro"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Viendo una película"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Viendo una página"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Viendo una lista de reproducción"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Viendo un producto"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Viendo un perfil"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Viendo una serie"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Viendo un show"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Viendo un hilo"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Revisando su cuenta"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Viendo un incidente"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Viendo a un usuario"
   },
   "general.viewAnime": {
     "description": "",
@@ -270,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Revisando la página principal"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Viendo un incidente sobre:"
   },
   "general.viewList": {
     "description": "",
@@ -322,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "Viendo:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Viendo una lista de deseos"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Viendo la lista de deseos de:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
