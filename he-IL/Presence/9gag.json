@@ -1,1 +1,18 @@
-{}
+{
+  "9gag.gag": {
+    "description": "",
+    "message": "צפייה gag:"
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "צופה במה שחם"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "צופה בדף החנות"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "צפייה tag:"
+  }
+}
