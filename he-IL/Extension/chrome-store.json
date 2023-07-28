@@ -1,4 +1,8 @@
 {
+  "extension.description.full": {
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
+    "message": "PreMiD הוא כלי עזר\nפשוט וניתן להגדרה, המאפשר לך להראות מה אתה עושה באינטרנט בסטטוס ה-Discord שמנגן כעת.\n\nלדוגמה, כאשר אתה מתחיל לצפות בסרטון ב-YouTube, התוסף שלנו תופס את כל המידע הדרוש מהדף ושולח אותו לאפליקציה שלנו, אשר לאחר מכן קובע את הסטטוס בפרופיל Discord שלך.\n\nPreMiD תומך ביותר מ-500 אתרי אינטרנט ועדיין פועל הודות לקהילה החזקה שלה שמוסיפה נוכחות חדשות מדי יום.\n\nכדי להשתמש ב-PreMiD, עליך להוסיף תוסף זה ולהתקין את אפליקציית PreMiD הרשמית שנמצאת באתר שלנו. זה נובע מאילוצים באופן שבו פועל ה- Rich Presence SDK של Discord.\n\n{0} האתר שלנו\n{1}\n\n{3} שרת הדיסקורד שלנו\n{4}\n\n{5} פתרון בעיות\n{6}\n\n{7} ארגון GitHub שלנו\n{8}\n\n{9} תרום\n{10}\nאם אתה אוהב את PreMiD, אנא השאר ביקורת, שתף אותה עם חבריך או תרום."
+  },
   "extension.description.short": {
     "description": "Short description in extension store",
     "message": "הRich Presence שלך בשביל שירותי אינטרנט!"
