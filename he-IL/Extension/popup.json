@@ -59,6 +59,14 @@
     "description": "Title of the 'settings' section at the navigation in the popup",
     "message": "הגדרות"
   },
+  "popup.info.noInternet": {
+    "description": "Shown when the user has no internet connection",
+    "message": "אין חיבור לאינטרנט!"
+  },
+  "popup.info.noInternet.message": {
+    "description": "Shown when the user has no internet connection",
+    "message": "נראה שאין לך חיבור לאינטרנט! PreMiD לא יכול להציג כרגע."
+  },
   "popup.info.notConnected": {
     "description": "Shown when the extension can't connect to the application",
     "message": "לא מחובר"
@@ -66,6 +74,30 @@
   "popup.info.notConnected.message": {
     "description": "Shown when the extension can't connect to the application",
     "message": "PreMiD לא יכל להתחבר ליישום! האם זה מותקן ורץ? *מתקן תקלות*"
+  },
+  "popup.info.notConnectedDiscord": {
+    "description": "Shown in the extension when the application can't connect to Discord",
+    "message": "אין חיבור לדיסקורד!"
+  },
+  "popup.info.notConnectedDiscord.message": {
+    "description": "Shown in the extension when the application can't connect to Discord",
+    "message": "PreMiD לא יכול להתחבר ליישום"
+  },
+  "popup.info.safari.outdatedExtension": {
+    "description": "Shown when Extension is outdated. Only for Safari port.",
+    "message": "הרחבה מיושנת"
+  },
+  "popup.info.safari.outdatedExtension.message": {
+    "description": "Shown when Extension is outdated. Only for Safari port.",
+    "message": "ההרחבה שלך מיושנת. אנא עדכן אותו כדי לקבל את התכונות העדכניות ביותר על ידי הורדתו מהאתר שלנו."
+  },
+  "popup.info.safari.urgentUpdate": {
+    "description": "Shown when Extension is outdated. Only for Safari port.",
+    "message": "עדכון דחוף"
+  },
+  "popup.info.safari.urgentUpdate.message": {
+    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+    "message": "פרסמנו עדכון דחוף להארכה. נא עדכן אותו כדי להמשיך להשתמש ב- PreMiD."
   },
   "popup.info.unsupportedAppVersion": {
     "description": "Shown when application is outdated",

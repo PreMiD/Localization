@@ -3,6 +3,10 @@
     "description": "Message next to pepe.",
     "message": "אנא השבת את חסימת המודעות שלך"
   },
+  "downloads.adsbox.thankyou.message": {
+    "description": "Message of the advertisement section box.",
+    "message": "אנו משתמשים במודעות כדי לתמוך בצוות שלנו ולתחזק את השרתים שלנו כדי להציע לך את חווית המשתמש הטובה ביותר!"
+  },
   "downloads.adsbox.thankyou.title": {
     "description": "Title of the advertisement section box.",
     "message": "תודה רבה!"
@@ -11,13 +15,65 @@
     "description": "Header above application download buttons.",
     "message": "יישום"
   },
+  "downloads.button.back": {
+    "description": "Back button on the ads section",
+    "message": "חזור"
+  },
+  "downloads.button.cancel": {
+    "description": "Button on the modal of Opera/Edge browsers.",
+    "message": "ביטול"
+  },
   "downloads.button.done": {
     "description": "Button on the page when trying to download with adblocker on.",
     "message": "בוצע"
   },
+  "downloads.button.login": {
+    "description": "Login button on the downloads page.",
+    "message": "התחבר"
+  },
+  "downloads.button.okay": {
+    "description": "Button on the modal of Opera/Edge browsers.",
+    "message": "בסדר"
+  },
+  "downloads.button.skip": {
+    "description": "Skip button on the ads section",
+    "message": "דלג"
+  },
+  "downloads.button.skipanyway": {
+    "description": "Skip Anyway button on the ads page.",
+    "message": "דלג בכל מקרה"
+  },
+  "downloads.error.login": {
+    "description": "Error message if the user is not logged in.",
+    "message": "אנא התחבר כדי לראות את ההורדות."
+  },
+  "downloads.error.noaccess.description": {
+    "description": "More info if the user doesn't alpha/beta access.",
+    "message": "תוכל להצטרף לתכנית הבטא שלנו בחינם **כאן**. הזדרז! יש לנו רק {0} מקומות זמינים"
+  },
+  "downloads.error.noaccess.title": {
+    "description": "Error message if the user doesn't alpha/beta access.",
+    "message": "אה אה, נראה שאין לך גישה אלפא/ביתא :("
+  },
   "downloads.extdownloading.header": {
     "description": "Header above extension download buttons.",
     "message": "תוסף"
+  },
+  "downloads.header.subtitle": {
+    "description": "Subtitle for header",
+    "message": "השתמש ב-PreMiD עכשיו והשוויץ בפני החברים שלך במה שאתה עושה, אולי תמצא מישהו עם אותם תחומי עניין."
+  },
+  "downloads.header.title": {
+    "description": "Title",
+    "message": "זמן להשוויץ."
+  },
+  "downloads.instructions.footer": {
+    "description": "{0} will be replaced with footer.link",
+    "message": "עדיין יש תקלות? {0}"
+  },
+  "downloads.instructions.footer.link": {
+    "description": "Link to our discord",
+    "message": "אנחנו פה בשביל לעזור!"
   },
   "downloads.instructions.heading": {
     "description": "Displayed at Downloads page above steps",
@@ -26,6 +82,42 @@
   "downloads.instructions.step_1": {
     "description": "Heading for installing the application",
     "message": "הורד את PreMiD"
+  },
+  "downloads.instructions.step_2": {
+    "description": "Heading for installing the application",
+    "message": "התקן את היישום"
+  },
+  "downloads.instructions.step_3": {
+    "description": "Heading for installing the application",
+    "message": "הוסף את התוסף לדפדפן"
+  },
+  "downloads.instructions.step_4": {
+    "description": "I think you get what this is...",
+    "message": "רענן את האתר בכדי לבדוק אם התוסף חובר"
+  },
+  "downloads.latest.header": {
+    "description": "Header above alpha/beta download buttons.",
+    "message": "מהדורות מוקדמות"
+  },
+  "downloads.mobile.errorMessage": {
+    "description": "Downloads page warning when user is on mobile.",
+    "message": "לידיעתך, PreMiD אינו נתמך כרגע בנייד."
+  },
+  "downloads.mobile.hideDownloads": {
+    "description": "Little button on the downloads page for mobile users.",
+    "message": "הסתר הורדות"
+  },
+  "downloads.mobile.showDownloads": {
+    "description": "Little button on the downloads page for mobile users.",
+    "message": "הראה הורדות"
+  },
+  "downloads.showbeta.message": {
+    "description": "",
+    "message": "הצג מהדורות מוקדמות"
+  },
+  "downloads.showbeta.small": {
+    "description": "Small text under the show beta title.",
+    "message": "(לא נחוץ אם אתה כאן רק כדי להוריד את היישום הרגיל)"
   },
   "downloads.skipanyway.message1": {
     "description": "Skip anyway messages (changes everytime you click it).",
@@ -51,8 +143,28 @@
     "description": "Last message of the skip anyway messages (changes everytime you click it).",
     "message": "בסדר, בסדר..."
   },
+  "downloads.tooltips.os_not_supported.part1": {
+    "description": "First part of the message.",
+    "message": "אזהרה:"
+  },
   "downloads.tooltips.os_not_supported.part2": {
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
     "message": "{0} אין התקנה עבור מערכת ההפעלה שלך. זה אומר שאין שום תמיכה מקצועית בשביל זה."
+  },
+  "downloads.warning.differentVersion": {
+    "description": "Tippy message of the Linux card.",
+    "message": "הגרסה הנוכחית של פלטפורמה זו היא {0} (גרסה זו היא רק ל- Linux ואינה חלה על מערכות אחרות)."
+  },
+  "downloads.warning.differentVersion2": {
+    "description": "Tippy message of the version number when user is on Linux.",
+    "message": "גרסה זו ספציפית ללינוקס ואינה חלה על מערכות אחרות. הגרסה הראשית של האפליקציה היא {0}"
+  },
+  "downloads.warning.message.opera": {
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+    "message": "עליך להתקין **זאת** כדי להתקין את PreMiD מחנות האינטרנט של Chrome."
+  },
+  "downloads.warning.title": {
+    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+    "message": "אזהרה"
   }
 }
