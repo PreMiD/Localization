@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "الطاقم"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "الداعمين"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "المترجمين"
@@ -19,13 +23,33 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "داعم"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "مدير المجتمع"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "مشرف"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "متبرع"
   },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "الموارد البشرية"
+  },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "مدير الشؤون المحلية"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "إدارة المشروع"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "المُساهم"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
