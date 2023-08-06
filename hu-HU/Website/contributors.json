@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Csapat"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Támogatók"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Fordítók"
@@ -22,6 +26,10 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Közösségi Menedzser"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderátor"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -38,6 +46,10 @@
   "contributors.roles.projectManagement": {
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Projekt menedzsment"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Közreműködő"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
