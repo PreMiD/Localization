@@ -14,7 +14,7 @@
 		"download": "8.0.0",
 		"fs-extra": "10.0.1",
 		"globby": "11",
-		"mongodb": "4.4.1",
+		"mongodb": "4.17.0",
 		"p-retry": "4",
 		"source-map-support": "0.5.21"
 	},
