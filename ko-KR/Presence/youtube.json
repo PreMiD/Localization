@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "현재 광고 시청 중"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "재생목록 검색 중"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "살펴보는 중:"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "동영상 검색 중"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "시청 기록"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "라이브러리"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "채널:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "구매 내역"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "채널을 보는 중:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "신고 내역 보는 중"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "{0} 채널에서 검색 중:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "아티스트 페이지"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "채널 분석"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "채널 댓글"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "채널 번역본"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "대시보드 보는 중"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "동영상 편집 중:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "동영상 분석 보는 중:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "동영상 댓글 보는 중"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "동영상 번역본을 보는 중"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "보는 중:"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "동영상 보는 중"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "채널 구독 정보"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "유행 확인 중"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "무언가 업로드 중..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "모든 재생목록 보는 중"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "음악 라이브러리 보는 중"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "실시간 대시보드 보는 중"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "생방송 이벤트 보는 중"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "커뮤니티 게시글 보는 중"
-  }
+	"youtube.ad": {
+		"description": "",
+		"message": "현재 광고 시청 중"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "재생목록 검색 중"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "살펴보는 중:"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "동영상 검색 중"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "시청 기록"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "라이브러리"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "채널:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "구매 내역"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "채널을 보는 중:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "신고 내역 보는 중"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "{0} 채널에서 검색 중:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "아티스트 페이지"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "채널 분석"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "채널 댓글"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "채널 번역본"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "대시보드 보는 중"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "동영상 편집 중:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "동영상 분석 보는 중:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "동영상 댓글 보는 중"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "동영상 번역본을 보는 중"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "보는 중:"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "동영상 보는 중"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "채널 구독 정보"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "유행 확인 중"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "무언가 업로드 중..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "모든 재생목록 보는 중"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "음악 라이브러리 보는 중"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "실시간 대시보드 보는 중"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "생방송 이벤트 보는 중"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "커뮤니티 게시글 보는 중"
+	}
 }

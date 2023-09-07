@@ -1,1 +1,18 @@
-{}
+{
+  "pinterest.board": {
+    "description": "",
+    "message": "Vaatab lauda:"
+  },
+  "pinterest.follow": {
+    "description": "",
+    "message": "Jälgimise vaatamine"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "Kodulehe muutmine"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "Pini vaatamine"
+  }
+}

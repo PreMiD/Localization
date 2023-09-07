@@ -63,6 +63,10 @@
     "description": "Shown when the user has no internet connection",
     "message": "Nu există conexiune la internet!"
   },
+  "popup.info.noInternet.message": {
+    "description": "Shown when the user has no internet connection",
+    "message": "Se pare că nu aveți o conexiune la internet! PreMiD nu va putea afișa prezențe în acest moment."
+  },
   "popup.info.notConnected": {
     "description": "Shown when the extension can't connect to the application",
     "message": "Nu este conectat"
@@ -71,9 +75,29 @@
     "description": "Shown when the extension can't connect to the application",
     "message": "PreMiD nu a putut să se conecteze la aplicație! Este instalată și rulează? *Troubleshooting*"
   },
+  "popup.info.notConnectedDiscord": {
+    "description": "Shown in the extension when the application can't connect to Discord",
+    "message": "Nicio conexiune la Discord!"
+  },
+  "popup.info.notConnectedDiscord.message": {
+    "description": "Shown in the extension when the application can't connect to Discord",
+    "message": "PreMiD nu s-a putut conecta la aplicația dvs. Discord! Este instalat și rulează? *Depanare*"
+  },
+  "popup.info.safari.outdatedExtension": {
+    "description": "Shown when Extension is outdated. Only for Safari port.",
+    "message": "Extensie învechită"
+  },
+  "popup.info.safari.outdatedExtension.message": {
+    "description": "Shown when Extension is outdated. Only for Safari port.",
+    "message": "Extensia dvs. este invechita. Vă rugăm să o actualizați pentru a obține cele mai recente caracteristici descărcându-o de pe site-ul nostru."
+  },
   "popup.info.safari.urgentUpdate": {
     "description": "Shown when Extension is outdated. Only for Safari port.",
     "message": "Actualizare urgentă"
+  },
+  "popup.info.safari.urgentUpdate.message": {
+    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+    "message": "Am lansat o actualizare urgentă pentru extensie. Vă rugăm să îl actualizați pentru a continua să utilizați PreMiD."
   },
   "popup.info.unsupportedAppVersion": {
     "description": "Shown when application is outdated",

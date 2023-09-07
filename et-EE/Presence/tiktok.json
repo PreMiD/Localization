@@ -1,1 +1,18 @@
-{}
+{
+  "tiktok.buttonViewTikTok": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Kuva TikTok"
+  },
+  "tiktok.following": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "{0} jälgimise lehe vaatamine"
+  },
+  "tiktok.forYou": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Lehe {0} Teie jaoks vaatamine"
+  },
+  "tiktok.viewing": {
+    "description": "Name of the user will be after the \":\"",
+    "message": "TikToki vaatamine:"
+  }
+}

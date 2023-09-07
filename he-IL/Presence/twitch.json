@@ -1,4 +1,12 @@
 {
+  "twitch.campMusic": {
+    "description": "Page name",
+    "message": "מוזיקה ב-Twitch"
+  },
+  "twitch.campReward": {
+    "description": "Page name",
+    "message": "קבל תגמול"
+  },
   "twitch.downloads": {
     "description": "Page name",
     "message": "הורדות"

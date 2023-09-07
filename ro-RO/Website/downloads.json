@@ -3,6 +3,10 @@
     "description": "Message next to pepe.",
     "message": "Vă rugăm să vă dezactivaţi adblock-ul"
   },
+  "downloads.adsbox.thankyou.message": {
+    "description": "Message of the advertisement section box.",
+    "message": "Folosim reclame pentru a sprijini echipa noastră și a ne menține serverele pentru a vă oferi cea mai bună experiență de utilizator!"
+  },
   "downloads.adsbox.thankyou.title": {
     "description": "Title of the advertisement section box.",
     "message": "Mulțumim!"
@@ -35,9 +39,17 @@
     "description": "Skip button on the ads section",
     "message": "Omiteți"
   },
+  "downloads.button.skipanyway": {
+    "description": "Skip Anyway button on the ads page.",
+    "message": "Omite oricum"
+  },
   "downloads.error.login": {
     "description": "Error message if the user is not logged in.",
     "message": "Vă rugăm să vă autentificați pentru a vedea aceste descărcări."
+  },
+  "downloads.error.noaccess.description": {
+    "description": "More info if the user doesn't alpha/beta access.",
+    "message": "Te poți alătura programului beta gratis, **aici**. Grăbește-te! Mai sunt doar {0} locuri disponibile"
   },
   "downloads.error.noaccess.title": {
     "description": "Error message if the user doesn't alpha/beta access.",
@@ -46,6 +58,14 @@
   "downloads.extdownloading.header": {
     "description": "Header above extension download buttons.",
     "message": "Extensie"
+  },
+  "downloads.header.subtitle": {
+    "description": "Subtitle for header",
+    "message": "Folosește PreMiD acum și arată-le prietenilor tăi ce folosești, probabil vei găsi pe cineva cu aceleași interese."
+  },
+  "downloads.header.title": {
+    "description": "Title",
+    "message": "Timp de afișare dezactivat."
   },
   "downloads.instructions.footer": {
     "description": "{0} will be replaced with footer.link",
@@ -75,6 +95,10 @@
     "description": "I think you get what this is...",
     "message": "Reîncărcați pagina și verificați dacă extensia este conectată"
   },
+  "downloads.latest.header": {
+    "description": "Header above alpha/beta download buttons.",
+    "message": "Lansate de curând"
+  },
   "downloads.mobile.errorMessage": {
     "description": "Downloads page warning when user is on mobile.",
     "message": "Vă rugăm să rețineți că PreMiD nu este compatibil cu telefoane mobile."
@@ -91,6 +115,14 @@
     "description": "",
     "message": "Afișează descărcările beta"
   },
+  "downloads.showbeta.small": {
+    "description": "Small text under the show beta title.",
+    "message": "(nu este necesar dacă sunteți aici doar pentru a descărca aplicația normală)"
+  },
+  "downloads.skipanyway.message1": {
+    "description": "Skip anyway messages (changes everytime you click it).",
+    "message": "Nu vreau să susțin."
+  },
   "downloads.skipanyway.message2": {
     "description": "Skip anyway messages (changes everytime you click it).",
     "message": "Ești sigur?"
@@ -98,6 +130,10 @@
   "downloads.skipanyway.message3": {
     "description": "Skip anyway messages (changes everytime you click it).",
     "message": "Serios?"
+  },
+  "downloads.skipanyway.message4": {
+    "description": "Skip anyway messages (changes everytime you click it).",
+    "message": "T-te rugăm să ne sprijini :("
   },
   "downloads.skipanyway.message5": {
     "description": "Skip anyway messages (changes everytime you click it).",
@@ -115,9 +151,17 @@
     "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
     "message": "{0} Aplicația nu are instalator pentru acest sistem de operare. Aceasta înseamnă că nu există nici un sprijin profesional pentru aceasta."
   },
+  "downloads.warning.differentVersion": {
+    "description": "Tippy message of the Linux card.",
+    "message": "Versiunea actuală a acestei platforme este {0} (această versiune este specifică pentru Linux și nu se aplică altor platforme)."
+  },
   "downloads.warning.differentVersion2": {
     "description": "Tippy message of the version number when user is on Linux.",
     "message": "Această versiune este specifică pentru Linux și nu se aplică altor sisteme. Versiunea principală a aplicației este {0}"
+  },
+  "downloads.warning.message.opera": {
+    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+    "message": "Trebuie să instalați **această** extensie pentru a instala PreMiD din Chrome WebStore."
   },
   "downloads.warning.title": {
     "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",

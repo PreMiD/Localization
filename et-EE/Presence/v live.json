@@ -3,8 +3,96 @@
     "description": "The first part of the next 6 strings",
     "message": "Sirvimine"
   },
+  "v live.channelBoard": {
+    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
+    "message": "Tahvli {0} vaatamine"
+  },
+  "v live.channelHome": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Avalehe vaatamine"
+  },
+  "v live.channelList": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "kanalite loendit"
+  },
+  "v live.channelMy": {
+    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
+    "message": "Lehe \"my\" vaatamine"
+  },
+  "v live.channelSchedule": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Ajakava lehe vaatamine"
+  },
+  "v live.channelStore": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Poe lehe vaatamine"
+  },
+  "v live.charts": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "graafikute lehe"
+  },
+  "v live.coins": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "mündi saldo"
+  },
+  "v live.devices": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "ühendatud seadmete"
+  },
+  "v live.events": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "sündmuste lehe"
+  },
+  "v live.followed": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "jälgitud kanalite"
+  },
+  "v live.newVid": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "uude videote lehe"
+  },
+  "v live.ofChannel": {
+    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
+    "message": "kasutaja {0} kanali"
+  },
+  "v live.policies": {
+    "description": "",
+    "message": "Poliitikate lugemine"
+  },
+  "v live.product": {
+    "description": "{0} will be replaced with the name of the publisher of the product",
+    "message": "Kasutaja {0} toote vaatamine"
+  },
+  "v live.profile": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "profiililehe"
+  },
+  "v live.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "{0} enda profiili muutmine"
+  },
+  "v live.purchases": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "hiljutised ostude"
+  },
+  "v live.recentUploads": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Sirvimine{0} jälgija viimaseid üleslaadimisi"
+  },
+  "v live.store": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "poe lehe"
+  },
+  "v live.upcoming": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "eelseisva lehe"
+  },
   "v live.viewTheir": {
     "description": "The first part of the next 6 strings",
     "message": "Vaatamine"
+  },
+  "v live.watched": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "vaadatud videote"
   }
 }

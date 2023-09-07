@@ -1,15 +1,55 @@
 {
-  "apple.btnViewEvent": {
-    "description": "Button text",
-    "message": "Vezi evenimentul"
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "Se conectează..."
   },
-  "apple.btnViewProduct": {
-    "description": "Button text",
-    "message": "Vezi produsul"
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "Vizualizați aplicația"
   },
-  "apple.btnViewService": {
-    "description": "Button text",
-    "message": "Vezi serviciul"
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "Vedeți Dezvoltator"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "Vezi {0}"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "Vedeți Profilul lui {0}"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "Vezi {0} Studio"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "Vizualizați etichete"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Vizualizați subiectul"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "Vezi {0}"
+  },
+  "apple.chooseLang": {
+    "description": "Choosing the language of the website",
+    "message": "Se alege limba..."
+  },
+  "apple.comparing": {
+    "description": "e.g. \"Comparing: Apple Watch\"",
+    "message": "Comparaţie:"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "Contactează echipa de suport"
+  },
+  "apple.devDistribution": {
+    "description": "Distribute software to the App Store",
+    "message": "Distribuirea software-ului"
   },
   "apple.devDocs": {
     "description": "Developer documentation",
@@ -23,21 +63,45 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "Jocuri"
   },
-  "apple.devResources": {
-    "description": "Apple Design Resources",
-    "message": "Resurse"
+  "apple.devHIG": {
+    "description": "Guidelines for designing apps for the various Apple operating systems",
+    "message": "Ghid pentru interfața umană"
   },
-  "apple.devVideos": {
-    "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "Videoclipuri"
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "Ce mai e nou"
   },
-  "apple.forumPreferences": {
-    "description": "Profile settings/preferences, e.g. change username",
-    "message": "Preferinţe"
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "Știri și actualizări"
   },
-  "apple.forumRegister": {
-    "description": "Register a new account (alternative translation: registering)",
-    "message": "Înregistrare"
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "aplicații pentru iPhone și iPad"
+  },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "Lansări"
+  },
+  "apple.devSubmit": {
+    "description": "Submit iOS and iPadOS apps to the App Store",
+    "message": "Cum să trimiteți aplicațiile"
+  },
+  "apple.devVidTopic": {
+    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
+    "message": "Răsfoirea subiectului video"
+  },
+  "apple.forumCreateThread": {
+    "description": "Creating a forum thread",
+    "message": "Crearea subiectului"
+  },
+  "apple.forumTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "Etichete de forum"
+  },
+  "apple.healthRecords": {
+    "description": "Health records of a person",
+    "message": "Fișele de sănătate"
   },
   "apple.healthcare": {
     "description": "The organized provision of medical care to individuals or a community",
@@ -51,9 +115,21 @@
     "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
     "message": "Contacte"
   },
+  "apple.iCloudKeynoteWait": {
+    "description": "Before the keynote begins, you'll be in the waiting room",
+    "message": "Sală de așteptare"
+  },
+  "apple.iCloudMail": {
+    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Poștă"
+  },
   "apple.iCloudNotes": {
     "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
     "message": "Notițe"
+  },
+  "apple.iCloudPagesCreate": {
+    "description": "Creating a new Pages document",
+    "message": "Crearea..."
   },
   "apple.iCloudPhotos": {
     "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
@@ -67,6 +143,14 @@
     "description": "Other pages not added to the code",
     "message": "Altele"
   },
+  "apple.overview": {
+    "description": "Overview of e.g. all pages of a category",
+    "message": "Prezentare generală"
+  },
+  "apple.productsPlatform": {
+    "description": "Products/platforms for companies",
+    "message": "Produse și Platformă"
+  },
   "apple.purchasingAdvice": {
     "description": "Purchasing advice for e.g. what iPhone is the best for me?",
     "message": "Sfaturi de achiziție"
@@ -74,6 +158,18 @@
   "apple.shopAccessories": {
     "description": "Accessories for Apple products (e.g iPhone case)",
     "message": "Accesorii Apple"
+  },
+  "apple.shopBag": {
+    "description": "Shopping cart",
+    "message": "Geantă de magazin"
+  },
+  "apple.shopBagSummary": {
+    "description": "The total price of the items in your bag (shopping cart)",
+    "message": "Total: {0}"
+  },
+  "apple.shopBands": {
+    "description": "Bands (Bracelets) for the Apple Watch",
+    "message": "Benzi Apple Watch"
   },
   "apple.shopFavorites": {
     "description": "Favorite products",
@@ -83,8 +179,40 @@
     "description": "Gift cards for e.g. the App Store",
     "message": "Carduri cadou"
   },
+  "apple.shopPlanVisit": {
+    "description": "Plan your visit to the Apple Store",
+    "message": "Planificați-vă vizita"
+  },
+  "apple.shopRefurbished": {
+    "description": "Used Apple products at a lower price",
+    "message": "Renovat certificat"
+  },
   "apple.shopStudio": {
     "description": "Choose your own design components for a product",
     "message": "Studio Apple Watch"
+  },
+  "apple.storeFinder": {
+    "description": "Tool used to find the nearest store",
+    "message": "Găsește magazin"
+  },
+  "apple.supplierResp": {
+    "description": "Information on human rights, health, safety, education, etc. of employees",
+    "message": "Responsabilitatea furnizorului"
+  },
+  "apple.support": {
+    "description": "Support for products, services/apps from Apple, etc.",
+    "message": "Asistență Apple"
+  },
+  "apple.supportArticle": {
+    "description": "Support article",
+    "message": "Articolul de asistență Apple"
+  },
+  "apple.viewEvent": {
+    "description": "Viewing an event (e.g. September event)",
+    "message": "Vizualizarea evenimentului"
+  },
+  "apple.viewService": {
+    "description": "e.g. \"Viewing Service: Fitness+\"",
+    "message": "Vizionează serviciul:"
   }
 }

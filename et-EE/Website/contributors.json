@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Meeskond"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Toetajad"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Tõlkijad"
@@ -19,17 +23,41 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Booster"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Kogukonna juht"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderaator"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Annetaja"
+  },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Inimressursiosakond"
   },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Lokaliseerimishaldur"
   },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Projektihaldus"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Panustaja"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Ülelugeja"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Klienditugi"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

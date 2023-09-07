@@ -31,6 +31,10 @@
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
     "message": "אופה פנקייקים...;ממקם מכולות...;סורק את האייפי שלך...;UwU;עובר על החוקים..."
   },
+  "header.login": {
+    "description": "Login Button",
+    "message": "התחבר"
+  },
   "header.store": {
     "description": "Store tab",
     "message": "חנות"

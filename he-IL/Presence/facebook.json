@@ -1,1 +1,22 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "נוספו לאחרונה"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "דפדוף דרך:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "סרטונים שמורים"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "קריאה על משתמש:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "מישהו... (המשתמש מוסתר)"
+  }
+}

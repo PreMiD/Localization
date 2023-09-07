@@ -17,7 +17,7 @@
   },
   "home.examples.timestamp": {
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
-    "message": "{0} נשאר"
+    "message": "{0} נשארו"
   },
   "home.features.heading": {
     "description": "Features section",

@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "Ser for tiden en annonse"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Blar igjennom spillelister"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Blar igjennom"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Blar igjennom videoer"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "sin historikk"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "biblioteket sitt"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "for kanal:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "sine kjøp"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "Leser om kanal:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "Ser på sin rapportshistorikk"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "Søker igjennom kanal {0} for:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "artist side"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanal analyser"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanal kommentarer"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "kanal oversettelser"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "Ser på sitt kontrollpanel"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "Redigerer video:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "Viser analyser for video:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "Ser på kommentarene for video:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "Ser oversettelse av video:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "Ser deres"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "Ser igjennom videoene deres"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "sine abonnementer"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "Ser hva som er populært"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "Laster opp noe..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "Ser igjennom spillelistene sine"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "Ser på sitt filmbiblioteket"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "Ser på deres direkte kontrollpanel"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "Ser på deres live-arrangementer"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Ser på sammfunnsinlegg"
-  }
+	"youtube.ad": {
+		"description": "",
+		"message": "Ser for tiden en annonse"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Blar igjennom spillelister"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Blar igjennom"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Blar igjennom videoer"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "sin historikk"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "biblioteket sitt"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "for kanal:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "sine kjøp"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Leser om kanal:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Ser på sin rapportshistorikk"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Søker igjennom kanal {0} for:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "artist side"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanal analyser"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanal kommentarer"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanal oversettelser"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "Ser på sitt kontrollpanel"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "Redigerer video:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "Viser analyser for video:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "Ser på kommentarene for video:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Ser oversettelse av video:"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Ser deres"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "Ser igjennom videoene deres"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "sine abonnementer"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Ser hva som er populært"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "Laster opp noe..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Ser igjennom spillelistene sine"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "Ser på sitt filmbiblioteket"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "Ser på deres direkte kontrollpanel"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "Ser på deres live-arrangementer"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Ser på sammfunnsinlegg"
+	}
 }

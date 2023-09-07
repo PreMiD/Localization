@@ -1,4 +1,4 @@
-FROM gplane/pnpm:alpine as builder
+FROM gplane/pnpm:7-alpine as builder
 
 COPY package.json pnpm-lock.yaml /
 RUN pnpm i --frozen-lockfile
@@ -6,7 +6,7 @@ RUN pnpm i --frozen-lockfile
 COPY . /
 RUN pnpm build
 
-FROM gplane/pnpm:alpine
+FROM gplane/pnpm:7-alpine
 
 ENV NODE_ENV=production
 

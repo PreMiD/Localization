@@ -171,9 +171,29 @@
     "description": "",
     "message": "กำลังอ่าน..."
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "กำลังอ่านในช่อง"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "กำลังอ่านข้อความส่วนตัว"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "กำลังอ่านโพสต์"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "กำลังอ่านเธรด"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "กำลังอ่านเกี่ยวกับ:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "กำลังอ่านบทความ"
   },
   "general.readingArticle": {
     "description": "",
@@ -239,13 +259,69 @@
     "description": "",
     "message": "กำลังพิมพ์ข้อความส่วนตัวไปหา:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "กำลังพิมพ์ข้อความส่วนตัว"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "ประวัติการทำงาน"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "กำลังดูลิสต์"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "กำลังดูมังงะ"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "กำลังดูสมาชิก"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "กำลังดูภาพยนตร์"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "กำลังดูเพจ"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "กำลังดูเพลย์ลิสต์"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "กำลังดูสินค้า"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "กำลังดูโปรไฟล์"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "กำลังดูซีรี่ย์"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "กำลังดูโชว์"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "กำลังดูเธรด"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "กำลังดูแอคเคาท์ของเขาเอง"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "กำลังดูเหตุการณ์"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "กำลังดูผู้ใช้"
   },
   "general.viewAnime": {
     "description": "",
@@ -270,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "กำลังดูหน้าหลัก"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "กำลังดูเหตุการณ์เกี่ยวกับ:"
   },
   "general.viewList": {
     "description": "",
@@ -322,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "กำลังดู:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "กำลังดูสิ่งที่อยากได้"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "กำลังดูสิ่งที่อยากได้ของ:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",

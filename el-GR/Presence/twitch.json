@@ -1,10 +1,26 @@
 {
+  "twitch.clips": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Κλιπς"
+  },
   "twitch.downloads": {
     "description": "Page name",
     "message": "Λήψεις"
   },
+  "twitch.esports": {
+    "description": "",
+    "message": "Προβολή Esports..."
+  },
+  "twitch.help": {
+    "description": "Page name",
+    "message": "Κέντρο Βοήθειας"
+  },
   "twitch.partners": {
     "description": "Page name",
     "message": "Συνεργάτες"
+  },
+  "twitch.viewTeam": {
+    "description": "",
+    "message": "Προβολή ομάδας:"
   }
 }

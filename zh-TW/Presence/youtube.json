@@ -1,14 +1,14 @@
 {
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "遊覽中"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "正在檢視發燒影片"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "正在上載影片"
-  }
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "遊覽中"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "正在檢視發燒影片"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "正在上載影片"
+	}
 }

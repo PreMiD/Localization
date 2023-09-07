@@ -171,6 +171,10 @@
     "description": "",
     "message": "Membaca"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Membaca di saluran"
+  },
   "general.readingADM": {
     "description": "",
     "message": "Membaca Pesan Langsung"
@@ -291,9 +295,17 @@
     "description": "",
     "message": "Melihat profil"
   },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Melihat serial"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Melihat akun mereka"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Melihat sebuah kejadian"
   },
   "general.viewAnUser": {
     "description": "",
@@ -322,6 +334,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Melihat halaman beranda"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Melihat kejadian tentang:"
   },
   "general.viewList": {
     "description": "",
@@ -374,6 +390,14 @@
   "general.viewing": {
     "description": "",
     "message": "Melihat:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Melihat daftar keinginan"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Melihat daftar keinginan dari:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
