@@ -1,346 +1,350 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "動漫"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "瀏覽中..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "聆聽着"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "正在閱讀文章"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "瀏覽專輯"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "查看藝人"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "瀏覽頻道"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "觀看劇集"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "查看頁面"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "查看播放清單"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "正在瀏覽播客"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "查看設定檔"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "瀏覽系列"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "瀏覽歌曲"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "觀看直播"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "觀看影片"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "呼叫中"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "章節"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Cookie 政策"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "正在編輯:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "集數"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "論壇"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "類型"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "在通話中"
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "事件記錄"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "語言"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "聽眾"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "正在聆聽音樂"
-  },
-  "general.live": {
-    "description": "",
-    "message": "直播"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "漫畫"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "週邊商品"
-  },
-  "general.page": {
-    "description": "",
-    "message": "頁"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "已暫停"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "正在播放"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "隱私權政策"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "閱讀中"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "正在閲讀關於:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "正在閱讀文章:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "閱覽頻道:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "正在閱讀私訊來自:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "正在閱讀帖子:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "正在閲讀主題:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "循環中"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "循環所有歌曲"
-  },
-  "general.search": {
-    "description": "",
-    "message": "搜索中"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "尋找:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "搜尋中..."
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "購物車"
-  },
-  "general.store": {
-    "description": "",
-    "message": "商店"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "服務條款"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "在頻道輸入中:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "正在私訊給:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "運行時間記錄"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "正在檢視他們的帳號"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "正在看動畫:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "查看類別:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "檢視頻道:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "正在觀看集數:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "查看類別:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "正在檢視主頁"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "正在檢視列表:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "正在閱讀漫畫:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "正在瀏覽使用者:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "正在觀看電影:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "正在檢視頁面:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "正在檢視播放列表:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "正在查看產品"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "正在檢視使用者個人資料:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "正在檢視系列:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "正在觀看節目:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "正在檢視貼文:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "正在檢視使用者:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "正在檢視:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "等待直播開始"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "等待該直播的開始"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "等待影片開始首播"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "等待該影片開始首播"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "正在觀看:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "正在觀看直播"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "正在觀看電影"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "正在觀看一系列節目"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "正在觀看演出"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "正在觀看影片"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "願望清單:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "改寫中"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "動漫"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "瀏覽中..."
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "聆聽着"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "正在閱讀文章"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "瀏覽專輯"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "查看藝人"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "瀏覽頻道"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "觀看劇集"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "查看頁面"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "查看播放清單"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "正在瀏覽播客"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "查看設定檔"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "瀏覽系列"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "瀏覽歌曲"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "觀看直播"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "觀看影片"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "呼叫中"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "章節"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Cookie 政策"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "正在編輯:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "集數"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "論壇"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "類型"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "在通話中"
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "事件記錄"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "語言"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "聽眾"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "正在聆聽音樂"
+	},
+	"general.live": {
+		"description": "",
+		"message": "直播"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "漫畫"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "週邊商品"
+	},
+	"general.page": {
+		"description": "",
+		"message": "頁"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "已暫停"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "正在播放"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "隱私權政策"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "閱讀中"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "正在閲讀關於:"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "正在閱讀文章:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "閱覽頻道:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "正在閱讀私訊來自:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "正在閱讀帖子:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "正在閲讀主題:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "循環中"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "循環所有歌曲"
+	},
+	"general.search": {
+		"description": "",
+		"message": "搜索中"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "尋找:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "搜尋中..."
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "購物車"
+	},
+	"general.store": {
+		"description": "",
+		"message": "商店"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "服務條款"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "在頻道輸入中:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "正在私訊給:"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "運行時間記錄"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "正在檢視他們的帳號"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "正在看動畫:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "查看類別:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "檢視頻道:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "正在觀看集數:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "查看類別:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "正在檢視主頁"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "正在檢視列表:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "正在閱讀漫畫:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "正在瀏覽使用者:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "正在觀看電影:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "正在檢視頁面:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "正在檢視播放列表:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "正在查看產品"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "正在檢視使用者個人資料:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "正在檢視系列:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "正在觀看節目:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "正在檢視貼文:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "正在檢視使用者:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "正在檢視:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "等待直播開始"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "等待該直播的開始"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "等待影片開始首播"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "等待該影片開始首播"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "正在觀看:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "正在觀看直播"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "正在觀看電影"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "正在觀看一系列節目"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "正在觀看演出"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "正在觀看影片"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "維基"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "願望清單:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "改寫中"
+	}
 }
