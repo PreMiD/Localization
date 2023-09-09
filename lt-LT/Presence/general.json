@@ -1,210 +1,214 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Naršoma..."
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Skyrius"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Slapukų Naudojimo Politika"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Redaguojama:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Serija"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Forumai"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Žanras"
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Incidentų istorija"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Kalba"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Klausytojai"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Klausosi muzikos"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Tiesiogiai"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Prekės"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Puslapis"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Pristabdytas"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Leidžiama"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Privatumo politika"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Skaitymas"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Skaito apie:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Skaito kanale:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Skaito pranešimą:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Cikle"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Visų dainų ciklas"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Ieškoma"
-  },
-  "general.season": {
-    "description": "",
-    "message": "Sezonas"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Parduotuvė"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Naudojimosi sąlygos"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Veikimo laiko istorija"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Peržiūrima savo paskyra"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Peržiūrimas kanalas:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Peržiūrima serija:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Peržiūrimas žanras:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Pradinio puslapio peržiūra"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Peržiūrimas sąrašas:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Manga peržiūra:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Peržiūrimas vartotojas:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Žiūrimas filmas:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Peržiūri puslapį:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Peržiūrimas grojaraštis:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Peržiūrimas produktas:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Peržiūrimas profilis:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Peržiūrimas serialas:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Peržiūrima laida:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Skaito giją:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Peržiūrimas vartotojas:"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Žiūrima:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Stebima tiesioginė transliacija"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Žiūrimas vaizdo įrašas"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Pageidavimų sąrašas:"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Naršoma..."
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Skyrius"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Slapukų Naudojimo Politika"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Redaguojama:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Serija"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Forumai"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Žanras"
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Incidentų istorija"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Kalba"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Klausytojai"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Klausosi muzikos"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Tiesiogiai"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Prekės"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Puslapis"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Pristabdytas"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Leidžiama"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Privatumo politika"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Skaitymas"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Skaito apie:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Skaito kanale:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Skaito pranešimą:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "Cikle"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Visų dainų ciklas"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Ieškoma"
+	},
+	"general.season": {
+		"description": "",
+		"message": "Sezonas"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Parduotuvė"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Naudojimosi sąlygos"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Veikimo laiko istorija"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Peržiūrima savo paskyra"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Peržiūrimas kanalas:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Peržiūrima serija:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Peržiūrimas žanras:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Pradinio puslapio peržiūra"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Peržiūrimas sąrašas:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Manga peržiūra:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Peržiūrimas vartotojas:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Žiūrimas filmas:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Peržiūri puslapį:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Peržiūrimas grojaraštis:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Peržiūrimas produktas:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Peržiūrimas profilis:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Peržiūrimas serialas:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Peržiūrima laida:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Skaito giją:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Peržiūrimas vartotojas:"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Žiūrima:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Stebima tiesioginė transliacija"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Žiūrimas vaizdo įrašas"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wikipedija"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Pageidavimų sąrašas:"
+	}
 }
