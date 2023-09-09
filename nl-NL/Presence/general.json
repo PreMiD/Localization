@@ -1,462 +1,466 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Bladeren..."
-  },
-  "general.buttonBrowse": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Bladeren"
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Meeluisteren"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Artikel lezen"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Album bekijken"
-  },
-  "general.buttonViewArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Artikel bekijken"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Artiest bekijken"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Kanaal bekijken"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Aflevering bekijken"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Film weergeven"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Pagina bekijken"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Afspeellijst bekijken"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Podcast bekijken"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Profiel bekijken"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Serie bekijken"
-  },
-  "general.buttonViewShow": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Show bekijken"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Nummer bekijken"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Film bekijken"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Stream bekijken"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Video bekijken"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Belt"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Hoofdstuk"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Cookiebeleid"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Bewerkt:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Aflevering"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Forums"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Genre"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "In een gesprek..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Incidentengeschiedenis"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Taal"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Luisteraars"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Luistert naar muziek"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "Luistert naar{0}{1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Live"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Merch"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Pagina"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Gepauzeerd"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Wordt afgespeeld"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Privacybeleid"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Bezig met lezen"
-  },
-  "general.readingAChannel": {
-    "description": "",
-    "message": "Leest in een kanaal"
-  },
-  "general.readingADM": {
-    "description": "",
-    "message": "Leest een privébericht"
-  },
-  "general.readingAPost": {
-    "description": "",
-    "message": "Leest een post"
-  },
-  "general.readingAThread": {
-    "description": "",
-    "message": "Leest een thread"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Leest over:"
-  },
-  "general.readingAnArticle": {
-    "description": "",
-    "message": "Leest een artikel"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Leest artikel:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Leest in kanaal:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Leest de privéberichten van:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Leest bericht:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Leest de conversatie:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Op herhaalmodus"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Speelt alle nummers af in herhaalmodus"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Bezig met zoeken"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Zoekt naar:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Iets aan het opzoeken..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Seizoen"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Winkelwagen"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Bibliotheek"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Algemene voorwaarden"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Typt in kanaal:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Typt in privéberichten naar:"
-  },
-  "general.typeInDM": {
-    "description": "",
-    "message": "Typt een privébericht"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Beschikbaarheidsgeschiedenis"
-  },
-  "general.viewAList": {
-    "description": "",
-    "message": "Bekijkt een lijst"
-  },
-  "general.viewAManga": {
-    "description": "",
-    "message": "Bekijkt een manga"
-  },
-  "general.viewAMember": {
-    "description": "",
-    "message": "Bekijkt een lid"
-  },
-  "general.viewAMovie": {
-    "description": "",
-    "message": "Bekijkt een film"
-  },
-  "general.viewAPage": {
-    "description": "",
-    "message": "Bekijkt een pagina"
-  },
-  "general.viewAPlaylist": {
-    "description": "",
-    "message": "Bekijkt een afspeellijst"
-  },
-  "general.viewAProduct": {
-    "description": "",
-    "message": "Bekijkt een product"
-  },
-  "general.viewAProfile": {
-    "description": "",
-    "message": "Bekijkt een profiel"
-  },
-  "general.viewASeries": {
-    "description": "",
-    "message": "Bekijkt een serie"
-  },
-  "general.viewAShow": {
-    "description": "",
-    "message": "Bekijkt een programma"
-  },
-  "general.viewAThread": {
-    "description": "",
-    "message": "Bekijkt een thread"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Bekijkt zijn/haar account"
-  },
-  "general.viewAnIncident": {
-    "description": "A page name of statuspages",
-    "message": "Bekijkt een incident"
-  },
-  "general.viewAnUser": {
-    "description": "",
-    "message": "Bekijkt een gebruiker"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Bekijkt anime:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Bekijkt categorie:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Bekijkt kanaal:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Bekijkt aflevering:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Bekijkt genre:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Bekijkt de startpagina"
-  },
-  "general.viewIncident": {
-    "description": "A page name of statuspages",
-    "message": "Bekijkt incident:"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Bekijkt lijst van:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Bekijkt manga:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Bekijkt lid:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Bekijkt film:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Bekijkt pagina:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Bekijkt afspeellijst:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Bekijkt product:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Bekijkt het profiel van:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Bekijkt serie:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Bekijkt show:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Bekijkt conversatie:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Bekijkt gebruiker:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Bekijkt:"
-  },
-  "general.viewingAWishlist": {
-    "description": "",
-    "message": "Bekijkt een verlanglijst"
-  },
-  "general.viewingWishlist": {
-    "description": "",
-    "message": "Bekijkt verlanglijst van:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Wacht er op dat een livestream begint"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Wacht er op dat de livestream begint"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Wacht op een video die in première gaat"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Wacht op de video die in première gaat"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Kijkt naar:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Kijkt naar een livestream"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Kijkt naar een film"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Kijkt naar een serie"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Kijkt naar een show"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Kijkt naar een video"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Verlanglijst:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Schrijft"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Bladeren..."
+	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Bladeren"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Meeluisteren"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Artikel lezen"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Album bekijken"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Artikel bekijken"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Artiest bekijken"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Kanaal bekijken"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Aflevering bekijken"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Film weergeven"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Pagina bekijken"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Afspeellijst bekijken"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Podcast bekijken"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Profiel bekijken"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Serie bekijken"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Show bekijken"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Nummer bekijken"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Film bekijken"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Stream bekijken"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Video bekijken"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Belt"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Hoofdstuk"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Cookiebeleid"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Bewerkt:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Aflevering"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Forums"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Genre"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "In een gesprek..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Incidentengeschiedenis"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Taal"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Luisteraars"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Luistert naar muziek"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Luistert naar{0}{1}"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Live"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Merch"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Pagina"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Gepauzeerd"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Wordt afgespeeld"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Privacybeleid"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Bezig met lezen"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Leest in een kanaal"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Leest een privébericht"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Leest een post"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Leest een thread"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Leest over:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Leest een artikel"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Leest artikel:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Leest in kanaal:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Leest de privéberichten van:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Leest bericht:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Leest de conversatie:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "Op herhaalmodus"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Speelt alle nummers af in herhaalmodus"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Bezig met zoeken"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Zoekt naar:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Iets aan het opzoeken..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "Seizoen"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Winkelwagen"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Bibliotheek"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Algemene voorwaarden"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Typt in kanaal:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Typt in privéberichten naar:"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "Typt een privébericht"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Beschikbaarheidsgeschiedenis"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Bekijkt een lijst"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Bekijkt een manga"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Bekijkt een lid"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Bekijkt een film"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Bekijkt een pagina"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Bekijkt een afspeellijst"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Bekijkt een product"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Bekijkt een profiel"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Bekijkt een serie"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Bekijkt een programma"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Bekijkt een thread"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Bekijkt zijn/haar account"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "Bekijkt een incident"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Bekijkt een gebruiker"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Bekijkt anime:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Bekijkt categorie:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Bekijkt kanaal:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Bekijkt aflevering:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Bekijkt genre:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Bekijkt de startpagina"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "Bekijkt incident:"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Bekijkt lijst van:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Bekijkt manga:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Bekijkt lid:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Bekijkt film:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Bekijkt pagina:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Bekijkt afspeellijst:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Bekijkt product:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Bekijkt het profiel van:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Bekijkt serie:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Bekijkt show:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Bekijkt conversatie:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Bekijkt gebruiker:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "Bekijkt:"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Bekijkt een verlanglijst"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "Bekijkt verlanglijst van:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Wacht er op dat een livestream begint"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Wacht er op dat de livestream begint"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Wacht op een video die in première gaat"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Wacht op de video die in première gaat"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Kijkt naar:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Kijkt naar een livestream"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Kijkt naar een film"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Kijkt naar een serie"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Kijkt naar een show"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Kijkt naar een video"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wiki"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Verlanglijst:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Schrijft"
+	}
 }
