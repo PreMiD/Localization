@@ -247,6 +247,10 @@
 		"description": "",
 		"message": "Bibliotheek"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "Ondersteuningspagina"
+	},
 	"general.terms": {
 		"description": "A page name",
 		"message": "Algemene voorwaarden"
@@ -454,6 +458,10 @@
 	"general.wiki": {
 		"description": "A page name",
 		"message": "Wiki"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Hoofdpagina wiki"
 	},
 	"general.wishlist": {
 		"description": "",

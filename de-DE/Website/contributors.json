@@ -33,7 +33,7 @@
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
-    "message": "Spender*in"
+    "message": "Unterstützer"
   },
   "contributors.roles.humanResources": {
     "description": "'Human Resources' title for contributors and user pages.",
@@ -47,9 +47,13 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Projekt Management"
   },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Mitwirkende"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
-    "message": "Korrekturleser*in"
+    "message": "Korrekturleser"
   },
   "contributors.roles.support": {
     "description": "'Support' title for contributors and user pages.",
@@ -57,6 +61,6 @@
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
-    "message": "Übersetzer*in"
+    "message": "Übersetzer"
   }
 }
