@@ -21,11 +21,11 @@
 	},
 	"osu!ppy.countryRankings": {
 		"description": "Country rankings {0} = gamemode. E.g. Country Rankings [osu!]",
-		"message": "Country rankings {0}"
+		"message": "Country rankings [{0}]"
 	},
 	"osu!ppy.for": {
 		"description": "{0} = country/for All, {1} = gamemode. E.g. Performance Rankings (for All) [osu!]",
-		"message": "for {0} {1}"
+		"message": "(for {0}) [{1}]"
 	},
 	"osu!ppy.performanceRankings": {
 		"description": "Displayed when viewing the performance rankings.",
@@ -33,11 +33,11 @@
 	},
 	"osu!ppy.scoreRankings": {
 		"description": "{0} = gamemode. E.g. Score Rankings [osu!]",
-		"message": "Score rankings {0}"
+		"message": "Score rankings [{0}]"
 	},
 	"osu!ppy.spotlights": {
 		"description": "{0} = gamemode, {1} = All/Friends. E.g. The osu! Spotlights (All)",
-		"message": "The {0} spotlights {1}"
+		"message": "The {0} spotlights ({1})"
 	},
 	"osu!ppy.support": {
 		"description": "Displayed when viewing the support page.",
