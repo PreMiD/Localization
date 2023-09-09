@@ -1,462 +1,466 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Navigare..."
-  },
-  "general.buttonBrowse": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Caută"
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ascultă împreună"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Citește articolul"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi albumul"
-  },
-  "general.buttonViewArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi articolul"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi artistul"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi canalul"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Urmărește episodul"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi filmul"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi pagina"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi playlist-ul"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi podcast-ul"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi profilul"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi serialul"
-  },
-  "general.buttonViewShow": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi spectacolul"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vezi melodia"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Vizionează film"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Urmărește stream-ul"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Urmărește videoclipul"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Sună"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Capitol"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Politică Cookies"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Editează:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Episodul"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Forumuri"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Gen"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Într-un apel..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Istoricul incidentelor"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Limbă"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Ascultători"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Ascultând muzică"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "Ascultă{0}{1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "În direct"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Merch"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Pagină"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Pauză"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Se redă"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Politică de confidenţialitate"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Citește"
-  },
-  "general.readingAChannel": {
-    "description": "",
-    "message": "Citește din canalul"
-  },
-  "general.readingADM": {
-    "description": "",
-    "message": "Citește un DM"
-  },
-  "general.readingAPost": {
-    "description": "",
-    "message": "Citește o postare"
-  },
-  "general.readingAThread": {
-    "description": "",
-    "message": "Citește o temă"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Citește despre:"
-  },
-  "general.readingAnArticle": {
-    "description": "",
-    "message": "Citește un articol"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Citește un articol:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Citește din canalul:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Citește DM-urile de la:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Citește un post:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Citește un thread:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Pe repeat"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Repetă toate melodiile"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Căutare"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Caută:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Caută ceva..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Sezon"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Coş de cumpărături"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Magazin"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Condiţii de utilizare"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Scrie în canalul:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Scrie în DM-uri cu:"
-  },
-  "general.typeInDM": {
-    "description": "",
-    "message": "Scrie în DMs"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Istoricul uptime-ului"
-  },
-  "general.viewAList": {
-    "description": "",
-    "message": "Se uită la listă"
-  },
-  "general.viewAManga": {
-    "description": "",
-    "message": "Se uită la manga"
-  },
-  "general.viewAMember": {
-    "description": "",
-    "message": "Vizualizează un membru"
-  },
-  "general.viewAMovie": {
-    "description": "",
-    "message": "Vizualizează un film"
-  },
-  "general.viewAPage": {
-    "description": "",
-    "message": "Vizualizează o pagină"
-  },
-  "general.viewAPlaylist": {
-    "description": "",
-    "message": "Vizualizează o listă de redare"
-  },
-  "general.viewAProduct": {
-    "description": "",
-    "message": "Se uită la un produs"
-  },
-  "general.viewAProfile": {
-    "description": "",
-    "message": "Vizualizează un profil"
-  },
-  "general.viewASeries": {
-    "description": "",
-    "message": "Vizualizează un serial"
-  },
-  "general.viewAShow": {
-    "description": "",
-    "message": "Vizualizează un spectacol"
-  },
-  "general.viewAThread": {
-    "description": "",
-    "message": "Vizualizează o temă"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Se uită la contul său"
-  },
-  "general.viewAnIncident": {
-    "description": "A page name of statuspages",
-    "message": "Vizualizează un incident"
-  },
-  "general.viewAnUser": {
-    "description": "",
-    "message": "Vizualizează un utilizator"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Se uită la anime-ul:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Se uită la categoria:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Se uită la canalul:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Se uită la episodul:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Se uită la genul:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Se uită la pagina principală"
-  },
-  "general.viewIncident": {
-    "description": "A page name of statuspages",
-    "message": "Vizualizează incidentul despre:"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Se uită la lista de:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Se uită la manga-ul:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Se uită la membrul:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Se uită la filmul:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Se uită la pagina:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Se uită la playlist-ul:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Se uită la un produs:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Se uită la profilul:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Se uită la serialul:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Se uită la show-ul:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Se uită un thread:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Se uită la un user:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Se uită la:"
-  },
-  "general.viewingAWishlist": {
-    "description": "",
-    "message": "Vizualizează o listă de dorințe"
-  },
-  "general.viewingWishlist": {
-    "description": "",
-    "message": "Se uită la lista dorințelor de:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Așteaptă ca un livestream să pornească"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Așteaptă ca livestream-ul să inceapă"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Așteaptă premiera unui videoclip"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Așteaptă ca premierea unui videoclip să înceapă"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Se uită la:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Se uită la un livestream"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Se uită la un film"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Se uită la un serial"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Se uită la un spectacol"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Se uită la un videoclip"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Listă de dorinţe:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Scrie"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Navigare..."
+	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Caută"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ascultă împreună"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Citește articolul"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi albumul"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi articolul"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi artistul"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi canalul"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Urmărește episodul"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi filmul"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi pagina"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi playlist-ul"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi podcast-ul"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi profilul"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi serialul"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi spectacolul"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vezi melodia"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vizionează film"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Urmărește stream-ul"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Urmărește videoclipul"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Sună"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Capitol"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Politică Cookies"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Editează:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Episodul"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Forumuri"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Gen"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "Într-un apel..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Istoricul incidentelor"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Limbă"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Ascultători"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Ascultând muzică"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Ascultă{0}{1}"
+	},
+	"general.live": {
+		"description": "",
+		"message": "În direct"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Merch"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Pagină"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Pauză"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Se redă"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Politică de confidenţialitate"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Citește"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Citește din canalul"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Citește un DM"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Citește o postare"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Citește o temă"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Citește despre:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Citește un articol"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Citește un articol:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Citește din canalul:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Citește DM-urile de la:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Citește un post:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Citește un thread:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "Pe repeat"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Repetă toate melodiile"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Căutare"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Caută:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Caută ceva..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "Sezon"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Coş de cumpărături"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Magazin"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Condiţii de utilizare"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Scrie în canalul:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Scrie în DM-uri cu:"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "Scrie în DMs"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Istoricul uptime-ului"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Se uită la listă"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Se uită la manga"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Vizualizează un membru"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Vizualizează un film"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Vizualizează o pagină"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Vizualizează o listă de redare"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Se uită la un produs"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Vizualizează un profil"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Vizualizează un serial"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Vizualizează un spectacol"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Vizualizează o temă"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Se uită la contul său"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "Vizualizează un incident"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Vizualizează un utilizator"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Se uită la anime-ul:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Se uită la categoria:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Se uită la canalul:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Se uită la episodul:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Se uită la genul:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Se uită la pagina principală"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "Vizualizează incidentul despre:"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Se uită la lista de:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Se uită la manga-ul:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Se uită la membrul:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Se uită la filmul:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Se uită la pagina:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Se uită la playlist-ul:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Se uită la un produs:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Se uită la profilul:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Se uită la serialul:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Se uită la show-ul:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Se uită un thread:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Se uită la un user:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "Se uită la:"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Vizualizează o listă de dorințe"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "Se uită la lista dorințelor de:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Așteaptă ca un livestream să pornească"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Așteaptă ca livestream-ul să inceapă"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Așteaptă premiera unui videoclip"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Așteaptă ca premierea unui videoclip să înceapă"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Se uită la:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Se uită la un livestream"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Se uită la un film"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Se uită la un serial"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Se uită la un spectacol"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Se uită la un videoclip"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wiki"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Listă de dorinţe:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Scrie"
+	}
 }
