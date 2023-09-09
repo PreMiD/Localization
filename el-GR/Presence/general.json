@@ -1,74 +1,78 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Άνιμε"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Αναζήτηση..."
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Κεφάλαιο"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Επεισόδιο"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Φόρουμ"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Γλώσσα"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Ακροατές"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Ακρόαση μουσικής"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Ζωντανή μεταδοσή"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Μάνγκα"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Εμπορεύματα"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Σελίδα"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Παίζοντας"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Ανάγνωση"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Αναζήτηση"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Κατάστημα"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Γράφει"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Άνιμε"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Αναζήτηση..."
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Κεφάλαιο"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Επεισόδιο"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Φόρουμ"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Γλώσσα"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Ακροατές"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Ακρόαση μουσικής"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Ζωντανή μεταδοσή"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Μάνγκα"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Εμπορεύματα"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Σελίδα"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Παίζοντας"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Ανάγνωση"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Αναζήτηση"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Κατάστημα"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wiki"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Γράφει"
+	}
 }
