@@ -1,358 +1,362 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Đang duyệt..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Nghe cùng"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem bài viết"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem Album"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem nghệ sĩ"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem kênh"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem tập"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem phim"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem trang"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem danh sách phát"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem Podcast"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem hồ sơ"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Đang xem sê-ri"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem bài hát"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem phim"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem Stream"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Xem video"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Đang gọi"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Chương"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Chính sách về Cookie"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Đang chỉnh sửa:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Tập"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Diễn đàn"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Thể loại"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Đang trong một cuộc gọi..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Lịch sử sự cố"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Ngôn ngữ"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Thính giả"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Đang nghe nhạc"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Trực tiếp"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Merch"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Trang"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Tạm dừng"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Đang phát"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Chính sách bảo mật"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Đang đọc"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Đang đọc về:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Đang đọc bài báo:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Đang đọc trong kênh:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Đang đọc DMs từ:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Đang đọc bài:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Đang đọc chủ đề:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Đang lặp lại"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Lặp lại tất cả bài hát"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Đang tìm kiếm"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Đang tìm kiếm:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Đang tìm gì đó..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Mùa"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Giỏ hàng"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Cửa hàng"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Điều khoản sử dụng"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Đang viết trong kênh:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Đang viết DMs cho:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Lịch sử hoạt động"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Đang xem tài khoản của họ"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Xem anime:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Đang xem danh mục:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Đang xem kênh:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Đang xem tập:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Đang xem thể loại:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Đang xem trang chủ"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Đang xem danh sách của:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Đọc manga:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Đang xem thành viên:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Đang xem phim:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Đang xem trang:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Đang xem danh sách phát:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Đang xem sản phẩm:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Đang xem hồ sơ của:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Đang xem sê-ri:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Đang xem chương trình:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Đang xem chủ đề:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Đang xem người dùng:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Đang xem:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Đang đợi buổi phát trực tiếp bắt đầu"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Đang đợi buổi phát trực tiếp bắt đầu"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Đang đợi video công chiếu"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Đang đợi video công chiếu"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Đang xem:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Đang xem livestream"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Đang xem phim"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Đang xem phim bộ"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Đang xem một bộ phim"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Đang xem video"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Danh sách yêu thích:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Đang viết"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Đang duyệt..."
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Nghe cùng"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem bài viết"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem Album"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem nghệ sĩ"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem kênh"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem tập"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem phim"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem trang"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem danh sách phát"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem Podcast"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem hồ sơ"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Đang xem sê-ri"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem bài hát"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem phim"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem Stream"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Xem video"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Đang gọi"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Chương"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Chính sách về Cookie"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Đang chỉnh sửa:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Tập"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Diễn đàn"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Thể loại"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "Đang trong một cuộc gọi..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Lịch sử sự cố"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Ngôn ngữ"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Thính giả"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Đang nghe nhạc"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Trực tiếp"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Merch"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Trang"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Tạm dừng"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Đang phát"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Chính sách bảo mật"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Đang đọc"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Đang đọc về:"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Đang đọc bài báo:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Đang đọc trong kênh:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Đang đọc DMs từ:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Đang đọc bài:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Đang đọc chủ đề:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "Đang lặp lại"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Lặp lại tất cả bài hát"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Đang tìm kiếm"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Đang tìm kiếm:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Đang tìm gì đó..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "Mùa"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Giỏ hàng"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Cửa hàng"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Điều khoản sử dụng"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Đang viết trong kênh:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Đang viết DMs cho:"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Lịch sử hoạt động"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Đang xem tài khoản của họ"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Xem anime:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Đang xem danh mục:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Đang xem kênh:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Đang xem tập:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Đang xem thể loại:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Đang xem trang chủ"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Đang xem danh sách của:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Đọc manga:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Đang xem thành viên:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Đang xem phim:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Đang xem trang:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Đang xem danh sách phát:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Đang xem sản phẩm:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Đang xem hồ sơ của:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Đang xem sê-ri:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Đang xem chương trình:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Đang xem chủ đề:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Đang xem người dùng:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "Đang xem:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Đang đợi buổi phát trực tiếp bắt đầu"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Đang đợi buổi phát trực tiếp bắt đầu"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Đang đợi video công chiếu"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Đang đợi video công chiếu"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Đang xem:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Đang xem livestream"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Đang xem phim"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Đang xem phim bộ"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Đang xem một bộ phim"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Đang xem video"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wiki"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Danh sách yêu thích:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Đang viết"
+	}
 }
