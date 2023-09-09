@@ -1,106 +1,110 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Bläddrar..."
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Visa Avsnitt"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Visa serier"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Kapitel"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Redigerar:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Avsnitt"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Forum"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Genre"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Språk"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Lyssnare"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Lyssnar på musik"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "Lyssnar på{0}{1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Live"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Merch"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Sida"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Pausad"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Spelar"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Läser"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Läser om:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Läser DMs ifrån:"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Söker"
-  },
-  "general.season": {
-    "description": "",
-    "message": "Säsong"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Butik"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Bläddrar..."
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa Avsnitt"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa serier"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Kapitel"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Redigerar:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Avsnitt"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Forum"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Genre"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Språk"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Lyssnare"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Lyssnar på musik"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Lyssnar på{0}{1}"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Live"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Merch"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Sida"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Pausad"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Spelar"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Läser"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Läser om:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Läser DMs ifrån:"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Söker"
+	},
+	"general.season": {
+		"description": "",
+		"message": "Säsong"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Butik"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wiki"
+	}
 }

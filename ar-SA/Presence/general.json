@@ -1,358 +1,362 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "أنمي"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "جاري تصفح..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "إستماع بقرب"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "قراءة المقالة"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض الألبوم"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض الفنان"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهدة القناة"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "يشاهد الحلقة"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "معاينة الفيلم"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض الصفحة"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض قائمة التشغيل"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض التدوين الصوتي"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض الملف الشخصي"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "يشاهد المسلسل"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "عرض الأغنية"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهدة الفيلم"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهدة البث"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "مشاهدة الفيديو"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "جاري الإتصال"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "الفصل"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "سياسة ملفات تعريف الإرتباط"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "جاري تعديل:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "الحلقة"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "المنتديات"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "النوع"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "في مكالمة..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "سجل الحادثة"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "اللغة"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "المستمعين"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "جاري الاستماع إلى الموسيقى"
-  },
-  "general.live": {
-    "description": "",
-    "message": "مباشر"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "مانغا"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "السلع"
-  },
-  "general.page": {
-    "description": "",
-    "message": "الصفحة"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "متوقف"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "قيد التشغيل"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "سياسة الخصوصية"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "جاري قراءة"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "جاري القراءة حول:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "جاري قراءة مقال:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "جاري قراءة القناة:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "جاري قراءة رسالة مباشرة من:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "جاري قراءة منشور:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "جاري قراءة موضوع:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "في حلقة"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "جاري تكرار جميع الأغاني"
-  },
-  "general.search": {
-    "description": "",
-    "message": "جاري البحث"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "جاري البحث عن:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "جاري البحث عن شيء..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "موسم"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "عربة التسوق"
-  },
-  "general.store": {
-    "description": "",
-    "message": "المتجر"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "شروط الخدمة"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "جاري الكتابة في القناة:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "جاري الكتابة في الرسائل المباشرة إلى:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "سجل مدة التشغيل"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "جاري مشاهدة الحساب الخاص به"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "جاري مشاهدة أنمي:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "جاري مشاهدة الفئة:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "جاري مشاهدة القناة:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "جاري مشاهدة الحلقة:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "جاري مشاهدة النوع:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "جاري مشاهدة الصفحة الرئيسية"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "جاري مشاهدة قائمة من:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "جاري مشاهدة المانغا:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "جاري مشاهدة العضو:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "جاري مشاهدة الفيلم:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "جاري مشاهدة الصفحة:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "يشاهد قائمة التشغيل:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "يشاهد المنتج:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "يشاهد الملف الشخصي لـ:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "جاري مشاهدة السلسلة:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "جاري مشاهدة العرض:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "يشاهد الموضوع:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "يشاهد المستخدم:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "يشاهد:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "في انتظار بدء بث مباشر"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "في انتظار بدء البث المباشر"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "في انتظار العرض الأول لفيديو"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "في انتظار العرض الأول للفيديو"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "يشاهد:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "يشاهد بث مباشر"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "جاري مشاهدة فيلم"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "جاري مشاهدة سلسلة"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "جاري مشاهدة عرض"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "يشاهد فيديو"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "قائمة الأمنيات:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "جاري الكتابة"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "أنمي"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "جاري تصفح..."
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "إستماع بقرب"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "قراءة المقالة"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "عرض الألبوم"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "عرض الفنان"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "مشاهدة القناة"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "يشاهد الحلقة"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "معاينة الفيلم"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "عرض الصفحة"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "عرض قائمة التشغيل"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "عرض التدوين الصوتي"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "عرض الملف الشخصي"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "يشاهد المسلسل"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "عرض الأغنية"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "مشاهدة الفيلم"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "مشاهدة البث"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "مشاهدة الفيديو"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "جاري الإتصال"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "الفصل"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "سياسة ملفات تعريف الإرتباط"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "جاري تعديل:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "الحلقة"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "المنتديات"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "النوع"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "في مكالمة..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "سجل الحادثة"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "اللغة"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "المستمعين"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "جاري الاستماع إلى الموسيقى"
+	},
+	"general.live": {
+		"description": "",
+		"message": "مباشر"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "مانغا"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "السلع"
+	},
+	"general.page": {
+		"description": "",
+		"message": "الصفحة"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "متوقف"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "قيد التشغيل"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "سياسة الخصوصية"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "جاري قراءة"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "جاري القراءة حول:"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "جاري قراءة مقال:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "جاري قراءة القناة:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "جاري قراءة رسالة مباشرة من:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "جاري قراءة منشور:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "جاري قراءة موضوع:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "في حلقة"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "جاري تكرار جميع الأغاني"
+	},
+	"general.search": {
+		"description": "",
+		"message": "جاري البحث"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "جاري البحث عن:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "جاري البحث عن شيء..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "موسم"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "عربة التسوق"
+	},
+	"general.store": {
+		"description": "",
+		"message": "المتجر"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "شروط الخدمة"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "جاري الكتابة في القناة:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "جاري الكتابة في الرسائل المباشرة إلى:"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "سجل مدة التشغيل"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "جاري مشاهدة الحساب الخاص به"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "جاري مشاهدة أنمي:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "جاري مشاهدة الفئة:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "جاري مشاهدة القناة:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "جاري مشاهدة الحلقة:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "جاري مشاهدة النوع:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "جاري مشاهدة الصفحة الرئيسية"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "جاري مشاهدة قائمة من:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "جاري مشاهدة المانغا:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "جاري مشاهدة العضو:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "جاري مشاهدة الفيلم:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "جاري مشاهدة الصفحة:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "يشاهد قائمة التشغيل:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "يشاهد المنتج:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "يشاهد الملف الشخصي لـ:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "جاري مشاهدة السلسلة:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "جاري مشاهدة العرض:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "يشاهد الموضوع:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "يشاهد المستخدم:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "يشاهد:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "في انتظار بدء بث مباشر"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "في انتظار بدء البث المباشر"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "في انتظار العرض الأول لفيديو"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "في انتظار العرض الأول للفيديو"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "يشاهد:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "يشاهد بث مباشر"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "جاري مشاهدة فيلم"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "جاري مشاهدة سلسلة"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "جاري مشاهدة عرض"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "يشاهد فيديو"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "الويكي"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "قائمة الأمنيات:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "جاري الكتابة"
+	}
 }

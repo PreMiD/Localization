@@ -1,462 +1,466 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "A procurar"
-  },
-  "general.buttonBrowse": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Explorar"
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ouvir em conjunto"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ler artigo"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver álbum"
-  },
-  "general.buttonViewArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver artigo"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver artista"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver canal"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver episódio"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver filme"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver página"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver playlist"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver podcast"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver perfil"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver série"
-  },
-  "general.buttonViewShow": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver série"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver música"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Assistir filme"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver transmissão"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Ver vídeo"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Em chamada"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Capítulo"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Política de cookies"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "A editar"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Episódio"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Fóruns"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Género"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Numa chamada"
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Histórico de incidentes"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Idioma"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Ouvintes"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "A ouvir música"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "A ouvir {1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Em direto"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Produtos"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Página"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Em pausa"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "A jogar"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Política de privacidade"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "A ler"
-  },
-  "general.readingAChannel": {
-    "description": "",
-    "message": "A ler num canal"
-  },
-  "general.readingADM": {
-    "description": "",
-    "message": "A ler uma DM"
-  },
-  "general.readingAPost": {
-    "description": "",
-    "message": "A ler um post"
-  },
-  "general.readingAThread": {
-    "description": "",
-    "message": "A ler um tópico"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "A ler sobre"
-  },
-  "general.readingAnArticle": {
-    "description": "",
-    "message": "A ler um artigo"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "A ler o artigo"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "A ler o canal"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "A ler mensagens de"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "A ler a publicação"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "A ler o artigo"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Em repetição"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "A repetir todas as músicas"
-  },
-  "general.search": {
-    "description": "",
-    "message": "A pesquisar"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "A procurar por"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "À procura de algo"
-  },
-  "general.season": {
-    "description": "",
-    "message": "Temporada"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Carrinho de compras"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Loja"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Termos e condições"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "A escrever no canal"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "A escrever uma mensagem para"
-  },
-  "general.typeInDM": {
-    "description": "",
-    "message": "A escrever nas DMs"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Histórico de atividade"
-  },
-  "general.viewAList": {
-    "description": "",
-    "message": "A ver uma lista"
-  },
-  "general.viewAManga": {
-    "description": "",
-    "message": "A ver um manga"
-  },
-  "general.viewAMember": {
-    "description": "",
-    "message": "A ver um membro"
-  },
-  "general.viewAMovie": {
-    "description": "",
-    "message": "A ver um filme"
-  },
-  "general.viewAPage": {
-    "description": "",
-    "message": "A ver uma página"
-  },
-  "general.viewAPlaylist": {
-    "description": "",
-    "message": "A ver uma playlist"
-  },
-  "general.viewAProduct": {
-    "description": "",
-    "message": "A ver um produto"
-  },
-  "general.viewAProfile": {
-    "description": "",
-    "message": "A ver um perfil"
-  },
-  "general.viewASeries": {
-    "description": "",
-    "message": "A ver uma série"
-  },
-  "general.viewAShow": {
-    "description": "",
-    "message": "A ver uma série"
-  },
-  "general.viewAThread": {
-    "description": "",
-    "message": "A ver um tópico"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "A ver a sua conta"
-  },
-  "general.viewAnIncident": {
-    "description": "A page name of statuspages",
-    "message": "A ver um incidente"
-  },
-  "general.viewAnUser": {
-    "description": "",
-    "message": "A ver um utilizador"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "A ver anime"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "A ver a categoria"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "A ver o canal"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "A ver o episódio"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "A ver o género"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "A ver a página inicial"
-  },
-  "general.viewIncident": {
-    "description": "A page name of statuspages",
-    "message": "A ver um incidente sobre"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "A ver uma lista de"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "A ver manga"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "A ver o membro"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "A ver o filme"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "A ver página "
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "A ver a playlist"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "A ver o produto"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "A ver o perfil de"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "A ver a série"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "A ver o programa"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "A ver o artigo"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "A ver o utilizador"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "A ver"
-  },
-  "general.viewingAWishlist": {
-    "description": "",
-    "message": "A ver a lista de desejos"
-  },
-  "general.viewingWishlist": {
-    "description": "",
-    "message": "A ver a lista de desejos de"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "À espera do início de uma transmissão ao vivo"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "À espera do início da transmissão ao vivo"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "À espera da estreia de um vídeo"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "À espera da estreia do vídeo"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "A ver"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "A ver uma transmissão em direto"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "A ver um filme"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "A ver uma série"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "A ver um programa"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "A ver um vídeo"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Lista de desejos"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "A escrever"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "A procurar"
+	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Explorar"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ouvir em conjunto"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ler artigo"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver álbum"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver artigo"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver artista"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver canal"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver episódio"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver filme"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver página"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver playlist"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver podcast"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver perfil"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver série"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver série"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver música"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Assistir filme"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver transmissão"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver vídeo"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Em chamada"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Capítulo"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Política de cookies"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "A editar"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Episódio"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Fóruns"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Género"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "Numa chamada"
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Histórico de incidentes"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Idioma"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Ouvintes"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "A ouvir música"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "A ouvir {1}"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Em direto"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Produtos"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Página"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Em pausa"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "A jogar"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Política de privacidade"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "A ler"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "A ler num canal"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "A ler uma DM"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "A ler um post"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "A ler um tópico"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "A ler sobre"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "A ler um artigo"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "A ler o artigo"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "A ler o canal"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "A ler mensagens de"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "A ler a publicação"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "A ler o artigo"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "Em repetição"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "A repetir todas as músicas"
+	},
+	"general.search": {
+		"description": "",
+		"message": "A pesquisar"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "A procurar por"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "À procura de algo"
+	},
+	"general.season": {
+		"description": "",
+		"message": "Temporada"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Carrinho de compras"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Loja"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Termos e condições"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "A escrever no canal"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "A escrever uma mensagem para"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "A escrever nas DMs"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Histórico de atividade"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "A ver uma lista"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "A ver um manga"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "A ver um membro"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "A ver um filme"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "A ver uma página"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "A ver uma playlist"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "A ver um produto"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "A ver um perfil"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "A ver uma série"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "A ver uma série"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "A ver um tópico"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "A ver a sua conta"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "A ver um incidente"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "A ver um utilizador"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "A ver anime"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "A ver a categoria"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "A ver o canal"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "A ver o episódio"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "A ver o género"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "A ver a página inicial"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "A ver um incidente sobre"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "A ver uma lista de"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "A ver manga"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "A ver o membro"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "A ver o filme"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "A ver página "
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "A ver a playlist"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "A ver o produto"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "A ver o perfil de"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "A ver a série"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "A ver o programa"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "A ver o artigo"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "A ver o utilizador"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "A ver"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "A ver a lista de desejos"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "A ver a lista de desejos de"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "À espera do início de uma transmissão ao vivo"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "À espera do início da transmissão ao vivo"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "À espera da estreia de um vídeo"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "À espera da estreia do vídeo"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "A ver"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "A ver uma transmissão em direto"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "A ver um filme"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "A ver uma série"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "A ver um programa"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "A ver um vídeo"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wiki"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Lista de desejos"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "A escrever"
+	}
 }

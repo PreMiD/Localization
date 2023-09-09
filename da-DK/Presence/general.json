@@ -1,34 +1,38 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Søger..."
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Episode"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Sprog"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Live"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Læsning"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Søger"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Butik"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Søger..."
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Episode"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Sprog"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Live"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Læsning"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Søger"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Butik"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wiki"
+	}
 }

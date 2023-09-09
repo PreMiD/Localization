@@ -1,358 +1,362 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "Anime"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "Selaa..."
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Kuuntele mukana"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Lue artikkeli"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä albumi"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä artisti"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä kanava"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Katso jakso"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä elokuva"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä sivu"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä soittolista"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä podcast"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä profiili"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä sarja"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Näytä kappale"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Katso elokuvaa"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Katso lähetystä"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "Katso videota"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "Soittaa"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "Luku"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Evästekäytäntö"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "Muokkaa:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "Jakso"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "Foorumi"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "Tyylilaji"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "Puhelussa..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "Tapahtumahistoria"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "Kieli"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "Kuuntelijat"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "Kuuntelee musiikkia"
-  },
-  "general.live": {
-    "description": "",
-    "message": "Suora"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "Manga"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "Oheistuotteet"
-  },
-  "general.page": {
-    "description": "",
-    "message": "Sivu"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "Keskeytetty"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "Toistaa"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "Tietosuojakäytäntö"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "Lukee"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "Lukee aiheesta:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "Lukee artikkelia:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "Lukee kanavaa:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "Lukee yksityisviestejä käyttäjältä:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "Lukee julkaisua:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Lukee keskustelua:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "Uudelleentoisto käynnissä"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "Toistaa kaikkia kappaleita uudelleen"
-  },
-  "general.search": {
-    "description": "",
-    "message": "Etsii"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "Etsii:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "Etsii jotain..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "Kausi"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "Ostoskori"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Kauppa"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "Käyttöehdot"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "Kirjoittaa kanavalla:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "Kirjoittaa yksityisviestiä käyttäjälle:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "Käyttöaikahistoria"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "Tarkastelee profiiliaan"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "Katsoo anime:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "Tarkastelee kategoriaa:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "Katsoo kanavaa:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "Katsoo jaksoa:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "Tarkastelee tyylilajia:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "Katsoo etusivua"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "Tarkastelee listaa kohteista:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "Katsoo mangaa:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "Tarkastelee käyttäjää:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "Katsoo elokuvaa:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "Katsoo sivua:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "Katsoo soittolistaa:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "Katsoo tuotetta:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "Katselee profiilia:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "Katsoo sarjaa:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "Katsoo ohjelmaa:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Tarkastelee keskustelua:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "Tarkastelee käyttäjää:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "Katsoo:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "Odottaa striimin alkua"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "Odottaa striimin alkua"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "Odottaa videon ensiesitystä"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "Odottaa videon ensiesitystä"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "Katsoo:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "Katsoo livestriimiä"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "Katsoo elokuvaa"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "Katsoo sarjaa"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "Katsoo ohjelmaa"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "Katsoo videota"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "Toivelista:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "Kirjoittaa"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Selaa..."
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Kuuntele mukana"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Lue artikkeli"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä albumi"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä artisti"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä kanava"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Katso jakso"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä elokuva"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä sivu"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä soittolista"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä podcast"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä profiili"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä sarja"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Näytä kappale"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Katso elokuvaa"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Katso lähetystä"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Katso videota"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Soittaa"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Luku"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Evästekäytäntö"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Muokkaa:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Jakso"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Foorumi"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Tyylilaji"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "Puhelussa..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Tapahtumahistoria"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Kieli"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Kuuntelijat"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Kuuntelee musiikkia"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Suora"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Oheistuotteet"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Sivu"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Keskeytetty"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Toistaa"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Tietosuojakäytäntö"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Lukee"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Lukee aiheesta:"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Lukee artikkelia:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Lukee kanavaa:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Lukee yksityisviestejä käyttäjältä:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Lukee julkaisua:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Lukee keskustelua:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "Uudelleentoisto käynnissä"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Toistaa kaikkia kappaleita uudelleen"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Etsii"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Etsii:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Etsii jotain..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "Kausi"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Ostoskori"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Kauppa"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Käyttöehdot"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Kirjoittaa kanavalla:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Kirjoittaa yksityisviestiä käyttäjälle:"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Käyttöaikahistoria"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Tarkastelee profiiliaan"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Katsoo anime:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Tarkastelee kategoriaa:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Katsoo kanavaa:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Katsoo jaksoa:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Tarkastelee tyylilajia:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Katsoo etusivua"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Tarkastelee listaa kohteista:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Katsoo mangaa:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Tarkastelee käyttäjää:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Katsoo elokuvaa:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Katsoo sivua:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Katsoo soittolistaa:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Katsoo tuotetta:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Katselee profiilia:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Katsoo sarjaa:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Katsoo ohjelmaa:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Tarkastelee keskustelua:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Tarkastelee käyttäjää:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "Katsoo:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Odottaa striimin alkua"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Odottaa striimin alkua"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Odottaa videon ensiesitystä"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Odottaa videon ensiesitystä"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Katsoo:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Katsoo livestriimiä"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Katsoo elokuvaa"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Katsoo sarjaa"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Katsoo ohjelmaa"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Katsoo videota"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "Wiki"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Toivelista:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Kirjoittaa"
+	}
 }

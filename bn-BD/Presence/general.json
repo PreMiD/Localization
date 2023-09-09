@@ -1,462 +1,466 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "অ্যানিমে"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "ব্রাউজ করছে..."
-  },
-  "general.buttonBrowse": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "খোঁজো"
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "শোনো একসাথে"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "পড় প্রবন্ধটি"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো অ্যালবামটি"
-  },
-  "general.buttonViewArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো প্রবন্ধটি"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো আর্টিস্টকে"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো চ্যানেলটি"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো এপিসোডটি"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো মুভিটি"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো পেজটি"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো প্লেলিস্টটি"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো পডকাস্টটি"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো প্রোফাইলটি"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো সিরিজটি"
-  },
-  "general.buttonViewShow": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো অনুষ্ঠানটি"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো গানটি"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো মুভিটি"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো স্ট্রিমটি"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "দেখো ভিডিওটি"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "কল করছে"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "অধ্যায়"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "কুকি নীতি"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "এডিট করছে:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "এপিসোড"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "ফোরাম"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "ধরণ"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "একটি কলে আছে..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "ঘটনার রিপোর্ট"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "ভাষা"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "শ্রোতা"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "গান শুনছে"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "শুনছে {0}{1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "লাইভ"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "মাংগা"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "মার্চেন্ডাইজ"
-  },
-  "general.page": {
-    "description": "",
-    "message": "পেজ"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "থামা"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "প্লেয়িং"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "গোপনীয়তা নীতি"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "পড়ছে"
-  },
-  "general.readingAChannel": {
-    "description": "",
-    "message": "পড়ছে একটি চ্যানেলে"
-  },
-  "general.readingADM": {
-    "description": "",
-    "message": "পড়ছে একটি DM"
-  },
-  "general.readingAPost": {
-    "description": "",
-    "message": "পড়ছে একটি পোস্ট"
-  },
-  "general.readingAThread": {
-    "description": "",
-    "message": "পড়ছে একটি থ্রেড"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "পড়ছে যার সম্পর্কে:"
-  },
-  "general.readingAnArticle": {
-    "description": "",
-    "message": "পড়ছে একটি প্রবন্ধ"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "পড়ছে প্রবন্ধ:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "পড়ছে যে চ্যানেলে:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "পড়ছে DM গুলো যার থেকে:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "পড়ছে পোস্ট:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "পড়ছে থ্রেড:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "লুপে"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "সব গান লুপ করছে"
-  },
-  "general.search": {
-    "description": "",
-    "message": "সার্চ করছে"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "সার্চ করছে:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "কিছু একটা সার্চ করছে..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "সিজন"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "শপিং কার্ট"
-  },
-  "general.store": {
-    "description": "",
-    "message": "স্টোর"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "পরিষেবার শর্তাবলী"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "টাইপ করছে যে চ্যানেলে:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "টাইপ করছে DM এ যাকে:"
-  },
-  "general.typeInDM": {
-    "description": "",
-    "message": "টাইপ করছে DM এ"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "আপটাইম রিপোর্ট"
-  },
-  "general.viewAList": {
-    "description": "",
-    "message": "দেখছে একটি লিস্ট"
-  },
-  "general.viewAManga": {
-    "description": "",
-    "message": "দেখছে একটি মাংগা"
-  },
-  "general.viewAMember": {
-    "description": "",
-    "message": "দেখছে একটি মেম্বারকে"
-  },
-  "general.viewAMovie": {
-    "description": "",
-    "message": "দেখছে একটি মুভি"
-  },
-  "general.viewAPage": {
-    "description": "",
-    "message": "দেখছে একটি পেজ"
-  },
-  "general.viewAPlaylist": {
-    "description": "",
-    "message": "দেখছে একটি প্লেলিস্ট"
-  },
-  "general.viewAProduct": {
-    "description": "",
-    "message": "দেখছে একটি প্রোডাক্ট"
-  },
-  "general.viewAProfile": {
-    "description": "",
-    "message": "দেখছে একটি প্রোফাইল"
-  },
-  "general.viewASeries": {
-    "description": "",
-    "message": "দেখছে একটি সিরিজ"
-  },
-  "general.viewAShow": {
-    "description": "",
-    "message": "দেখছে একটি অনুষ্ঠান"
-  },
-  "general.viewAThread": {
-    "description": "",
-    "message": "দেখছে একটি থ্রেড"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "দেখছে তার অ্যাকাউন্ট"
-  },
-  "general.viewAnIncident": {
-    "description": "A page name of statuspages",
-    "message": "দেখছে স্ট্যাটাস পেজের একটি ঘটনা"
-  },
-  "general.viewAnUser": {
-    "description": "",
-    "message": "দেখছে একজন ইউজারকে"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "দেখছে অ্যানিমে:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "দেখছে ক্যাটাগরি:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "দেখছে চ্যানেল:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "দেখছে এপিসোড:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "দেখছে ধরণ:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "দেখছে হোমপেজ"
-  },
-  "general.viewIncident": {
-    "description": "A page name of statuspages",
-    "message": "দেখছে স্ট্যাটাস পেজের ঘটনা:"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "দেখছে যেটার লিস্ট:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "দেখছে মাংগা:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "দেখছে মেম্বার:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "দেখছে মুভি:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "দেখছে পেজ:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "দেখছে প্লেলিস্ট:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "দেখছে প্রোডাক্ট:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "দেখছে যার প্রোফাইল:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "দেখছে সিরিজ:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "দেখছে শো:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "দেখছে থ্রেড:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "দেখছে ইউজার:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "দেখছে:"
-  },
-  "general.viewingAWishlist": {
-    "description": "",
-    "message": "দেখছে একটি উইশলিস্ট"
-  },
-  "general.viewingWishlist": {
-    "description": "",
-    "message": "দেখছে একজনের উইশলিস্ট:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "অপেক্ষা করছে একটি লাইভ স্ট্রিম শুরু হওয়ার"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "অপেক্ষা করছে লাইভ স্ট্রিমটি শুরু হওয়ার"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "অপেক্ষা করছে একটি ভিডিও প্রিমিয়ার হওয়ার"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "অপেক্ষা করছে ভিডিওটি প্রিমিয়ার হওয়ার"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "দেখছে:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "দেখছে একটি লাইভ স্ট্রিম"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "দেখছে একটি মুভি"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "দেখছে একটি সিরিজ"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "দেখছে একটি শো"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "দেখছে একটি ভিডিও"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "উইশলিস্ট:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "লিখছে"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "অ্যানিমে"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "ব্রাউজ করছে..."
+	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "খোঁজো"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "শোনো একসাথে"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "পড় প্রবন্ধটি"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো অ্যালবামটি"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো প্রবন্ধটি"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো আর্টিস্টকে"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো চ্যানেলটি"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো এপিসোডটি"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো মুভিটি"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো পেজটি"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো প্লেলিস্টটি"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো পডকাস্টটি"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো প্রোফাইলটি"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো সিরিজটি"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো অনুষ্ঠানটি"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো গানটি"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো মুভিটি"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো স্ট্রিমটি"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "দেখো ভিডিওটি"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "কল করছে"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "অধ্যায়"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "কুকি নীতি"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "এডিট করছে:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "এপিসোড"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "ফোরাম"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "ধরণ"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "একটি কলে আছে..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "ঘটনার রিপোর্ট"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "ভাষা"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "শ্রোতা"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "গান শুনছে"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "শুনছে {0}{1}"
+	},
+	"general.live": {
+		"description": "",
+		"message": "লাইভ"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "মাংগা"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "মার্চেন্ডাইজ"
+	},
+	"general.page": {
+		"description": "",
+		"message": "পেজ"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "থামা"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "প্লেয়িং"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "গোপনীয়তা নীতি"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "পড়ছে"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "পড়ছে একটি চ্যানেলে"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "পড়ছে একটি DM"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "পড়ছে একটি পোস্ট"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "পড়ছে একটি থ্রেড"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "পড়ছে যার সম্পর্কে:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "পড়ছে একটি প্রবন্ধ"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "পড়ছে প্রবন্ধ:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "পড়ছে যে চ্যানেলে:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "পড়ছে DM গুলো যার থেকে:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "পড়ছে পোস্ট:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "পড়ছে থ্রেড:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "লুপে"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "সব গান লুপ করছে"
+	},
+	"general.search": {
+		"description": "",
+		"message": "সার্চ করছে"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "সার্চ করছে:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "কিছু একটা সার্চ করছে..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "সিজন"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "শপিং কার্ট"
+	},
+	"general.store": {
+		"description": "",
+		"message": "স্টোর"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "পরিষেবার শর্তাবলী"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "টাইপ করছে যে চ্যানেলে:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "টাইপ করছে DM এ যাকে:"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "টাইপ করছে DM এ"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "আপটাইম রিপোর্ট"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "দেখছে একটি লিস্ট"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "দেখছে একটি মাংগা"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "দেখছে একটি মেম্বারকে"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "দেখছে একটি মুভি"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "দেখছে একটি পেজ"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "দেখছে একটি প্লেলিস্ট"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "দেখছে একটি প্রোডাক্ট"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "দেখছে একটি প্রোফাইল"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "দেখছে একটি সিরিজ"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "দেখছে একটি অনুষ্ঠান"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "দেখছে একটি থ্রেড"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "দেখছে তার অ্যাকাউন্ট"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "দেখছে স্ট্যাটাস পেজের একটি ঘটনা"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "দেখছে একজন ইউজারকে"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "দেখছে অ্যানিমে:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "দেখছে ক্যাটাগরি:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "দেখছে চ্যানেল:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "দেখছে এপিসোড:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "দেখছে ধরণ:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "দেখছে হোমপেজ"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "দেখছে স্ট্যাটাস পেজের ঘটনা:"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "দেখছে যেটার লিস্ট:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "দেখছে মাংগা:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "দেখছে মেম্বার:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "দেখছে মুভি:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "দেখছে পেজ:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "দেখছে প্লেলিস্ট:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "দেখছে প্রোডাক্ট:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "দেখছে যার প্রোফাইল:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "দেখছে সিরিজ:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "দেখছে শো:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "দেখছে থ্রেড:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "দেখছে ইউজার:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "দেখছে:"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "দেখছে একটি উইশলিস্ট"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "দেখছে একজনের উইশলিস্ট:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "অপেক্ষা করছে একটি লাইভ স্ট্রিম শুরু হওয়ার"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "অপেক্ষা করছে লাইভ স্ট্রিমটি শুরু হওয়ার"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "অপেক্ষা করছে একটি ভিডিও প্রিমিয়ার হওয়ার"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "অপেক্ষা করছে ভিডিওটি প্রিমিয়ার হওয়ার"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "দেখছে:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "দেখছে একটি লাইভ স্ট্রিম"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "দেখছে একটি মুভি"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "দেখছে একটি সিরিজ"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "দেখছে একটি শো"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "দেখছে একটি ভিডিও"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "উইকি"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "উইশলিস্ট:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "লিখছে"
+	}
 }

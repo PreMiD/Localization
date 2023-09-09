@@ -1,358 +1,362 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "एनिमी"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "ब्राउजिंग"
-  },
-  "general.buttonListenAlong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "साथ सुनो"
-  },
-  "general.buttonReadArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "लेख पढ़िए"
-  },
-  "general.buttonViewAlbum": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "एल्बम देखें"
-  },
-  "general.buttonViewArtist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "कलाकार देखें"
-  },
-  "general.buttonViewChannel": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "चैनल देखें"
-  },
-  "general.buttonViewEpisode": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "एपिसोड देखें"
-  },
-  "general.buttonViewMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "मूवी देखें"
-  },
-  "general.buttonViewPage": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "पृष्ठ देखें"
-  },
-  "general.buttonViewPlaylist": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "प्लेलिस्ट देखें"
-  },
-  "general.buttonViewPodcast": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "पॉडकास्ट देखें"
-  },
-  "general.buttonViewProfile": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "प्रोफाइल देखें"
-  },
-  "general.buttonViewSeries": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "वेब सीरीज़"
-  },
-  "general.buttonViewSong": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "सांग देखें"
-  },
-  "general.buttonWatchMovie": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "फिल्म देखिए"
-  },
-  "general.buttonWatchStream": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "स्ट्रीम देखें"
-  },
-  "general.buttonWatchVideo": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "वीडियो देखें"
-  },
-  "general.calling": {
-    "description": "",
-    "message": "हम कॉल कर रहे हैं..."
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "अध्याय"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "कूकी पॉलिसी"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "डीजे"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "संपादन:"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "प्रकरण"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "मंच"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "शैली"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "एक कॉल में..."
-  },
-  "general.incidentHistory": {
-    "description": "A page name of statuspages",
-    "message": "हादसा इतिहास"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "भाषा"
-  },
-  "general.listeners": {
-    "description": "",
-    "message": "श्रोताओं"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "संगीत सुन रहा है"
-  },
-  "general.live": {
-    "description": "",
-    "message": "लाइव"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "माँगा"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "वे बिक्री"
-  },
-  "general.page": {
-    "description": "",
-    "message": "पृष्ठ"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "रुका हुआ"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "क्रियागत अर्थो में"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "गोपनीयता नीति"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "पढ़ना"
-  },
-  "general.readingAbout": {
-    "description": "",
-    "message": "डीएम से पढ़ना:"
-  },
-  "general.readingArticle": {
-    "description": "",
-    "message": "लेख पढ़ना:"
-  },
-  "general.readingChannel": {
-    "description": "",
-    "message": "चैनल में पढ़ना:"
-  },
-  "general.readingDM": {
-    "description": "",
-    "message": "डीएम से पढ़ना:"
-  },
-  "general.readingPost": {
-    "description": "",
-    "message": "डीएम से पढ़ना:"
-  },
-  "general.readingThread": {
-    "description": "",
-    "message": "Reading thread:\nपढ़ना धागा:"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "लूप पर"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "सभी गाने लूपिंग"
-  },
-  "general.search": {
-    "description": "",
-    "message": "खोज रहा है"
-  },
-  "general.searchFor": {
-    "description": "",
-    "message": "इसे खोजें:"
-  },
-  "general.searchSomething": {
-    "description": "",
-    "message": "कुछ खोज रहा है..."
-  },
-  "general.season": {
-    "description": "",
-    "message": "सीज़न"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "शॉपिंग कार्ट"
-  },
-  "general.store": {
-    "description": "",
-    "message": "स्टोर"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "सेवाओं की शर्तें"
-  },
-  "general.typeChannel": {
-    "description": "",
-    "message": "चैनल में टाइपिंग:"
-  },
-  "general.typeDM": {
-    "description": "",
-    "message": "DMs में टाइपिंग:"
-  },
-  "general.uptimeHistory": {
-    "description": "A page name of statuspages",
-    "message": "अपटाइम इतिहास"
-  },
-  "general.viewAccount": {
-    "description": "",
-    "message": "उनका खाता देखना"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "एनीमे देखना:"
-  },
-  "general.viewCategory": {
-    "description": "",
-    "message": "देखने की श्रेणी:"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "चैनल देखना:"
-  },
-  "general.viewEpisode": {
-    "description": "",
-    "message": "एपिसोड देखना:"
-  },
-  "general.viewGenre": {
-    "description": "",
-    "message": "देखने की शैली:"
-  },
-  "general.viewHome": {
-    "description": "",
-    "message": "होम पेज देखना"
-  },
-  "general.viewList": {
-    "description": "",
-    "message": "देखने की सूची:"
-  },
-  "general.viewManga": {
-    "description": "",
-    "message": "मंगा देखना:"
-  },
-  "general.viewMember": {
-    "description": "",
-    "message": "देखने वाला सदस्य:"
-  },
-  "general.viewMovie": {
-    "description": "",
-    "message": "फिल्म देखना:"
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "पृष्ठ देखना:"
-  },
-  "general.viewPlaylist": {
-    "description": "",
-    "message": "प्लेलिस्ट देखना:"
-  },
-  "general.viewProduct": {
-    "description": "",
-    "message": "देखने के उत्पाद:"
-  },
-  "general.viewProfile": {
-    "description": "",
-    "message": "प्रोफ़ाइल देखना:"
-  },
-  "general.viewSeries": {
-    "description": "",
-    "message": "श्रृंखला देखना:"
-  },
-  "general.viewShow": {
-    "description": "",
-    "message": "शो देखना:"
-  },
-  "general.viewThread": {
-    "description": "",
-    "message": "Reading thread:\nपढ़ना धागा:"
-  },
-  "general.viewUser": {
-    "description": "",
-    "message": "देखने वाला उपयोगकर्ता:"
-  },
-  "general.viewing": {
-    "description": "",
-    "message": "देख रहे हैं:"
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "एक लिवस्ट्रीम के शुरू होने का इंतजार"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "एक लिवस्ट्रीम के शुरू होने का इंतजार"
-  },
-  "general.waitingVid": {
-    "description": "For privacy reasons (\"A\" video, as in not specified)",
-    "message": "प्रीमियर के लिए एक वीडियो की प्रतीक्षा की जा रही है"
-  },
-  "general.waitingVidThe": {
-    "description": "\"the\" video, as in the video title is specified)",
-    "message": "प्रीमियर के लिए एक वीडियो की प्रतीक्षा की जा रही है"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "देख रहे:"
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "एक लिवस्ट्रीम देखना"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "फिल्में देखते हुए"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "श्रृंखला देखते हुए"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "शौ देखना"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "एक वीडियो देख रहे हैं"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "इच्छा-सूची:"
-  },
-  "general.writing": {
-    "description": "",
-    "message": "लेखन"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "एनिमी"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "ब्राउजिंग"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "साथ सुनो"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "लेख पढ़िए"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "एल्बम देखें"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "कलाकार देखें"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "चैनल देखें"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "एपिसोड देखें"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "मूवी देखें"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "पृष्ठ देखें"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "प्लेलिस्ट देखें"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "पॉडकास्ट देखें"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "प्रोफाइल देखें"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "वेब सीरीज़"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "सांग देखें"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "फिल्म देखिए"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "स्ट्रीम देखें"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "वीडियो देखें"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "हम कॉल कर रहे हैं..."
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "अध्याय"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "कूकी पॉलिसी"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "डीजे"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "संपादन:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "प्रकरण"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "मंच"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "शैली"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "एक कॉल में..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "हादसा इतिहास"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "भाषा"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "श्रोताओं"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "संगीत सुन रहा है"
+	},
+	"general.live": {
+		"description": "",
+		"message": "लाइव"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "माँगा"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "वे बिक्री"
+	},
+	"general.page": {
+		"description": "",
+		"message": "पृष्ठ"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "रुका हुआ"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "क्रियागत अर्थो में"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "गोपनीयता नीति"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "पढ़ना"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "डीएम से पढ़ना:"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "लेख पढ़ना:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "चैनल में पढ़ना:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "डीएम से पढ़ना:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "डीएम से पढ़ना:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Reading thread:\nपढ़ना धागा:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "लूप पर"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "सभी गाने लूपिंग"
+	},
+	"general.search": {
+		"description": "",
+		"message": "खोज रहा है"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "इसे खोजें:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "कुछ खोज रहा है..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "सीज़न"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "शॉपिंग कार्ट"
+	},
+	"general.store": {
+		"description": "",
+		"message": "स्टोर"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "सेवाओं की शर्तें"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "चैनल में टाइपिंग:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "DMs में टाइपिंग:"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "अपटाइम इतिहास"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "उनका खाता देखना"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "एनीमे देखना:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "देखने की श्रेणी:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "चैनल देखना:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "एपिसोड देखना:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "देखने की शैली:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "होम पेज देखना"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "देखने की सूची:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "मंगा देखना:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "देखने वाला सदस्य:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "फिल्म देखना:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "पृष्ठ देखना:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "प्लेलिस्ट देखना:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "देखने के उत्पाद:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "प्रोफ़ाइल देखना:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "श्रृंखला देखना:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "शो देखना:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Reading thread:\nपढ़ना धागा:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "देखने वाला उपयोगकर्ता:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "देख रहे हैं:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "एक लिवस्ट्रीम के शुरू होने का इंतजार"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "एक लिवस्ट्रीम के शुरू होने का इंतजार"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "प्रीमियर के लिए एक वीडियो की प्रतीक्षा की जा रही है"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "प्रीमियर के लिए एक वीडियो की प्रतीक्षा की जा रही है"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "देख रहे:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "एक लिवस्ट्रीम देखना"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "फिल्में देखते हुए"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "श्रृंखला देखते हुए"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "शौ देखना"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "एक वीडियो देख रहे हैं"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "विकी"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "इच्छा-सूची:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "लेखन"
+	}
 }
