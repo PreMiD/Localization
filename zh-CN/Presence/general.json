@@ -1,162 +1,166 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "动漫"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "浏览中..."
-  },
-  "general.calling": {
-    "description": "",
-    "message": "正在呼叫"
-  },
-  "general.chapter": {
-    "description": "",
-    "message": "章"
-  },
-  "general.cookie": {
-    "description": "A page name",
-    "message": "Cookie 政策"
-  },
-  "general.dj": {
-    "description": "",
-    "message": "DJ"
-  },
-  "general.editing": {
-    "description": "",
-    "message": "正在编写："
-  },
-  "general.episode": {
-    "description": "",
-    "message": "集"
-  },
-  "general.forums": {
-    "description": "",
-    "message": "论坛"
-  },
-  "general.genre": {
-    "description": "",
-    "message": "流派"
-  },
-  "general.inCall": {
-    "description": "",
-    "message": "通话中..."
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "语言"
-  },
-  "general.listeningMusic": {
-    "description": "",
-    "message": "正在听音乐"
-  },
-  "general.live": {
-    "description": "",
-    "message": "直播"
-  },
-  "general.manga": {
-    "description": "",
-    "message": "漫画"
-  },
-  "general.merch": {
-    "description": "",
-    "message": "商品"
-  },
-  "general.page": {
-    "description": "",
-    "message": "页"
-  },
-  "general.paused": {
-    "description": "",
-    "message": "暂停中"
-  },
-  "general.playing": {
-    "description": "",
-    "message": "播放中"
-  },
-  "general.privacy": {
-    "description": "A page name",
-    "message": "隐私条款"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "阅读中"
-  },
-  "general.repeat": {
-    "description": "",
-    "message": "单曲循环"
-  },
-  "general.repeatAll": {
-    "description": "",
-    "message": "列表循环"
-  },
-  "general.search": {
-    "description": "",
-    "message": "搜索中"
-  },
-  "general.shopCart": {
-    "description": "",
-    "message": "购物车"
-  },
-  "general.store": {
-    "description": "",
-    "message": "Presence 市场"
-  },
-  "general.terms": {
-    "description": "A page name",
-    "message": "服务条款"
-  },
-  "general.viewAnime": {
-    "description": "",
-    "message": "正在观看番剧"
-  },
-  "general.viewChannel": {
-    "description": "",
-    "message": "正在浏览频道："
-  },
-  "general.viewPage": {
-    "description": "",
-    "message": "浏览页面："
-  },
-  "general.waitingLive": {
-    "description": "For privacy reasons (\"A\" livestream, as in not specified)",
-    "message": "正在等候直播开始"
-  },
-  "general.waitingLiveThe": {
-    "description": "\"the\" livestream, as in the livestream title is specified)",
-    "message": "正在等候直播开始"
-  },
-  "general.watching": {
-    "description": "",
-    "message": "正在观看："
-  },
-  "general.watchingLive": {
-    "description": "",
-    "message": "正在观看直播"
-  },
-  "general.watchingMovie": {
-    "description": "",
-    "message": "正在观看电影"
-  },
-  "general.watchingSeries": {
-    "description": "",
-    "message": "正在观看系列"
-  },
-  "general.watchingShow": {
-    "description": "",
-    "message": "正在观看节目"
-  },
-  "general.watchingVid": {
-    "description": "",
-    "message": "正在观看视频"
-  },
-  "general.wishlist": {
-    "description": "",
-    "message": "愿望单："
-  },
-  "general.writing": {
-    "description": "",
-    "message": "正在撰写："
-  }
+	"general.anime": {
+		"description": "",
+		"message": "动漫"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "浏览中..."
+	},
+	"general.calling": {
+		"description": "",
+		"message": "正在呼叫"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "章"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Cookie 政策"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "正在编写："
+	},
+	"general.episode": {
+		"description": "",
+		"message": "集"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "论坛"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "流派"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "通话中..."
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "语言"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "正在听音乐"
+	},
+	"general.live": {
+		"description": "",
+		"message": "直播"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "漫画"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "商品"
+	},
+	"general.page": {
+		"description": "",
+		"message": "页"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "暂停中"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "播放中"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "隐私条款"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "阅读中"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "单曲循环"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "列表循环"
+	},
+	"general.search": {
+		"description": "",
+		"message": "搜索中"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "购物车"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Presence 市场"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "服务条款"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "正在观看番剧"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "正在浏览频道："
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "浏览页面："
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "正在等候直播开始"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "正在等候直播开始"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "正在观看："
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "正在观看直播"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "正在观看电影"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "正在观看系列"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "正在观看节目"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "正在观看视频"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "维基"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "愿望单："
+	},
+	"general.writing": {
+		"description": "",
+		"message": "正在撰写："
+	}
 }
