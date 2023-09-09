@@ -1,54 +1,58 @@
 {
-  "general.anime": {
-    "description": "",
-    "message": "אנימה"
-  },
-  "general.browsing": {
-    "description": "",
-    "message": "גולש..."
-  },
-  "general.buttonBrowse": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "לְדַפדֵף"
-  },
-  "general.buttonViewArticle": {
-    "description": "Used as the title for the button in Discord.",
-    "message": "צפו במאמר"
-  },
-  "general.episode": {
-    "description": "",
-    "message": "פרק"
-  },
-  "general.language": {
-    "description": "For choosing a language",
-    "message": "שפה"
-  },
-  "general.listeningTo": {
-    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-    "message": "מאזין ל{0}{1}"
-  },
-  "general.live": {
-    "description": "",
-    "message": "שידור חי"
-  },
-  "general.reading": {
-    "description": "",
-    "message": "קורא"
-  },
-  "general.search": {
-    "description": "",
-    "message": "מחפש"
-  },
-  "general.season": {
-    "description": "",
-    "message": "עונה"
-  },
-  "general.store": {
-    "description": "",
-    "message": "חנות"
-  },
-  "general.typeInDM": {
-    "description": "",
-    "message": "הקלדת DMs"
-  }
+	"general.anime": {
+		"description": "",
+		"message": "אנימה"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "גולש..."
+	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "לְדַפדֵף"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "צפו במאמר"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "פרק"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "שפה"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "מאזין ל{0}{1}"
+	},
+	"general.live": {
+		"description": "",
+		"message": "שידור חי"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "קורא"
+	},
+	"general.search": {
+		"description": "",
+		"message": "מחפש"
+	},
+	"general.season": {
+		"description": "",
+		"message": "עונה"
+	},
+	"general.store": {
+		"description": "",
+		"message": "חנות"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "הקלדת DMs"
+	},
+	"general.wiki": {
+		"description": "A page name",
+		"message": "וויקי"
+	}
 }
