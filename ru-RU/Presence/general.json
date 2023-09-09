@@ -7,6 +7,10 @@
     "description": "",
     "message": "Смотрит..."
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Посмотреть"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Слушать вместе"
@@ -18,6 +22,10 @@
   "general.buttonViewAlbum": {
     "description": "Used as the title for the button in Discord.",
     "message": "Посмотреть альбом"
+  },
+  "general.buttonViewArticle": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Посмотреть статью"
   },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
@@ -54,6 +62,10 @@
   "general.buttonViewSeries": {
     "description": "Used as the title for the button in Discord.",
     "message": "Посмотреть сериал"
+  },
+  "general.buttonViewShow": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Посмотреть шоу"
   },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
@@ -159,9 +171,29 @@
     "description": "",
     "message": "Читает"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Читает в канале"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "Читает ЛС"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Читает пост"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Читает тему"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Читает о:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Читает статью"
   },
   "general.readingArticle": {
     "description": "",
@@ -185,11 +217,11 @@
   },
   "general.repeat": {
     "description": "",
-    "message": "В цикле"
+    "message": "На повторе"
   },
   "general.repeatAll": {
     "description": "",
-    "message": "Зацикливание всех песен"
+    "message": "Все песни на повторе"
   },
   "general.search": {
     "description": "",
@@ -227,13 +259,69 @@
     "description": "",
     "message": "Печатает ЛС:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Печатает в ЛС"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "История бесперебойной работы"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Смотрит список"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Читает мангу"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Смотрит участника"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Смотрит фильм"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Смотрит страницу"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Смотрит плейлист"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Смотрит продукт"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Смотрит профиль"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Смотрит серию"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Смотрит шоу"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Смотрит тему"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Смотрит свою учётную запись"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Смотрит инцидент"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Смотрит пользователя"
   },
   "general.viewAnime": {
     "description": "",
@@ -259,13 +347,17 @@
     "description": "",
     "message": "Смотрит главную страницу"
   },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Смотрит инцидент:"
+  },
   "general.viewList": {
     "description": "",
     "message": "Смотрит список:"
   },
   "general.viewManga": {
     "description": "",
-    "message": "Смотрит манга:"
+    "message": "Читает мангу:"
   },
   "general.viewMember": {
     "description": "",
@@ -311,6 +403,14 @@
     "description": "",
     "message": "Смотрит:"
   },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Смотрит список желаемого"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Смотрит список желаемого:"
+  },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",
     "message": "В ожидании начала трансляции"
@@ -353,7 +453,7 @@
   },
   "general.wishlist": {
     "description": "",
-    "message": "Избранное:"
+    "message": "Список желаемого:"
   },
   "general.writing": {
     "description": "",

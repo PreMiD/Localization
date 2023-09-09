@@ -23,6 +23,10 @@
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
     "message": "Aprecieri"
   },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Această prezență acceptă mai multe adrese URL decât cele enumerate mai jos prin utilizarea RegExp. Plasați cursorul pentru a vedea modelul"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "URL-uri suportate"

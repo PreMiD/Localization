@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Personal"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Suporteri"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Traducători"
@@ -19,9 +23,37 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Booster"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Manager comunitate"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderator"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Donator"
+  },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Resurse umane"
+  },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "Manager de localizare"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Manager de proiect"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Contribuitor"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "Corector"
   },
   "contributors.roles.support": {
     "description": "'Support' title for contributors and user pages.",

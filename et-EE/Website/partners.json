@@ -159,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "taiga on Discord Bot, kes üritab pakkuda kõiki vajalikke funktsioone, mida sul võib vaja minna, korraga!"
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio on kogukonnale suunatud online-raadio, mis pakub 24/7 reklaamivaba raadiomeeleolu, igapäevaseid uudiseid ja palju muud!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "Kõige võimsam ja laiendatav Wiki avatud lähtekoodiga tarkvara."

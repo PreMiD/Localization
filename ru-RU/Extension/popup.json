@@ -81,7 +81,7 @@
   },
   "popup.info.notConnectedDiscord.message": {
     "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD не может подключится к Discord! Он установлен и запущен? *Устранить неполадку*"
+    "message": "PreMiD не может подключиться к Discord! Он установлен и запущен? *Устранить неполадку*"
   },
   "popup.info.safari.outdatedExtension": {
     "description": "Shown when Extension is outdated. Only for Safari port.",
@@ -129,7 +129,7 @@
   },
   "popup.presences.noPresences": {
     "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Вы ещё не добавили ниодин Presence"
+    "message": "Вы ещё не добавили ни одного Presence"
   },
   "popup.setting.autoLaunch": {
     "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",

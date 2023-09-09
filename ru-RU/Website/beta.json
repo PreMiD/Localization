@@ -33,7 +33,7 @@
   },
   "error.noslots": {
     "description": "Shows when the beta slots are full.",
-    "message": "Похоже, у нас нет больше слотов для бета-пользователя."
+    "message": "Похоже, у нас больше нет слотов для бета-тестирования."
   },
   "thankyou.description": {
     "description": "Thank You page description",

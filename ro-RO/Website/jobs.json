@@ -1,7 +1,71 @@
 {
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "Luați legătura cu oamenii din spatele PreMiD."
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "Întâlnește-ne"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "Aruncă o privire la dezvoltarea și marketingul nostru."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "Furișări"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "Permisiuni Discord puternice și un rol colorat."
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "Onoare"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "Cu contribuţia ta este posibil să rulezi acest proiect."
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "Sprijină PreMiD"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "Să vă luăm timpul. Asta e muncă voluntară."
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "Pauză"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "Testează caracteristicile noi înainte de oricine altcineva."
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "Pre-acces"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "Beneficii ridicate"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "Ai aplicat deja înainte!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "Pentru a putea aplica trebuie să te alături serverului nostru de Discord. Altfel nu vom putea să te contactăm dacă vei sfârși prin a fi selectat!"
+  },
   "jobs.guild.required": {
     "description": "Title of the modal the user will see if it's not in Discord server.",
     "message": "Intrați pe serverul nostru de Discord"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "Ești gata să ajuți cel mai mare program Rich-Presence?"
   },
   "jobs.header.title": {
     "description": "First part of the jobs page.",
@@ -23,6 +87,10 @@
     "description": "Error when user did not fill all the fields.",
     "message": "Vă rugăm să completaţi toate câmpurile"
   },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "PreMiD este un proiect open-source, inseamna ca suntem o echipa non-profit, fiecare donatie sau patreon se intoarce in produs. Aplicând pentru un loc de muncă la PreMiD recunoașteți că sunteți voluntar în echipă, nu veți fi plătit pentru munca dumneavoastră."
+  },
   "jobs.modal.step": {
     "description": "Step indicator of the modal. {0} will be replaced with the current page .",
     "message": "Pasul {0} din 2"
@@ -34,5 +102,9 @@
   "jobs.openings.title": {
     "description": "Text before the available job positions cards.",
     "message": "Posturi disponibile"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "Vă mulțumim pentru aplicare!"
   }
 }

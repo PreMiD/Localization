@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Staf"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Pendukung"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Penerjemah"
@@ -42,6 +46,10 @@
   "contributors.roles.projectManagement": {
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Pengelola Proyek"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Kontributor"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",

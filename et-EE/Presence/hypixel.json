@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "DM-ide vaatamine"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Mängu vaatamine:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Töötajate nimekirja vaatamine"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Vaadatud foorumite vaatamine"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Vaadatud lehtede vaatamine"
+  }
+}

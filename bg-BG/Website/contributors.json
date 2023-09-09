@@ -47,6 +47,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Управление на проекти"
   },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Сътрудник"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Коректор"

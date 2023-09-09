@@ -9,7 +9,7 @@
   },
   "store.card.presence.remove": {
     "description": "Button that will appear on hover after extension and presence is installed.",
-    "message": "Удалить присутствие"
+    "message": "Удалить презенс"
   },
   "store.cards.creator": {
     "description": "Creator of a presence",
@@ -17,15 +17,15 @@
   },
   "store.cards.extraStepsRequired": {
     "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
-    "message": "Этот презенс требует дополнительных настроек. Пожалуйста, перейдите на его страницу для получения дополнительной информации."
+    "message": "Этот Presence требует дополнительных настроек. Пожалуйста, перейдите на его страницу для получения дополнительной информации."
   },
   "store.cards.partner": {
     "description": "Presence card partner flame",
-    "message": "Партнерское Присутствие"
+    "message": "Presence партнёра"
   },
   "store.cards.popular": {
     "description": "Presence card popular flame",
-    "message": "Этот презенс очень популярен среди пользователей."
+    "message": "Этот Presence очень популярен среди пользователей."
   },
   "store.category.all": {
     "description": "Category at the top",
@@ -41,7 +41,7 @@
   },
   "store.category.filters.likedOnly": {
     "description": "Liked presences only checkbox",
-    "message": "Только понравившиеся Присутствия"
+    "message": "Только понравившиеся Presence"
   },
   "store.category.filters.mostUsed": {
     "description": "Most used first checkbox",
@@ -73,11 +73,11 @@
   },
   "store.filters.added": {
     "description": "Store filter to display/not display already installed presences.",
-    "message": "Показать добавленные Присутствия"
+    "message": "Показать добавленные Presence"
   },
   "store.header.search": {
     "description": "Search bar text when nothing is stated",
-    "message": "Поиск презенса"
+    "message": "Поиск Presence"
   },
   "store.message.error": {
     "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",

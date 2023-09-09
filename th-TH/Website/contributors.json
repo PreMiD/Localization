@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "ทีมงาน"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "ผู้สนับสนุน"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "แปลภาษา"
@@ -22,6 +26,10 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "ผู้จัดการคอมมูนิตี้"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "ผู้ดูแล"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -45,7 +53,7 @@
   },
   "contributors.roles.support": {
     "description": "'Support' title for contributors and user pages.",
-    "message": "สนับสนุน"
+    "message": "ฝ่ายสนับสนุน"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

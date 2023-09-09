@@ -1,122 +1,122 @@
 {
-  "youtube.ad": {
-    "description": "",
-    "message": "حاليًا يشاهد إعلان"
-  },
-  "youtube.browsingPlaylists": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "يتصفح من خلال قوائم التشغيل"
-  },
-  "youtube.browsingThrough": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "يتصفح"
-  },
-  "youtube.browsingVideos": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "يتصفح من خلال الفيديوهات"
-  },
-  "youtube.history": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "التاريخ الخاص بهم"
-  },
-  "youtube.library": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "مكتبتهم"
-  },
-  "youtube.ofChannel": {
-    "description": "Second part of multiple strings",
-    "message": "من القناة:"
-  },
-  "youtube.purchases": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "مشترياتهم"
-  },
-  "youtube.readingChannel": {
-    "description": "",
-    "message": "القراءة حول القناة:"
-  },
-  "youtube.reportHistory": {
-    "description": "",
-    "message": "يشاهد تاريخ التقارير"
-  },
-  "youtube.searchChannel": {
-    "description": "{0} will be replaced with the channel name",
-    "message": "يبحث في القناة: {0} من أجل:"
-  },
-  "youtube.studio.artistPage": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "صفحة الفنانين"
-  },
-  "youtube.studio.channelAnalytics": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "تحليلات القناة"
-  },
-  "youtube.studio.channelComments": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "تعليقات القناة"
-  },
-  "youtube.studio.channelTranslations": {
-    "description": "Part two of \"Viewing their\"",
-    "message": "ترجمة قناة"
-  },
-  "youtube.studio.dashboard": {
-    "description": "",
-    "message": "يشاهد لوحة التحكم"
-  },
-  "youtube.studio.editVideo": {
-    "description": "",
-    "message": "تحرير الفيديو:"
-  },
-  "youtube.studio.videoAnalytics": {
-    "description": "",
-    "message": "يشاهد تحليلات الفيديو:"
-  },
-  "youtube.studio.videoComments": {
-    "description": "",
-    "message": "يشاهد التعليقات على الفيديو:"
-  },
-  "youtube.studio.videoTranslations": {
-    "description": "",
-    "message": "يشاهد ترجمات الفيديو:"
-  },
-  "youtube.studio.viewTheir": {
-    "description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-    "message": "يشاهد"
-  },
-  "youtube.studio.viewVideos": {
-    "description": "",
-    "message": "يشاهد مقاطع الفيديو الخاصة به"
-  },
-  "youtube.subscriptions": {
-    "description": "Part two of \"Browsing through\"",
-    "message": "المشتركين الخاصة بهم"
-  },
-  "youtube.trending": {
-    "description": "",
-    "message": "يشاهد صفحة الفيديوهات الشائعة"
-  },
-  "youtube.upload": {
-    "description": "",
-    "message": "يقوم برفع شيء ما..."
-  },
-  "youtube.viewAllPlaylist": {
-    "description": "",
-    "message": "يشاهد جميع قوائم التشغيل"
-  },
-  "youtube.viewAudioLibrary": {
-    "description": "",
-    "message": "يشاهد مكتبة الصوت"
-  },
-  "youtube.viewLiveDashboard": {
-    "description": "",
-    "message": "يشاهد لوحة تحكم البث المباشر"
-  },
-  "youtube.viewLiveEvents": {
-    "description": "",
-    "message": "يشاهد الأحداث المباشرة"
-  },
-  "youtube.viewingCommunityPost": {
-    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "يشاهد مشاركات المجتمع"
-  }
+	"youtube.ad": {
+		"description": "",
+		"message": "حاليًا يشاهد إعلان"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "يتصفح من خلال قوائم التشغيل"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "يتصفح"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "يتصفح من خلال الفيديوهات"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "التاريخ الخاص بهم"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "مكتبتهم"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "من القناة:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "مشترياتهم"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "القراءة حول القناة:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "يشاهد تاريخ التقارير"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "يبحث في القناة: {0} من أجل:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "صفحة الفنانين"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "تحليلات القناة"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "تعليقات القناة"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "ترجمة قناة"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "يشاهد لوحة التحكم"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "تحرير الفيديو:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "يشاهد تحليلات الفيديو:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "يشاهد التعليقات على الفيديو:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "يشاهد ترجمات الفيديو:"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "يشاهد"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "يشاهد مقاطع الفيديو الخاصة به"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "المشتركين الخاصة بهم"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "يشاهد صفحة الفيديوهات الشائعة"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "يقوم برفع شيء ما..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "يشاهد جميع قوائم التشغيل"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "يشاهد مكتبة الصوت"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "يشاهد لوحة تحكم البث المباشر"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "يشاهد الأحداث المباشرة"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "يشاهد مشاركات المجتمع"
+	}
 }

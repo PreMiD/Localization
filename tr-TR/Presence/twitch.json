@@ -145,7 +145,7 @@
   },
   "twitch.extensions": {
     "description": "",
-    "message": "Eklentilere Bakıyor"
+    "message": "Eklentileri Görüntülüyor"
   },
   "twitch.followList": {
     "description": "Part 2 of the string: \"Viewing their\"",

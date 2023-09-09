@@ -1,14 +1,122 @@
 {
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Aplică acum!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Hai să mergem împreună în rai!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Te rugăm să completezi toate câmpurile."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Descriere maximă de 150 de caractere."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Vă rugăm să adăugați un link (trebuie să înceapă cu http:// și să se termine cu .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Deja ai aplicat pentru parteneriat."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Aplică"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Închide"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Descriere: (Maximum 150 de caractere)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Descriere model"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Link imagine: (550x300, doar PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Ex: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Link"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Ex: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Nume"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Ex: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Dacă sunteți mai degrabă interogați într-o slujbă directă la PreMiD, atunci aruncați o privire la **publicitatea noastră privind locul de muncă**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Autentificat ca {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Nu ești tu?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Alegeți o opțiune"
+  },
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "Altele"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Site web"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Vă mulțumim pentru aplicare!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Aplică pentru partener"
   },
   "partners.header.title": {
     "description": "Heading for page.",
     "message": "Parteneri"
   },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Așa te uiți la animație."
+  },
   "partners.requirements.title": {
     "description": "Heading for the requirements.",
     "message": "Cerințe"
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Sponsori"
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Prezența ta liberă"
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Fii faimos"
   }
 }

@@ -1,1 +1,70 @@
-{}
+{
+  "amazon.address": {
+    "description": "",
+    "message": "Vizualizarea Propiei Adrese"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "Vizualizează Balanța Propie"
+  },
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "cărucior de cumpărături"
+  },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "Vizualizarea tuturor categoriilor"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "carduri cadou"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "Vizualizarea istoricului"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "detalii comandă"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Istoric comenzi"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "Vizualizarea metodelor de plată"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "Vizualizarea animalelor lor de companie"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "Vizualizează Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "Vizualizarea videoclipului Primar:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "Vizualizare recomandată"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "Vizualizare magazin:"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "Vizualizarea abonamentelor lor"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "Vizualizare proprie"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "lista de dorințe"
+  }
+}

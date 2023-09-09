@@ -1,1 +1,42 @@
-{}
+{
+  "juniperbot.commands": {
+    "description": "Page with the list of bot's commands",
+    "message": "Käskude loendite vaatamine"
+  },
+  "juniperbot.cookies": {
+    "description": "Reading about the site's cookies",
+    "message": "Saidi küpsiste kohta lugemine"
+  },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "Annetuskavade kohta teabe lugemine"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "Serveri edetabeli vaatamine:"
+  },
+  "juniperbot.mainpage": {
+    "description": "Home page of the site",
+    "message": "Avaleht"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "Armatuurlaual"
+  },
+  "juniperbot.serverdashname": {
+    "description": "Guild name",
+    "message": "Gild: {0}"
+  },
+  "juniperbot.servers": {
+    "description": "Server selection page",
+    "message": "Serveri valimine"
+  },
+  "juniperbot.stats": {
+    "description": "Page with bot's statistics",
+    "message": "Boti statistika vaatamine"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "Auastmekaardi kohandamine"
+  }
+}

@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Team"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Supporter"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Übersetzer"
@@ -19,13 +23,29 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Booster"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Community Manager"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderator"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Spender*in"
   },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Human Resources"
+  },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Lokalisierungsmanager"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Projekt Management"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",

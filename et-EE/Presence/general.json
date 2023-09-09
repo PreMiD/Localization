@@ -7,6 +7,10 @@
     "description": "",
     "message": "Otsib..."
   },
+  "general.buttonBrowse": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Sirvi"
+  },
   "general.buttonListenAlong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Kuula kaasa"
@@ -19,6 +23,10 @@
     "description": "Used as the title for the button in Discord.",
     "message": "Kuva Album"
   },
+  "general.buttonViewArticle": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Kuva artikkel"
+  },
   "general.buttonViewArtist": {
     "description": "Used as the title for the button in Discord.",
     "message": "Kuva Esitaja"
@@ -30,6 +38,10 @@
   "general.buttonViewEpisode": {
     "description": "Used as the title for the button in Discord.",
     "message": "Vaadake jagu"
+  },
+  "general.buttonViewMovie": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Kuva film"
   },
   "general.buttonViewPage": {
     "description": "Used as the title for the button in Discord.",
@@ -51,9 +63,17 @@
     "description": "Used as the title for the button in Discord.",
     "message": "Kuva seeria"
   },
+  "general.buttonViewShow": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Kuva show"
+  },
   "general.buttonViewSong": {
     "description": "Used as the title for the button in Discord.",
     "message": "Kuva laul"
+  },
+  "general.buttonWatchMovie": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Kuva filmi"
   },
   "general.buttonWatchStream": {
     "description": "Used as the title for the button in Discord.",
@@ -115,6 +135,10 @@
     "description": "",
     "message": "Muusika kuulamine"
   },
+  "general.listeningTo": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+    "message": "Kuulab{0}{1}"
+  },
   "general.live": {
     "description": "",
     "message": "Otse"
@@ -147,9 +171,29 @@
     "description": "",
     "message": "Loeb"
   },
+  "general.readingAChannel": {
+    "description": "",
+    "message": "Loeb kanalis"
+  },
+  "general.readingADM": {
+    "description": "",
+    "message": "Loeb DM-i"
+  },
+  "general.readingAPost": {
+    "description": "",
+    "message": "Loeb postitust"
+  },
+  "general.readingAThread": {
+    "description": "",
+    "message": "Loeb postitust"
+  },
   "general.readingAbout": {
     "description": "",
     "message": "Teave lugemine:"
+  },
+  "general.readingAnArticle": {
+    "description": "",
+    "message": "Loeb artiklit"
   },
   "general.readingArticle": {
     "description": "",
@@ -215,13 +259,69 @@
     "description": "",
     "message": "DM-ides kirjutamine:"
   },
+  "general.typeInDM": {
+    "description": "",
+    "message": "Kirjutab DM-ides"
+  },
   "general.uptimeHistory": {
     "description": "A page name of statuspages",
     "message": "Üleval olemise ajalugu"
   },
+  "general.viewAList": {
+    "description": "",
+    "message": "Vaatab nimekirja"
+  },
+  "general.viewAManga": {
+    "description": "",
+    "message": "Vaatab mangat"
+  },
+  "general.viewAMember": {
+    "description": "",
+    "message": "Vaatab liiget"
+  },
+  "general.viewAMovie": {
+    "description": "",
+    "message": "Vaatab filmi"
+  },
+  "general.viewAPage": {
+    "description": "",
+    "message": "Vaatab lehte"
+  },
+  "general.viewAPlaylist": {
+    "description": "",
+    "message": "Vaatab esitusloendit"
+  },
+  "general.viewAProduct": {
+    "description": "",
+    "message": "Vaatab toodet"
+  },
+  "general.viewAProfile": {
+    "description": "",
+    "message": "Vaatab kasutaja profiili"
+  },
+  "general.viewASeries": {
+    "description": "",
+    "message": "Vaatab seeriat"
+  },
+  "general.viewAShow": {
+    "description": "",
+    "message": "Vaatab saadet"
+  },
+  "general.viewAThread": {
+    "description": "",
+    "message": "Vaatab postitust"
+  },
   "general.viewAccount": {
     "description": "",
     "message": "Konto vaatamine"
+  },
+  "general.viewAnIncident": {
+    "description": "A page name of statuspages",
+    "message": "Vaatab intsidenti"
+  },
+  "general.viewAnUser": {
+    "description": "",
+    "message": "Vaatab kasutajat"
   },
   "general.viewAnime": {
     "description": "",
@@ -246,6 +346,10 @@
   "general.viewHome": {
     "description": "",
     "message": "Avalehe vaatamine"
+  },
+  "general.viewIncident": {
+    "description": "A page name of statuspages",
+    "message": "Vaatab incidenti:"
   },
   "general.viewList": {
     "description": "",
@@ -298,6 +402,14 @@
   "general.viewing": {
     "description": "",
     "message": "Vaatamine:"
+  },
+  "general.viewingAWishlist": {
+    "description": "",
+    "message": "Vaatab soovinimekirja"
+  },
+  "general.viewingWishlist": {
+    "description": "",
+    "message": "Vaatab kellegi soovinimekirja:"
   },
   "general.waitingLive": {
     "description": "For privacy reasons (\"A\" livestream, as in not specified)",

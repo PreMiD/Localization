@@ -1,23 +1,23 @@
 {
   "user.geniusPresenceDev.message1": {
     "description": "'Genuis Presence Developer' tippy description for user pages.",
-    "message": "Гениальный разработчик присутствия"
+    "message": "Гениальный разработчик Presence"
   },
   "user.geniusPresenceDev.message2": {
     "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
-    "message": "Создано более 100 Присутствий!"
+    "message": "Создано более 100 Presence!"
   },
   "user.importantPresenceDev.message1": {
     "description": "'Important Presence Developer' tippy description for user pages.",
-    "message": "Важный разработчик присутствия"
+    "message": "Важный разработчик Presence"
   },
   "user.importantPresenceDev.message2": {
     "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
-    "message": "Создано {0} присутствий."
+    "message": "Создано {0} Presence."
   },
   "user.presences.contributed": {
     "description": "Tippy content (mode 2) in user profile.",
-    "message": "Нажмите сюда, чтобы увидеть презенсы, в которые внес вклад этот пользователь."
+    "message": "Нажмите сюда, чтобы увидеть Presences, в которые внес вклад этот пользователь."
   },
   "user.presences.created": {
     "description": "Tippy content in user profile.",
@@ -25,11 +25,11 @@
   },
   "user.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for user pages.",
-    "message": "Разработчик Присутствия"
+    "message": "Разработчик Presence"
   },
   "user.roles.presenceVerifier": {
     "description": "'Presence Verifier' title for user pages.",
-    "message": "Верификатор присутствия"
+    "message": "Проверяющий Presence"
   },
   "user.switch.contributed": {
     "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
