@@ -1,1 +1,46 @@
-{}
+{
+	"osu!ppy.beatmapLooking": {
+		"description": "Displayed when looking at a beatmap.",
+		"message": "Bekijkt beatmap"
+	},
+	"osu!ppy.beatmapPacks": {
+		"description": "Displayed when viewing all beatmap packs.",
+		"message": "Bekijkt beatmap-pakketten"
+	},
+	"osu!ppy.beatmapRankings": {
+		"description": "Displayed when viewing Kudosu Rankings.",
+		"message": "Bekijkt kudosu-ranglijsten"
+	},
+	"osu!ppy.buttonViewBeatmap": {
+		"description": "Displayed for a button to redirect to the beatmap page.",
+		"message": "Beatmap bekijken"
+	},
+	"osu!ppy.countryRankings": {
+		"description": "Country rankings {0} = gamemode. E.g. Country Rankings [osu!]",
+		"message": "Ranglijsten per land [{0}]"
+	},
+	"osu!ppy.for": {
+		"description": "{0} = country/for All, {1} = gamemode. E.g. Performance Rankings (for All) [osu!]",
+		"message": "(voor {0}) [{1}]"
+	},
+	"osu!ppy.performanceRankings": {
+		"description": "Displayed when viewing the performance rankings.",
+		"message": "Prestatieranglijsten"
+	},
+	"osu!ppy.scoreRankings": {
+		"description": "{0} = gamemode. E.g. Score Rankings [osu!]",
+		"message": "Scoreranglijsten [{0}]"
+	},
+	"osu!ppy.spotlights": {
+		"description": "{0} = gamemode, {1} = All/Friends. E.g. The osu! Spotlights (All)",
+		"message": "Schijnwerpers ({0}, {1})"
+	},
+	"osu!ppy.support": {
+		"description": "Displayed when viewing the support page.",
+		"message": "Manieren om osu!ppy te steunen"
+	},
+	"osu!ppy.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Hoofdpagina wiki"
+	}
+}
