@@ -15,6 +15,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "צפו במאמר"
 	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג את יומן השינויים"
+	},
 	"general.episode": {
 		"description": "",
 		"message": "פרק"
@@ -47,6 +51,10 @@
 		"description": "",
 		"message": "חנות"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "דף תמיכה"
+	},
 	"general.typeInDM": {
 		"description": "",
 		"message": "הקלדת DMs"
@@ -54,5 +62,9 @@
 	"general.wiki": {
 		"description": "A page name",
 		"message": "וויקי"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "דף ראשי של ויקי"
 	}
 }
