@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "북마크"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "탐색"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "알림"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "트윗 읽는 중:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "일부 설정 변경 중..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "DM 보는 중"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "다음 사용자의 좋아요 표시 보는 중:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "리스트 보는 중:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "미디어 보는 중:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "트윗 보는 중:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "트윗(답글)을 보는 중:"
+  }
+}

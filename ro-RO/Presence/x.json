@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Bookmark-uri"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Explorează"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Notificări"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Citește tweet-ul lui:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Schimbă câteva setări..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Se uită la DM-urile sale"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Se uită la cine a dat like:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Se uită la lista:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Se uită la media-ul lui:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Se uită la tweet-urile lui:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Se uită la tweet-urile (cu comentarii) lui:"
+  }
+}

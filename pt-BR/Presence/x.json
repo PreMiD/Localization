@@ -1,0 +1,42 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Favoritos"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Explorar"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Notificações"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Lendo tweet de:"
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Vendo as suas mensagens diretas"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Vendo curtidas por:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Vendo lista:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Vendo mídias de:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Vendo tweets de:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Vendo tweets (com respostas) de:"
+  }
+}

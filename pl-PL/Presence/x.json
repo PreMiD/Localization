@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Zakładki"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Odkrywanie"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Powiadomienia"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Czyta tweeta:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Zmienia kilka ustawień..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Przegląda swoje wiadomości prywatne"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Przegląda polubionych przez:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Przegląda listę:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Przegląda multimediów:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Przegląda tweety:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Przegląda tweety (z odpowiedziami):"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Закладки"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Обнаружить"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Уведомления"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Читает твит:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Изменяет некоторых настроек..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Смотрит личные сообщения"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Смотрит лайков:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Смотрит список:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Смотрит медиа:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Просмотр твитов:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Просмотр твитов (с ответами):"
+  }
+}

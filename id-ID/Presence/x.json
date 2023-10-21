@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Bookmark"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Jelajahi"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Notifikasi"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Membaca tweet dari:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Mengubah beberapa pengaturan..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Melihat DM mereka"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Melihat disukai oleh:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Melihat daftar:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Melihat media dari:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Melihat tweet dari:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Melihat tweet (dengan balasan) dari:"
+  }
+}

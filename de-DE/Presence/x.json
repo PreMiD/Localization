@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Lesezeichen"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Erkunden"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Benachrichtigungen"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Liest Tweet von:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Ändert ein paar Einstellungen..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Betrachtet seine PNs"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Betrachtet Likes von:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Betrachtet Liste:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Betrachtet Medien von:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Betrachtet Tweets von:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Betrachtet Tweets (mit Antworten) von:"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Záložky"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Prozkoumat"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Oznámení"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Čtení tweetu:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Mění nějaké nastavení..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Prohlížení jejich přímých zpráv"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Prohlíží lajky uživatele:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Prohlíží seznam:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Prohlíží média uživatele:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Prohlíží tweety uživatele:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Prohlíží tweety (s odpověďmi) uživatele:"
+  }
+}

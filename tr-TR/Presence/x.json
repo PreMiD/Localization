@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Yer imleri"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Keşfet"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Bildirimler"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Tweet'i okuyor:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Bazı ayarlar değiştiriliyor..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "DM'lerine Bakıyor"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Beğendiğine bakıyor:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Listeye bakıyor:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Medyasına bakıyor:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Tweet'lerine bakıyor:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "(Cevaplı) Tweet'lerine bakıyor:"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Bladwijzers"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Ontdek"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Notificaties"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Leest tweet van:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Instellingen aan het aanpassen..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Bekijkt zijn/haar privéberichten"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Bekijkt leuk gevonden door:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Bekijkt lijst:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Bekijkt media van:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Bekijkt tweets van:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Bekijkt tweets (met antwoorden) van:"
+  }
+}

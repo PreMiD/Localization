@@ -1,0 +1,42 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Закладки"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Досліджує"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Сповіщення"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Змінює деякі налаштування..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Переглядає приватні повідомлення"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Переглядає вподобане "
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Переглядає список "
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Переглядає медіа "
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Переглядає твіти "
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Переглядає твіти (з відповідями) "
+  }
+}

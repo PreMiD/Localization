@@ -1,0 +1,38 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Bokmerker"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Utforsk"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Varslinger"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Endrer noen instillinger..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Ser deres direkte meldinger"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Ser likt av:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Ser listen av:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Ser tweetene til:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Ser tweeten (med svar) til:"
+  }
+}

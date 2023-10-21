@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Könyvjelzők"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Felfedezés"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Értesítések"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Tweet olvasása:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Néhány beállítás módosítása..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Üzeneteit nézi"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Az ő kedveléseit nézi:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Listát néz:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Az ő médiáját nézi:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Az ő tweetjeit nézi:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Az ő tweetjeit (válaszokkal) nézi:"
+  }
+}

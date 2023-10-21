@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Järjehoidjad"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Avasta"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Teavitused"
+  },
+  "x.readTweet": {
+    "description": "after the \":\" it will say the username",
+    "message": "Tweeti lugemine:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Mõne sätte muutmine..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Nende DM-de vaatamine"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Meeldimiste vaatamine:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Nimekirja vaatamine:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Meediumite vaatamine:"
+  },
+  "x.viewTweets": {
+    "description": "",
+    "message": "Tweeti vaatamine:"
+  },
+  "x.viewTweetsWithReplies": {
+    "description": "",
+    "message": "Tweeti (koos vastustega) vaatamine:"
+  }
+}
