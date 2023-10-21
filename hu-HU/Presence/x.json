@@ -11,9 +11,9 @@
     "description": "",
     "message": "Értesítések"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Tweet olvasása:"
+    "message": "post olvasása:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Az ő médiáját nézi:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Az ő tweetjeit nézi:"
+    "message": "Az ő postjeit nézi:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Az ő tweetjeit (válaszokkal) nézi:"
+    "message": "Az ő postjeit (válaszokkal) nézi:"
   }
 }

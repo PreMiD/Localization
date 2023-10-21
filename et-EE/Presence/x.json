@@ -11,9 +11,9 @@
     "description": "",
     "message": "Teavitused"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Tweeti lugemine:"
+    "message": "posti lugemine:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Meediumite vaatamine:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Tweeti vaatamine:"
+    "message": "posti vaatamine:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Tweeti (koos vastustega) vaatamine:"
+    "message": "posti (koos vastustega) vaatamine:"
   }
 }

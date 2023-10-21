@@ -11,9 +11,9 @@
     "description": "",
     "message": "Notificações"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Lendo tweet de:"
+    "message": "Lendo post de:"
   },
   "x.viewDms": {
     "description": "",
@@ -31,12 +31,12 @@
     "description": "",
     "message": "Vendo mídias de:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Vendo tweets de:"
+    "message": "Vendo posts de:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Vendo tweets (com respostas) de:"
+    "message": "Vendo posts (com respostas) de:"
   }
 }

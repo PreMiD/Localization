@@ -27,12 +27,12 @@
     "description": "",
     "message": "Skoðar fjölmiðlun af:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Skoðar tweet af:"
+    "message": "Skoðar post af:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Skoðar tweets (með svörum) af:"
+    "message": "Skoðar posts (með svörum) af:"
   }
 }

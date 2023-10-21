@@ -11,9 +11,9 @@
     "description": "",
     "message": "Fógraí"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Tweet léitheoireachta de:"
+    "message": "post léitheoireachta de:"
   },
   "x.settings": {
     "description": "",
@@ -35,11 +35,11 @@
     "description": "",
     "message": "Meáin féachana de:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "Ag féachaint ar thweets de:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "Ag féachaint ar thweets (le freagraí) ar:"
   }

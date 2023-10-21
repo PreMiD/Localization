@@ -11,9 +11,9 @@
     "description": "",
     "message": "Oznámení"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Čtení tweetu:"
+    "message": "Čtení postu:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Prohlíží média uživatele:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Prohlíží tweety uživatele:"
+    "message": "Prohlíží posty uživatele:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Prohlíží tweety (s odpověďmi) uživatele:"
+    "message": "Prohlíží posty (s odpověďmi) uživatele:"
   }
 }

@@ -11,9 +11,9 @@
     "description": "",
     "message": "Benachrichtigungen"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Liest Tweet von:"
+    "message": "Liest post von:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Betrachtet Medien von:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Betrachtet Tweets von:"
+    "message": "Betrachtet posts von:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Betrachtet Tweets (mit Antworten) von:"
+    "message": "Betrachtet posts (mit Antworten) von:"
   }
 }

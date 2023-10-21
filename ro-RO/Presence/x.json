@@ -11,9 +11,9 @@
     "description": "",
     "message": "Notificări"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Citește tweet-ul lui:"
+    "message": "Citește post-ul lui:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Se uită la media-ul lui:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Se uită la tweet-urile lui:"
+    "message": "Se uită la post-urile lui:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Se uită la tweet-urile (cu comentarii) lui:"
+    "message": "Se uită la post-urile (cu comentarii) lui:"
   }
 }

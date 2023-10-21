@@ -31,12 +31,12 @@
     "description": "",
     "message": "Ogledovanje medijev od:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Ogledovanje tweet-a od:"
+    "message": "Ogledovanje post-a od:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Ogledovanje tweet-a (z odgovori) od:"
+    "message": "Ogledovanje post-a (z odgovori) od:"
   }
 }

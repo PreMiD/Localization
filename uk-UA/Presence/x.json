@@ -31,11 +31,11 @@
     "description": "",
     "message": "Переглядає медіа "
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "Переглядає твіти "
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "Переглядає твіти (з відповідями) "
   }

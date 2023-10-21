@@ -11,7 +11,7 @@
     "description": "",
     "message": "Pemberitahuan"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
     "message": "Membaca kicauan:"
   },
@@ -35,11 +35,11 @@
     "description": "",
     "message": "Melihat media:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "Melihat kicauan:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "Melihat kicauan (berserta balasan):"
   }

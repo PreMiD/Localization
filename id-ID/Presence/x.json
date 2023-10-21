@@ -11,9 +11,9 @@
     "description": "",
     "message": "Notifikasi"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Membaca tweet dari:"
+    "message": "Membaca post dari:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Melihat media dari:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Melihat tweet dari:"
+    "message": "Melihat post dari:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Melihat tweet (dengan balasan) dari:"
+    "message": "Melihat post (dengan balasan) dari:"
   }
 }

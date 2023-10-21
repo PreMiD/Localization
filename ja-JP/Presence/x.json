@@ -11,7 +11,7 @@
     "description": "",
     "message": "通知"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
     "message": "ツイートを閲覧中"
   },
@@ -35,11 +35,11 @@
     "description": "",
     "message": "次のメディアを閲覧中:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "次のツイートを閲覧中:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "ツイート（返信つき）を閲覧中:"
   }

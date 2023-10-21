@@ -11,7 +11,7 @@
     "description": "",
     "message": "বিজ্ঞপ্তিসমূহ"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
     "message": "পড়ছে যার টুইট:"
   },
@@ -35,11 +35,11 @@
     "description": "",
     "message": "দেখছে মিডিয়া:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "দেখছে টুইটগুলো:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "দেখছে টুইটগুলো (রিপ্লাই এর সঙ্গে):"
   }

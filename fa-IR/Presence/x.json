@@ -11,7 +11,7 @@
     "description": "",
     "message": "اعلانات"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
     "message": "درحال خواندن توییت از:"
   },
@@ -35,11 +35,11 @@
     "description": "",
     "message": "درحال نگاه کردن رسانه از:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "نگاه کردن توییت های:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "نگاه کردن توییت های (با پاسخ) از:"
   }

@@ -11,9 +11,9 @@
     "description": "",
     "message": "Notifications"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Lis un tweet:"
+    "message": "Lis un post:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Regarde le media de:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Regarde les tweets de:"
+    "message": "Regarde les posts de:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Regarde les tweets (avec réponses) de:"
+    "message": "Regarde les posts (avec réponses) de:"
   }
 }

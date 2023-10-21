@@ -11,7 +11,7 @@
     "description": "",
     "message": "Уведомления"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
     "message": "Читает твит:"
   },
@@ -35,11 +35,11 @@
     "description": "",
     "message": "Смотрит медиа:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "Просмотр твитов:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "Просмотр твитов (с ответами):"
   }

@@ -11,7 +11,7 @@
     "description": "",
     "message": "सूचनाएँ"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
     "message": "का ट्वीट पढ़ना:"
   },
@@ -35,11 +35,11 @@
     "description": "",
     "message": "Viewing media of:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "के ट्वीट देखना:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "इनके ट्वीट देखना (जवाबों के साथ):"
   }

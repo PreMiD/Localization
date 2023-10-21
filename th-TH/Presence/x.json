@@ -11,7 +11,7 @@
     "description": "",
     "message": "การแจ้งเตือน"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
     "message": "กำลังอ่านทวิต:"
   },
@@ -35,11 +35,11 @@
     "description": "",
     "message": "กำลังดูสื่อของ:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "กำลังดูทวีตของ:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "กำลังดูทวีต (และการตอบกลับ) ของ:"
   }

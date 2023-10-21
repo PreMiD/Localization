@@ -27,12 +27,12 @@
     "description": "",
     "message": "Ser listen av:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Ser tweetene til:"
+    "message": "Ser postene til:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Ser tweeten (med svar) til:"
+    "message": "Ser posten (med svar) til:"
   }
 }

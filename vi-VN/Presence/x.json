@@ -11,9 +11,9 @@
     "description": "",
     "message": "Thông báo"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Đang đọc tweet của:"
+    "message": "Đang đọc post của:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Đang xem media của:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Đang xem tweet của:"
+    "message": "Đang xem post của:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Đang xem tweet (với trả lời) của:"
+    "message": "Đang xem post (với trả lời) của:"
   }
 }

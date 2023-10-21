@@ -11,7 +11,7 @@
     "description": "",
     "message": "Ilmoitukset"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
     "message": "Lukee twiittiä käyttäjältä:"
   },
@@ -35,11 +35,11 @@
     "description": "",
     "message": "Tarkastelee mediaa käyttäjältä:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
     "message": "Katselee twiittejä käyttäjältä:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
     "message": "Lukee twiittejä (ja vastauksia) käyttäjältä:"
   }

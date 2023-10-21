@@ -11,9 +11,9 @@
     "description": "",
     "message": "Bildirimler"
   },
-  "x.readTweet": {
+  "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Tweet'i okuyor:"
+    "message": "post'i okuyor:"
   },
   "x.settings": {
     "description": "",
@@ -35,12 +35,12 @@
     "description": "",
     "message": "Medyasına bakıyor:"
   },
-  "x.viewTweets": {
+  "x.viewPosts": {
     "description": "",
-    "message": "Tweet'lerine bakıyor:"
+    "message": "post'lerine bakıyor:"
   },
-  "x.viewTweetsWithReplies": {
+  "x.viewPostsWithReplies": {
     "description": "",
-    "message": "(Cevaplı) Tweet'lerine bakıyor:"
+    "message": "(Cevaplı) post'lerine bakıyor:"
   }
 }
