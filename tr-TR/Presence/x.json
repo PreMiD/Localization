@@ -13,7 +13,7 @@
   },
   "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "post'i okuyor:"
+    "message": "post'u okuyor:"
   },
   "x.settings": {
     "description": "",
@@ -37,10 +37,10 @@
   },
   "x.viewPosts": {
     "description": "",
-    "message": "post'lerine bakıyor:"
+    "message": "post'larına bakıyor:"
   },
   "x.viewPostsWithReplies": {
     "description": "",
-    "message": "(Cevaplı) post'lerine bakıyor:"
+    "message": "(Cevaplı) post'larına bakıyor:"
   }
 }
