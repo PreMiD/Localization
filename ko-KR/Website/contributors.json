@@ -23,6 +23,10 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "커뮤니티 관리자"
   },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "관리자"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "후원자"
@@ -38,6 +42,10 @@
   "contributors.roles.projectManagement": {
     "description": "'Project Management' title for contributors and user pages.",
     "message": "프로젝트 관리"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "기여자"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",

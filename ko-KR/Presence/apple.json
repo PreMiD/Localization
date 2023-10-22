@@ -1,4 +1,8 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "연결 중..."
+  },
   "apple.btnViewOS": {
     "description": "e.g. \"View iOS 15\"",
     "message": "{0} 보기"
@@ -30,6 +34,18 @@
   "apple.devGames": {
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "게임"
+  },
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "새로운 기능"
+  },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "뉴스 및 업데이트"
+  },
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "아이폰 및 아이패드 앱"
   },
   "apple.other": {
     "description": "Other pages not added to the code",
