@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Bookmarks"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Explore"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Notifications"
+  },
+  "x.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Reading post of:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Changing some settings..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Viewing their DMs"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Viewing liked by:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Viewing list:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Viewing media of:"
+  },
+  "x.viewPosts": {
+    "description": "",
+    "message": "Viewing posts of:"
+  },
+  "x.viewPostsWithReplies": {
+    "description": "",
+    "message": "Viewing posts (with replies) of:"
+  }
+}

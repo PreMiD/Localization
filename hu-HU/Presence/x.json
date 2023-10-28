@@ -1,0 +1,46 @@
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Könyvjelzők"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Felfedezés"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Értesítések"
+  },
+  "x.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "post olvasása:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Néhány beállítás módosítása..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Üzeneteit nézi"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Az ő kedveléseit nézi:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Listát néz:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Az ő médiáját nézi:"
+  },
+  "x.viewPosts": {
+    "description": "",
+    "message": "Az ő postjeit nézi:"
+  },
+  "x.viewPostsWithReplies": {
+    "description": "",
+    "message": "Az ő postjeit (válaszokkal) nézi:"
+  }
+}
