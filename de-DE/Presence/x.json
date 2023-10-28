@@ -1,46 +1,46 @@
 {
-  "x.bookmarks": {
-    "description": "",
-    "message": "Lesezeichen"
-  },
-  "x.explore": {
-    "description": "",
-    "message": "Erkunden"
-  },
-  "x.notifs": {
-    "description": "",
-    "message": "Benachrichtigungen"
-  },
-  "x.readPost": {
-    "description": "after the \":\" it will say the username",
-    "message": "Liest post von:"
-  },
-  "x.settings": {
-    "description": "",
-    "message": "Ändert ein paar Einstellungen..."
-  },
-  "x.viewDms": {
-    "description": "",
-    "message": "Betrachtet seine PNs"
-  },
-  "x.viewLiked": {
-    "description": "",
-    "message": "Betrachtet Likes von:"
-  },
-  "x.viewList": {
-    "description": "",
-    "message": "Betrachtet Liste:"
-  },
-  "x.viewMedia": {
-    "description": "",
-    "message": "Betrachtet Medien von:"
-  },
-  "x.viewPosts": {
-    "description": "",
-    "message": "Betrachtet posts von:"
-  },
-  "x.viewPostsWithReplies": {
-    "description": "",
-    "message": "Betrachtet posts (mit Antworten) von:"
-  }
+	"x.bookmarks": {
+		"description": "",
+		"message": "Lesezeichen"
+	},
+	"x.explore": {
+		"description": "",
+		"message": "Erkunden"
+	},
+	"x.notifs": {
+		"description": "",
+		"message": "Benachrichtigungen"
+	},
+	"x.readPost": {
+		"description": "after the \":\" it will say the username",
+		"message": "Liest post von:"
+	},
+	"x.settings": {
+		"description": "",
+		"message": "Ändert ein paar Einstellungen..."
+	},
+	"x.viewDms": {
+		"description": "",
+		"message": "Betrachtet seine PNs"
+	},
+	"x.viewLiked": {
+		"description": "",
+		"message": "Betrachtet Likes von:"
+	},
+	"x.viewList": {
+		"description": "",
+		"message": "Betrachtet Liste:"
+	},
+	"x.viewMedia": {
+		"description": "",
+		"message": "Betrachtet Medien von:"
+	},
+	"x.viewPosts": {
+		"description": "",
+		"message": "Betrachtet posts von:"
+	},
+	"x.viewPostsWithReplies": {
+		"description": "",
+		"message": "Betrachtet posts (mit Antworten) von:"
+	}
 }
