@@ -1,46 +1,46 @@
 {
-  "x.bookmarks": {
-    "description": "",
-    "message": "Yer imleri"
-  },
-  "x.explore": {
-    "description": "",
-    "message": "Keşfet"
-  },
-  "x.notifs": {
-    "description": "",
-    "message": "Bildirimler"
-  },
-  "x.readPost": {
-    "description": "after the \":\" it will say the username",
-    "message": "post'u okuyor:"
-  },
-  "x.settings": {
-    "description": "",
-    "message": "Bazı ayarlar değiştiriliyor..."
-  },
-  "x.viewDms": {
-    "description": "",
-    "message": "DM'lerine Bakıyor"
-  },
-  "x.viewLiked": {
-    "description": "",
-    "message": "Beğendiğine bakıyor:"
-  },
-  "x.viewList": {
-    "description": "",
-    "message": "Listeye bakıyor:"
-  },
-  "x.viewMedia": {
-    "description": "",
-    "message": "Medyasına bakıyor:"
-  },
-  "x.viewPosts": {
-    "description": "",
-    "message": "post'larına bakıyor:"
-  },
-  "x.viewPostsWithReplies": {
-    "description": "",
-    "message": "(Cevaplı) post'larına bakıyor:"
-  }
+	"x.bookmarks": {
+		"description": "",
+		"message": "Yer imleri"
+	},
+	"x.explore": {
+		"description": "",
+		"message": "Keşfet"
+	},
+	"x.notifs": {
+		"description": "",
+		"message": "Bildirimler"
+	},
+	"x.readPost": {
+		"description": "after the \":\" it will say the username",
+		"message": "post'u okuyor:"
+	},
+	"x.settings": {
+		"description": "",
+		"message": "Bazı ayarlar değiştiriliyor..."
+	},
+	"x.viewDms": {
+		"description": "",
+		"message": "DM'lerine Bakıyor"
+	},
+	"x.viewLiked": {
+		"description": "",
+		"message": "Beğendiğine bakıyor:"
+	},
+	"x.viewList": {
+		"description": "",
+		"message": "Listeye bakıyor:"
+	},
+	"x.viewMedia": {
+		"description": "",
+		"message": "Medyasına bakıyor:"
+	},
+	"x.viewPosts": {
+		"description": "",
+		"message": "post'larına bakıyor:"
+	},
+	"x.viewPostsWithReplies": {
+		"description": "",
+		"message": "(Cevaplı) post'larına bakıyor:"
+	}
 }
