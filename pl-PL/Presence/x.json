@@ -1,46 +1,46 @@
 {
-  "x.bookmarks": {
-    "description": "",
-    "message": "Zakładki"
-  },
-  "x.explore": {
-    "description": "",
-    "message": "Odkrywanie"
-  },
-  "x.notifs": {
-    "description": "",
-    "message": "Powiadomienia"
-  },
-  "x.readPost": {
-    "description": "after the \":\" it will say the username",
-    "message": "Czyta posta:"
-  },
-  "x.settings": {
-    "description": "",
-    "message": "Zmienia kilka ustawień..."
-  },
-  "x.viewDms": {
-    "description": "",
-    "message": "Przegląda swoje wiadomości prywatne"
-  },
-  "x.viewLiked": {
-    "description": "",
-    "message": "Przegląda polubionych przez:"
-  },
-  "x.viewList": {
-    "description": "",
-    "message": "Przegląda listę:"
-  },
-  "x.viewMedia": {
-    "description": "",
-    "message": "Przegląda multimediów:"
-  },
-  "x.viewPosts": {
-    "description": "",
-    "message": "Przegląda posty:"
-  },
-  "x.viewPostsWithReplies": {
-    "description": "",
-    "message": "Przegląda posty (z odpowiedziami):"
-  }
+	"x.bookmarks": {
+		"description": "",
+		"message": "Zakładki"
+	},
+	"x.explore": {
+		"description": "",
+		"message": "Odkrywanie"
+	},
+	"x.notifs": {
+		"description": "",
+		"message": "Powiadomienia"
+	},
+	"x.readPost": {
+		"description": "after the \":\" it will say the username",
+		"message": "Czyta posta:"
+	},
+	"x.settings": {
+		"description": "",
+		"message": "Zmienia kilka ustawień..."
+	},
+	"x.viewDms": {
+		"description": "",
+		"message": "Przegląda swoje wiadomości prywatne"
+	},
+	"x.viewLiked": {
+		"description": "",
+		"message": "Przegląda polubionych przez:"
+	},
+	"x.viewList": {
+		"description": "",
+		"message": "Przegląda listę:"
+	},
+	"x.viewMedia": {
+		"description": "",
+		"message": "Przegląda multimediów:"
+	},
+	"x.viewPosts": {
+		"description": "",
+		"message": "Przegląda posty:"
+	},
+	"x.viewPostsWithReplies": {
+		"description": "",
+		"message": "Przegląda posty (z odpowiedziami):"
+	}
 }
