@@ -1,46 +1,6 @@
 {
-	"x.bookmarks": {
-		"description": "",
-		"message": "Отметки"
-	},
-	"x.explore": {
-		"description": "",
-		"message": "Разгледай"
-	},
-	"x.notifs": {
-		"description": "",
-		"message": "Известия"
-	},
-	"x.readPost": {
-		"description": "after the \":\" it will say the username",
-		"message": "Чете туит:"
-	},
-	"x.settings": {
-		"description": "",
-		"message": "Променяне на някои настройки..."
-	},
-	"x.viewDms": {
-		"description": "",
-		"message": "Гледа своите лични съобщения"
-	},
-	"x.viewLiked": {
-		"description": "",
-		"message": "Гледа харесано от:"
-	},
-	"x.viewList": {
-		"description": "",
-		"message": "Гледа списък:"
-	},
-	"x.viewMedia": {
-		"description": "",
-		"message": "Гледа медия от:"
-	},
-	"x.viewPosts": {
-		"description": "",
-		"message": "Чете туитове на:"
-	},
-	"x.viewPostsWithReplies": {
-		"description": "",
-		"message": "Чете туитове (с отговори) на:"
-	}
+  "x.viewDms": {
+    "description": "",
+    "message": "Гледа своите лични съобщения"
+  }
 }
