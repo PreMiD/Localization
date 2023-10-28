@@ -1,46 +1,6 @@
 {
-	"x.bookmarks": {
-		"description": "",
-		"message": "Dấu trang"
-	},
-	"x.explore": {
-		"description": "",
-		"message": "Khám phá"
-	},
-	"x.notifs": {
-		"description": "",
-		"message": "Thông báo"
-	},
-	"x.readPost": {
-		"description": "after the \":\" it will say the username",
-		"message": "Đang đọc post của:"
-	},
-	"x.settings": {
-		"description": "",
-		"message": "Đang thay đổi cài đặt..."
-	},
-	"x.viewDms": {
-		"description": "",
-		"message": "Đang xem DMs"
-	},
-	"x.viewLiked": {
-		"description": "",
-		"message": "Đang xem lượt thích bởi:"
-	},
-	"x.viewList": {
-		"description": "",
-		"message": "Đang xem danh sách:"
-	},
-	"x.viewMedia": {
-		"description": "",
-		"message": "Đang xem media của:"
-	},
-	"x.viewPosts": {
-		"description": "",
-		"message": "Đang xem post của:"
-	},
-	"x.viewPostsWithReplies": {
-		"description": "",
-		"message": "Đang xem post (với trả lời) của:"
-	}
+  "x.viewDms": {
+    "description": "",
+    "message": "Đang xem PM"
+  }
 }
