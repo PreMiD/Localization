@@ -1,46 +1,46 @@
 {
-  "x.bookmarks": {
-    "description": "",
-    "message": "বুকমার্কগুলো"
-  },
-  "x.explore": {
-    "description": "",
-    "message": "এক্সপ্লোর করুন"
-  },
-  "x.notifs": {
-    "description": "",
-    "message": "বিজ্ঞপ্তিসমূহ"
-  },
-  "x.readPost": {
-    "description": "after the \":\" it will say the username",
-    "message": "পড়ছে যার টুইট:"
-  },
-  "x.settings": {
-    "description": "",
-    "message": "কিছু সেটিংস চেঞ্জ করছে..."
-  },
-  "x.viewDms": {
-    "description": "",
-    "message": "দেখছে তার মেসেজগুলো"
-  },
-  "x.viewLiked": {
-    "description": "",
-    "message": "দেখছে পছন্দ করেছেন:"
-  },
-  "x.viewList": {
-    "description": "",
-    "message": "দেখছে তালিকাগুলো:"
-  },
-  "x.viewMedia": {
-    "description": "",
-    "message": "দেখছে মিডিয়া:"
-  },
-  "x.viewPosts": {
-    "description": "",
-    "message": "দেখছে টুইটগুলো:"
-  },
-  "x.viewPostsWithReplies": {
-    "description": "",
-    "message": "দেখছে টুইটগুলো (রিপ্লাই এর সঙ্গে):"
-  }
+	"x.bookmarks": {
+		"description": "",
+		"message": "বুকমার্কগুলো"
+	},
+	"x.explore": {
+		"description": "",
+		"message": "এক্সপ্লোর করুন"
+	},
+	"x.notifs": {
+		"description": "",
+		"message": "বিজ্ঞপ্তিসমূহ"
+	},
+	"x.readPost": {
+		"description": "after the \":\" it will say the username",
+		"message": "পড়ছে যার টুইট:"
+	},
+	"x.settings": {
+		"description": "",
+		"message": "কিছু সেটিংস চেঞ্জ করছে..."
+	},
+	"x.viewDms": {
+		"description": "",
+		"message": "দেখছে তার মেসেজগুলো"
+	},
+	"x.viewLiked": {
+		"description": "",
+		"message": "দেখছে পছন্দ করেছেন:"
+	},
+	"x.viewList": {
+		"description": "",
+		"message": "দেখছে তালিকাগুলো:"
+	},
+	"x.viewMedia": {
+		"description": "",
+		"message": "দেখছে মিডিয়া:"
+	},
+	"x.viewPosts": {
+		"description": "",
+		"message": "দেখছে টুইটগুলো:"
+	},
+	"x.viewPostsWithReplies": {
+		"description": "",
+		"message": "দেখছে টুইটগুলো (রিপ্লাই এর সঙ্গে):"
+	}
 }

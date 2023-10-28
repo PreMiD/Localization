@@ -1,46 +1,46 @@
 {
-  "x.bookmarks": {
-    "description": "",
-    "message": "Bookmark-uri"
-  },
-  "x.explore": {
-    "description": "",
-    "message": "Explorează"
-  },
-  "x.notifs": {
-    "description": "",
-    "message": "Notificări"
-  },
-  "x.readPost": {
-    "description": "after the \":\" it will say the username",
-    "message": "Citește post-ul lui:"
-  },
-  "x.settings": {
-    "description": "",
-    "message": "Schimbă câteva setări..."
-  },
-  "x.viewDms": {
-    "description": "",
-    "message": "Se uită la DM-urile sale"
-  },
-  "x.viewLiked": {
-    "description": "",
-    "message": "Se uită la cine a dat like:"
-  },
-  "x.viewList": {
-    "description": "",
-    "message": "Se uită la lista:"
-  },
-  "x.viewMedia": {
-    "description": "",
-    "message": "Se uită la media-ul lui:"
-  },
-  "x.viewPosts": {
-    "description": "",
-    "message": "Se uită la post-urile lui:"
-  },
-  "x.viewPostsWithReplies": {
-    "description": "",
-    "message": "Se uită la post-urile (cu comentarii) lui:"
-  }
+	"x.bookmarks": {
+		"description": "",
+		"message": "Bookmark-uri"
+	},
+	"x.explore": {
+		"description": "",
+		"message": "Explorează"
+	},
+	"x.notifs": {
+		"description": "",
+		"message": "Notificări"
+	},
+	"x.readPost": {
+		"description": "after the \":\" it will say the username",
+		"message": "Citește post-ul lui:"
+	},
+	"x.settings": {
+		"description": "",
+		"message": "Schimbă câteva setări..."
+	},
+	"x.viewDms": {
+		"description": "",
+		"message": "Se uită la DM-urile sale"
+	},
+	"x.viewLiked": {
+		"description": "",
+		"message": "Se uită la cine a dat like:"
+	},
+	"x.viewList": {
+		"description": "",
+		"message": "Se uită la lista:"
+	},
+	"x.viewMedia": {
+		"description": "",
+		"message": "Se uită la media-ul lui:"
+	},
+	"x.viewPosts": {
+		"description": "",
+		"message": "Se uită la post-urile lui:"
+	},
+	"x.viewPostsWithReplies": {
+		"description": "",
+		"message": "Se uită la post-urile (cu comentarii) lui:"
+	}
 }
