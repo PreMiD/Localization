@@ -1,6 +1,46 @@
 {
+  "x.bookmarks": {
+    "description": "",
+    "message": "Penanda buku"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Terokai"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Pemberitahuan"
+  },
+  "x.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Membaca hantaran:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Mengubah beberapa tetapan..."
+  },
   "x.viewDms": {
     "description": "",
     "message": "Melihat DM miliknya"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Melihat senarai sukaan:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Melihat senarai:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Melihat media:"
+  },
+  "x.viewPosts": {
+    "description": "",
+    "message": "Melihat hantaran:"
+  },
+  "x.viewPostsWithReplies": {
+    "description": "",
+    "message": "Melihat hantaran (berserta balasan):"
   }
 }
