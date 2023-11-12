@@ -113,7 +113,7 @@
   },
   "popup.info.extensionDisabled.message": {
     "description": "Shown when the extension has been disabled in the settings",
-    "message": "PreMiD has been disabled in the settings. Enable it to continue using PreMiD."
+    "message": "The PreMiD extension has been disabled in the settings. Please enable it to continue using PreMiD."
   },
   "popup.navigation.credits": {
     "description": "Title of the 'credits' section at the navigation in the popup",
