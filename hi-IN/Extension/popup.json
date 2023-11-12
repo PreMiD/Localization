@@ -115,6 +115,10 @@
     "description": "Title of the 'settings' section at the navigation in the popup",
     "message": "समायोजन"
   },
+  "popup.navigation.information": {
+    "description": "Title of the 'information' section at the navigation in the popup",
+    "message": "जानकारी"
+  },
   "popup.presences.done": {
     "description": "Done button",
     "message": "किया हुआ"
@@ -132,19 +136,19 @@
     "message": "कोई उपस्थिति नहीं जोड़ा गया"
   },
   "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "ऑटो लांच"
   },
   "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "सक्रिय"
   },
   "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "मीडिया नियंत्रण"
   },
   "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "शीर्षक मेनूबार"
   }
 }

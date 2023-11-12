@@ -115,6 +115,10 @@
     "description": "Title of the 'settings' section at the navigation in the popup",
     "message": "설정"
   },
+  "popup.navigation.information": {
+    "description": "Title of the 'information' section at the navigation in the popup",
+    "message": "정보"
+  },
   "popup.presences.done": {
     "description": "Done button",
     "message": "완료"
@@ -132,19 +136,19 @@
     "message": "추가된 Presence가 없어요"
   },
   "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "자동 실행"
   },
   "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "사용하기 "
   },
   "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "미디어 제어"
   },
   "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "제목 메뉴바"
   }
 }

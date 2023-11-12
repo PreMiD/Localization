@@ -54,5 +54,9 @@
   "tab.updated.subHeading": {
     "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
     "message": "¡{0} ha sido actualizado!"
+  },
+  "tab.troubleshooting.heading": {
+    "description": "Title of the tab which opens when you click on the troubleshooting button",
+    "message": "Solución de problemas"
   }
 }
