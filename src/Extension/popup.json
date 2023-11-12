@@ -107,6 +107,14 @@
     "description": "Shown when application is outdated",
     "message": "Your PreMiD app is outdated. Please update it in order to continue using PreMiD."
   },
+  "popup.info.extensionDisabled": {
+    "description": "Shown when the extension has been disabled in the settings",
+    "message": "Extension disabled"
+  },
+  "popup.info.extensionDisabled.message": {
+    "description": "Shown when the extension has been disabled in the settings",
+    "message": "PreMiD has been disabled in the settings. Enable it to continue using PreMiD."
+  },
   "popup.navigation.credits": {
     "description": "Title of the 'credits' section at the navigation in the popup",
     "message": "Credits"
