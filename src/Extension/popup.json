@@ -131,6 +131,14 @@
     "description": "Title of the 'settings' section at the navigation in the popup",
     "message": "Settings"
   },
+  "popup.navigation.information": {
+    "description": "Title of the 'information' section at the navigation in the popup",
+    "message": "Information"
+  },
+  "popup.navigation.diagonstics": {
+    "description": "Title of the 'diagonstics' section at the navigation in the popup",
+    "message": "Diagonstics"
+  },
   "popup.presences.done": {
     "description": "Done button",
     "message": "Done"
@@ -148,19 +156,51 @@
     "message": "No Presences added"
   },
   "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "Auto launch"
   },
   "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "Enabled"
   },
   "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "Media Controls"
   },
   "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (located at the 'general' area of the 'settings' section in the popup)",
+    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "Title Menubar"
+  },
+  "popup.setting.syncLanguage": {
+    "description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+    "message": "Sync Language"
+  },
+  "popup.setting.preferredPresenceLanguage": {
+    "description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+    "message": "Preferred Presence Language"
+  },
+  "popup.setting.heartbeat": {
+    "description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+    "message": "Heartbeat"
+  },
+  "popup.information.extensionVersion": {
+    "description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+    "message": "Extension version: {0}"
+  },
+  "popup.information.appVersion": {
+    "description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+    "message": "App version: {0}"
+  },
+  "popup.information.appNotFound": {
+    "description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+    "message": "Not connected to PreMiD App"
+  },
+  "popup.information.discordUser": {
+    "description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+    "message": "Discord user: {0}"
+  },
+  "popup.information.discordNotFound": {
+    "description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+    "message": "Not connected to Discord App"
   }
 }
