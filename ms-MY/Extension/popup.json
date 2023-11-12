@@ -107,6 +107,14 @@
     "description": "Shown when application is outdated",
     "message": "Aplikasi PreMiD anda ketinggalan zaman. Sila kemas kini untuk terus menggunakan PreMiD."
   },
+  "popup.info.extensionDisabled": {
+    "description": "Shown when the extension has been disabled in the settings",
+    "message": "Sambungan dilumpuhkan"
+  },
+  "popup.info.extensionDisabled.message": {
+    "description": "Shown when the extension has been disabled in the settings",
+    "message": "Sambungan PreMiD telah dilumpuhkan dalam tetapan. Sila bolehkannya untuk terus menggunakan PreMiD."
+  },
   "popup.navigation.credits": {
     "description": "Title of the 'credits' section at the navigation in the popup",
     "message": "Penghargaan"
