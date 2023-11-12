@@ -1,4 +1,8 @@
 {
+	"osu!ppy.beatmapListing": {
+		"description": "Displayed when viewing all beatmaps.",
+		"message": "Bekijkt beatmaps"
+	},
 	"osu!ppy.beatmapLooking": {
 		"description": "Displayed when looking at a beatmap.",
 		"message": "Bekijkt beatmap"
