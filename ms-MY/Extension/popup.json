@@ -109,11 +109,19 @@
   },
   "popup.info.extensionDisabled": {
     "description": "Shown when the extension has been disabled in the settings",
-    "message": "Sambungan dilumpuhkan"
+    "message": "Sambungan dimatikan"
   },
   "popup.info.extensionDisabled.message": {
     "description": "Shown when the extension has been disabled in the settings",
-    "message": "Sambungan PreMiD telah dilumpuhkan dalam tetapan. Sila bolehkannya untuk terus menggunakan PreMiD."
+    "message": "Sambungan PreMiD telah dimatikan dalam tetapan. Sila hidupkannya untuk terus menggunakan PreMiD."
+  },
+  "popup.info.discordStatusSetting.message": {
+    "description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+    "message": "Sila pastikan anda hidupkan tetapan 'Display current activity as a status message' dalam tetapan Discord anda."
+  },
+  "popup.info.presenceNotSetMessage.message": {
+    "description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+    "message": "PreMiD tidak mampu mencari presence untuk tab semasa anda. Sila pastikan anda sudah pasang presence untuk laman sesawang yang anda berada ketika ini. Jika anda sudah pasang presence, cuba segarkan semula laman sesawang presence, dan pastikan anda sudah menghidupkan presence dalam tetapan."
   },
   "popup.navigation.credits": {
     "description": "Title of the 'credits' section at the navigation in the popup",
@@ -126,6 +134,10 @@
   "popup.navigation.information": {
     "description": "Title of the 'information' section at the navigation in the popup",
     "message": "Maklumat"
+  },
+  "popup.navigation.diagonstics": {
+    "description": "Title of the 'diagonstics' section at the navigation in the popup",
+    "message": "Diagnostik"
   },
   "popup.presences.done": {
     "description": "Done button",
@@ -149,7 +161,7 @@
   },
   "popup.setting.enabled": {
     "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Dibolehkan"
+    "message": "Dihidupkan"
   },
   "popup.setting.mediaControl": {
     "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
@@ -158,5 +170,37 @@
   "popup.setting.titleMenubar": {
     "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "Bar Menu Tajuk"
+  },
+  "popup.setting.syncLanguage": {
+    "description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+    "message": "Segerakkan Bahasa"
+  },
+  "popup.setting.preferredPresenceLanguage": {
+    "description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+    "message": "Bahasa Presence Diutamakan"
+  },
+  "popup.setting.heartbeat": {
+    "description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+    "message": "Denyutan"
+  },
+  "popup.information.extensionVersion": {
+    "description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+    "message": "Versi sambungan: {0}"
+  },
+  "popup.information.appVersion": {
+    "description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+    "message": "Versi aplikasi: {0}"
+  },
+  "popup.information.appNotFound": {
+    "description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+    "message": "Tidak disambung ke Aplikasi PreMiD"
+  },
+  "popup.information.discordUser": {
+    "description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+    "message": "Pengguna Discord: {0}"
+  },
+  "popup.information.discordNotFound": {
+    "description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+    "message": "Tidak disambung ke Aplikasi Discord"
   }
 }
