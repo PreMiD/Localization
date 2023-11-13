@@ -61,7 +61,7 @@
   },
   "tab.troubleshooting.heading": {
     "description": "Title of the tab which opens when you click on the troubleshooting button",
-    "message": "Selesaikan masalah"
+    "message": "Selesaikan Masalah"
   },
   "tab.troubleshooting.subHeading": {
     "description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
