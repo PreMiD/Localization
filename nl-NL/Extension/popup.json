@@ -186,5 +186,13 @@
   "popup.information.appNotFound": {
     "description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
     "message": "Niet verbonden met PreMiD-app"
+  },
+  "popup.information.discordUser": {
+    "description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+    "message": "Discord-gebruiker: {0}"
+  },
+  "popup.information.discordNotFound": {
+    "description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+    "message": "Niet verbonden met Discord-app"
   }
 }
