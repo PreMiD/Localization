@@ -31,6 +31,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Artiest bekijken"
 	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Update-informatie"
+	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Kanaal bekijken"
