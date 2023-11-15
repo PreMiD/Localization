@@ -135,10 +135,6 @@
     "description": "Title of the 'information' section at the navigation in the popup",
     "message": "Maklumat"
   },
-  "popup.navigation.diagonstics": {
-    "description": "Title of the 'diagonstics' section at the navigation in the popup",
-    "message": "Diagnostik"
-  },
   "popup.presences.done": {
     "description": "Done button",
     "message": "Selesai"
