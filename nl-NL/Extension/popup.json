@@ -107,6 +107,22 @@
     "description": "Shown when application is outdated",
     "message": "Je PreMiD-app is verouderd. Update deze om PreMiD weer te kunnen gebruiken."
   },
+  "popup.info.extensionDisabled": {
+    "description": "Shown when the extension has been disabled in the settings",
+    "message": "Extensie uitgeschakeld"
+  },
+  "popup.info.extensionDisabled.message": {
+    "description": "Shown when the extension has been disabled in the settings",
+    "message": "De PreMiD extensie is uitgeschakeld in de instellingen. Zet deze aan om PreMiD te blijven gebruiken."
+  },
+  "popup.info.discordStatusSetting.message": {
+    "description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+    "message": "Zorg ervoor dat je de instelling 'Geef huidige activiteit als een statusbericht weer.' hebt ingeschakeld in je Discord-instellingen."
+  },
+  "popup.info.presenceNotSetMessage.message": {
+    "description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+    "message": "PreMiD kon geen presence vinden voor je huidige tabbladen. Zorg ervoor dat je een presence hebt geïnstalleerd voor de website die je momenteel bezoekt. Als je een presence hebt geïnstalleerd, probeer dan de betreffende website te vernieuwen en zorg ervoor dat je de presence hebt ingeschakeld in de instellingen."
+  },
   "popup.navigation.credits": {
     "description": "Title of the 'credits' section at the navigation in the popup",
     "message": "Attributies"
@@ -150,5 +166,25 @@
   "popup.setting.titleMenubar": {
     "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "Titelmenubalk"
+  },
+  "popup.setting.syncLanguage": {
+    "description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+    "message": "Taal synchroniseren"
+  },
+  "popup.setting.preferredPresenceLanguage": {
+    "description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+    "message": "Voorkeurstaal voor presences"
+  },
+  "popup.information.extensionVersion": {
+    "description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+    "message": "Extensieversie: {0}"
+  },
+  "popup.information.appVersion": {
+    "description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+    "message": "Appversie: {0}"
+  },
+  "popup.information.appNotFound": {
+    "description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+    "message": "Niet verbonden met PreMiD-app"
   }
 }
