@@ -135,9 +135,9 @@
     "description": "Title of the 'information' section at the navigation in the popup",
     "message": "Information"
   },
-  "popup.navigation.diagonstics": {
-    "description": "Title of the 'diagonstics' section at the navigation in the popup",
-    "message": "Diagonstics"
+  "popup.navigation.diagnostics": {
+    "description": "Title of the 'diagnostics' section at the navigation in the popup",
+    "message": "Diagnostics"
   },
   "popup.presences.done": {
     "description": "Done button",
