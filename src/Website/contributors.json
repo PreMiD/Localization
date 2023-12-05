@@ -15,7 +15,7 @@
     "description": "Heading for group of users.",
     "message": "Supporters"
   },
-  "contributors.roles.presenceDevelopers": {
+  "contributors.headings.presenceDevelopers": {
     "description": "Heading for group of users.",
     "message": "Presence Developers"
   },
