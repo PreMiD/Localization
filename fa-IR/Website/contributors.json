@@ -35,6 +35,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "مدیریت پروژه"
   },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "توسعه دهنده Presence"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "ویراستار"
