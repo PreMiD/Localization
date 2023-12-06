@@ -6,5 +6,9 @@
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Þýðingar"
+  },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Presence Hönnuður"
   }
 }
