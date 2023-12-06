@@ -27,6 +27,10 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Responsable des localisations"
   },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Développeur de Présences"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Réviseur"
