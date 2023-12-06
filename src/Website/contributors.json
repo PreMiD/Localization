@@ -15,6 +15,10 @@
     "description": "Heading for group of users.",
     "message": "Supporters"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Presence Developers"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Translators"
@@ -50,6 +54,10 @@
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Contributor"
+  },
+   "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Presence Developer"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
