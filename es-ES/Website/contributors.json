@@ -15,6 +15,10 @@
     "description": "Heading for group of users.",
     "message": "Colaboradores"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Desarrolladores de Presences"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Traductores"
