@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "کارکنان"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "توسعه دهندگان Presence"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "مترجمان"
