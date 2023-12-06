@@ -27,6 +27,10 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Bainisteoir Logánú"
   },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Forbróir Presence"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Léitheoir profaí"
