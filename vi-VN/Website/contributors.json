@@ -39,6 +39,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Quản lí dự án"
   },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Nhà phát triển Presence"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Hiệu đính viên"

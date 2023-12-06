@@ -47,6 +47,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "প্রজেক্ট ম্যানেজমেন্ট"
   },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Presence ডেভেলপার"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "প্রুফরিডার"

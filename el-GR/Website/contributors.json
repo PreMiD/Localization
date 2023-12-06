@@ -39,6 +39,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Διαχείριση έργων"
   },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Προγραμματιστής των Presence"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Επιμελητής"

@@ -51,6 +51,10 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Penyumbang"
   },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Pembangun Presence"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Pembaca Pruf"
