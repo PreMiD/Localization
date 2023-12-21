@@ -150,5 +150,13 @@
   "popup.setting.titleMenubar": {
     "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
     "message": "Título del menú"
+  },
+  "popup.information.extensionVersion": {
+    "description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+    "message": "Versión de la extensión: {0}"
+  },
+  "popup.information.appNotFound": {
+    "description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+    "message": "No conectado a la aplicación de PreMiD"
   }
 }
