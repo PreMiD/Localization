@@ -1,7 +1,15 @@
 {
+  "tiktok.browseThrough": {
+    "description": "",
+    "message": "Bladert door TikTok"
+  },
   "tiktok.buttonViewTikTok": {
     "description": "Used as the title for the button in Discord.",
     "message": "TikTok bekijken"
+  },
+  "tiktok.exploringWithTag": {
+    "description": "",
+    "message": "Bekijkt TikToks met tags:"
   },
   "tiktok.following": {
     "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
