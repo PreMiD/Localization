@@ -130,5 +130,13 @@
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "Viewing community posts"
+	},
+	"youtube.perVideoPrivacy.tooltip.1": {
+		"description": "",
+		"message": "Overwrite your privacy mode for this video"
+	},
+	"youtube.perVideoPrivacy.tooltip.2": {
+		"description": "",
+		"message": "This is part of the PreMiD YouTube presence"
 	}
 }
