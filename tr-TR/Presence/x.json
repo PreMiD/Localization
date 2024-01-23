@@ -1,4 +1,8 @@
 {
+  "x.notifs": {
+    "description": "",
+    "message": "Bildirimler"
+  },
   "x.viewDms": {
     "description": "",
     "message": "Direkt mesajlarına bakıyor"
