@@ -107,6 +107,10 @@
     "description": "Shown when application is outdated",
     "message": "PreMiD uygulamanız güncelliğini yitirmiştir. Kullanmaya devam edebilmek için lütfen PreMiD'i güncelleyin."
   },
+  "popup.info.extensionDisabled": {
+    "description": "Shown when the extension has been disabled in the settings",
+    "message": "Uzantı devre dışı bırakıldı"
+  },
   "popup.navigation.credits": {
     "description": "Title of the 'credits' section at the navigation in the popup",
     "message": "Katkıda Bulunanlar"
