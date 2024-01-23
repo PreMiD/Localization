@@ -15,6 +15,10 @@
     "description": "Heading for group of users.",
     "message": "Destekçiler"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Servis Geliştiricileri"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Çevirmenler"
@@ -46,6 +50,10 @@
   "contributors.roles.projectManagement": {
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Proje Yönetimi"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Katkıda Bulunan"
   },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
