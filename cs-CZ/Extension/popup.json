@@ -150,5 +150,9 @@
 	"popup.setting.titleMenubar": {
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Název Menubaru"
+	},
+	"popup.information.notYou": {
+		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
+		"message": "Nejsi to ty?"
 	}
 }
