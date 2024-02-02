@@ -1,154 +1,154 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "도움이 필요하신가요?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Presence 스토어"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "모두"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "애니메이션"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "게임"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "음악"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "기타"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "소셜"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "동영상 및 방송"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "이런!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "제작진 탭을 불러오던 중 오류가 발생했어요"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "설명"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "일반"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Presence"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "설정"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "인터넷 연결 없음!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "인터넷 연결이 되지 않은 것 같아요! PreMiD가 현재 상태를 보여줄 수 없을 거예요."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "연결되지 않음"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD가 앱에 연결하지 못했어요! 앱이 설치됐고 실행 중이신가요?\n*문제 해결하기*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Discord 연결 없음!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD가 Discord 앱에 연결하지 못했어요! 앱이 설치됐고 실행 중이신가요?\n*문제 해결하기*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "오래된 확장 프로그램"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "내 확장 프로그램이 오래됐어요. 최신 기능을 사용하시려면 저희 사이트에서 다운로드해서 업데이트해 주세요."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "긴급 업데이트"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "확장 프로그램에 긴급 업데이트를 출시했어요. PreMiD를 계속 사용하시려면 업데이트해 주세요."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "오래된 앱"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "내 PreMiD 앱이 오래됐어요. PreMid를 계속 사용하시려면 업데이트해 주세요."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "제작진"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "설정"
-  },
-  "popup.navigation.information": {
-    "description": "Title of the 'information' section at the navigation in the popup",
-    "message": "정보"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "완료"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Presence 불러오기"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "관리"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "추가된 Presence가 없어요"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "자동 실행"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "사용하기 "
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "미디어 제어"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "제목 메뉴바"
-  }
+	"popup.buttons.help": {
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
+		"message": "도움이 필요하신가요?"
+	},
+	"popup.buttons.presenceStore": {
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Presence 스토어"
+	},
+	"popup.category.all": {
+		"description": "Category name shown when you open tags",
+		"message": "모두"
+	},
+	"popup.category.anime": {
+		"description": "Category name shown when you open tags",
+		"message": "애니메이션"
+	},
+	"popup.category.games": {
+		"description": "Category name shown when you open tags",
+		"message": "게임"
+	},
+	"popup.category.music": {
+		"description": "Category name shown when you open tags",
+		"message": "음악"
+	},
+	"popup.category.other": {
+		"description": "Category name shown when you open tags",
+		"message": "기타"
+	},
+	"popup.category.socials": {
+		"description": "Category name shown when you open tags",
+		"message": "소셜"
+	},
+	"popup.category.videos": {
+		"description": "Category name shown when you open tags",
+		"message": "동영상 및 방송"
+	},
+	"popup.credits.error.heading": {
+		"description": "Title of the error message (located at the 'credits' tab in the popup)",
+		"message": "이런!"
+	},
+	"popup.credits.error.message": {
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
+		"message": "제작진 탭을 불러오던 중 오류가 발생했어요"
+	},
+	"popup.headings.description": {
+		"description": "Title of the description area in the presence settings view.",
+		"message": "설명"
+	},
+	"popup.headings.general": {
+		"description": "Title of the 'general' area of the 'settings' section in the popup",
+		"message": "일반"
+	},
+	"popup.headings.presences": {
+		"description": "Title of the 'presences' area of the 'settings' section in the popup",
+		"message": "Presence"
+	},
+	"popup.headings.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "설정"
+	},
+	"popup.info.noInternet": {
+		"description": "Shown when the user has no internet connection",
+		"message": "인터넷 연결 없음!"
+	},
+	"popup.info.noInternet.message": {
+		"description": "Shown when the user has no internet connection",
+		"message": "인터넷 연결이 되지 않은 것 같아요! PreMiD가 현재 상태를 보여줄 수 없을 거예요."
+	},
+	"popup.info.notConnected": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "연결되지 않음"
+	},
+	"popup.info.notConnected.message": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "PreMiD가 앱에 연결하지 못했어요! 앱이 설치됐고 실행 중이신가요?\n*문제 해결하기*"
+	},
+	"popup.info.notConnectedDiscord": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "Discord 연결 없음!"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "PreMiD가 Discord 앱에 연결하지 못했어요! 앱이 설치됐고 실행 중이신가요?\n*문제 해결하기*"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "오래된 확장 프로그램"
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "내 확장 프로그램이 오래됐어요. 최신 기능을 사용하시려면 저희 사이트에서 다운로드해서 업데이트해 주세요."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "긴급 업데이트"
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+		"message": "확장 프로그램에 긴급 업데이트를 출시했어요. PreMiD를 계속 사용하시려면 업데이트해 주세요."
+	},
+	"popup.info.unsupportedAppVersion": {
+		"description": "Shown when application is outdated",
+		"message": "오래된 앱"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"description": "Shown when application is outdated",
+		"message": "내 PreMiD 앱이 오래됐어요. PreMid를 계속 사용하시려면 업데이트해 주세요."
+	},
+	"popup.navigation.credits": {
+		"description": "Title of the 'credits' section at the navigation in the popup",
+		"message": "제작진"
+	},
+	"popup.navigation.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "설정"
+	},
+	"popup.navigation.information": {
+		"description": "Title of the 'information' section at the navigation in the popup",
+		"message": "정보"
+	},
+	"popup.presences.done": {
+		"description": "Done button",
+		"message": "완료"
+	},
+	"popup.presences.load": {
+		"description": "Load Presence button",
+		"message": "Presence 불러오기"
+	},
+	"popup.presences.manage": {
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "관리"
+	},
+	"popup.presences.noPresences": {
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "추가된 Presence가 없어요"
+	},
+	"popup.setting.autoLaunch": {
+		"description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "자동 실행"
+	},
+	"popup.setting.enabled": {
+		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "사용하기 "
+	},
+	"popup.setting.mediaControl": {
+		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "미디어 제어"
+	},
+	"popup.setting.titleMenubar": {
+		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "제목 메뉴바"
+	}
 }
