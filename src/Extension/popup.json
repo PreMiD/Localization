@@ -226,5 +226,9 @@
 	"popup.informationIcon.notLinked.description": {
 		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
 		"message": "Your Discord account is not linked to PreMiD."
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "Logout"
 	}
 }
