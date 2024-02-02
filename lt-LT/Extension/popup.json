@@ -108,7 +108,7 @@
 		"message": "Automatinis paleidimas"
 	},
 	"popup.setting.enabled": {
-		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Įjungta"
 	},
 	"popup.setting.mediaControl": {
