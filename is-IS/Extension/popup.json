@@ -84,7 +84,7 @@
 		"message": "Sjálfvirk ræsing"
 	},
 	"popup.setting.enabled": {
-		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Virkt"
 	},
 	"popup.setting.mediaControl": {
@@ -94,5 +94,9 @@
 	"popup.setting.titleMenubar": {
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Titilvalmynd"
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "Útskráning"
 	}
 }
