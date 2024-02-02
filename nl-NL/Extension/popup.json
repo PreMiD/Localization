@@ -202,5 +202,9 @@
 	"popup.information.discordNotFound": {
 		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
 		"message": "Niet verbonden met Discord-app"
+	},
+	"popup.information.notYou": {
+		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
+		"message": "Ben jij dit niet?"
 	}
 }

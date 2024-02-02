@@ -178,5 +178,9 @@
 	"popup.information.discordUser": {
 		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
 		"message": "Discord kullanıcısı: {0}"
+	},
+	"popup.information.notYou": {
+		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
+		"message": "Sen değil misin?"
 	}
 }
