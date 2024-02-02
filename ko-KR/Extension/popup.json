@@ -140,7 +140,7 @@
 		"message": "자동 실행"
 	},
 	"popup.setting.enabled": {
-		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "사용하기 "
 	},
 	"popup.setting.mediaControl": {
@@ -154,5 +154,9 @@
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "다른 사용자인가요?"
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "로그아웃"
 	}
 }
