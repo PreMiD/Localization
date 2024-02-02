@@ -1,154 +1,154 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Butuh Bantuan?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Toko Presence"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Semua"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Anime"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Game"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Musik"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Lainnya"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Sosial"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Video dan Stream"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Oh tidak!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Kesalahan saat memuat kredit"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Keterangan"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Umum"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Presence"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Pengaturan"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Tidak ada koneksi internet!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Sepertinya kamu tidak terhubung ke internet! PreMiD tidak bisa menampilkan presence pada saat ini."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Tidak terhubung"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD tidak dapat terhubung ke aplikasi! Sudahkah PreMiD terpasang dan berjalan? *Troubleshooting*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Tidak ada sambungan Discord!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD tidak bisa terhubung ke aplikasi Discord! Sudahkah PreMiD terinstal dan berjalan?\n*Troubleshooting*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Ekstensi Kedaluwarsa"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Ekstensi kamu telah kedaluwarsa. Harap perbarui untuk mendapatkan fitur-fitur terbaru dengan mengunduhnya dari situs kami."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Pembaruan mendesak"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "Kami merilis pembaruan mendesak untuk ekstensi. Harap perbarui untuk melanjutkan menggunakan PreMiD."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Aplikasi Usang"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "Aplikasi PreMiD kamu telah usang. Mohon melakukan pembaruan untuk lanjut menggunakan PreMiD."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Kredit"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Pengaturan"
-  },
-  "popup.navigation.information": {
-    "description": "Title of the 'information' section at the navigation in the popup",
-    "message": "Informasi"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Selesai"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Muat Presence"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Kelola"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Tidak ada presence yang ditambahkan"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Nyala otomatis"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Aktif"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Kontrol Media"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Title Menubar"
-  }
+	"popup.buttons.help": {
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
+		"message": "Butuh Bantuan?"
+	},
+	"popup.buttons.presenceStore": {
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Toko Presence"
+	},
+	"popup.category.all": {
+		"description": "Category name shown when you open tags",
+		"message": "Semua"
+	},
+	"popup.category.anime": {
+		"description": "Category name shown when you open tags",
+		"message": "Anime"
+	},
+	"popup.category.games": {
+		"description": "Category name shown when you open tags",
+		"message": "Game"
+	},
+	"popup.category.music": {
+		"description": "Category name shown when you open tags",
+		"message": "Musik"
+	},
+	"popup.category.other": {
+		"description": "Category name shown when you open tags",
+		"message": "Lainnya"
+	},
+	"popup.category.socials": {
+		"description": "Category name shown when you open tags",
+		"message": "Sosial"
+	},
+	"popup.category.videos": {
+		"description": "Category name shown when you open tags",
+		"message": "Video dan Stream"
+	},
+	"popup.credits.error.heading": {
+		"description": "Title of the error message (located at the 'credits' tab in the popup)",
+		"message": "Oh tidak!"
+	},
+	"popup.credits.error.message": {
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
+		"message": "Kesalahan saat memuat kredit"
+	},
+	"popup.headings.description": {
+		"description": "Title of the description area in the presence settings view.",
+		"message": "Keterangan"
+	},
+	"popup.headings.general": {
+		"description": "Title of the 'general' area of the 'settings' section in the popup",
+		"message": "Umum"
+	},
+	"popup.headings.presences": {
+		"description": "Title of the 'presences' area of the 'settings' section in the popup",
+		"message": "Presence"
+	},
+	"popup.headings.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Pengaturan"
+	},
+	"popup.info.noInternet": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Tidak ada koneksi internet!"
+	},
+	"popup.info.noInternet.message": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Sepertinya kamu tidak terhubung ke internet! PreMiD tidak bisa menampilkan presence pada saat ini."
+	},
+	"popup.info.notConnected": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "Tidak terhubung"
+	},
+	"popup.info.notConnected.message": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "PreMiD tidak dapat terhubung ke aplikasi! Sudahkah PreMiD terpasang dan berjalan? *Troubleshooting*"
+	},
+	"popup.info.notConnectedDiscord": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "Tidak ada sambungan Discord!"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "PreMiD tidak bisa terhubung ke aplikasi Discord! Sudahkah PreMiD terinstal dan berjalan?\n*Troubleshooting*"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Ekstensi Kedaluwarsa"
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Ekstensi kamu telah kedaluwarsa. Harap perbarui untuk mendapatkan fitur-fitur terbaru dengan mengunduhnya dari situs kami."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Pembaruan mendesak"
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+		"message": "Kami merilis pembaruan mendesak untuk ekstensi. Harap perbarui untuk melanjutkan menggunakan PreMiD."
+	},
+	"popup.info.unsupportedAppVersion": {
+		"description": "Shown when application is outdated",
+		"message": "Aplikasi Usang"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"description": "Shown when application is outdated",
+		"message": "Aplikasi PreMiD kamu telah usang. Mohon melakukan pembaruan untuk lanjut menggunakan PreMiD."
+	},
+	"popup.navigation.credits": {
+		"description": "Title of the 'credits' section at the navigation in the popup",
+		"message": "Kredit"
+	},
+	"popup.navigation.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Pengaturan"
+	},
+	"popup.navigation.information": {
+		"description": "Title of the 'information' section at the navigation in the popup",
+		"message": "Informasi"
+	},
+	"popup.presences.done": {
+		"description": "Done button",
+		"message": "Selesai"
+	},
+	"popup.presences.load": {
+		"description": "Load Presence button",
+		"message": "Muat Presence"
+	},
+	"popup.presences.manage": {
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Kelola"
+	},
+	"popup.presences.noPresences": {
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Tidak ada presence yang ditambahkan"
+	},
+	"popup.setting.autoLaunch": {
+		"description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Nyala otomatis"
+	},
+	"popup.setting.enabled": {
+		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Aktif"
+	},
+	"popup.setting.mediaControl": {
+		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Kontrol Media"
+	},
+	"popup.setting.titleMenubar": {
+		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Title Menubar"
+	}
 }
