@@ -214,5 +214,17 @@
 	"popup.notConnectedBanner.button": {
 		"description": "Button to the Discord connection page",
 		"message": "Link Discord"
+	},
+	"popup.information.notYou": {
+		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
+		"message": "Not you?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Not linked"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Your Discord account is not linked to PreMiD."
 	}
 }
