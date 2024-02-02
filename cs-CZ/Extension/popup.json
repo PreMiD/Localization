@@ -140,7 +140,7 @@
 		"message": "Spustit po štartu"
 	},
 	"popup.setting.enabled": {
-		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Povolit"
 	},
 	"popup.setting.mediaControl": {
@@ -154,5 +154,9 @@
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Nejsi to ty?"
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "Odhlásit se"
 	}
 }

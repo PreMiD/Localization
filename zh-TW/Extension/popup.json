@@ -150,5 +150,9 @@
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "不是你嗎？"
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "登出"
 	}
 }

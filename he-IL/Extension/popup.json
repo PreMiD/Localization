@@ -140,7 +140,7 @@
 		"message": "הפעלה אוטומטית"
 	},
 	"popup.setting.enabled": {
-		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "פועל"
 	},
 	"popup.setting.mediaControl": {

@@ -160,7 +160,7 @@
 		"message": "Auto lancar"
 	},
 	"popup.setting.enabled": {
-		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Dihidupkan"
 	},
 	"popup.setting.mediaControl": {
@@ -203,8 +203,32 @@
 		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
 		"message": "Tidak disambung ke Aplikasi Discord"
 	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord Tidak Dipautkan"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD memerlukan akaun Discord dipautkan untuk berfungsi dengan betul. Sila pautkan akaun Discord anda untuk terus menggunakan PreMiD."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Pautkan Discord"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Bukan anda?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Tidak dipautkan"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Akaun Discord anda tidak dipautkan ke PreMiD."
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "Log Keluar"
 	}
 }

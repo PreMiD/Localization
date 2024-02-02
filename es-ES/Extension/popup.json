@@ -160,7 +160,7 @@
 		"message": "Inicio automático"
 	},
 	"popup.setting.enabled": {
-		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Habilitado"
 	},
 	"popup.setting.mediaControl": {
@@ -206,5 +206,9 @@
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "¿No eres tú?"
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "Cerrar sesión"
 	}
 }
