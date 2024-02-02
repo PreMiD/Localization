@@ -1,154 +1,154 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Besoin d'aide?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Magasin de présences"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Tout"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Animé"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Jeux"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Musique"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Autres"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Réseaux Sociaux"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Vidéos et Streams"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Oh non!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Erreur pendant le chargement des crédits"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Description"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Général"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Présences"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Options"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Pas de connexion internet !"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Il semble que vous n'avez pas de connexion internet ! PreMiD ne sera pas en mesure de montrer de Presences pour le moment."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Non connecté"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD n’a pas pu se connecter à son application! Est-elle installée et en cours d’exécution? *Dépannage*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Aucune connexion à Discord !"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD n'a pas pu se connecter à votre application Discord ! Est-elle installée et en cours d'exécution ? *Résolution des problèmes*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Extension obsolète"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Votre Extension est obsolète. Veuillez la mettre à jour pour obtenir les dernières fonctionnalités en la téléchargeant depuis notre site."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Mise à jour urgente"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "Nous avons publié une mise à jour urgente pour l'extension. Veuillez la mettre à jour afin de continuer à utiliser PreMiD."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Application obsolète"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "Votre application PreMiD est obsolète. Veuillez la mettre à jour afin de continuer à utiliser PreMiD."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Crédits"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Réglages"
-  },
-  "popup.navigation.information": {
-    "description": "Title of the 'information' section at the navigation in the popup",
-    "message": "Information"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Terminé"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Charger présences"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Gérer"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Aucune présence ajoutée"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Lancement automatique"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Activé"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Contrôle des médias"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Titre de la bar du menu"
-  }
+	"popup.buttons.help": {
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
+		"message": "Besoin d'aide?"
+	},
+	"popup.buttons.presenceStore": {
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Magasin de présences"
+	},
+	"popup.category.all": {
+		"description": "Category name shown when you open tags",
+		"message": "Tout"
+	},
+	"popup.category.anime": {
+		"description": "Category name shown when you open tags",
+		"message": "Animé"
+	},
+	"popup.category.games": {
+		"description": "Category name shown when you open tags",
+		"message": "Jeux"
+	},
+	"popup.category.music": {
+		"description": "Category name shown when you open tags",
+		"message": "Musique"
+	},
+	"popup.category.other": {
+		"description": "Category name shown when you open tags",
+		"message": "Autres"
+	},
+	"popup.category.socials": {
+		"description": "Category name shown when you open tags",
+		"message": "Réseaux Sociaux"
+	},
+	"popup.category.videos": {
+		"description": "Category name shown when you open tags",
+		"message": "Vidéos et Streams"
+	},
+	"popup.credits.error.heading": {
+		"description": "Title of the error message (located at the 'credits' tab in the popup)",
+		"message": "Oh non!"
+	},
+	"popup.credits.error.message": {
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
+		"message": "Erreur pendant le chargement des crédits"
+	},
+	"popup.headings.description": {
+		"description": "Title of the description area in the presence settings view.",
+		"message": "Description"
+	},
+	"popup.headings.general": {
+		"description": "Title of the 'general' area of the 'settings' section in the popup",
+		"message": "Général"
+	},
+	"popup.headings.presences": {
+		"description": "Title of the 'presences' area of the 'settings' section in the popup",
+		"message": "Présences"
+	},
+	"popup.headings.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Options"
+	},
+	"popup.info.noInternet": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Pas de connexion internet !"
+	},
+	"popup.info.noInternet.message": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Il semble que vous n'avez pas de connexion internet ! PreMiD ne sera pas en mesure de montrer de Presences pour le moment."
+	},
+	"popup.info.notConnected": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "Non connecté"
+	},
+	"popup.info.notConnected.message": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "PreMiD n’a pas pu se connecter à son application! Est-elle installée et en cours d’exécution? *Dépannage*"
+	},
+	"popup.info.notConnectedDiscord": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "Aucune connexion à Discord !"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "PreMiD n'a pas pu se connecter à votre application Discord ! Est-elle installée et en cours d'exécution ? *Résolution des problèmes*"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Extension obsolète"
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Votre Extension est obsolète. Veuillez la mettre à jour pour obtenir les dernières fonctionnalités en la téléchargeant depuis notre site."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Mise à jour urgente"
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+		"message": "Nous avons publié une mise à jour urgente pour l'extension. Veuillez la mettre à jour afin de continuer à utiliser PreMiD."
+	},
+	"popup.info.unsupportedAppVersion": {
+		"description": "Shown when application is outdated",
+		"message": "Application obsolète"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"description": "Shown when application is outdated",
+		"message": "Votre application PreMiD est obsolète. Veuillez la mettre à jour afin de continuer à utiliser PreMiD."
+	},
+	"popup.navigation.credits": {
+		"description": "Title of the 'credits' section at the navigation in the popup",
+		"message": "Crédits"
+	},
+	"popup.navigation.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Réglages"
+	},
+	"popup.navigation.information": {
+		"description": "Title of the 'information' section at the navigation in the popup",
+		"message": "Information"
+	},
+	"popup.presences.done": {
+		"description": "Done button",
+		"message": "Terminé"
+	},
+	"popup.presences.load": {
+		"description": "Load Presence button",
+		"message": "Charger présences"
+	},
+	"popup.presences.manage": {
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Gérer"
+	},
+	"popup.presences.noPresences": {
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Aucune présence ajoutée"
+	},
+	"popup.setting.autoLaunch": {
+		"description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Lancement automatique"
+	},
+	"popup.setting.enabled": {
+		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Activé"
+	},
+	"popup.setting.mediaControl": {
+		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Contrôle des médias"
+	},
+	"popup.setting.titleMenubar": {
+		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Titre de la bar du menu"
+	}
 }
