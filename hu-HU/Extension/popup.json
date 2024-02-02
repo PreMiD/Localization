@@ -1,154 +1,154 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Segítségre van szükséged?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Állapotüzenet bolt"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Minden"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Anime"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Játék"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Zene"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Egyéb"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Közösségi"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Videók és Közvetítések"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Ó, ne!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Hiba történt a készítők beolvasása közben"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Leírás"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Általános"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Állapotüzenetek"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Beállítások"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Nincs internetkapcsolat!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Úgy tűnik, nincs internetkapcsolat! A PreMiD alkalmazás jelenleg nem tudja megjeleníteni a presencet."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Nincs csatlakoztatva"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "A PreMiD nem tudott csatlakozni az alkalmazáshoz! Telepítve van és fut? *Hibaelhárítás*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Nincs Discord kapcsolat!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "A PreMiD nem tudott csatlakozni a Discord alkalmazáshoz! Telepítve van és fut? *Hibaelhárítás*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Elavult bővítmény"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "A bővítmény elavult. A legújabb funkciók eléréséhez töltsd le a frissítést oldalunkról."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Fontos frissítés"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "Fontos frissítést tettünk közzé a bővítmény számára. Kérlek frissíts a PreMiD további használata érdekében."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Elavult alkalmazás"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "Az általad használt PreMiD alkalmazás elavult. Frissítsd a további használathoz."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Készítők"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Beállítások"
-  },
-  "popup.navigation.information": {
-    "description": "Title of the 'information' section at the navigation in the popup",
-    "message": "Információ"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Kész"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Állapotüzenet betöltése"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Kezelés"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Nincsenek állapotüzenetek hozzáadva"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Automatikus indítás"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Engedélyezve"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Média vezérlők"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Cím menüsor"
-  }
+	"popup.buttons.help": {
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
+		"message": "Segítségre van szükséged?"
+	},
+	"popup.buttons.presenceStore": {
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Állapotüzenet bolt"
+	},
+	"popup.category.all": {
+		"description": "Category name shown when you open tags",
+		"message": "Minden"
+	},
+	"popup.category.anime": {
+		"description": "Category name shown when you open tags",
+		"message": "Anime"
+	},
+	"popup.category.games": {
+		"description": "Category name shown when you open tags",
+		"message": "Játék"
+	},
+	"popup.category.music": {
+		"description": "Category name shown when you open tags",
+		"message": "Zene"
+	},
+	"popup.category.other": {
+		"description": "Category name shown when you open tags",
+		"message": "Egyéb"
+	},
+	"popup.category.socials": {
+		"description": "Category name shown when you open tags",
+		"message": "Közösségi"
+	},
+	"popup.category.videos": {
+		"description": "Category name shown when you open tags",
+		"message": "Videók és Közvetítések"
+	},
+	"popup.credits.error.heading": {
+		"description": "Title of the error message (located at the 'credits' tab in the popup)",
+		"message": "Ó, ne!"
+	},
+	"popup.credits.error.message": {
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
+		"message": "Hiba történt a készítők beolvasása közben"
+	},
+	"popup.headings.description": {
+		"description": "Title of the description area in the presence settings view.",
+		"message": "Leírás"
+	},
+	"popup.headings.general": {
+		"description": "Title of the 'general' area of the 'settings' section in the popup",
+		"message": "Általános"
+	},
+	"popup.headings.presences": {
+		"description": "Title of the 'presences' area of the 'settings' section in the popup",
+		"message": "Állapotüzenetek"
+	},
+	"popup.headings.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Beállítások"
+	},
+	"popup.info.noInternet": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Nincs internetkapcsolat!"
+	},
+	"popup.info.noInternet.message": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Úgy tűnik, nincs internetkapcsolat! A PreMiD alkalmazás jelenleg nem tudja megjeleníteni a presencet."
+	},
+	"popup.info.notConnected": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "Nincs csatlakoztatva"
+	},
+	"popup.info.notConnected.message": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "A PreMiD nem tudott csatlakozni az alkalmazáshoz! Telepítve van és fut? *Hibaelhárítás*"
+	},
+	"popup.info.notConnectedDiscord": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "Nincs Discord kapcsolat!"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "A PreMiD nem tudott csatlakozni a Discord alkalmazáshoz! Telepítve van és fut? *Hibaelhárítás*"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Elavult bővítmény"
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "A bővítmény elavult. A legújabb funkciók eléréséhez töltsd le a frissítést oldalunkról."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Fontos frissítés"
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+		"message": "Fontos frissítést tettünk közzé a bővítmény számára. Kérlek frissíts a PreMiD további használata érdekében."
+	},
+	"popup.info.unsupportedAppVersion": {
+		"description": "Shown when application is outdated",
+		"message": "Elavult alkalmazás"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"description": "Shown when application is outdated",
+		"message": "Az általad használt PreMiD alkalmazás elavult. Frissítsd a további használathoz."
+	},
+	"popup.navigation.credits": {
+		"description": "Title of the 'credits' section at the navigation in the popup",
+		"message": "Készítők"
+	},
+	"popup.navigation.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Beállítások"
+	},
+	"popup.navigation.information": {
+		"description": "Title of the 'information' section at the navigation in the popup",
+		"message": "Információ"
+	},
+	"popup.presences.done": {
+		"description": "Done button",
+		"message": "Kész"
+	},
+	"popup.presences.load": {
+		"description": "Load Presence button",
+		"message": "Állapotüzenet betöltése"
+	},
+	"popup.presences.manage": {
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Kezelés"
+	},
+	"popup.presences.noPresences": {
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Nincsenek állapotüzenetek hozzáadva"
+	},
+	"popup.setting.autoLaunch": {
+		"description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Automatikus indítás"
+	},
+	"popup.setting.enabled": {
+		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Engedélyezve"
+	},
+	"popup.setting.mediaControl": {
+		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Média vezérlők"
+	},
+	"popup.setting.titleMenubar": {
+		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Cím menüsor"
+	}
 }

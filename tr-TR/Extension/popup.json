@@ -1,182 +1,182 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Yardıma mı ihtiyacınız var?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Servis Mağazası"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Tümü"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Anime"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Oyun"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Müzik"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Diğer"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Sosyal"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Video & Yayın"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Olamaz!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Katkıda bulunanlar yüklenemedi"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Açıklama"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Genel"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Servisler"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Ayarlar"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "İnternet bağlantısı yok!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Görünüşe göre internet bağlantınız bulunmuyor. PreMiD şimdilik servisleri gösteremeyecek."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Bağlı değil"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD uygulamasına bağlanılamadı, yüklü olduğuna ve çalıştığına emin misiniz? *Troubleshooting*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Discord bağlantısı yok!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD, Discord uygulamanıza bağlanamıyor. Uygulamanın yüklü ve çalıştığına emin misiniz? *Troubleshooting*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Eklentiniz güncel değil"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "PreMiD eklentiniz güncel değil, en son yayınlanan özelliklere erişmek için lütfen sitemizden yeni sürümünü indirin."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Önemli güncelleme"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "Eklenti için önemli bir güncelleme yayınladık. Lütfen PreMiD'i kullanmaya devam etmek için eklentinizi güncelleyin."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Uygulamanız Güncelliğini Yitirmiş"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "PreMiD uygulamanız güncelliğini yitirmiştir. Kullanmaya devam edebilmek için lütfen PreMiD'i güncelleyin."
-  },
-  "popup.info.extensionDisabled": {
-    "description": "Shown when the extension has been disabled in the settings",
-    "message": "Uzantı devre dışı bırakıldı"
-  },
-  "popup.info.extensionDisabled.message": {
-    "description": "Shown when the extension has been disabled in the settings",
-    "message": "PreMiD uzantısı ayarlardan devre dışı bırakılmış. PreMiD'i kullanmaya devam etmek için lütfen etkinleştirin."
-  },
-  "popup.info.discordStatusSetting.message": {
-    "description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
-    "message": "Lütfen Discord ayarlarından \"Mevcut etkinliği durum mesajı olarak göster.\" özelliğini etkinleştirdiğinizden emin olun."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Katkıda Bulunanlar"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Ayarlar"
-  },
-  "popup.navigation.information": {
-    "description": "Title of the 'information' section at the navigation in the popup",
-    "message": "Bilgi"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Bitti"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Servis Yükle"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Yönet"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Hiç servis eklenmemiş"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Otomatik başlat"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Etkin"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Medya Kontrolleri"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Menü Başlığı"
-  },
-  "popup.setting.syncLanguage": {
-    "description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
-    "message": "Dili senkronize et"
-  },
-  "popup.information.extensionVersion": {
-    "description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
-    "message": "Uzantı sürümü: {0}"
-  },
-  "popup.information.appVersion": {
-    "description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
-    "message": "Uygulama sürümü: {0}"
-  },
-  "popup.information.discordUser": {
-    "description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
-    "message": "Discord kullanıcısı: {0}"
-  }
+	"popup.buttons.help": {
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
+		"message": "Yardıma mı ihtiyacınız var?"
+	},
+	"popup.buttons.presenceStore": {
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Servis Mağazası"
+	},
+	"popup.category.all": {
+		"description": "Category name shown when you open tags",
+		"message": "Tümü"
+	},
+	"popup.category.anime": {
+		"description": "Category name shown when you open tags",
+		"message": "Anime"
+	},
+	"popup.category.games": {
+		"description": "Category name shown when you open tags",
+		"message": "Oyun"
+	},
+	"popup.category.music": {
+		"description": "Category name shown when you open tags",
+		"message": "Müzik"
+	},
+	"popup.category.other": {
+		"description": "Category name shown when you open tags",
+		"message": "Diğer"
+	},
+	"popup.category.socials": {
+		"description": "Category name shown when you open tags",
+		"message": "Sosyal"
+	},
+	"popup.category.videos": {
+		"description": "Category name shown when you open tags",
+		"message": "Video & Yayın"
+	},
+	"popup.credits.error.heading": {
+		"description": "Title of the error message (located at the 'credits' tab in the popup)",
+		"message": "Olamaz!"
+	},
+	"popup.credits.error.message": {
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
+		"message": "Katkıda bulunanlar yüklenemedi"
+	},
+	"popup.headings.description": {
+		"description": "Title of the description area in the presence settings view.",
+		"message": "Açıklama"
+	},
+	"popup.headings.general": {
+		"description": "Title of the 'general' area of the 'settings' section in the popup",
+		"message": "Genel"
+	},
+	"popup.headings.presences": {
+		"description": "Title of the 'presences' area of the 'settings' section in the popup",
+		"message": "Servisler"
+	},
+	"popup.headings.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Ayarlar"
+	},
+	"popup.info.noInternet": {
+		"description": "Shown when the user has no internet connection",
+		"message": "İnternet bağlantısı yok!"
+	},
+	"popup.info.noInternet.message": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Görünüşe göre internet bağlantınız bulunmuyor. PreMiD şimdilik servisleri gösteremeyecek."
+	},
+	"popup.info.notConnected": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "Bağlı değil"
+	},
+	"popup.info.notConnected.message": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "PreMiD uygulamasına bağlanılamadı, yüklü olduğuna ve çalıştığına emin misiniz? *Troubleshooting*"
+	},
+	"popup.info.notConnectedDiscord": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "Discord bağlantısı yok!"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "PreMiD, Discord uygulamanıza bağlanamıyor. Uygulamanın yüklü ve çalıştığına emin misiniz? *Troubleshooting*"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Eklentiniz güncel değil"
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "PreMiD eklentiniz güncel değil, en son yayınlanan özelliklere erişmek için lütfen sitemizden yeni sürümünü indirin."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Önemli güncelleme"
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+		"message": "Eklenti için önemli bir güncelleme yayınladık. Lütfen PreMiD'i kullanmaya devam etmek için eklentinizi güncelleyin."
+	},
+	"popup.info.unsupportedAppVersion": {
+		"description": "Shown when application is outdated",
+		"message": "Uygulamanız Güncelliğini Yitirmiş"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"description": "Shown when application is outdated",
+		"message": "PreMiD uygulamanız güncelliğini yitirmiştir. Kullanmaya devam edebilmek için lütfen PreMiD'i güncelleyin."
+	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Uzantı devre dışı bırakıldı"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "PreMiD uzantısı ayarlardan devre dışı bırakılmış. PreMiD'i kullanmaya devam etmek için lütfen etkinleştirin."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Lütfen Discord ayarlarından \"Mevcut etkinliği durum mesajı olarak göster.\" özelliğini etkinleştirdiğinizden emin olun."
+	},
+	"popup.navigation.credits": {
+		"description": "Title of the 'credits' section at the navigation in the popup",
+		"message": "Katkıda Bulunanlar"
+	},
+	"popup.navigation.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Ayarlar"
+	},
+	"popup.navigation.information": {
+		"description": "Title of the 'information' section at the navigation in the popup",
+		"message": "Bilgi"
+	},
+	"popup.presences.done": {
+		"description": "Done button",
+		"message": "Bitti"
+	},
+	"popup.presences.load": {
+		"description": "Load Presence button",
+		"message": "Servis Yükle"
+	},
+	"popup.presences.manage": {
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Yönet"
+	},
+	"popup.presences.noPresences": {
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Hiç servis eklenmemiş"
+	},
+	"popup.setting.autoLaunch": {
+		"description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Otomatik başlat"
+	},
+	"popup.setting.enabled": {
+		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Etkin"
+	},
+	"popup.setting.mediaControl": {
+		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Medya Kontrolleri"
+	},
+	"popup.setting.titleMenubar": {
+		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Menü Başlığı"
+	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Dili senkronize et"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Uzantı sürümü: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Uygulama sürümü: {0}"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Discord kullanıcısı: {0}"
+	}
 }

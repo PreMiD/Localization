@@ -1,154 +1,154 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Tarvitsetko apua?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Presence-kauppa"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Kaikki"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Anime"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Pelit"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Musiikki"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Muut"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Somet"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Videot & Suoratoistot"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Voi ei!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Virhe ladattaessa tekijälistaa"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Kuvaus"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Yleiset"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Presencet"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Asetukset"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Ei internet-yhteyttä!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Näyttää siltä, että sinulla ei ole internet-yhteyttä! PreMiD ei pysty näyttämään presencejä tällä hetkellä."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Ei yhdistetty"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD ei pystynyt muodostamaan yhteyttä sovellukseensa! Onko se asennettu ja käynnissä? *Vianetsintä*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Ei yhteyttä Discordiin!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD ei pystynyt muodostamaan yhteyttä Discord-sovellukseesi! Onko se asennettu ja käynnissä? *Vianetsintä*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Vanhentunut laajennus"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Laajennuksesi on vanhentunut. Päivitä laajennus lataamalla se sivustoltamme saadaksesi uusimmat ominaisuudet."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Kiireellinen päivitys"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "Julkaisimme kiireellisen päivityksen laajennukselle. Päivitä se jatkaaksesi PreMiDin käyttöä."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Vanhentunut sovellus"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "PreMiD-sovelluksesi on vanhentunut. Päivitä se jatkaaksesi PreMiDin käyttöä."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Tekijät"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Asetukset"
-  },
-  "popup.navigation.information": {
-    "description": "Title of the 'information' section at the navigation in the popup",
-    "message": "Tietoja"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Valmis"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Lataa presence"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Hallitse"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Ei lisättyjä presencejä"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Automaattinen käynnistys"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Päällä"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Medianäppäimet"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Otsikoi valikkopalkki"
-  }
+	"popup.buttons.help": {
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
+		"message": "Tarvitsetko apua?"
+	},
+	"popup.buttons.presenceStore": {
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Presence-kauppa"
+	},
+	"popup.category.all": {
+		"description": "Category name shown when you open tags",
+		"message": "Kaikki"
+	},
+	"popup.category.anime": {
+		"description": "Category name shown when you open tags",
+		"message": "Anime"
+	},
+	"popup.category.games": {
+		"description": "Category name shown when you open tags",
+		"message": "Pelit"
+	},
+	"popup.category.music": {
+		"description": "Category name shown when you open tags",
+		"message": "Musiikki"
+	},
+	"popup.category.other": {
+		"description": "Category name shown when you open tags",
+		"message": "Muut"
+	},
+	"popup.category.socials": {
+		"description": "Category name shown when you open tags",
+		"message": "Somet"
+	},
+	"popup.category.videos": {
+		"description": "Category name shown when you open tags",
+		"message": "Videot & Suoratoistot"
+	},
+	"popup.credits.error.heading": {
+		"description": "Title of the error message (located at the 'credits' tab in the popup)",
+		"message": "Voi ei!"
+	},
+	"popup.credits.error.message": {
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
+		"message": "Virhe ladattaessa tekijälistaa"
+	},
+	"popup.headings.description": {
+		"description": "Title of the description area in the presence settings view.",
+		"message": "Kuvaus"
+	},
+	"popup.headings.general": {
+		"description": "Title of the 'general' area of the 'settings' section in the popup",
+		"message": "Yleiset"
+	},
+	"popup.headings.presences": {
+		"description": "Title of the 'presences' area of the 'settings' section in the popup",
+		"message": "Presencet"
+	},
+	"popup.headings.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Asetukset"
+	},
+	"popup.info.noInternet": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Ei internet-yhteyttä!"
+	},
+	"popup.info.noInternet.message": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Näyttää siltä, että sinulla ei ole internet-yhteyttä! PreMiD ei pysty näyttämään presencejä tällä hetkellä."
+	},
+	"popup.info.notConnected": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "Ei yhdistetty"
+	},
+	"popup.info.notConnected.message": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "PreMiD ei pystynyt muodostamaan yhteyttä sovellukseensa! Onko se asennettu ja käynnissä? *Vianetsintä*"
+	},
+	"popup.info.notConnectedDiscord": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "Ei yhteyttä Discordiin!"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "PreMiD ei pystynyt muodostamaan yhteyttä Discord-sovellukseesi! Onko se asennettu ja käynnissä? *Vianetsintä*"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Vanhentunut laajennus"
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Laajennuksesi on vanhentunut. Päivitä laajennus lataamalla se sivustoltamme saadaksesi uusimmat ominaisuudet."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Kiireellinen päivitys"
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+		"message": "Julkaisimme kiireellisen päivityksen laajennukselle. Päivitä se jatkaaksesi PreMiDin käyttöä."
+	},
+	"popup.info.unsupportedAppVersion": {
+		"description": "Shown when application is outdated",
+		"message": "Vanhentunut sovellus"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"description": "Shown when application is outdated",
+		"message": "PreMiD-sovelluksesi on vanhentunut. Päivitä se jatkaaksesi PreMiDin käyttöä."
+	},
+	"popup.navigation.credits": {
+		"description": "Title of the 'credits' section at the navigation in the popup",
+		"message": "Tekijät"
+	},
+	"popup.navigation.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Asetukset"
+	},
+	"popup.navigation.information": {
+		"description": "Title of the 'information' section at the navigation in the popup",
+		"message": "Tietoja"
+	},
+	"popup.presences.done": {
+		"description": "Done button",
+		"message": "Valmis"
+	},
+	"popup.presences.load": {
+		"description": "Load Presence button",
+		"message": "Lataa presence"
+	},
+	"popup.presences.manage": {
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Hallitse"
+	},
+	"popup.presences.noPresences": {
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Ei lisättyjä presencejä"
+	},
+	"popup.setting.autoLaunch": {
+		"description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Automaattinen käynnistys"
+	},
+	"popup.setting.enabled": {
+		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Päällä"
+	},
+	"popup.setting.mediaControl": {
+		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Medianäppäimet"
+	},
+	"popup.setting.titleMenubar": {
+		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Otsikoi valikkopalkki"
+	}
 }

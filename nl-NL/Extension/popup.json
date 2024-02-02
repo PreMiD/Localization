@@ -1,206 +1,206 @@
 {
-  "popup.buttons.help": {
-    "description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-    "message": "Hulp nodig?"
-  },
-  "popup.buttons.presenceStore": {
-    "description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Presencebibliotheek"
-  },
-  "popup.category.all": {
-    "description": "Category name shown when you open tags",
-    "message": "Alle"
-  },
-  "popup.category.anime": {
-    "description": "Category name shown when you open tags",
-    "message": "Anime"
-  },
-  "popup.category.games": {
-    "description": "Category name shown when you open tags",
-    "message": "Spellen"
-  },
-  "popup.category.music": {
-    "description": "Category name shown when you open tags",
-    "message": "Muziek"
-  },
-  "popup.category.other": {
-    "description": "Category name shown when you open tags",
-    "message": "Overige"
-  },
-  "popup.category.socials": {
-    "description": "Category name shown when you open tags",
-    "message": "Sociaal"
-  },
-  "popup.category.videos": {
-    "description": "Category name shown when you open tags",
-    "message": "Video's & streaming"
-  },
-  "popup.credits.error.heading": {
-    "description": "Title of the error message (located at the 'credits' tab in the popup)",
-    "message": "Oei!"
-  },
-  "popup.credits.error.message": {
-    "description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
-    "message": "Fout bij het laden van credits"
-  },
-  "popup.headings.description": {
-    "description": "Title of the description area in the presence settings view.",
-    "message": "Beschrijving"
-  },
-  "popup.headings.general": {
-    "description": "Title of the 'general' area of the 'settings' section in the popup",
-    "message": "Algemeen"
-  },
-  "popup.headings.presences": {
-    "description": "Title of the 'presences' area of the 'settings' section in the popup",
-    "message": "Presences"
-  },
-  "popup.headings.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Instellingen"
-  },
-  "popup.info.noInternet": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Geen internetverbinding!"
-  },
-  "popup.info.noInternet.message": {
-    "description": "Shown when the user has no internet connection",
-    "message": "Het lijkt erop dat je geen internetverbinding hebt! PreMiD kan momenteel geen presences tonen."
-  },
-  "popup.info.notConnected": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "Niet verbonden"
-  },
-  "popup.info.notConnected.message": {
-    "description": "Shown when the extension can't connect to the application",
-    "message": "PreMiD kon geen verbinding maken met de applicatie! Is deze geïnstalleerd en actief? *Probleemoplossing*"
-  },
-  "popup.info.notConnectedDiscord": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "Geen Discord-verbinding!"
-  },
-  "popup.info.notConnectedDiscord.message": {
-    "description": "Shown in the extension when the application can't connect to Discord",
-    "message": "PreMiD kon geen verbinding maken met je Discord-applicatie! Is deze geïnstalleerd en actief? *Probleemoplossing*"
-  },
-  "popup.info.safari.outdatedExtension": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Verouderde extensie"
-  },
-  "popup.info.safari.outdatedExtension.message": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Je extensie is verouderd. Update de extensie via onze website om de nieuwste functies te krijgen."
-  },
-  "popup.info.safari.urgentUpdate": {
-    "description": "Shown when Extension is outdated. Only for Safari port.",
-    "message": "Dringende update"
-  },
-  "popup.info.safari.urgentUpdate.message": {
-    "description": "Shown when very urgent update has been released to extension. Only for Safari port.",
-    "message": "We hebben een dringende update voor de extensie vrijgegeven. Update de extensie om PreMiD te kunnen blijven gebruiken."
-  },
-  "popup.info.unsupportedAppVersion": {
-    "description": "Shown when application is outdated",
-    "message": "Verouderde app"
-  },
-  "popup.info.unsupportedAppVersion.message": {
-    "description": "Shown when application is outdated",
-    "message": "Je PreMiD-app is verouderd. Update deze om PreMiD weer te kunnen gebruiken."
-  },
-  "popup.info.extensionDisabled": {
-    "description": "Shown when the extension has been disabled in the settings",
-    "message": "Extensie uitgeschakeld"
-  },
-  "popup.info.extensionDisabled.message": {
-    "description": "Shown when the extension has been disabled in the settings",
-    "message": "De PreMiD extensie is uitgeschakeld in de instellingen. Zet deze aan om PreMiD te blijven gebruiken."
-  },
-  "popup.info.discordStatusSetting.message": {
-    "description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
-    "message": "Zorg ervoor dat je de instelling 'Geef huidige activiteit als een statusbericht weer.' hebt ingeschakeld in je Discord-instellingen."
-  },
-  "popup.info.presenceNotSetMessage.message": {
-    "description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
-    "message": "PreMiD kon geen presence vinden voor je huidige tabbladen. Zorg ervoor dat je een presence hebt geïnstalleerd voor de website die je momenteel bezoekt. Als je een presence hebt geïnstalleerd, probeer dan de betreffende website te vernieuwen en zorg ervoor dat je de presence hebt ingeschakeld in de instellingen."
-  },
-  "popup.navigation.credits": {
-    "description": "Title of the 'credits' section at the navigation in the popup",
-    "message": "Attributies"
-  },
-  "popup.navigation.settings": {
-    "description": "Title of the 'settings' section at the navigation in the popup",
-    "message": "Instellingen"
-  },
-  "popup.navigation.information": {
-    "description": "Title of the 'information' section at the navigation in the popup",
-    "message": "Informatie"
-  },
-  "popup.navigation.diagnostics": {
-    "description": "Title of the 'diagnostics' section at the navigation in the popup",
-    "message": "Diagnostiek"
-  },
-  "popup.presences.done": {
-    "description": "Done button",
-    "message": "Klaar"
-  },
-  "popup.presences.load": {
-    "description": "Load Presence button",
-    "message": "Presence laden"
-  },
-  "popup.presences.manage": {
-    "description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Beheren"
-  },
-  "popup.presences.noPresences": {
-    "description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-    "message": "Geen presences toegevoegd"
-  },
-  "popup.setting.autoLaunch": {
-    "description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Automatisch starten"
-  },
-  "popup.setting.enabled": {
-    "description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Inschakelen"
-  },
-  "popup.setting.mediaControl": {
-    "description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Mediabediening"
-  },
-  "popup.setting.titleMenubar": {
-    "description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-    "message": "Titelmenubalk"
-  },
-  "popup.setting.syncLanguage": {
-    "description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
-    "message": "Taal synchroniseren"
-  },
-  "popup.setting.preferredPresenceLanguage": {
-    "description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
-    "message": "Voorkeurstaal voor presences"
-  },
-  "popup.setting.heartbeat": {
-    "description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
-    "message": "Anonieme informatie verzenden"
-  },
-  "popup.information.extensionVersion": {
-    "description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
-    "message": "Extensieversie: {0}"
-  },
-  "popup.information.appVersion": {
-    "description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
-    "message": "Appversie: {0}"
-  },
-  "popup.information.appNotFound": {
-    "description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
-    "message": "Niet verbonden met PreMiD-app"
-  },
-  "popup.information.discordUser": {
-    "description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
-    "message": "Discord-gebruiker: {0}"
-  },
-  "popup.information.discordNotFound": {
-    "description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
-    "message": "Niet verbonden met Discord-app"
-  }
+	"popup.buttons.help": {
+		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
+		"message": "Hulp nodig?"
+	},
+	"popup.buttons.presenceStore": {
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Presencebibliotheek"
+	},
+	"popup.category.all": {
+		"description": "Category name shown when you open tags",
+		"message": "Alle"
+	},
+	"popup.category.anime": {
+		"description": "Category name shown when you open tags",
+		"message": "Anime"
+	},
+	"popup.category.games": {
+		"description": "Category name shown when you open tags",
+		"message": "Spellen"
+	},
+	"popup.category.music": {
+		"description": "Category name shown when you open tags",
+		"message": "Muziek"
+	},
+	"popup.category.other": {
+		"description": "Category name shown when you open tags",
+		"message": "Overige"
+	},
+	"popup.category.socials": {
+		"description": "Category name shown when you open tags",
+		"message": "Sociaal"
+	},
+	"popup.category.videos": {
+		"description": "Category name shown when you open tags",
+		"message": "Video's & streaming"
+	},
+	"popup.credits.error.heading": {
+		"description": "Title of the error message (located at the 'credits' tab in the popup)",
+		"message": "Oei!"
+	},
+	"popup.credits.error.message": {
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
+		"message": "Fout bij het laden van credits"
+	},
+	"popup.headings.description": {
+		"description": "Title of the description area in the presence settings view.",
+		"message": "Beschrijving"
+	},
+	"popup.headings.general": {
+		"description": "Title of the 'general' area of the 'settings' section in the popup",
+		"message": "Algemeen"
+	},
+	"popup.headings.presences": {
+		"description": "Title of the 'presences' area of the 'settings' section in the popup",
+		"message": "Presences"
+	},
+	"popup.headings.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Instellingen"
+	},
+	"popup.info.noInternet": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Geen internetverbinding!"
+	},
+	"popup.info.noInternet.message": {
+		"description": "Shown when the user has no internet connection",
+		"message": "Het lijkt erop dat je geen internetverbinding hebt! PreMiD kan momenteel geen presences tonen."
+	},
+	"popup.info.notConnected": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "Niet verbonden"
+	},
+	"popup.info.notConnected.message": {
+		"description": "Shown when the extension can't connect to the application",
+		"message": "PreMiD kon geen verbinding maken met de applicatie! Is deze geïnstalleerd en actief? *Probleemoplossing*"
+	},
+	"popup.info.notConnectedDiscord": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "Geen Discord-verbinding!"
+	},
+	"popup.info.notConnectedDiscord.message": {
+		"description": "Shown in the extension when the application can't connect to Discord",
+		"message": "PreMiD kon geen verbinding maken met je Discord-applicatie! Is deze geïnstalleerd en actief? *Probleemoplossing*"
+	},
+	"popup.info.safari.outdatedExtension": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Verouderde extensie"
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Je extensie is verouderd. Update de extensie via onze website om de nieuwste functies te krijgen."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Dringende update"
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+		"message": "We hebben een dringende update voor de extensie vrijgegeven. Update de extensie om PreMiD te kunnen blijven gebruiken."
+	},
+	"popup.info.unsupportedAppVersion": {
+		"description": "Shown when application is outdated",
+		"message": "Verouderde app"
+	},
+	"popup.info.unsupportedAppVersion.message": {
+		"description": "Shown when application is outdated",
+		"message": "Je PreMiD-app is verouderd. Update deze om PreMiD weer te kunnen gebruiken."
+	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Extensie uitgeschakeld"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "De PreMiD extensie is uitgeschakeld in de instellingen. Zet deze aan om PreMiD te blijven gebruiken."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Zorg ervoor dat je de instelling 'Geef huidige activiteit als een statusbericht weer.' hebt ingeschakeld in je Discord-instellingen."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD kon geen presence vinden voor je huidige tabbladen. Zorg ervoor dat je een presence hebt geïnstalleerd voor de website die je momenteel bezoekt. Als je een presence hebt geïnstalleerd, probeer dan de betreffende website te vernieuwen en zorg ervoor dat je de presence hebt ingeschakeld in de instellingen."
+	},
+	"popup.navigation.credits": {
+		"description": "Title of the 'credits' section at the navigation in the popup",
+		"message": "Attributies"
+	},
+	"popup.navigation.settings": {
+		"description": "Title of the 'settings' section at the navigation in the popup",
+		"message": "Instellingen"
+	},
+	"popup.navigation.information": {
+		"description": "Title of the 'information' section at the navigation in the popup",
+		"message": "Informatie"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Diagnostiek"
+	},
+	"popup.presences.done": {
+		"description": "Done button",
+		"message": "Klaar"
+	},
+	"popup.presences.load": {
+		"description": "Load Presence button",
+		"message": "Presence laden"
+	},
+	"popup.presences.manage": {
+		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Beheren"
+	},
+	"popup.presences.noPresences": {
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Geen presences toegevoegd"
+	},
+	"popup.setting.autoLaunch": {
+		"description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Automatisch starten"
+	},
+	"popup.setting.enabled": {
+		"description": "Enable/Disables PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Inschakelen"
+	},
+	"popup.setting.mediaControl": {
+		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Mediabediening"
+	},
+	"popup.setting.titleMenubar": {
+		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Titelmenubalk"
+	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Taal synchroniseren"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Voorkeurstaal voor presences"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Anonieme informatie verzenden"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Extensieversie: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Appversie: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Niet verbonden met PreMiD-app"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Discord-gebruiker: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Niet verbonden met Discord-app"
+	}
 }
