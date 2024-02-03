@@ -163,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Dihidupkan"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Mod Pembangun"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Kawalan Media"
