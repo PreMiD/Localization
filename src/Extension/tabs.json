@@ -93,6 +93,6 @@
   },
   "tab.installed.connectToDiscord": {
     "description": "Information text to tell users to connect to Discord",
-    "message": "To use PreMiD you need to connect it to your Discord account. Simply click the button bellow."
+    "message": "To use PreMiD you need to connect it to your Discord account. Simply click the button below."
   }
 }
