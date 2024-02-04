@@ -90,5 +90,9 @@
   "tab.troubleshooting.checks.presenceToDisplay": {
     "description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
     "message": "Presence to display"
+  },
+  "tab.installed.connectToDiscord": {
+    "description": "Information text to tell users to connect to Discord",
+    "message": "To use PreMiD you need to connect it to your Discord account. Simply click the button bellow."
   }
 }
