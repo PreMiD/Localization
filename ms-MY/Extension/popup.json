@@ -234,5 +234,9 @@
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Log Keluar"
+	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Guna Status Bermain"
 	}
 }
