@@ -95,8 +95,52 @@
 		"description": "Information text to tell users to connect to Discord",
 		"message": "Untuk menggunakan PreMiD anda perlu menyambungkannya ke akaun Discord anda. Klik saja butang berikut."
 	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD telah dikemas kini!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Apa yang Baharu 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Ciri-ciri"
+	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Pembaikan"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Prestasi"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Perubahan Umum"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Pautkan akaun Discord anda"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Mulai versi v2.6.0, PreMiD memerlukan akaun Discord dipautkan untuk berfungsi dengan betul. Sila pautkan akaun Discord anda untuk terus menggunakan PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Pautkan akaun Discord anda"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Apa Seterusnya?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Kami berharap anda menikmati kemas kini baharu ini! Jika anda ada sebarang maklum balas atau cadangan, sila sertai pelayan Discord kami dan beritahu kami."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Sertai pelayan Discord kami"
 	}
 }
