@@ -1,62 +1,66 @@
 {
-  "donate": {
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time",
-    "message": "दान करें"
-  },
-  "tab.button.changelog": {
-    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
-    "message": "परिवर्तन लॉग"
-  },
-  "tab.button.wiki": {
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "विकी"
-  },
-  "tab.installed.error": {
-    "description": "Error message of the tab which opens when you install PreMiD for the first time",
-    "message": "** ओह नहीं! ** हम एप्लिकेशन से कनेक्ट नहीं कर सके... क्या यह पहले से इंस्टॉल है?"
-  },
-  "tab.installed.heading": {
-    "description": "Title of the tab which opens when you install PreMiD for the first time",
-    "message": "धन्यवाद"
-  },
-  "tab.installed.link.installApplication": {
-    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
-    "message": "एप्लिकेशन इंस्टॉल करें"
-  },
-  "tab.installed.link.troubleshooting": {
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "ट्रबलशूटिंग"
-  },
-  "tab.installed.start": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
-    "message": "का उपयोग करना शुरू करें {0}"
-  },
-  "tab.installed.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
-    "message": "स्थापित करने के लिए {0}"
-  },
-  "tab.updated.changed": {
-    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
-    "message": "बदला हुआ"
-  },
-  "tab.updated.fixed": {
-    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
-    "message": "ठीक किया गया"
-  },
-  "tab.updated.heading": {
-    "description": "Title of the tab which opens when PreMiD was updated",
-    "message": "स्तर बढ़ाएं"
-  },
-  "tab.updated.new": {
-    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
-    "message": "नया"
-  },
-  "tab.updated.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
-    "message": "{0} को अपडेट कर दिया गया है!"
-  },
-  "tab.troubleshooting.heading": {
-    "description": "Title of the tab which opens when you click on the troubleshooting button",
-    "message": "ट्रबलशूटिंग"
-  }
+	"donate": {
+		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
+		"message": "दान करें"
+	},
+	"tab.button.changelog": {
+		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
+		"message": "परिवर्तन लॉग"
+	},
+	"tab.button.wiki": {
+		"description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
+		"message": "विकी"
+	},
+	"tab.installed.error": {
+		"description": "Error message of the tab which opens when you install PreMiD for the first time",
+		"message": "** ओह नहीं! ** हम एप्लिकेशन से कनेक्ट नहीं कर सके... क्या यह पहले से इंस्टॉल है?"
+	},
+	"tab.installed.heading": {
+		"description": "Title of the tab which opens when you install PreMiD for the first time",
+		"message": "धन्यवाद"
+	},
+	"tab.installed.link.installApplication": {
+		"description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
+		"message": "एप्लिकेशन इंस्टॉल करें"
+	},
+	"tab.installed.link.troubleshooting": {
+		"description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
+		"message": "ट्रबलशूटिंग"
+	},
+	"tab.installed.start": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
+		"message": "का उपयोग करना शुरू करें {0}"
+	},
+	"tab.installed.subHeading": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
+		"message": "स्थापित करने के लिए {0}"
+	},
+	"tab.updated.changed": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "बदला हुआ"
+	},
+	"tab.updated.fixed": {
+		"description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
+		"message": "ठीक किया गया"
+	},
+	"tab.updated.heading": {
+		"description": "Title of the tab which opens when PreMiD was updated",
+		"message": "स्तर बढ़ाएं"
+	},
+	"tab.updated.new": {
+		"description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
+		"message": "नया"
+	},
+	"tab.updated.subHeading": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
+		"message": "{0} को अपडेट कर दिया गया है!"
+	},
+	"tab.troubleshooting.heading": {
+		"description": "Title of the tab which opens when you click on the troubleshooting button",
+		"message": "ट्रबलशूटिंग"
+	},
+	"tab.updated.changeTypes.features": {
+		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
+		"message": "फीचर्स"
+	}
 }
