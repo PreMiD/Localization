@@ -1,98 +1,102 @@
 {
-  "donate": {
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time",
-    "message": "Donar"
-  },
-  "version": {
-    "description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
-    "message": "v{0}"
-  },
-  "tab.button.changelog": {
-    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
-    "message": "Registro de cambios"
-  },
-  "tab.button.wiki": {
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "Wiki"
-  },
-  "tab.installed.error": {
-    "description": "Error message of the tab which opens when you install PreMiD for the first time",
-    "message": "**¡Oh no!** No pudimos conectarnos a la aplicación... ¿Ya está instalada?"
-  },
-  "tab.installed.heading": {
-    "description": "Title of the tab which opens when you install PreMiD for the first time",
-    "message": "Gracias"
-  },
-  "tab.installed.link.installApplication": {
-    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
-    "message": "Instalar aplicación"
-  },
-  "tab.installed.link.troubleshooting": {
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "Solución de problemas"
-  },
-  "tab.installed.start": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
-    "message": "Empieza a usar {0}"
-  },
-  "tab.installed.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
-    "message": "por instalar {0}"
-  },
-  "tab.updated.changed": {
-    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
-    "message": "Cambiado"
-  },
-  "tab.updated.fixed": {
-    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
-    "message": "Corregido"
-  },
-  "tab.updated.heading": {
-    "description": "Title of the tab which opens when PreMiD was updated",
-    "message": "¡Has subido de nivel!"
-  },
-  "tab.updated.new": {
-    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
-    "message": "Nuevo"
-  },
-  "tab.updated.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
-    "message": "¡{0} ha sido actualizado!"
-  },
-  "tab.troubleshooting.heading": {
-    "description": "Title of the tab which opens when you click on the troubleshooting button",
-    "message": "Solución de problemas"
-  },
-  "tab.troubleshooting.subHeading": {
-    "description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
-    "message": "¿Problemas con {0}?"
-  },
-  "tab.troubleshooting.checks.extensionEnabled": {
-    "description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
-    "message": "Extensión habilitada"
-  },
-  "tab.troubleshooting.checks.internetConnection": {
-    "description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
-    "message": "Conexión a Internet"
-  },
-  "tab.troubleshooting.checks.appConnection": {
-    "description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
-    "message": "Conectado con la aplicación PreMiD"
-  },
-  "tab.troubleshooting.checks.discordConnection": {
-    "description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
-    "message": "Conectado con la aplicación de Discord"
-  },
-  "tab.troubleshooting.checks.discordStatus": {
-    "description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
-    "message": "Mensaje de estado de Discord habilitado"
-  },
-  "tab.troubleshooting.checks.presenceToDisplay": {
-    "description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
-    "message": "Presence a mostrar"
-  },
-  "tab.installed.connectToDiscord": {
-    "description": "Information text to tell users to connect to Discord",
-    "message": "Necesitas conectar a tu cuenta de Discord para usar PreMiD. Simplemente haz clic en el botón de abajo."
-  }
+	"donate": {
+		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
+		"message": "Donar"
+	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
+	"tab.button.changelog": {
+		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
+		"message": "Registro de cambios"
+	},
+	"tab.button.wiki": {
+		"description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
+		"message": "Wiki"
+	},
+	"tab.installed.error": {
+		"description": "Error message of the tab which opens when you install PreMiD for the first time",
+		"message": "**¡Oh no!** No pudimos conectarnos a la aplicación... ¿Ya está instalada?"
+	},
+	"tab.installed.heading": {
+		"description": "Title of the tab which opens when you install PreMiD for the first time",
+		"message": "Gracias"
+	},
+	"tab.installed.link.installApplication": {
+		"description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
+		"message": "Instalar aplicación"
+	},
+	"tab.installed.link.troubleshooting": {
+		"description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
+		"message": "Solución de problemas"
+	},
+	"tab.installed.start": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
+		"message": "Empieza a usar {0}"
+	},
+	"tab.installed.subHeading": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
+		"message": "por instalar {0}"
+	},
+	"tab.updated.changed": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Cambiado"
+	},
+	"tab.updated.fixed": {
+		"description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
+		"message": "Corregido"
+	},
+	"tab.updated.heading": {
+		"description": "Title of the tab which opens when PreMiD was updated",
+		"message": "¡Has subido de nivel!"
+	},
+	"tab.updated.new": {
+		"description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
+		"message": "Nuevo"
+	},
+	"tab.updated.subHeading": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
+		"message": "¡{0} ha sido actualizado!"
+	},
+	"tab.troubleshooting.heading": {
+		"description": "Title of the tab which opens when you click on the troubleshooting button",
+		"message": "Solución de problemas"
+	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "¿Problemas con {0}?"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Extensión habilitada"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Conexión a Internet"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Conectado con la aplicación PreMiD"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Conectado con la aplicación de Discord"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Mensaje de estado de Discord habilitado"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Presence a mostrar"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "Necesitas conectar a tu cuenta de Discord para usar PreMiD. Simplemente haz clic en el botón de abajo."
+	},
+	"tab.updated.changeTypes.features": {
+		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
+		"message": "Características"
+	}
 }

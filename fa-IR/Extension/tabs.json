@@ -1,62 +1,66 @@
 {
-  "donate": {
-    "description": "Donate button of the tab which opens when you install PreMiD for the first time",
-    "message": "حمایت"
-  },
-  "tab.button.changelog": {
-    "description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
-    "message": "گزارش تغییرات"
-  },
-  "tab.button.wiki": {
-    "description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "ویکی"
-  },
-  "tab.installed.error": {
-    "description": "Error message of the tab which opens when you install PreMiD for the first time",
-    "message": "**اوه نه!** نتوانستیم به برنامه متصل شویم... آیا قبلاً نصب شده است؟"
-  },
-  "tab.installed.heading": {
-    "description": "Title of the tab which opens when you install PreMiD for the first time",
-    "message": "از شما متشكريم"
-  },
-  "tab.installed.link.installApplication": {
-    "description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
-    "message": "نصب برنامه"
-  },
-  "tab.installed.link.troubleshooting": {
-    "description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
-    "message": "ایرادیابی"
-  },
-  "tab.installed.start": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
-    "message": "شروع استفاده از {0}"
-  },
-  "tab.installed.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
-    "message": "برای نصب {0}"
-  },
-  "tab.updated.changed": {
-    "description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
-    "message": "تغییر یافته"
-  },
-  "tab.updated.fixed": {
-    "description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
-    "message": "درست شده"
-  },
-  "tab.updated.heading": {
-    "description": "Title of the tab which opens when PreMiD was updated",
-    "message": "ارتقا یافتن سطح!"
-  },
-  "tab.updated.new": {
-    "description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
-    "message": "جدید"
-  },
-  "tab.updated.subHeading": {
-    "description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
-    "message": "{0} بروزرسانی شد!"
-  },
-  "tab.troubleshooting.heading": {
-    "description": "Title of the tab which opens when you click on the troubleshooting button",
-    "message": "ایرادیابی"
-  }
+	"donate": {
+		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
+		"message": "حمایت"
+	},
+	"tab.button.changelog": {
+		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
+		"message": "گزارش تغییرات"
+	},
+	"tab.button.wiki": {
+		"description": "Wiki button (opens wiki) of the tab which opens when you install PreMiD for the first time",
+		"message": "ویکی"
+	},
+	"tab.installed.error": {
+		"description": "Error message of the tab which opens when you install PreMiD for the first time",
+		"message": "**اوه نه!** نتوانستیم به برنامه متصل شویم... آیا قبلاً نصب شده است؟"
+	},
+	"tab.installed.heading": {
+		"description": "Title of the tab which opens when you install PreMiD for the first time",
+		"message": "از شما متشكريم"
+	},
+	"tab.installed.link.installApplication": {
+		"description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
+		"message": "نصب برنامه"
+	},
+	"tab.installed.link.troubleshooting": {
+		"description": "Troubleshooting button (redirects to wiki) of the tab which opens when you install PreMiD for the first time",
+		"message": "ایرادیابی"
+	},
+	"tab.installed.start": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Button (redirects you to a promotional video) of the tab which opens when you install PreMiD for the first time",
+		"message": "شروع استفاده از {0}"
+	},
+	"tab.installed.subHeading": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when you install PreMiD for the first time",
+		"message": "برای نصب {0}"
+	},
+	"tab.updated.changed": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "تغییر یافته"
+	},
+	"tab.updated.fixed": {
+		"description": "Title of the 'fixed' section of the tab which opens when PreMiD was updated",
+		"message": "درست شده"
+	},
+	"tab.updated.heading": {
+		"description": "Title of the tab which opens when PreMiD was updated",
+		"message": "ارتقا یافتن سطح!"
+	},
+	"tab.updated.new": {
+		"description": "Title of the 'new features' section of the tab which opens when PreMiD was updated",
+		"message": "جدید"
+	},
+	"tab.updated.subHeading": {
+		"description": "{0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated; Subtitle of the tab which opens when PreMiD was updated",
+		"message": "{0} بروزرسانی شد!"
+	},
+	"tab.troubleshooting.heading": {
+		"description": "Title of the tab which opens when you click on the troubleshooting button",
+		"message": "ایرادیابی"
+	},
+	"tab.updated.changeTypes.features": {
+		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
+		"message": "ویژگی‌ها"
+	}
 }
