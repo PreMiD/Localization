@@ -239,6 +239,18 @@
 		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Guna Status Bermain"
 	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Apa yang Baharu 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Tengoklah benda hebat yang terbaru!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Buka Log Perubahan"
+	},
 	"popup.discordUnlinked.title": {
 		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
 		"message": "Discord Tidak Dipautkan"
