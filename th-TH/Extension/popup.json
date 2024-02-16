@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "PreMiD ของคุณล้าสมัยแล้ว โปรดอัปเดตโดยกดที่ PreMiD"
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "ส่วนขยายกำลังปิดใช้งานอยู่"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "ส่วนขยาย PreMiD ได้ถูกปิดการใช้งานในการตั้งค่า. โปรดเปิดส่วนขยายเพื่อใช้งาน PreMiD ต่อ."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "ตรวจสอบดูว่าคุณได้เปิด 'แสดงกิจกรรมที่กำลังทำในปัจจุบันเป็นข้อความสถานะ' ในการตั้งค่า Discord ของคุณ."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD ไม่สามารถหา presence สำหรับแท็บปัจจุบันทั้งหมดได้. โปรดตรวจสอบว่าคุณมี presence สำหรับเว็บไซต์ที่คุณใช้อยู่ติดตั้งไว้แล้ว. ถ้าคุณได้ติดตั้ง presence แล้วลองรีเฟรชเว็บไซต์ของ presence นั้นดู และ ตรวจสอบสอบให้แน่ใจดูว่าคุณได้เปิด presence นั้นแล้วในการตั้งค่า."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "เครดิต"
@@ -118,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "ข้อมูล"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "การวินิจฉัย"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "เปิดใช้งาน"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "โหมดผู้พัฒนา"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "ควบคุมสื่อ"
@@ -151,6 +175,34 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "เมนู"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "ซิงค์ภาษา"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "ภาษา Presence หลัก"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Heartbeat"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "เวอร์ชั่นส่วนขยาย: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "เวอร์ชั่นแอป: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "ไม่ได้เชื่อมต่อกับแอป PreMiD"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "ผู้ใช้ Discord: {0}"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "ไม่ใช่คุณหรอ?"
@@ -158,5 +210,9 @@
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "ออกจากระบบ"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD จำเป็นต้องเชื่อมกับบัญชี Discord ในการทำงาน. โปรดเชื่อมบัญชี Discord เพื่อใช้งาน PreMiD ต่อ."
 	}
 }
