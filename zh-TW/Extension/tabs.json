@@ -62,5 +62,13 @@
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "功能"
+	},
+	"tab.installed.close": {
+		"description": "Close button text",
+		"message": "關閉"
+	},
+	"tab.installed.donate": {
+		"description": "Donate button text",
+		"message": "捐贈"
 	}
 }
