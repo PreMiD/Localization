@@ -58,5 +58,9 @@
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Funkce"
+	},
+	"tab.installed.close": {
+		"description": "Close button text",
+		"message": "Zavřít"
 	}
 }
