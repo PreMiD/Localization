@@ -143,9 +143,65 @@
 		"description": "Button to join the Discord server",
 		"message": "Sertai pelayan Discord kami"
 	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Selamat datang ke PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Mari kita mulakan!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Pasang Sambungan PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Pautkan sebuah akaun Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Pastikan anda menghidupkan tetapan \"Display current activity as a status message.\""
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Tetapan Pengguna {0} Tetapan Aktiviti {0} Privasi Aktiviti"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Pautkan akaun Discord anda"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Ini membolehkan PreMiD untuk memaparkan aktiviti semasa anda sebagai mesej status."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Akaun Discord dipautkan"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Mari lakukan langkah seterusnya."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Seterusnya"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Pastikan anda menghidupkan tetapan \"Display current activity as a status message.\", jika tidak orang lain takkan nampak status baharu anda."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Hidupkan tetapan \"Display current activity as a status message.\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Selesai!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Anda sudah selesai dan sedia untuk bermula! Kami berharap anda menikmati penggunaan PreMiD. Sekiranya anda ada soalan atau perlu bantuan, sila sertai pelayan Discord kami. Jika anda sayang PreMiD seperti kami, sila pertimbangkan untuk menyokong kami dengan menderma, memberikan nilai buat sambungan, atau kongsikannya dengan rakan-rakan anda."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
