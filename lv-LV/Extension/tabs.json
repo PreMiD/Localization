@@ -3,6 +3,10 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Funkcijas"
 	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "Nākamais"
+	},
 	"tab.installed.close": {
 		"description": "Close button text",
 		"message": "Aizvērt"
