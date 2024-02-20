@@ -142,5 +142,65 @@
 	"tab.updated.whatsNextJoinDiscordButton": {
 		"description": "Button to join the Discord server",
 		"message": "Join our Discord server"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Welcome to PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Let's get you started!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Install PreMiD's Extension"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Link a Discord account"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Make sure you have \"Display current activity as a status message.\" enabled"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "User Settings {0} Activity Settings {0} Activity Privacy"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Link your Discord account"
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord account linked"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Let's move on to the next step."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Enable \"Display current activity as a status message.\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "All done!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "You're all set up and ready to go! We hope you enjoy using PreMiD. If you have any questions or need help, feel free to join our Discord server. If you love PreMiD as much as we do, consider supporting us by donating, rating the extension, or sharing it with your friends."
+	},
+	"tab.installed.close": {
+		"description": "Close button text",
+		"message": "Close"
+	},
+	"tab.installed.donate": {
+		"description": "Donate button text",
+		"message": "Donate"
+	},
+	"tab.installed.discord": {
+		"description": "Discord button text",
+		"message": "Discord"
 	}
 }
