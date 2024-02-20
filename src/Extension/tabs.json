@@ -171,6 +171,10 @@
 		"description": "Prompt to link Discord account",
 		"message": "Link your Discord account"
 	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "This allows PreMiD to display your current activity as a status message."
+	},
 	"tab.installed.discordAccountLinked": {
 		"description": "Confirmation of Discord account linked",
 		"message": "Discord account linked"
@@ -178,6 +182,10 @@
 	"tab.installed.nextStep": {
 		"description": "Prompt to move to the next step",
 		"message": "Let's move on to the next step."
+	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "Next"
 	},
 	"tab.installed.enableActivityStatusPrompt": {
 		"description": "Prompt to enable activity status",
@@ -198,9 +206,5 @@
 	"tab.installed.donate": {
 		"description": "Donate button text",
 		"message": "Donate"
-	},
-	"tab.installed.discord": {
-		"description": "Discord button text",
-		"message": "Discord"
 	}
 }
