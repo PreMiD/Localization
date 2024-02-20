@@ -142,5 +142,13 @@
 	"tab.updated.whatsNextJoinDiscordButton": {
 		"description": "Button to join the Discord server",
 		"message": "Sertai pelayan Discord kami"
+	},
+	"tab.installed.close": {
+		"description": "Close button text",
+		"message": "Tutup"
+	},
+	"tab.installed.donate": {
+		"description": "Donate button text",
+		"message": "Derma"
 	}
 }
