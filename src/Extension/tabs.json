@@ -187,6 +187,10 @@
 		"description": "Next button text",
 		"message": "Next"
 	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Make sure you have \"Display current activity as a status message.\" enabled, otherwise no one will see your shiny new status."
+	},
 	"tab.installed.enableActivityStatusPrompt": {
 		"description": "Prompt to enable activity status",
 		"message": "Enable \"Display current activity as a status message.\""
