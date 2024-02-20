@@ -143,6 +143,10 @@
 		"description": "Button to join the Discord server",
 		"message": "Sertai pelayan Discord kami"
 	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "Seterusnya"
+	},
 	"tab.installed.close": {
 		"description": "Close button text",
 		"message": "Tutup"

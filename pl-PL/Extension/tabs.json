@@ -63,6 +63,10 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Funkcje"
 	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "Dalej"
+	},
 	"tab.installed.close": {
 		"description": "Close button text",
 		"message": "Zamknij"

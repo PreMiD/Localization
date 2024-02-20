@@ -63,6 +63,10 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "기능"
 	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "다음"
+	},
 	"tab.installed.close": {
 		"description": "Close button text",
 		"message": "닫기"

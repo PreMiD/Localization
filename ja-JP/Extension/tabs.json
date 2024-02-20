@@ -63,6 +63,10 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "機能を見る"
 	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "次へ"
+	},
 	"tab.installed.donate": {
 		"description": "Donate button text",
 		"message": "寄付"
