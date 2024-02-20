@@ -58,5 +58,9 @@
 	"tab.troubleshooting.heading": {
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "פתרון תקלות"
+	},
+	"tab.installed.donate": {
+		"description": "Donate button text",
+		"message": "תרום"
 	}
 }
