@@ -41,7 +41,7 @@
   },
   "home.features.quickSupport.button": {
     "description": "Features section button",
-    "message": "Присоединиться к нашему Discord серверу"
+    "message": "Присоединиться к Discord серверу"
   },
   "home.features.quickSupport.description": {
     "description": "Features section description",
