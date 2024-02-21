@@ -31,6 +31,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Посмотреть исполнителя"
 	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Открыть список изменений"
+	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Посмотреть канал"
@@ -247,6 +251,10 @@
 		"description": "",
 		"message": "Магазин"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "Страница поддержки"
+	},
 	"general.terms": {
 		"description": "A page name",
 		"message": "Пользовательское соглашение"
@@ -454,6 +462,10 @@
 	"general.wiki": {
 		"description": "A page name",
 		"message": "Вики"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Главная страница Вики"
 	},
 	"general.wishlist": {
 		"description": "",
