@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "Ваша версия приложения PreMiD устарела. Пожалуйста, обновите приложение, чтобы продолжить его использовать."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Расширение отключено"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Расширение PreMiD было отключено в настройках. Пожалуйста, включите его, чтобы продолжить использование PreMiD."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Пожалуйста, убедитесь, что вы включили настройку 'Отображать текущую активность в статусе' в настройках Discord."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD не удалось найти Presence для ваших текущих вкладок. Пожалуйста, убедитесь, что вы установили Presence для сайта, на котором вы находитесь. Если вы установили Presence, попробуйте перезагрузить сайт, и убедитесь, что вы включили Presence в настройках."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Команда"
@@ -118,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Информация"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Диагностика"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Включено"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Режим разработчика"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Медиа-клавиши"
@@ -151,12 +175,88 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Заголовок в Menubar"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Синхронизация языка"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Предпочитаемый язык для Presence"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Версия расширения: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Версия приложения: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Нет соединения с приложением PreMiD"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Discord пользователь: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Нет соединения с приложением Discord"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord не подключен"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "Для корректной работы PreMiD требуется подключение учётной записи Discord. Пожалуйста, подключите свою учётную запись Discord для продолжения использования PreMiD."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Подключить Discord"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Это не вы?"
 	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Не подключен"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Ваша учётная запись Discord не подключена к PreMiD."
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Выйти"
+	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Использовать статус активности"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Что нового 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Ознакомьтесь с последними крутыми новинками!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Открыть список изменений"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord не подключен"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Для корректной работы PreMiD требуется подключение учётной записи Discord. Пожалуйста, подключите свою учётную запись Discord для продолжения использования PreMiD."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Подключить Discord"
 	}
 }
