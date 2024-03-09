@@ -67,6 +67,10 @@
 		"description": "Next button text",
 		"message": "다음"
 	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "\"현재 활동을 상태 메시지로 표시해요.\"를 꼭 켜도록 하세요. 그렇지 않으면, 아무도 반짝반짝한 새 상태를 볼 수 없게 돼요."
+	},
 	"tab.installed.close": {
 		"description": "Close button text",
 		"message": "닫기"
