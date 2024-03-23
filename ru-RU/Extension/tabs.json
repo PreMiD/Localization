@@ -107,13 +107,29 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Возможности"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Исправления"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Производительность"
+	},
 	"tab.updated.changeTypes.chores": {
 		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
 		"message": "Основные изменения"
 	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Привязать аккаунт Discord"
+	},
 	"tab.updated.linkYourDiscordAccountDescription": {
 		"description": "Description of the button to link your Discord account",
 		"message": "Начиная с версии v2.6.0, для корректной работы PreMiD требуется привязанная учётная запись Discord. Пожалуйста, привяжите свою учётную запись Disord, чтобы продолжить использование PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Привязать аккаунт Discord"
 	},
 	"tab.updated.whatsNext": {
 		"description": "Subtitle of the tab which opens when PreMiD was updated",
@@ -131,9 +147,41 @@
 		"description": "Welcome message",
 		"message": "Добро пожаловать в PreMiD!"
 	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Давайте начнём!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Установить расширение PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Привязать учётную запись Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Убедитесь, что включена опция \"Отображать текущую активность в статусе\""
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Настройки пользователя {0} Настройки активности {0} Конфиденциальность активности"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Привяжите аккаунт Discord"
+	},
 	"tab.installed.linkDiscordAccountDescription": {
 		"description": "Description of the prompt to link Discord account",
 		"message": "Это позволяет PreMiD отображать вашу текущую активность в статусе."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Аккаунт Discord привязан"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Давайте перейдем к следующему шагу."
 	},
 	"tab.installed.next": {
 		"description": "Next button text",
@@ -142,6 +190,10 @@
 	"tab.installed.enableActivityStatusDescription": {
 		"description": "Description of the prompt to enable activity status",
 		"message": "Убедитесь, что включена опция \"Отображать текущую активность в статусе\", иначе никто не увидит ваш новый сияющий статус."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Включите \"Отображать текущую активность в статусе\""
 	},
 	"tab.installed.allDone": {
 		"description": "Confirmation of completion",
