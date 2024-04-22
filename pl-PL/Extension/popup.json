@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "Twoja zainstalowana wersja PreMiD jest przestarzała. Proszę zaktualizuj ją, aby dalej korzystać z PreMiD."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Rozszerzenie wyłączone"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Rozszerzenie PreMiD zostało wyłączone w ustawieniach. Włącz je, aby kontynuować korzystanie z PreMiD."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Upewnij się, że w ustawieniach Discorda włączyłeś ustawienie 'Wyświetl aktualną aktywność jako status'."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD nie był w stanie znaleźć presence dla Twoich bieżących kart. Upewnij się, że masz zainstalowany presence dla witryny, na której obecnie jesteś. Jeśli tak, spróbuj odświeżyć tę stronę internetową i upewnij się, że włączyłeś presence w ustawieniach."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Twórcy"
