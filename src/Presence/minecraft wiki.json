@@ -10,5 +10,13 @@
   "minecraft wiki.viewSourceOf": {
     "description": "Displayed when viewing the source of a wiki page.",
     "message": "Viewing source of:"
+  },
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Changing protecting settings of:"
+  },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Viewing protection settings of:"
   }
 }
