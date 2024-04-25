@@ -1,0 +1,14 @@
+{
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Viewing history:"
+  },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Moving:"
+  },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Viewing source of:"
+  }
+}
