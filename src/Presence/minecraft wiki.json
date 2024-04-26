@@ -18,5 +18,13 @@
   "minecraft wiki.viewProtection": {
     "description": "Displayed when viewing the protection settings of a wiki page.",
     "message": "Viewing protection settings of:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Viewing contributions of:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Viewing recent changes"
   }
 }
