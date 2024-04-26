@@ -26,5 +26,9 @@
   "minecraft wiki.viewSourceOf": {
     "description": "Displayed when viewing the source of a wiki page.",
     "message": "Viewing source of:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist.",
+    "message": "Viewing their watchlist"
   }
 }
