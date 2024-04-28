@@ -1,1 +1,22 @@
-{}
+{
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Изменяет защищённые настройки:"
+  },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Переименование:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Смотрит вклады в:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Смотрит свежие правки"
+  },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Смотрит исходный код:"
+  }
+}
