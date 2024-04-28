@@ -1,7 +1,7 @@
 {
   "minecraft wiki.changeProtection": {
     "description": "Displayed when changing protection settings for a wiki page.",
-    "message": "Изменяет защищённые настройки:"
+    "message": "Изменяет защищённые настройки для:"
   },
   "minecraft wiki.moving": {
     "description": "Displayed when moving a wiki page.",
@@ -9,7 +9,15 @@
   },
   "minecraft wiki.viewContributionsOf": {
     "description": "Displayed when viewing the contributions from a user.",
-    "message": "Смотрит вклады в:"
+    "message": "Смотрит вклады для:"
+  },
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Смотрит историю:"
+  },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Смотрит защищённые настройки для:"
   },
   "minecraft wiki.viewRecentChanges": {
     "description": "Displayed when viewing recent changes.",
@@ -18,5 +26,9 @@
   "minecraft wiki.viewSourceOf": {
     "description": "Displayed when viewing the source of a wiki page.",
     "message": "Смотрит исходный код:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
+    "message": "Смотрит свой список наблюдения"
   }
 }
