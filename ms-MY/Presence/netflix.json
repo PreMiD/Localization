@@ -22,9 +22,5 @@
   "netflix.seriesDisplay.short": {
     "description": "Shown when watching a series with 'watching Netflix' status, example: S6 E2 - Episode title",
     "message": "M{0} E{1} - {2}"
-  },
-  "netflix.movieDispaly": {
-    "description": "Shown when watching a movie, example: 2024 • 120 minutes",
-    "message": "{0} • {1} minit"
   }
 }
