@@ -186,5 +186,9 @@
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Çıkış"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Yenilikler 🎉"
 	}
 }
