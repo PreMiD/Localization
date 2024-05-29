@@ -14,5 +14,9 @@
   "netflix.viewList": {
     "description": "List as in their saved series/movies.",
     "message": "Listesine göz atıyor"
+  },
+  "netflix.movieDisplay": {
+    "description": "Shown when watching a movie, example: 2024 • 120 minutes",
+    "message": "{0} • {1} dakika"
   }
 }
