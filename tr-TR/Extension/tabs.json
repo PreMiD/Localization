@@ -87,9 +87,77 @@
 		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
 		"message": "Discord durum mesajı aktifleştirildi"
 	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Yenilikler 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Özellikler"
+	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Düzeltmeler"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Performans"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Genel Değişiklikler"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Discord Hesabınızı Bağlayın"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Sürüm v2.6.0 ile başlayarak, PreMiD, düzgün çalışmak için bağlanmış bir Discord hesabına ihtiyaç duyar. Lütfen PreMiD'i kullanmaya devam edebilmek için Discord hesabınızı bağlayın."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Discord Hesabınızı Bağlayın"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Sırada Ne Var?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Umuyoruz ki yeni güncelleme hoşunuza gider! Eğer herhangi bir geri bildiriminiz ya da öneriniz varsa, Discord sunucumuza katılıp bize söylemekten çekinmeyin."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Discord sunucumuza katılın"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "PreMiD'e hoş geldiniz!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Hadi başlayalım!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "PreMiD'in Uzantısını Kur"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Bir Discord hesabı bağla"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "\"Mevcut etkinliği durum mesajı olarak göster.\" seçeneğinin aktif olduğundan emin olun"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Kullanıcı Ayarları {0} Aktivite Ayarları {0} Aktivite Gizliliği"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Discord hesabınızı bağlayın"
 	},
 	"tab.installed.next": {
 		"description": "Next button text",
@@ -97,7 +165,7 @@
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
-		"message": "İptal"
+		"message": "Kapat"
 	},
 	"tab.installed.donate": {
 		"description": "Donate button text",
