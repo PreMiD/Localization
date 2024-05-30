@@ -14,5 +14,17 @@
   "netflix.viewList": {
     "description": "List as in their saved series/movies.",
     "message": "กำลังดูรายชื่อหนังและซีรีส์ที่เขาบันทึกไว้"
+  },
+  "netflix.seriesDisplay.full": {
+    "description": "Shown when watching a series with 'watching seriesname' status, example: Season 6, Episode 2",
+    "message": "ซีซั่น {0}, ตอน {1}"
+  },
+  "netflix.seriesDisplay.short": {
+    "description": "Shown when watching a series with 'watching Netflix' status, example: S6 E2 - Episode title",
+    "message": "SS{0} EP{1} - {2}"
+  },
+  "netflix.movieDisplay": {
+    "description": "Shown when watching a movie, example: 2024 • 120 minutes",
+    "message": "{0} • {1} นาที"
   }
 }
