@@ -161,7 +161,7 @@
 	},
 	"popup.setting.enabled": {
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
-		"message": "Activado"
+		"message": "Activo"
 	},
 	"popup.setting.developerMode": {
 		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
