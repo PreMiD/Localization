@@ -247,6 +247,10 @@
 		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Use Playing Status"
 	},
+	"popup.setting.disableWhenOffline": {
+		"description": "Stops activity from being set when user is offline (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Disable When Offline"
+	},
 	"popup.whatsNew.heading": {
 		"description": "Title of the 'What's new' section at the navigation in the popup",
 		"message": "What's New 🎉"
