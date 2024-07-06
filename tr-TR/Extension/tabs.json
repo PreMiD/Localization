@@ -195,6 +195,10 @@
 		"description": "Confirmation of completion",
 		"message": "Her şey tamam!"
 	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Her şey tamam ve kullanıma hazırsınız! PreMiD'i kullanmaktan keyif alacağınızı umuyoruz. Herhangi bir sorunuz varsa veya yardıma ihtiyacınız olursa, Discord sunucumuza katılmaktan çekinmeyin. PreMiD'i bizim kadar seviyorsanız, bağış yaparak, uzantıyı derecelendirerek veya arkadaşlarınızla paylaşarak bizi destekleyebilirsiniz."
+	},
 	"tab.installed.close": {
 		"description": "Close button text",
 		"message": "Kapat"
