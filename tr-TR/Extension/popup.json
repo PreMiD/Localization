@@ -119,6 +119,10 @@
 		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
 		"message": "Lütfen Discord ayarlarından \"Mevcut etkinliği durum mesajı olarak göster.\" özelliğini etkinleştirdiğinizden emin olun."
 	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD mevcut sekmeleriniz için bir servis bulamadı. Lütfen şu anda bulunduğunuz web sitesi için bir servis yüklediğinizden emin olun. Eğer bir servis yüklediyseniz, servisin web sitesini yeniden yüklemeyi deneyin, ve servisi ayarlarda etkinleştirdiğinizden emin olun."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Katkıda Bulunanlar"
@@ -130,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Bilgi"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Teşhisler"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -155,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Etkin"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Geliştirici Modu"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Medya Kontrolleri"
@@ -167,6 +179,22 @@
 		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "Dili senkronize et"
 	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Tercih Edilen Servis Dili"
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Kullanıcı verileri alınamadı"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Kalp Atışı"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Uygulamayı Tercih Et"
+	},
 	"popup.information.extensionVersion": {
 		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
 		"message": "Uzantı sürümü: {0}"
@@ -175,20 +203,72 @@
 		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
 		"message": "Uygulama sürümü: {0}"
 	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "PreMiD Uygulamasına bağlı değil"
+	},
 	"popup.information.discordUser": {
 		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
 		"message": "Discord kullanıcısı: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Discord Uygulamasına bağlı değil"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord Bağlantısı Kesildi"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD, düzgün çalışabilmesi için bağlanmış bir Discord hesabına ihtiyaç duyar. Lütfen PreMiD'i kullanmaya devam edebilmek için Discord hesabınızı bağlayın."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Discord'u bağla"
 	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Sen değil misin?"
 	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Bağlı değil"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Discord hesabınız PreMiD'e bağlı değil."
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Çıkış"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Oynuyor Durumunu Kullan"
+	},
 	"popup.whatsNew.heading": {
 		"description": "Title of the 'What's new' section at the navigation in the popup",
 		"message": "Yenilikler 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "En yeni havalı şeylere bir göz at!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Değişim Kaydını Aç"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord Bağlantısı Kesildi"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD, düzgün çalışabilmesi için bağlanmış bir Discord hesabına ihtiyaç duyar. Lütfen PreMiD'i kullanmaya devam edebilmek için Discord hesabınızı bağlayın."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Discord'u bağla"
 	}
 }
