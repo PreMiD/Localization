@@ -87,6 +87,18 @@
 		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
 		"message": "Discord durum mesajı aktifleştirildi"
 	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Gösterilecek servis"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "PreMiD'i kullanabilmek için Discord hesabınızı bağlamanız gerekiyor. Basitçe aşağıdaki butona tıklayın."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD güncellendi!"
+	},
 	"tab.updated.whatsNew": {
 		"description": "Subtitle of the tab which opens when PreMiD was updated",
 		"message": "Yenilikler 🎉"
@@ -117,7 +129,7 @@
 	},
 	"tab.updated.linkYourDiscordAccountButton": {
 		"description": "Button to link your Discord account",
-		"message": "Discord Hesabınızı Bağlayın"
+		"message": "Discord hesabınızı bağlayın"
 	},
 	"tab.updated.whatsNext": {
 		"description": "Subtitle of the tab which opens when PreMiD was updated",
@@ -159,9 +171,29 @@
 		"description": "Prompt to link Discord account",
 		"message": "Discord hesabınızı bağlayın"
 	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Bu, PreMiD'in mevcut etkinliğinizi bir durum mesajı olarak göstermesini sağlar."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord hesabı bağlandı"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Bir sonraki adıma geçelim."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Sonraki"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "\"Mevcut etkinliği durum mesajı olarak göster.\" seçeneğini etkinleştirdiğinizden emin olun, aksi takdirde kimse yepyeni durumunuzu göremez."
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Her şey tamam!"
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
