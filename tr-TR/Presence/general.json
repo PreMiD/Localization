@@ -367,6 +367,10 @@
 		"description": "A page name",
 		"message": "Viki"
 	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Wiki ana sayfası"
+	},
 	"general.wishlist": {
 		"description": "",
 		"message": "İstek listesi:"

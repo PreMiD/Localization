@@ -1,10 +1,30 @@
 {
+  "x.bookmarks": {
+    "description": "",
+    "message": "Yer imleri"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Keşfet"
+  },
   "x.notifs": {
     "description": "",
     "message": "Bildirimler"
   },
+  "x.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Post'unu okuyor:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Bazı ayarları değiştiriyor..."
+  },
   "x.viewDms": {
     "description": "",
     "message": "Direkt mesajlarına bakıyor"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Listeye bakıyor:"
   }
 }
