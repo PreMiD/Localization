@@ -175,6 +175,10 @@
 		"description": "",
 		"message": "Okuyor"
 	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Bir kanalda okuyor"
+	},
 	"general.readingAPost": {
 		"description": "",
 		"message": "Bir gönderi okuyor"
@@ -259,9 +263,53 @@
 		"description": "A page name of statuspages",
 		"message": "Çalışma süres geçmişi"
 	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Bir listeyi görüntülüyor"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Bir mangayı görüntülüyor"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Bir üyeyi görüntülüyor"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Bir filmi görüntülüyor"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Bir sayfayı görüntülüyor"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Bir oynatma listesini görüntülüyor"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Bir ürünü görüntülüyor"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Bir profili görüntülüyor"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Bir diziyi görüntülüyor"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Bir şovu görüntülüyor"
+	},
 	"general.viewAccount": {
 		"description": "",
 		"message": "Hesabına bakıyor"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Bir kullanıcıyı görüntülüyor"
 	},
 	"general.viewAnime": {
 		"description": "",
@@ -339,6 +387,14 @@
 		"description": "",
 		"message": "Bakıyor:"
 	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Bir istek listesini görüntülüyor"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "Şu kişinin istek listesini görüntülüyor:"
+	},
 	"general.waitingLive": {
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
 		"message": "Canlı yayının başlamasını bekliyor"
@@ -385,7 +441,7 @@
 	},
 	"general.wikiMainPage": {
 		"description": "Displayed when viewing the wiki main page.",
-		"message": "Wiki ana sayfası"
+		"message": "Viki ana sayfası"
 	},
 	"general.wishlist": {
 		"description": "",
