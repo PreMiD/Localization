@@ -191,6 +191,10 @@
 		"description": "Description of the prompt to enable activity status",
 		"message": "\"Mevcut etkinliği durum mesajı olarak göster.\" seçeneğini etkinleştirdiğinizden emin olun, aksi takdirde kimse yepyeni durumunuzu göremez."
 	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "\"Mevcut etkinliği durum mesajı olarak göster.\" seçeneğini aktifleştirin"
+	},
 	"tab.installed.allDone": {
 		"description": "Confirmation of completion",
 		"message": "Her şey tamam!"
