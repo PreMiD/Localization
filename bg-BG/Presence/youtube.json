@@ -25,7 +25,7 @@
 	},
 	"youtube.history": {
 		"description": "Part two of \"Browsing through\"",
-		"message": "тяхната история"
+		"message": "своята история"
 	},
 	"youtube.library": {
 		"description": "Part two of \"Browsing through\"",
@@ -37,11 +37,11 @@
 	},
 	"youtube.purchases": {
 		"description": "Part two of \"Browsing through\"",
-		"message": "тяхните покупки"
+		"message": "своите покупки"
 	},
 	"youtube.readingChannel": {
 		"description": "",
-		"message": "Чете за канал:"
+		"message": "Чете относно канал:"
 	},
 	"youtube.reportHistory": {
 		"description": "",
@@ -101,7 +101,7 @@
 	},
 	"youtube.subscriptions": {
 		"description": "Part two of \"Browsing through\"",
-		"message": "техните абонаменти"
+		"message": "своите абонаменти"
 	},
 	"youtube.trending": {
 		"description": "",
@@ -117,7 +117,7 @@
 	},
 	"youtube.viewAudioLibrary": {
 		"description": "",
-		"message": "Гледа библиотека с аудиота"
+		"message": "Гледа аудио библиотеката"
 	},
 	"youtube.viewLiveDashboard": {
 		"description": "",
@@ -129,7 +129,7 @@
 	},
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-		"message": "Гледа постове в общноста"
+		"message": "Гледа постове в общността"
 	},
 	"youtube.perVideoPrivacy.tooltip.1": {
 		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
