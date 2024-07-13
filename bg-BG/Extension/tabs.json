@@ -13,11 +13,11 @@
 	},
 	"tab.installed.error": {
 		"description": "Error message of the tab which opens when you install PreMiD for the first time",
-		"message": "** О, не! ** Не можахме да се свържем с приложението ... Тя вече е инсталирана?"
+		"message": "**О, не!** Не можахме да се свържем с приложението... Инсталирано ли е вече?"
 	},
 	"tab.installed.heading": {
 		"description": "Title of the tab which opens when you install PreMiD for the first time",
-		"message": "Благодаря ти"
+		"message": "Благодарим Ви"
 	},
 	"tab.installed.link.installApplication": {
 		"description": "Download button (redirects to premid.app) of the tab which opens when you install PreMiD for the first time",
