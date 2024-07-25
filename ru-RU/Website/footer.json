@@ -57,7 +57,7 @@
   },
   "footer.more.heading": {
     "description": "More section",
-    "message": "Больше"
+    "message": "Подробнее"
   },
   "footer.more.status": {
     "description": "Status -> redirects to status.premid.app",
