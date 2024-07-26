@@ -271,16 +271,88 @@
 		"description": "Button to link the Discord account",
 		"message": "Подключить Discord"
 	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Есть что сказать?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Отправить отзыв"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Сообщить об ошибке или проблеме с Presence"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Сообщить об ошибке или проблеме с расширением"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Предложить функцию"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Прочее"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Обратная связь"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Что происходит? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Пожалуйста, выберите тип обратной связи, который вы хотите отправить."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Сообщить об ошибке или проблеме с Presence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "О нет! 😱 Сожалеем, что у вас возникли проблемы с Presence.\n\nНаши Presence поддерживаются сообществом, поэтому, пожалуйста, сообщайте о любых проблемах, связанных с Presence, в нашем репозитории GitHub.\n\nЕсли вы выберете Presence ниже, мы автоматически включим сведения о Presence в шаблон проблемы."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Закрыть"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Отправить"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Сообщить об ошибке или проблеме с расширением"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "О нет! 😱 Сожалеем, что у вас возникли проблемы с расширением.\n\nЗаполните следующую форму, чтобы сообщить о любых проблемах, с которыми вы столкнулись при использовании расширения."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Опишите проблему"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Пожалуйста, опишите проблему, с которой вы столкнулись при использовании расширения, как можно подробнее."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Все сообщения анонимны, если вы не предоставите свою контактную информацию.\nПри необходимости мы можем обратиться к вам за дополнительной информацией или сообщить, когда проблема будет решена."
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Предложить функцию"
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Прочее"
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "О нет! 😱"
 	}
 }
