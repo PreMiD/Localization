@@ -270,5 +270,17 @@
 	"popup.discordUnlinked.button": {
 		"description": "Button to link the Discord account",
 		"message": "Discord'u bağla"
+	},
+	"popup.feedback.other": {
+		"description": "Title of the other option in the feedback type selection box",
+		"message": "Diğer"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "İptal"
+	},
+	"popup.feedback.other.header": {
+		"description": "The title of the other feedback page",
+		"message": "Diğer"
 	}
 }
