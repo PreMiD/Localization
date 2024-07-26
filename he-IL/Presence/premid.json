@@ -7,14 +7,6 @@
     "description": "A page name",
     "message": "הורדות"
   },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "התקנה"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "הכנה להתחיל"
-  },
   "premid.pageStore": {
     "description": "A page name",
     "message": "חנות"
