@@ -27,10 +27,6 @@
     "description": "Link filed's placeholder.",
     "message": "例:https://premid.app"
   },
-  "partners.apply.form.name": {
-    "description": "Name filed.",
-    "message": "名前"
-  },
   "partners.apply.jobs": {
     "description": "Hint located under the button.",
     "message": "直接PreMiDの仕事に関わりたい場合は、**こちらを**ご覧ください。"
@@ -86,10 +82,6 @@
   "partners.requirements.second.title": {
     "description": "Heading for the second requirement.",
     "message": "私たちのファイヤウォール"
-  },
-  "partners.requirements.title": {
-    "description": "Heading for the requirements.",
-    "message": "必要条件"
   },
   "partners.slideshow.description": {
     "description": "Description for slideshow.",
