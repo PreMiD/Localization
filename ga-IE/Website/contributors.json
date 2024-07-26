@@ -35,10 +35,6 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Léitheoir profaí"
   },
-  "contributors.roles.support": {
-    "description": "'Support' title for contributors and user pages.",
-    "message": "Tacaíocht"
-  },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
     "message": "Aistritheoir"
