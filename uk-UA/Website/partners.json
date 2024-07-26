@@ -55,10 +55,6 @@
     "description": "Link filed's placeholder.",
     "message": "Наприклад: https://premid.app"
   },
-  "partners.apply.form.name": {
-    "description": "Name filed.",
-    "message": "Ім'я"
-  },
   "partners.apply.form.name.placeholder": {
     "description": "Name field's placeholder.",
     "message": "Наприклад: PreMiD"
@@ -166,10 +162,6 @@
   "partners.requirements.second.title": {
     "description": "Heading for the second requirement.",
     "message": "Наш брандмауер"
-  },
-  "partners.requirements.title": {
-    "description": "Heading for the requirements.",
-    "message": "Вимоги"
   },
   "partners.slideshow.description": {
     "description": "Description for slideshow.",
