@@ -47,10 +47,6 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Hiệu đính viên"
   },
-  "contributors.roles.support": {
-    "description": "'Support' title for contributors and user pages.",
-    "message": "Hỗ trợ"
-  },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
     "message": "Phiên dịch viên"

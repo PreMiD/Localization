@@ -7,14 +7,6 @@
     "description": "A page name",
     "message": "下载"
   },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "安装"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Presence 类"
-  },
   "premid.pageStore": {
     "description": "A page name",
     "message": "Presence 市场"

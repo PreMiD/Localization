@@ -47,10 +47,6 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korrekturläsare"
   },
-  "contributors.roles.support": {
-    "description": "'Support' title for contributors and user pages.",
-    "message": "Hjälp"
-  },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
     "message": "Översättare"

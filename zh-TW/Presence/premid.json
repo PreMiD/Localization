@@ -1,8 +1,4 @@
 {
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "關於 PreMiD"
-  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "貢獻者"
@@ -10,10 +6,6 @@
   "premid.pageDownloads": {
     "description": "A page name",
     "message": "下載"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "開始使用"
   },
   "premid.pageTroubleshooting": {
     "description": "A page name",

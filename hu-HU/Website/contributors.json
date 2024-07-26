@@ -59,10 +59,6 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Lektor"
   },
-  "contributors.roles.support": {
-    "description": "'Support' title for contributors and user pages.",
-    "message": "Támogatás"
-  },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
     "message": "Fordító"

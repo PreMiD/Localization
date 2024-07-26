@@ -1,8 +1,4 @@
 {
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Σχετικά με PreMiD"
-  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Συνεισφέροντες"
@@ -10,10 +6,6 @@
   "premid.pageDownloads": {
     "description": "A page name",
     "message": "Λήψεις"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Εγκατάσταση"
   },
   "premid.pagePresenceClass": {
     "description": "A page name",

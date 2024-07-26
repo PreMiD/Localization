@@ -1,12 +1,4 @@
 {
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Informazioni su PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Collaboratori"
@@ -14,18 +6,6 @@
   "premid.pageDownloads": {
     "description": "A page name",
     "message": "Download"
-  },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Installazione"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Classe Presenza"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "Primi passi"
   },
   "premid.pageStore": {
     "description": "A page name",
