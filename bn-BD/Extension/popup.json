@@ -158,5 +158,17 @@
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "লগআউট"
+	},
+	"popup.feedback.other": {
+		"description": "Title of the other option in the feedback type selection box",
+		"message": "অন্যান্য"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "বন্ধ করো"
+	},
+	"popup.feedback.other.header": {
+		"description": "The title of the other feedback page",
+		"message": "অন্যান্য"
 	}
 }
