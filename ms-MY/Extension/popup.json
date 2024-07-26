@@ -270,5 +270,17 @@
 	"popup.discordUnlinked.button": {
 		"description": "Button to link the Discord account",
 		"message": "Pautkan Discord"
+	},
+	"popup.feedback.other": {
+		"description": "Title of the other option in the feedback type selection box",
+		"message": "Lain-lain"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "Tutup"
+	},
+	"popup.feedback.other.header": {
+		"description": "The title of the other feedback page",
+		"message": "Lain-lain"
 	}
 }
