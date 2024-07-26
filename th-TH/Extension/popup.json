@@ -214,5 +214,17 @@
 	"popup.discordUnlinked.description": {
 		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
 		"message": "PreMiD จำเป็นต้องเชื่อมกับบัญชี Discord ในการทำงาน. โปรดเชื่อมบัญชี Discord เพื่อใช้งาน PreMiD ต่อ."
+	},
+	"popup.feedback.other": {
+		"description": "Title of the other option in the feedback type selection box",
+		"message": "อื่นๆ"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "ปิด"
+	},
+	"popup.feedback.other.header": {
+		"description": "The title of the other feedback page",
+		"message": "อื่นๆ"
 	}
 }
