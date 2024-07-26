@@ -3,14 +3,6 @@
     "description": "as in documents",
     "message": "Документація"
   },
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Про PreMiD"
-  },
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Учасники проєкту"
@@ -23,29 +15,9 @@
     "description": "A page name",
     "message": "Домашня сторінка"
   },
-  "premid.pageInstall": {
-    "description": "A page name",
-    "message": "Установлення"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Клас присутності"
-  },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Розробка присутності"
-  },
-  "premid.pageStart": {
-    "description": "A page name",
-    "message": "З чого почати"
-  },
   "premid.pageStore": {
     "description": "A page name",
     "message": "Крамниця"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Системні вимоги"
   },
   "premid.pageTroubleshooting": {
     "description": "A page name",
