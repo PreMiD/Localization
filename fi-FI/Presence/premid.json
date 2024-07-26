@@ -1,8 +1,4 @@
 {
-  "premid.pageAbout": {
-    "description": "A page name",
-    "message": "Tietoja PreMiDistä"
-  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Osallistujat"
@@ -10,10 +6,6 @@
   "premid.pageDownloads": {
     "description": "A page name",
     "message": "Lataukset"
-  },
-  "premid.pagePresenceClass": {
-    "description": "A page name",
-    "message": "Precence-luokka"
   },
   "premid.pageStore": {
     "description": "A page name",
