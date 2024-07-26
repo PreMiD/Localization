@@ -154,5 +154,17 @@
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "登出"
+	},
+	"popup.feedback.other": {
+		"description": "Title of the other option in the feedback type selection box",
+		"message": "其它"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "關閉"
+	},
+	"popup.feedback.other.header": {
+		"description": "The title of the other feedback page",
+		"message": "其它"
 	}
 }
