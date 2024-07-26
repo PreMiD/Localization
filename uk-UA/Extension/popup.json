@@ -158,5 +158,17 @@
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Вихід"
+	},
+	"popup.feedback.other": {
+		"description": "Title of the other option in the feedback type selection box",
+		"message": "Інше"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "Закрити"
+	},
+	"popup.feedback.other.header": {
+		"description": "The title of the other feedback page",
+		"message": "Інше"
 	}
 }
