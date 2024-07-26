@@ -1,8 +1,4 @@
 {
-  "premid.pageApi": {
-    "description": "A page name",
-    "message": "API"
-  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Medverkande"
@@ -11,17 +7,9 @@
     "description": "A page name",
     "message": "Hämtningar"
   },
-  "premid.pagePresenceDev": {
-    "description": "A page name",
-    "message": "Presence Utveckling"
-  },
   "premid.pageStore": {
     "description": "A page name",
     "message": "Butik"
-  },
-  "premid.pageSysReq": {
-    "description": "A page name",
-    "message": "Systemkrav"
   },
   "premid.pageTroubleshooting": {
     "description": "A page name",
