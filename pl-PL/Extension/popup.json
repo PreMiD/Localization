@@ -262,5 +262,17 @@
 	"popup.discordUnlinked.button": {
 		"description": "Button to link the Discord account",
 		"message": "Połącz z Discordem"
+	},
+	"popup.feedback.other": {
+		"description": "Title of the other option in the feedback type selection box",
+		"message": "Inne"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "Zamknij"
+	},
+	"popup.feedback.other.header": {
+		"description": "The title of the other feedback page",
+		"message": "Inne"
 	}
 }
