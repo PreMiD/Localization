@@ -354,5 +354,9 @@
 	"popup.feedback.error.header": {
 		"description": "The title of the error feedback page",
 		"message": "О нет! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Что-то пошло не так при отправке отзыва. Пожалуйста, попробуйте позже.\n\nЕсли проблема не устранена, свяжитесь с нами на Discord сервере."
 	}
 }
