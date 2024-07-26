@@ -270,5 +270,141 @@
 	"popup.discordUnlinked.button": {
 		"description": "Button to link the Discord account",
 		"message": "Link Discord"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Have something to say?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Submit some feedback"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Report a Bug or Issue with a Presence"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Report a Bug or Issue with the Extension"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Request a Feature"
+	},
+	"popup.feedback.other": {
+		"description": "Title of the other option in the feedback type selection box",
+		"message": "Other"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Feedback"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "What's happening? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Please select the type of feedback you would like to submit."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Report a Bug or Issue with a Presence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Oh noes! 😱 Sorry to hear that you're experiencing issues with a Presence.\n\nOur Presences are maintained by the community, so please report any issues you're experiencing with a Presence on our GitHub repository.\n\nIf you choose the Presence below, we'll automatically include the Presence's details in the issue template."
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "Close"
+	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Submit"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Report a Bug or Issue with the Extension"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "Oh noes! 😱 Sorry to hear that you're experiencing issues with the Extension.\n\nPlease fill out the following form to report any issues you're experiencing with the Extension."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Describe the Issue"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Please describe the issue you're experiencing with the Extension in as much detail as possible."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "All reports are anonymous unless you choose to provide your contact information.\nWe may reach out to you for more information if needed, or to let you know when the issue has been resolved."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Your Email Address (Optional)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Your Discord Username (Optional)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Request a Feature"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "We're always looking for ways to improve PreMiD and make it better for you.\n\nPlease fill out the following form to request a feature you'd like to see in PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Describe the Feature"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Please describe the feature you'd like to see in PreMiD in as much detail as possible."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "All feature requests are anonymous unless you choose to provide your contact information.\nWe may reach out to you for more information if needed, or to let you know when the feature has been implemented."
+	},
+	"popup.feedback.other.header": {
+		"description": "The title of the other feedback page",
+		"message": "Other"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Please fill out the following form to provide feedback on anything else you'd like to share with us."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Describe the Feedback"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Please describe the feedback you'd like to share with us in as much detail as possible."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "All feedback is anonymous unless you choose to provide your contact information.\nWe may reach out to you for more information if needed, or to let you know when the feedback has been addressed."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Feedback Submitted"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Thank you for submitting your feedback! 🎉\n\nWe appreciate you taking the time to share your thoughts with us. We'll review your feedback and get back to you if needed."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Oh noes! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Something went wrong while submitting your feedback. Please try again later.\n\nIf the issue persists, please reach out to us on our Discord server."
 	}
 }
