@@ -31,6 +31,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "ดูศิลปิน"
 	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "ดูบันทึกการเปลี่ยนแปลง"
+	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "ดูช่อง"
@@ -247,6 +251,10 @@
 		"description": "",
 		"message": "ร้านค้า"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "หน้าช่วยเหลือ"
+	},
 	"general.terms": {
 		"description": "A page name",
 		"message": "เงื่อนไขการใช้บริการ"
@@ -454,6 +462,10 @@
 	"general.wiki": {
 		"description": "A page name",
 		"message": "วิกิ"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "หน้าหลักของวิกิ"
 	},
 	"general.wishlist": {
 		"description": "",
