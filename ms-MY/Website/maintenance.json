@@ -1,7 +1,7 @@
 {
   "maintenance.big": {
     "description": "The big text on maintenance page",
-    "message": "Oh tidak!"
+    "message": "Alamak!"
   },
   "maintenance.discordserver": {
     "description": "Discord Server link on maintenance page",
