@@ -135,6 +135,10 @@
 		"description": "Subtitle of the tab which opens when PreMiD was updated",
 		"message": "ทำอะไรต่อ?"
 	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "ทีมงานหวังว่าคุณจะชอบอัพเดดใหม่นะคะ! ถ้าคุณมีความเห็นหรือข้อเสนอแนะ เชิญเข้ามาในเซิร์ฟเวอร์ Discord ของเราและบอกให้ทีมงานรู้ได้เลยค่ะ"
+	},
 	"tab.updated.whatsNextJoinDiscordButton": {
 		"description": "Button to join the Discord server",
 		"message": "เข้าร่วมเซิร์ฟเวอร์ Discord ของเรา"
@@ -167,6 +171,10 @@
 		"description": "Prompt to link Discord account",
 		"message": "ผูกบัญชี Discord ของคุณ"
 	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "นี่อนุญาตให้ PreMiD แสดงในสถานะกิจกรรมปัจจุบันของคุณ"
+	},
 	"tab.installed.discordAccountLinked": {
 		"description": "Confirmation of Discord account linked",
 		"message": "ผูกบัญชี Discord แล้ว"
@@ -178,6 +186,10 @@
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "ต่อไป"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "ตรวจสอบให้แน่ใจว่าคุณได้เปิดใฃ้งาน \"แสดงกิจกรรมที่กำลังทำในปัจจุบันเป็นข้อความสถานะ\" แล้ว ไม่งั้นคนอื่นจะไม่เห็นสถานะนะคะ"
 	},
 	"tab.installed.enableActivityStatusPrompt": {
 		"description": "Prompt to enable activity status",
