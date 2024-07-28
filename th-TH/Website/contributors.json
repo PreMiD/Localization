@@ -15,6 +15,10 @@
     "description": "Heading for group of users.",
     "message": "ผู้สนับสนุน"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "นักพัฒนา Presence"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "แปลภาษา"
@@ -46,6 +50,10 @@
   "contributors.roles.projectManagement": {
     "description": "'Project Management' title for contributors and user pages.",
     "message": "ผู้จัดการโปรเจกต์"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "ผู้ร่วมพัฒนา"
   },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
