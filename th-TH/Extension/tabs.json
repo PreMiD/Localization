@@ -3,6 +3,10 @@
 		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
 		"message": "บริจาค"
 	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "การเปลี่ยนแปลง"
@@ -59,13 +63,133 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "การแก้ปัญหา"
 	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "กำลังมีปัญหากับ {0} หรอคะ?"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "ส่วนขยายกำลังเปิดใช้งานอยู่"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "การเชื่อมต่ออินเทอร์เน็ต"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "เชื่อมต่อกับแอป PreMiD แล้ว"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "เชื่อมต่อกับแอป Discord แล้ว"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "สถานะกิจกรรม Discord เปิดอยู่"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Presence ที่ต้องการให้แสดง"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "คุณจำเป็นต้องเชื่อมต่อบัญชี Discord เพื่อใช้ PreMiD เพียงแค่คลิกปุ่มด้านล่าง"
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD ได้รับการอัปเดตแล้ว!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "มีอะไรใหม่ 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "ฟีเจอร์"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "การแก้ไข"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "ประสิทธิภาพ"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "การเปลี่ยนแปลงทั่วไป"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "ผูกบัญชี Discord ของคุณ"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "เริ่มจากเวอร์ชั่น 2.6.0 เป็นต้นไป PreMiD จำเป็นต้องผูกกับบัญชี Discord ในทำงาน โปรดผูกบัญชี Discord ของคุณเพื่อใช่งานต่อ"
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "ผูกบัญชี Discord ของคุณ"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "ทำอะไรต่อ?"
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "เข้าร่วมเซิร์ฟเวอร์ Discord ของเรา"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "ยินดีต้อนรับสู่ PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "มาเริ่มกันเลยค่ะ!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "ติดตั้งส่วนขยาย PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "ผูกกับบัญชี Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "ตรวจสอบให้แน่ใจว่าคุณได้เปิดใฃ้งาน \"แสดงกิจกรรมที่กำลังทำในปัจจุบันเป็นข้อความสถานะ\" แล้ว"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "การตั้งค่า {0} การตั้งค่ากิจกรรม {0} ความเป็นส่วนตัวของกิจกรรม"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "ผูกบัญชี Discord ของคุณ"
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "ผูกบัญชี Discord แล้ว"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "ไปขั้นตอนต่อไปกัน"
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "ต่อไป"
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "เปิดใช้งาน \"แสดงกิจกรรมที่กำลังทำในปัจจุบันเป็นข้อความสถานะ\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "เสร็จแล้ว!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "คุณพร้อมแล้ว! ทีมงานหวังว่าคุณจะสนุกกับการใช้ PreMiD หากคุณมีคำถามหรือต้องการความช่วยเหลือ โปรดเข้าร่วมเซิร์ฟเวอร์ Discord ของเรา หากคุณรัก PreMiD มากเท่ากับเรา โปรดสนับสนุนพวกเราด้วยการบริจาค ให้คะแนนส่วนขยาย หรือแบ่งปันกับเพื่อนๆนะคะ"
 	},
 	"tab.installed.close": {
 		"description": "Close button text",

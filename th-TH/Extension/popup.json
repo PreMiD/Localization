@@ -133,7 +133,7 @@
 	},
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
-		"message": "ข้อมูล"
+		"message": "ข้อมูลทั่วไป"
 	},
 	"popup.navigation.diagnostics": {
 		"description": "Title of the 'diagnostics' section at the navigation in the popup",
@@ -183,9 +183,17 @@
 		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "ภาษา Presence หลัก"
 	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "ไม่สามารถแสดงข้อมูลผู้ใช้ได้"
+	},
 	"popup.setting.heartbeat": {
 		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
 		"message": "Heartbeat"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "ใช้แอป"
 	},
 	"popup.information.extensionVersion": {
 		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
@@ -203,21 +211,65 @@
 		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
 		"message": "ผู้ใช้ Discord: {0}"
 	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "ไม่ได้เชื่อมต่อกับแอป Discord"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "ยกเลิกการเชื่อมต่อ Discord"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD จำเป็นต้องมีการเชื่อมต่อบัญชี Discord เพื่อให้ทำงานได้อย่างถูกต้อง โปรดเชื่อมต่อบัญชี Discord ของคุณเพื่อใช้งาน PreMiD ต่อไป"
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "เชื่อมต่อ Discord"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
-		"message": "ไม่ใช่คุณหรอ?"
+		"message": "ไม่ใช่คุณ?"
 	},
 	"popup.informationIcon.notLinked.heading": {
 		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
 		"message": "ไม่ได้ผูกบัญชี"
 	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "บัญชี Discord ของคุณไม่ได้เชื่อมต่อกับ PreMiD"
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "ออกจากระบบ"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "ใช้สถานะ \"กำลังเล่นเกม\""
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "มีอะไรใหม่ 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "มาดูของเจ๋งๆ ล่าสุดกันเถอะ!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "เปิดบันทึกการเปลี่ยนแปลง"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "ยกเลิกการเชื่อมต่อ Discord"
+	},
 	"popup.discordUnlinked.description": {
 		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
 		"message": "PreMiD จำเป็นต้องเชื่อมกับบัญชี Discord ในการทำงาน. โปรดเชื่อมบัญชี Discord เพื่อใช้งาน PreMiD ต่อ."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "เชื่อมต่อบัญชี Discord"
 	},
 	"popup.navigation.feedback": {
 		"description": "Text on the information tab in the popup to give feedback",
@@ -247,32 +299,112 @@
 		"description": "Title of the feedback popup",
 		"message": "ข้อเสนอแนะ"
 	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "เกิดอะไรขึ้นคะ? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "กรุณาเลือกประเภทของความคิดเห็นที่คุณต้องการส่ง"
+	},
 	"popup.feedback.presence.header": {
 		"description": "The title of the presence feedback page",
 		"message": "รายงานบัคหรือปัญหากับ Presence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "ไม่นะ! 😱 ขออภัยที่ทราบว่าคุณกำลังประสบปัญหาเกี่ยวกับ Presence\n\nPresence ของเราได้รับการดูแลโดยชุมชนโอเพ่นซอร์ส ดังนั้นโปรดแจ้งปัญหาที่คุณพบเจอกับ Presence บน GitHub repository ของเรา\n\nหากคุณเลือก Presence ด้านล่าง เราจะใส่รายละเอียดของ Presence ลงในเทมเพลตปัญหาโดยอัตโนมัติ"
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "ปิด"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "ตกลง"
+	},
 	"popup.feedback.extension.header": {
 		"description": "The title of the extension feedback page",
 		"message": "รายงานบัคหรือปัญหากับส่วนขยาย"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "ไม่นะ! 😱 ขออภัยที่ทราบว่าคุณกำลังประสบปัญหาเกี่ยวกับส่วนขยายของเรา\n\nกรุณากรอกแบบฟอร์มต่อไปนี้เพื่อแจ้งปัญหาที่คุณพบเจอกับส่วนขยายของเรา"
 	},
 	"popup.feedback.extension.describe": {
 		"description": "The title of the input field to describe the issue on the extension feedback page",
 		"message": "อธิบายปัญหาที่พบ"
 	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "กรุณาอธิบายปัญหาที่คุณพบเจอกับส่วนขยายโดยละเอียดที่สุดเท่าที่จะทำได้"
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "ทุกรายงานเป็นข้อมูลส่วนตัว ยกเว้นว่าคุณเลือกที่จะให้ข้อมูลติดต่อของคุณ\nทีมงานอาจติดต่อคุณเพื่อขอข้อมูลเพิ่มเติม หากจำเป็น หรือเพื่อแจ้งให้คุณทราบเมื่อได้รับการแก้ไข"
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "ที่อยู่อีเมล (ถ้าประสงค์ระบุ)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "ชื่อ Discord (ถ้าประสงค์ระบุ)"
+	},
 	"popup.feedback.feature.header": {
 		"description": "The title of the feature feedback page",
 		"message": "ขอฟีเจอร์ใหม่"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "ทีมงานต้องการพัฒนา PreMiD ให้ดียิ่งขึ้นสำหรับคุณเสมอ\n\nกรุณากรอกแบบฟอร์มต่อไปนี้เพื่อขอฟีเจอร์ที่คุณต้องการเห็นใน PreMiD"
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "รายละเอียดฟีเจอร์"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "กรุณาอธิบายฟีเจอร์ที่คุณต้องการเห็นใน PreMiD โดยละเอียดที่สุดเท่าที่จะทำได้"
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "ทุกคำขอฟีเจอร์เป็นข้อมูลส่วนบุคคล ยกเว้นคุณเลือกที่จะให้ข้อมูลติดต่อของคุณ\nทีมงานอาจติดต่อคุณเพื่อขอข้อมูลเพิ่มเติม หากจำเป็น หรือเพื่อแจ้งให้คุณทราบเมื่อฟีเจอร์นั้นถูกนำไปใช้งาน"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "อื่นๆ"
 	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "กรุณากรอกแบบฟอร์มต่อไปนี้เพื่อแจ้งความคิดเห็นเพิ่มเติมที่คุณต้องการบอกกันทีมงาน"
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "รายละเอียดความคิดเห็น"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "กรุณาบอกความคิดเห็นที่คุณต้องการบอกกับทีมงานโดยละเอียดที่สุดเท่าที่จะทำได้"
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "ทุกความคิดเห็นเป็นข้อมูลส่วนตัว ยกเว้นว่าคุณเลือกที่จะให้ข้อมูลติดต่อของคุณ\nทีมงานอาจติดต่อคุณเพื่อขอข้อมูลเพิ่มเติม หากจำเป็น หรือเพื่อแจ้งให้คุณทราบเมื่อได้รับการแก้ไข"
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "ส่งความคิดเห็นแล้ว"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "ขอบคุณสำหรับความคิดเห็นนะคะ! 🎉\n\nขอบคุณมากเลยคะที่สละเวลาให้คำแนะนำ ทีมงานจะนำไปพิจารณาปรับปรุงบริการให้ดียิ่งขึ้นค่ะ"
+	},
 	"popup.feedback.error.header": {
 		"description": "The title of the error feedback page",
-		"message": "โอ้ไม่นะ! 😱"
+		"message": "ไม่นะ! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "เกิดข้อผิดพลาดขณะส่งความคิดเห็นของคุณ กรุณาลองใหม่อีกครั้งค่ะ\n\nหากปัญหายังคงอยู่ กรุณาติดต่อทีมงานผ่าน Discord server ของเรา"
 	}
 }
