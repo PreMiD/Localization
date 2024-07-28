@@ -69,7 +69,7 @@
   },
   "downloads.instructions.footer": {
     "description": "{0} will be replaced with footer.link",
-    "message": "Masih mengalami isu? {0}"
+    "message": "Masih mengalami masalah? {0}"
   },
   "downloads.instructions.footer.link": {
     "description": "Link to our discord",
