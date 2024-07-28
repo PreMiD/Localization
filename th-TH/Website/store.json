@@ -85,7 +85,7 @@
   },
   "store.search": {
     "description": "Placeholder for presence search",
-    "message": "่ค้นหา"
+    "message": "ค้นหา"
   },
   "store.search.filters": {
     "description": "Little message next to the keys of search filters on the store.",
