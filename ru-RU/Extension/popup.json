@@ -343,21 +343,61 @@
 		"description": "The privacy notice on the extension feedback page",
 		"message": "Все сообщения анонимны, если вы не предоставите свою контактную информацию.\nПри необходимости мы можем обратиться к вам за дополнительной информацией или сообщить, когда проблема будет решена."
 	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Ваш адрес электронной почты (необязательно)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Ваше имя пользователя Discord (необязательно)"
+	},
 	"popup.feedback.feature.header": {
 		"description": "The title of the feature feedback page",
 		"message": "Предложить функцию"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Мы всегда ищем способы улучшить PreMiD и сделать его лучше для вас.\n\nПожалуйста, заполните следующую форму запроса функции, которую вы хотели бы видеть в PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Опишите функцию"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Пожалуйста, опишите функцию, которую вы хотели бы увидеть в PreMiD как можно подробнее."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Все запросы функций анонимны, если вы не предоставите свою контактную информацию.\nПри необходимости мы можем обратиться к вам за дополнительной информацией или сообщить, когда функция будет реализована."
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Прочее"
 	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Пожалуйста, заполните следующую форму, чтобы оставить отзыв или сообщить нам что-либо еще, чем вы хотели бы с нами поделиться."
+	},
 	"popup.feedback.other.describe": {
 		"description": "The title of the input field to describe the issue on the other feedback page",
-		"message": "Опишите проблему"
+		"message": "Опишите отзыв"
 	},
 	"popup.feedback.other.placeholder": {
 		"description": "The placeholder of the input field to describe the issue on the other feedback page",
-		"message": "Пожалуйста, опишите проблему, с которой вы хотели бы с нами поделиться как можно подробнее."
+		"message": "Пожалуйста, опишите отзыв, с которым вы хотели бы с нами поделиться как можно подробнее."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Все отзывы анонимны, если вы не предоставите контактную информацию.\nМы можем связаться с вами для получения дополнительной информации в случае необходимости, или сообщить вам о том, когда отзыв будет рассмотрен."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Отзыв отправлен"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Благодарим вас за отзыв! 🎉\n\nМы ценим вас за то, что вы нашли время поделиться своими мыслями с нами. Мы рассмотрим ваш отзыв и свяжемся с вами при необходимости."
 	},
 	"popup.feedback.error.header": {
 		"description": "The title of the error feedback page",
