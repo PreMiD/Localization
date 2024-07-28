@@ -37,7 +37,7 @@
 	},
 	"popup.credits.error.heading": {
 		"description": "Title of the error message (located at the 'credits' tab in the popup)",
-		"message": "Oh tidak!"
+		"message": "Alamak!"
 	},
 	"popup.credits.error.message": {
 		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
@@ -282,5 +282,9 @@
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Lain-lain"
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Alamak! 😱"
 	}
 }
