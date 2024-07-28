@@ -351,6 +351,14 @@
 		"description": "The title of the other feedback page",
 		"message": "Прочее"
 	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Опишите проблему"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Пожалуйста, опишите проблему, с которой вы хотели бы с нами поделиться как можно подробнее."
+	},
 	"popup.feedback.error.header": {
 		"description": "The title of the error feedback page",
 		"message": "О нет! 😱"
