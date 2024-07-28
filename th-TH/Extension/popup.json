@@ -207,6 +207,10 @@
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "ไม่ใช่คุณหรอ?"
 	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "ไม่ได้ผูกบัญชี"
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "ออกจากระบบ"
@@ -215,16 +219,60 @@
 		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
 		"message": "PreMiD จำเป็นต้องเชื่อมกับบัญชี Discord ในการทำงาน. โปรดเชื่อมบัญชี Discord เพื่อใช้งาน PreMiD ต่อ."
 	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "มีอะไรอยากบอกไหม?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "ส่งข้อเสนอแนะ"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "รายงานบัคหรือปัญหากับ Presence"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "รายงานบัคหรือปัญหากับส่วนขยาย"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "ขอฟีเจอร์ใหม่"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "อื่นๆ"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "ข้อเสนอแนะ"
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "รายงานบัคหรือปัญหากับ Presence"
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "ปิด"
 	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "รายงานบัคหรือปัญหากับส่วนขยาย"
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "อธิบายปัญหาที่พบ"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "ขอฟีเจอร์ใหม่"
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "อื่นๆ"
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "โอ้ไม่นะ! 😱"
 	}
 }
