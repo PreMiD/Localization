@@ -35,6 +35,10 @@
     "description": "Check the presence amount of the developer created message.",
     "message": "pengguna tersebut telah mencipta Presence yang mencukupi dan mempunyai peranan \"Presence Developer\" di pelayan Discord kami."
   },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "jika pengguna lain juga mengalami masalah yang sama di pelayan Discord kami."
+  },
   "user.notFound.message4": {
     "description": "Bottom line for the error page. Do not edit brackets.",
     "message": "Jika anda rasa ini suatu kesilapan, sila hubungi kami di [pelayan Discord kami]."
