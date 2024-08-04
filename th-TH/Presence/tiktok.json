@@ -1,7 +1,15 @@
 {
+  "tiktok.browseThrough": {
+    "description": "",
+    "message": "กำลังเลื่อนดู TikTok"
+  },
   "tiktok.buttonViewTikTok": {
     "description": "Used as the title for the button in Discord.",
-    "message": "ดูติ๊กต็อก"
+    "message": "ดู TikTok"
+  },
+  "tiktok.exploringWithTag": {
+    "description": "",
+    "message": "กำลังสำรวจ TikTok ด้วยแท็ก"
   },
   "tiktok.following": {
     "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
@@ -13,6 +21,6 @@
   },
   "tiktok.viewing": {
     "description": "Name of the user will be after the \":\"",
-    "message": "กำลังดูติ๊กต็อกของ:"
+    "message": "กำลังดู TikTok ของ:"
   }
 }
