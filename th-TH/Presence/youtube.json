@@ -7,9 +7,17 @@
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "การเรียกดูผ่านเพลย์ลิสต์ที่จะเล่น"
 	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "กำลังเลื่อนดูคลิป Shorts"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "กำลังเรียกดู"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "กำลังดูวิดีโอ {0}"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
@@ -79,6 +87,10 @@
 		"description": "",
 		"message": "กำลังดูการแปลภาษาของวิดีโอ:"
 	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "กำลังดูเนื้อหาของดูเอง"
+	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "กําลังดู"
@@ -118,5 +130,13 @@
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "กำลังดูโพสต์ชุมชน"
+	},
+	"youtube.perVideoPrivacy.tooltip.1": {
+		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
+		"message": "เขียนทับโหมดความเป็นส่วนตัวของคุณสำหรับวิดีโอนี้"
+	},
+	"youtube.perVideoPrivacy.tooltip.2": {
+		"description": "Explains that the new button they see on their youtube ui was added by the PreMiD YouTube presence",
+		"message": "ปุ่มนี้เป็นส่วนหนึ่งของ YouTube Presence ของ PreMiD"
 	}
 }

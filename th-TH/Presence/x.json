@@ -1,6 +1,46 @@
 {
+  "x.bookmarks": {
+    "description": "",
+    "message": "บุ๊คมาร์ค"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "สำรวจ"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "การแจ้งเตือน"
+  },
+  "x.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "กำลังอ่านทวิต:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "กำลังเปลี่ยนการตั้งค่า..."
+  },
   "x.viewDms": {
     "description": "",
-    "message": "กำลังดู DMs ของพวกเขา"
+    "message": "กำลังดู DMs ของตัวเอง"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "กำลังดูการถูกใจของ:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "กำลังดูลิสต์:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "กำลังดูสื่อของ:"
+  },
+  "x.viewPosts": {
+    "description": "",
+    "message": "กำลังดูทวีตของ:"
+  },
+  "x.viewPostsWithReplies": {
+    "description": "",
+    "message": "กำลังดูทวีต (และการตอบกลับ) ของ:"
   }
 }
