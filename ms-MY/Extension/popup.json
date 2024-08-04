@@ -271,20 +271,140 @@
 		"description": "Button to link the Discord account",
 		"message": "Pautkan Discord"
 	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Ada sesuatu ingin disuarakan?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Hantarkan maklum balas"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Laporkan Pepijat Atau Masalah Dengan Presence"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Laporkan Pepijat Atau Masalah Dengan Sambungan"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Mohon Suatu Ciri"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Lain-lain"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Maklum Balas"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Apa yang terjadi? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Sila pilih jenis maklum balas yang anda ingin hantarkan."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Laporkan Pepijat Atau Masalah Dengan Presence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Alamak! 😱 Maaflah anda mengalami masalah dengan suatu Presence.\n\nPresence kami disenggarakan oleh komuniti, jadi sila laporkan sebarang masalah yang anda hadapi dengan suatu Presence ke repositori GitHub kami.\n\nJika anda memilih Presence di bawah, kami akan menyertakan maklumat lanjut Presence berkenaan dalam templat isu secara automatiknya."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Tutup"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Hantar"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Laporkan Pepijat Atau Masalah Dengan Sambungan"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "Alamak! 😱 Maaflah anda mengalami masalah dengan Sambungan.\n\nSila isikan borang di bawah untuk melaporkan sebarang masalah yang anda hadapi dengan Sambungan."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Terangkan Masalahnya"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Sila terangkan masalah yang anda hadapi dengan Sambungan seboleh-bolehnya secara terperinci."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Semua laporan adalah tanpa nama melainkan anda memutuskan untuk menulis maklumat perhubungan anda.\nKami mungkin menghubungi anda untuk maklumat lanjut jika diperlukan, atau untuk memberitahu anda apabila masalah telah diselesaikan."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Alamat E-mel Anda (Pilihan)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Nama Pengguna Discord Anda (Pilihan)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Mohon Suatu Ciri"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Kami sentiasa mencari cara untuk menambah baik PreMiD dan membuatkannya lebih baik untuk anda.\n\nSila isikan borang di bawah untuk memohon suatu ciri yang anda ingin lihat di PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Terangkan Cirinya"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Sila terangkan ciri yang anda ingin lihat di PreMiD seboleh-bolehnya secara terperinci."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Semua permohonan ciri adalah tanpa nama melainkan anda memutuskan untuk menulis maklumat perhubungan anda.\nKami mungkin menghubungi anda untuk maklumat lanjut jika diperlukan, atau untuk memberitahu anda apabila ciri tersebut telah dilaksanakan."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Lain-lain"
 	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Sila isikan borang di bawah untuk memberikan maklum balas mengenai perkara lain yang anda ingin kongsikan kepada kami."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Terangkan Maklum Balasnya"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Sila terangkan maklum balas yang anda ingin kongsikan dengan kami seboleh-bolehnya secara terperinci."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Semua maklum balas adalah tanpa nama melainkan anda memutuskan untuk menulis maklumat perhubungan anda.\nKami mungkin menghubungi anda untuk maklumat lanjut jika diperlukan, atau untuk memberitahu anda apabila maklum balas anda telah dikerjakan."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Maklum Balas Dihantar"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Terima kasih kerana menghantar maklum balas anda! 🎉\n\nKami menghargai anda mengambil masa untuk berkongsikan pendapat anda dengan kami. Kami akan menyemak maklum balas anda dan akan hubungi anda semula sekiranya diperlukan."
+	},
 	"popup.feedback.error.header": {
 		"description": "The title of the error feedback page",
 		"message": "Alamak! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Ada sesuatu ralat terjadi semasa menghantar maklum balas anda. Sila cuba lagi kemudian.\n\nJika masalah ini berterusan, sila hubungi kami di pelayan Discord kami."
 	}
 }
