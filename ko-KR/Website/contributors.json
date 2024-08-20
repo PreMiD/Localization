@@ -11,6 +11,14 @@
     "description": "Heading for group of users.",
     "message": "관리자"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "후원자"
+  },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Presence 개발자"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "번역가"
