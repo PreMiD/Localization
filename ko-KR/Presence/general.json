@@ -355,6 +355,10 @@
 		"description": "A page name",
 		"message": "위키"
 	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "위키 메인 페이지"
+	},
 	"general.wishlist": {
 		"description": "",
 		"message": "위시리스트:"
