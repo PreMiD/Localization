@@ -107,6 +107,14 @@
 		"description": "Shown when application is outdated",
 		"message": "내 PreMiD 앱이 오래됐어요. PreMid를 계속 사용하시려면 업데이트해 주세요."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "확장 프로그램이 비활성화되었어요."
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "PreMiD가 비활성화 되었습니다. PreMiD를 게속 사용하시고 싶으시면 확장 프로그램에서 다시 활성화 해주세요."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "제작진"
@@ -118,6 +126,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "정보"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "진단"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +155,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "사용하기 "
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "개발자 모드"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "미디어 제어"
@@ -151,13 +167,49 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "제목 메뉴바"
 	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord 연동 해제됨"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD가 제대로 작동하려면 연동된 Discord 계정이 필요해요. PreMiD를 계속 사용하려면 Discord 계정과 연동해 주세요."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Discord와 연동하기"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "다른 사용자인가요?"
 	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "연동되지 않음"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Discord 계정이 PreMiD와 연동되지 않았어요."
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "로그아웃"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "새로운 기능 🎉"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord 연동 해제됨"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD가 제대로 작동하려면 연동된 Discord 계정이 필요해요. PreMiD를 계속 사용하려면 Discord 계정과 연동해 주세요."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Discord와 연동하기"
 	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
