@@ -1,1 +1,10 @@
-{}
+{
+	"osu!ppy.beatmapLooking": {
+		"description": "Displayed when looking at a beatmap.",
+		"message": "비트맵 보는 중"
+	},
+	"osu!ppy.buttonViewBeatmap": {
+		"description": "Displayed for a button to redirect to the beatmap page.",
+		"message": "비트맵 보기"
+	}
+}
