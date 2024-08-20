@@ -6,5 +6,9 @@
 	"osu!ppy.buttonViewBeatmap": {
 		"description": "Displayed for a button to redirect to the beatmap page.",
 		"message": "비트맵 보기"
+	},
+	"osu!ppy.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "위키 메인 페이지"
 	}
 }
