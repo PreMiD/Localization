@@ -1,1 +1,6 @@
-{}
+{
+  "google classroom.todo": {
+    "description": "Displayed when the user is viewing their to-do list",
+    "message": "할 일 목록 확인 중"
+  }
+}
