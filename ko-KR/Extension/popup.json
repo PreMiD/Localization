@@ -199,6 +199,14 @@
 		"description": "Title of the 'What's new' section at the navigation in the popup",
 		"message": "새로운 기능 🎉"
 	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "새롭게 나온 멋진 것을 살펴보세요!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "변경 사항 열기"
+	},
 	"popup.discordUnlinked.title": {
 		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
 		"message": "Discord 연동 해제됨"
