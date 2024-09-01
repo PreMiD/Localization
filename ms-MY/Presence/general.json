@@ -23,6 +23,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Melihat Album"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Lihat Anime"
+	},
 	"general.buttonViewArticle": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Lihat Rencana"
@@ -75,9 +79,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Melihat Lagu"
 	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tonton Anime"
+	},
 	"general.buttonWatchMovie": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Tonton Filem"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tonton Siri"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
@@ -275,6 +287,10 @@
 		"description": "A page name of statuspages",
 		"message": "Sejarah masa hidup"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "Melihat anime"
+	},
 	"general.viewAList": {
 		"description": "",
 		"message": "Melihat senarai"
@@ -438,6 +454,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "Menonton:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "Menonton anime"
 	},
 	"general.watchingLive": {
 		"description": "",
