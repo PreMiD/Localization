@@ -23,6 +23,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Посмотреть альбом"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Просмотреть аниме"
+	},
 	"general.buttonViewArticle": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Посмотреть статью"
@@ -75,9 +79,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Послушать песню"
 	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Смотреть аниме"
+	},
 	"general.buttonWatchMovie": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Смотреть фильм"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Смотреть сериал"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
@@ -275,6 +287,10 @@
 		"description": "A page name of statuspages",
 		"message": "История бесперебойной работы"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "Просматривает аниме"
+	},
 	"general.viewAList": {
 		"description": "",
 		"message": "Смотрит список"
@@ -438,6 +454,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "Смотрит:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "Смотрит аниме"
 	},
 	"general.watchingLive": {
 		"description": "",
