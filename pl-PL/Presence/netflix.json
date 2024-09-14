@@ -14,5 +14,13 @@
   "netflix.viewList": {
     "description": "List as in their saved series/movies.",
     "message": "Przegląda swoją listę"
+  },
+  "netflix.seriesDisplay.full": {
+    "description": "Shown when watching a series with 'watching seriesname' status, example: Season 6, Episode 2",
+    "message": "Sezon {0}, Odcinek {1}"
+  },
+  "netflix.seriesDisplay.short": {
+    "description": "Shown when watching a series with 'watching Netflix' status, example: S6 E2 - Episode title",
+    "message": "S{0} Odc.{1} - {2}"
   }
 }
