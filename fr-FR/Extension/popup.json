@@ -107,6 +107,14 @@
 		"description": "Shown when application is outdated",
 		"message": "Votre application PreMiD est obsolète. Veuillez la mettre à jour afin de continuer à utiliser PreMiD."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Extension désactivée"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "L'extension PreMiD a été désactivée dans les paramètres. Veuillez l'activer pour continuer à utiliser PreMiD."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Crédits"
@@ -118,6 +126,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Information"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Diagnostiques"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +155,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Activé"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Mode Développeur"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Contrôle des médias"
@@ -150,6 +166,18 @@
 	"popup.setting.titleMenubar": {
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Titre de la bar du menu"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Version de l'extension : {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Version de l'application : {0}"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Utilisateur Discord : {0}"
 	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
