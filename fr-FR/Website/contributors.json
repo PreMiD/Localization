@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Équipe"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Supporteurs"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Traducteurs"
@@ -19,13 +23,29 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Booster"
   },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Modérateur"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Donateur"
   },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Ressources humaines"
+  },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Responsable des localisations"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Gestion de projet"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Contributeur"
   },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
