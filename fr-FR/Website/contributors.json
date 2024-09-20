@@ -15,6 +15,10 @@
     "description": "Heading for group of users.",
     "message": "Supporteurs"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Développeurs de Présences"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Traducteurs"
@@ -22,6 +26,10 @@
   "contributors.roles.booster": {
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Booster"
+  },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Responsable de la communauté"
   },
   "contributors.roles.moderator": {
     "description": "'Moderator' title for contributors and user pages.",
