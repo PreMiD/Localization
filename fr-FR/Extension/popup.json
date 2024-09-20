@@ -1,11 +1,11 @@
 {
 	"popup.buttons.help": {
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
-		"message": "Besoin d'aide?"
+		"message": "Besoin d'aide ?"
 	},
 	"popup.buttons.presenceStore": {
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
-		"message": "Magasin de présences"
+		"message": "Magasin de Présences"
 	},
 	"popup.category.all": {
 		"description": "Category name shown when you open tags",
@@ -115,6 +115,10 @@
 		"description": "Shown when the extension has been disabled in the settings",
 		"message": "L'extension PreMiD a été désactivée dans les paramètres. Veuillez l'activer pour continuer à utiliser PreMiD."
 	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Veuillez vous assurer que vous avez activé le paramètre « Partage tes activités détectées avec les autres » dans vos paramètres Discord."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Crédits"
@@ -171,6 +175,18 @@
 		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "Synchroniser la langue"
 	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Langue de Présence préférée"
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Échec de la récupération de l'utilisateur"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Préférer l'application"
+	},
 	"popup.information.extensionVersion": {
 		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
 		"message": "Version de l'extension : {0}"
@@ -179,6 +195,10 @@
 		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
 		"message": "Version de l'application : {0}"
 	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Non connecté à l'application PreMiD"
+	},
 	"popup.information.discordUser": {
 		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
 		"message": "Utilisateur Discord : {0}"
@@ -186,6 +206,10 @@
 	"popup.information.discordNotFound": {
 		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
 		"message": "Non connecté à l'application Discord"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord dissocié"
 	},
 	"popup.notConnectedBanner.description": {
 		"description": "Description of the error banner when no discord connection is found",
@@ -203,9 +227,29 @@
 		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
 		"message": "Non associé"
 	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Votre compte Discord n'est pas associé à PreMiD."
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Se déconnecter"
+	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Utiliser le statut \"Joue à\""
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Nouveautés 🎉"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Ouvrir le journal des modifications"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord dissocié"
 	},
 	"popup.discordUnlinked.description": {
 		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
@@ -215,13 +259,57 @@
 		"description": "Button to link the Discord account",
 		"message": "Associer Discord"
 	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Signaler un bug ou un problème concernant une Présence"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Signaler un bug ou un problème avec l'Extension"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Demander une fonctionnalité"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Autres"
 	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Que se passe-t-il ? 🤔"
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Signaler un bug ou un problème concernant une Présence"
+	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Fermer"
+	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Envoyer"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Signaler un bug ou un problème avec l'Extension"
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Décris-nous le problème"
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Ton Adresse Mail (Facultatif)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Ton Pseudo Discord (Facultatif)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Demander une fonctionnalité"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
