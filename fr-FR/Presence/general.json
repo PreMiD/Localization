@@ -7,6 +7,10 @@
 		"description": "",
 		"message": "Navigue..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Parcourir"
+	},
 	"general.buttonListenAlong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Rejoindre l'écoute"
@@ -123,6 +127,10 @@
 		"description": "",
 		"message": "Écoute de la musique"
 	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Écoute{0}{1}"
+	},
 	"general.live": {
 		"description": "",
 		"message": "Live"
@@ -154,6 +162,10 @@
 	"general.reading": {
 		"description": "",
 		"message": "En train de lire"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Lit un message privé"
 	},
 	"general.readingAbout": {
 		"description": "",
