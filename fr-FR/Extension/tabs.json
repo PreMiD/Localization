@@ -95,6 +95,14 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Fonctionnalités"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Corrections"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Performance"
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Suivant"
