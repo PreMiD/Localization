@@ -83,6 +83,14 @@
 		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
 		"message": "Connecté avec l'application Discord"
 	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Présence à afficher"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "Pour utiliser PreMiD, vous devez le connecter à votre compte Discord. Cliquez simplement sur le bouton ci-dessous."
+	},
 	"tab.updated.header": {
 		"description": "Header of the tab which opens when PreMiD was updated",
 		"message": "PreMiD a été mis à jour !"
@@ -103,9 +111,81 @@
 		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
 		"message": "Performance"
 	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Associer votre compte Discord"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Depuis la version 2.6.0, PreMiD nécessite un compte Discord lié pour fonctionner correctement. Veuillez lier votre compte Discord pour continuer à utiliser PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Associer votre compte Discord"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Et maintenant ?"
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Rejoignez notre serveur Discord"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Bienvenue sur PreMiD !"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Commençons !"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Installer l'extension PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Associer un compte Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Assurez-vous d'avoir \"Afficher l'activité actuelle en tant que message de statut\" activé"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Paramètres utilisateur {0} Paramètres d'activité {0} Confidentialité de l'activité"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Associer votre compte Discord"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Cela permet à PreMiD d'afficher votre activité actuelle comme message de statut."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Compte Discord associé"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Passons à l'étape suivante."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Suivant"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Assurez-vous d'avoir \"Afficher l'activité actuelle en tant que message de statut\" activé, sinon personne ne verra votre nouveau statut."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Activer \"Afficher l'activité actuelle en tant que message de statut.\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "C'est terminé !"
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
