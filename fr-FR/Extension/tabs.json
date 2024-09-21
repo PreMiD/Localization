@@ -87,6 +87,10 @@
 		"description": "Header of the tab which opens when PreMiD was updated",
 		"message": "PreMiD a été mis à jour !"
 	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Nouveautés 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Fonctionnalités"
