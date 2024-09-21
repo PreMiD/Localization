@@ -159,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "taiga est un bot Discord qui essaie d'offrir toutes les fonctionnalités dont vous pourriez avoir besoin en même temps !"
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio est une radio en ligne alimentée par la communauté, offrant des divertissements radio sans publicité 24 heures sur 24, 7 jours sur 7, des articles d'actualité quotidiens et bien plus encore !"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "Le logiciel Wiki open source le plus puissant et extensible."
