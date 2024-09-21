@@ -363,6 +363,10 @@
 		"description": "A page name",
 		"message": "Wiki"
 	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Page principale du Wiki"
+	},
 	"general.wishlist": {
 		"description": "",
 		"message": "Liste de souhaits:"
