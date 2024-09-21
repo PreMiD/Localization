@@ -83,6 +83,10 @@
 		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
 		"message": "Connecté avec l'application Discord"
 	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Message de status Discord activé"
+	},
 	"tab.troubleshooting.checks.presenceToDisplay": {
 		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
 		"message": "Présence à afficher"
@@ -108,8 +112,12 @@
 		"message": "Corrections"
 	},
 	"tab.updated.changeTypes.performance": {
-		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
 		"message": "Performance"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Changements généraux"
 	},
 	"tab.updated.linkYourDiscordAccount": {
 		"description": "Button to link your Discord account",
@@ -126,6 +134,10 @@
 	"tab.updated.whatsNext": {
 		"description": "Subtitle of the tab which opens when PreMiD was updated",
 		"message": "Et maintenant ?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Nous espérons que vous apprécierez la nouvelle mise à jour ! Si vous avez des commentaires ou des suggestions, n'hésitez pas à rejoindre notre serveur Discord et faites-le nous savoir."
 	},
 	"tab.updated.whatsNextJoinDiscordButton": {
 		"description": "Button to join the Discord server",
@@ -153,7 +165,7 @@
 	},
 	"tab.installed.activitySettingsPath": {
 		"description": "Path to activity settings ({0} will be replaced with an arrow)",
-		"message": "Paramètres utilisateur {0} Paramètres d'activité {0} Confidentialité de l'activité"
+		"message": "Paramètres utilisateur {0} Paramètres des activités {0} Confidentialité des activités"
 	},
 	"tab.installed.linkDiscordAccount": {
 		"description": "Prompt to link Discord account",
@@ -186,6 +198,10 @@
 	"tab.installed.allDone": {
 		"description": "Confirmation of completion",
 		"message": "C'est terminé !"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Vous êtes prêt à partir ! Nous espérons que vous apprécierez l'utilisation de PreMiD. Si vous avez des questions ou si vous avez besoin d'aide, n'hésitez pas à rejoindre notre serveur Discord. Si vous aimez PreMiD autant que nous, pensez à nous soutenir en faisant un don, en notant l'extension ou en la partageant avec vos amis."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
