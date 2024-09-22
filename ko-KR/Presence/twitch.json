@@ -34,5 +34,9 @@
   "twitch.turbo": {
     "description": "Page name",
     "message": "터보"
+  },
+  "twitch.viewTheir": {
+    "description": "Part 1 of the next 10 strings",
+    "message": "보는 중"
   }
 }
