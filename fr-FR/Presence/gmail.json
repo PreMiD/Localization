@@ -1,4 +1,16 @@
 {
+  "gmail.accountSetting": {
+    "description": "Displayed when the user is modifying their account's settings",
+    "message": "Configure les paramètres de comptes et d'importation"
+  },
+  "gmail.addonsSettings": {
+    "description": "Displayed when the user is modifying their add-ons",
+    "message": "Configure les modules complémentaires"
+  },
+  "gmail.advancedSettings": {
+    "description": "Displayed when the user is modifying their advanced settings",
+    "message": "Configure les paramètres avancés"
+  },
   "gmail.categoryForum": {
     "description": "Displayed when viewing emails in the forums category.",
     "message": "Regarde la catégorie Forums"
@@ -14,6 +26,46 @@
   "gmail.categorySocial": {
     "description": "Displayed when viewing emails in the social category.",
     "message": "Regarde la catégorie Réseaux Sociaux"
+  },
+  "gmail.categoryUpdates": {
+    "description": "Displayed when viewing emails in the updates category.",
+    "message": "Regarde la catégorie Notifications"
+  },
+  "gmail.chatSettings": {
+    "description": "Displayed when the user is modifying their chat settings",
+    "message": "Configure les paramètres Chat et Meet"
+  },
+  "gmail.composingEmail": {
+    "description": "Displayed when the user is composing an email",
+    "message": "Rédige un e-mail"
+  },
+  "gmail.filterSettings": {
+    "description": "Displayed when the user is modifying their filters and blocked addresses",
+    "message": "Configure les filtres et les adresses bloquées"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
+    "message": "Configure les paramètres de transfert et POP/IMAP"
+  },
+  "gmail.generalSettings": {
+    "description": "Displayed when the user is modifying their settings",
+    "message": "Configure les paramètres généraux"
+  },
+  "gmail.inLabel": {
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
+    "message": "Regarde un libellé"
+  },
+  "gmail.inboxSettings": {
+    "description": "Displayed when the user is modifying their inbox settings",
+    "message": "Configure les paramètres de la boite de réception"
+  },
+  "gmail.labelSettings": {
+    "description": "Displayed when the user is modifying their labels",
+    "message": "Configure les paramètres des libellés"
+  },
+  "gmail.offlineSettings": {
+    "description": "Displayed when the user is modifying their offline settings",
+    "message": "Configurer les paramètres hors connexion"
   },
   "gmail.viewingAllEmails": {
     "description": "Displayed when the user is viewing all their emails",
