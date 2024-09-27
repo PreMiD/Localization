@@ -67,9 +67,29 @@
     "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below.",
     "message": "Consulte le profil Kahoot de :"
   },
+  "kahoot.liveCourse": {
+    "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time.",
+    "message": "Mène un cours en direct"
+  },
+  "kahoot.liveCourseActivity": {
+    "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name.",
+    "message": "Activité #{0} : {1}"
+  },
   "kahoot.loadingPage": {
     "description": "Used when a page is loading",
     "message": "Chargement de la page ..."
+  },
+  "kahoot.login": {
+    "description": "Used when a user is logging in",
+    "message": "Se connecte"
+  },
+  "kahoot.myCourses": {
+    "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities.",
+    "message": "Consulte ses cours"
+  },
+  "kahoot.myKahoots": {
+    "description": "Used when the user is viewing their own kahoots",
+    "message": "Consulte ses Kahoots"
   },
   "kahoot.ndPlace": {
     "description": "Used in the context of 2nd place",
@@ -78,6 +98,10 @@
   "kahoot.of": {
     "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
     "message": "{0} de {1}"
+  },
+  "kahoot.onPodium": {
+    "description": "Used in the context of a player/team being withing the top 3",
+    "message": "Sur le podium"
   },
   "kahoot.playing": {
     "description": "Used as the first line when a user is answering a question",
@@ -90,6 +114,10 @@
   "kahoot.position": {
     "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
     "message": "Position : {0}"
+  },
+  "kahoot.previewingKahoot": {
+    "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below.",
+    "message": "Prévisualise le Kahoot :"
   },
   "kahoot.questionLoading": {
     "description": "Used when the next question is loading",
@@ -115,6 +143,10 @@
     "description": "Used when a user is looking at the results of the question they just answered",
     "message": "En train de regarder les résultats:"
   },
+  "kahoot.searchKahoots": {
+    "description": "Used when the user is searching for Kahoots. The search query will be displayed below.",
+    "message": "Recherche de Kahoots :"
+  },
   "kahoot.slideShowing": {
     "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz",
     "message": "Montre la diapositive:"
@@ -127,9 +159,21 @@
     "description": "Used in the context of 1st place",
     "message": "1ère place"
   },
+  "kahoot.teamTalk": {
+    "description": "Used when a player is talking to their team during team talk time",
+    "message": "Discute avec l'équipe"
+  },
   "kahoot.topX": {
     "description": "Used in the context of Top 5",
     "message": "Top {0}"
+  },
+  "kahoot.userReports": {
+    "description": "Used when the user is viewing their own game reports",
+    "message": "Consulte ses rapports de jeu"
+  },
+  "kahoot.viewingCourse": {
+    "description": "Used when the user is viewing a course. The name of the course will be displayed below.",
+    "message": "Consulte le cours :"
   },
   "kahoot.waiting": {
     "description": "Used when the user is waiting for a Kahoot Game to start",
