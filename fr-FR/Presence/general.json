@@ -63,6 +63,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Voir le podcast"
 	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Voir le profil"
+	},
 	"general.buttonViewSeries": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Voir la série"
@@ -73,7 +77,7 @@
 	},
 	"general.buttonViewSong": {
 		"description": "Used as the title for the button in Discord.",
-		"message": "Regarde une chanson"
+		"message": "Voir la chanson"
 	},
 	"general.buttonWatchAnime": {
 		"description": "Used as the title for the button in Discord.",
@@ -101,7 +105,7 @@
 	},
 	"general.chapter": {
 		"description": "",
-		"message": "Chapitres"
+		"message": "Chapitre"
 	},
 	"general.cookie": {
 		"description": "A page name",
@@ -113,7 +117,7 @@
 	},
 	"general.editing": {
 		"description": "",
-		"message": "Modification:"
+		"message": "Modification :"
 	},
 	"general.episode": {
 		"description": "",
@@ -173,7 +177,7 @@
 	},
 	"general.playing": {
 		"description": "",
-		"message": "Lecture en cours"
+		"message": "Joue à"
 	},
 	"general.privacy": {
 		"description": "A page name",
@@ -185,7 +189,7 @@
 	},
 	"general.readingAChannel": {
 		"description": "",
-		"message": "Lit dans un canal"
+		"message": "Lit dans un salon"
 	},
 	"general.readingADM": {
 		"description": "",
@@ -195,9 +199,13 @@
 		"description": "",
 		"message": "Lit un message"
 	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Lit un fil de discussion"
+	},
 	"general.readingAbout": {
 		"description": "",
-		"message": "Lecture à propos de:"
+		"message": "Lit à propos de :"
 	},
 	"general.readingAnArticle": {
 		"description": "",
@@ -205,15 +213,15 @@
 	},
 	"general.readingArticle": {
 		"description": "",
-		"message": "Lecture de l'article:"
+		"message": "Lit l'article :"
 	},
 	"general.readingChannel": {
 		"description": "",
-		"message": "Lecture dans le canal:"
+		"message": "Lit dans le salon :"
 	},
 	"general.readingDM": {
 		"description": "",
-		"message": "Regarde des MP de:"
+		"message": "Regarde des MP de :"
 	},
 	"general.readingPost": {
 		"description": "",
@@ -221,7 +229,7 @@
 	},
 	"general.readingThread": {
 		"description": "",
-		"message": "Fil de lecture:"
+		"message": "Lit le fil de discussion :"
 	},
 	"general.repeat": {
 		"description": "",
@@ -229,7 +237,7 @@
 	},
 	"general.repeatAll": {
 		"description": "",
-		"message": "Boucler toutes les chansons"
+		"message": "Boucle de toutes les chansons"
 	},
 	"general.search": {
 		"description": "",
@@ -237,7 +245,7 @@
 	},
 	"general.searchFor": {
 		"description": "",
-		"message": "À la recherche de:"
+		"message": "À la recherche de :"
 	},
 	"general.searchSomething": {
 		"description": "",
@@ -265,11 +273,11 @@
 	},
 	"general.typeChannel": {
 		"description": "",
-		"message": "Écrit dans le salon:"
+		"message": "Écrit dans le salon :"
 	},
 	"general.typeDM": {
 		"description": "",
-		"message": "Écris un message à:"
+		"message": "Écris un message à :"
 	},
 	"general.typeInDM": {
 		"description": "",
@@ -323,9 +331,13 @@
 		"description": "",
 		"message": "Regarde une émission"
 	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Regarde un fil de discussion"
+	},
 	"general.viewAccount": {
 		"description": "",
-		"message": "Visualisation de leur compte"
+		"message": "Regarde son compte"
 	},
 	"general.viewAnIncident": {
 		"description": "A page name of statuspages",
@@ -341,23 +353,23 @@
 	},
 	"general.viewCategory": {
 		"description": "",
-		"message": "Visualisation de la catégorie:"
+		"message": "Regarde la catégorie :"
 	},
 	"general.viewChannel": {
 		"description": "",
-		"message": "Visualisation du canal:"
+		"message": "Regarde la chaîne :"
 	},
 	"general.viewEpisode": {
 		"description": "",
-		"message": "Affichage de l'épisode:"
+		"message": "Regarde l'épisode :"
 	},
 	"general.viewGenre": {
 		"description": "",
-		"message": "Visualisation du genre:"
+		"message": "Regarde le genre :"
 	},
 	"general.viewHome": {
 		"description": "",
-		"message": "Visualisation de la page d'accueil"
+		"message": "Regarde la page d'accueil"
 	},
 	"general.viewIncident": {
 		"description": "A page name of statuspages",
@@ -365,19 +377,19 @@
 	},
 	"general.viewList": {
 		"description": "",
-		"message": "Affichage de la liste de:"
+		"message": "Regarde la liste de :"
 	},
 	"general.viewManga": {
 		"description": "",
-		"message": "Lit un manga:"
+		"message": "Lit un manga :"
 	},
 	"general.viewMember": {
 		"description": "",
-		"message": "Consultant le membre:"
+		"message": "Regarde le membre :"
 	},
 	"general.viewMovie": {
 		"description": "",
-		"message": "Regarde un film:"
+		"message": "Regarde le film :"
 	},
 	"general.viewPage": {
 		"description": "",
@@ -385,15 +397,15 @@
 	},
 	"general.viewPlaylist": {
 		"description": "",
-		"message": "Visualisation de la playlist:"
+		"message": "Regarde la playlist :"
 	},
 	"general.viewProduct": {
 		"description": "",
-		"message": "Visualisation du produit:"
+		"message": "Regarde le produit :"
 	},
 	"general.viewProfile": {
 		"description": "",
-		"message": "Visualisation du profil de:"
+		"message": "Regarde le profil de :"
 	},
 	"general.viewSeries": {
 		"description": "",
@@ -401,19 +413,19 @@
 	},
 	"general.viewShow": {
 		"description": "",
-		"message": "Affichage de la série:"
+		"message": "Regarde l'émission :"
 	},
 	"general.viewThread": {
 		"description": "",
-		"message": "Affichage du fil:"
+		"message": "Regarde le fil de discussion :"
 	},
 	"general.viewUser": {
 		"description": "",
-		"message": "Visualisation de l'utilisateur:"
+		"message": "Regarde l'utilisateur :"
 	},
 	"general.viewing": {
 		"description": "",
-		"message": "Regarde:"
+		"message": "Regarde :"
 	},
 	"general.viewingAWishlist": {
 		"description": "",
@@ -425,23 +437,23 @@
 	},
 	"general.waitingLive": {
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
-		"message": "En attente du démarrage d'un live"
+		"message": "Attend le début d'une diffusion en direct"
 	},
 	"general.waitingLiveThe": {
 		"description": "\"the\" livestream, as in the livestream title is specified)",
-		"message": "En attente du démarrage du live"
+		"message": "Attend le début de la diffusion en direct"
 	},
 	"general.waitingVid": {
 		"description": "For privacy reasons (\"A\" video, as in not specified)",
-		"message": "En attente de la mise en première d'une vidéo"
+		"message": "En attente de l'avant-première d'une vidéo"
 	},
 	"general.waitingVidThe": {
 		"description": "\"the\" video, as in the video title is specified)",
-		"message": "En attente de la mise en première de la vidéo"
+		"message": "En attente de l'avant-première de la vidéo"
 	},
 	"general.watching": {
 		"description": "",
-		"message": "Regarde:"
+		"message": "Regarde :"
 	},
 	"general.watchingAnime": {
 		"description": "",
@@ -449,11 +461,11 @@
 	},
 	"general.watchingLive": {
 		"description": "",
-		"message": "Regarde un livestream"
+		"message": "Regarde une diffusion en direct"
 	},
 	"general.watchingMovie": {
 		"description": "",
-		"message": "En train de regarder un film"
+		"message": "Regarde un film"
 	},
 	"general.watchingSeries": {
 		"description": "",
@@ -461,7 +473,7 @@
 	},
 	"general.watchingShow": {
 		"description": "",
-		"message": "En train de regarder une série"
+		"message": "Regarde une émission"
 	},
 	"general.watchingVid": {
 		"description": "",
@@ -477,7 +489,7 @@
 	},
 	"general.wishlist": {
 		"description": "",
-		"message": "Liste de souhaits:"
+		"message": "Liste de souhaits :"
 	},
 	"general.writing": {
 		"description": "",
