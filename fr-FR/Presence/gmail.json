@@ -63,13 +63,25 @@
     "description": "Displayed when the user is modifying their labels",
     "message": "Configure les paramètres des libellés"
   },
+  "gmail.lookingForEmail": {
+    "description": "Displayed when the user is searching for an email",
+    "message": "A la recherche d'un e-mail"
+  },
   "gmail.offlineSettings": {
     "description": "Displayed when the user is modifying their offline settings",
     "message": "Configurer les paramètres hors connexion"
   },
+  "gmail.themesSettings": {
+    "description": "Displayed when the user is modifying their theme in the settings",
+    "message": "Choisis un thème"
+  },
   "gmail.viewingAllEmails": {
     "description": "Displayed when the user is viewing all their emails",
     "message": "Regarde tous les e-mails"
+  },
+  "gmail.viewingChats": {
+    "description": "Displayed when the user is viewing their chats",
+    "message": "Regarde ses discussions"
   },
   "gmail.viewingDrafts": {
     "description": "Displayed when the user is viewing their drafts",
