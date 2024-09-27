@@ -57,7 +57,7 @@
 	},
 	"popup.headings.settings": {
 		"description": "Title of the 'settings' section at the navigation in the popup",
-		"message": "Options"
+		"message": "Paramètres"
 	},
 	"popup.info.noInternet": {
 		"description": "Shown when the user has no internet connection",
@@ -243,6 +243,10 @@
 		"description": "Title of the 'What's new' section at the navigation in the popup",
 		"message": "Nouveautés 🎉"
 	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Découvrez les dernières nouveautés !"
+	},
 	"popup.whatsNew.button": {
 		"description": "Button to open the 'What's new' page",
 		"message": "Ouvrir le journal des modifications"
@@ -258,6 +262,14 @@
 	"popup.discordUnlinked.button": {
 		"description": "Button to link the Discord account",
 		"message": "Associer Discord"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Vous avez quelque chose à nous dire ?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Soumettre un commentaire"
 	},
 	"popup.feedback.presence": {
 		"description": "Title of the presence option in the feedback type selection box",
@@ -275,13 +287,25 @@
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Autres"
 	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Commentaires"
+	},
 	"popup.feedback.select.header": {
 		"description": "On the feedback type select page the header text",
 		"message": "Que se passe-t-il ? 🤔"
 	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Veuillez sélectionner le type de commentaire que vous souhaitez nous envoyer."
+	},
 	"popup.feedback.presence.header": {
 		"description": "The title of the presence feedback page",
 		"message": "Signaler un bug ou un problème concernant une Présence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Oh non! 😱 Nous sommes désolés d'apprendre que vous rencontrez des problèmes avec une Présence.\n\nNos Présences sont maintenues par la communauté, veuillez donc signaler tout problème que vous rencontrez avec une Présence sur notre dépôt GitHub.\n\nSi vous choisissez la Présence ci-dessous, nous inclurons automatiquement les détails de la Présence dans le modèle de problème."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
@@ -295,9 +319,21 @@
 		"description": "The title of the extension feedback page",
 		"message": "Signaler un bug ou un problème avec l'Extension"
 	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "Oh non ! 😱 Nous sommes désolés d'apprendre que vous rencontrez des problèmes avec l'extension.\n\nVeuillez remplir le formulaire suivant pour signaler les problèmes que vous rencontrez avec l'extension."
+	},
 	"popup.feedback.extension.describe": {
 		"description": "The title of the input field to describe the issue on the extension feedback page",
 		"message": "Décris-nous le problème"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Merci de décrire le problème que vous rencontrez avec l'extension de manière aussi détaillée que possible."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Tous les rapports sont anonymes, sauf si vous choisissez de fournir vos coordonnées.\nIl se peut que nous vous contactions pour obtenir de plus amples informations, si nécessaire, ou pour vous informer de la résolution du problème."
 	},
 	"popup.feedback.email": {
 		"description": "The placeholder for the email input field",
@@ -311,8 +347,28 @@
 		"description": "The title of the feature feedback page",
 		"message": "Demander une fonctionnalité"
 	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Nous sommes toujours à la recherche de moyens d'améliorer PreMiD et de le rendre plus utile pour vous.\n\nVeuillez remplir le formulaire suivant pour demander une fonctionnalité que vous aimeriez voir dans PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Décrivez la fonctionnalité"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Veuillez décrire la fonctionnalité que vous aimeriez voir dans PreMiD de la manière la plus détaillée possible."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Toutes les demandes de fonctionnalités sont anonymes, sauf si vous choisissez de fournir vos coordonnées.\nIl se peut que nous vous contactions pour obtenir de plus amples informations, si nécessaire, ou pour vous informer du développement de la fonctionnalité."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Autres"
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Oh non ! 😱"
 	}
 }
