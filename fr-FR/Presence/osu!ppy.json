@@ -1,1 +1,50 @@
-{}
+{
+	"osu!ppy.beatmapListing": {
+		"description": "Displayed when viewing all beatmaps.",
+		"message": "Regarde la liste des beatmaps"
+	},
+	"osu!ppy.beatmapLooking": {
+		"description": "Displayed when looking at a beatmap.",
+		"message": "Regarde la beatmap"
+	},
+	"osu!ppy.beatmapPacks": {
+		"description": "Displayed when viewing all beatmap packs.",
+		"message": "Regarde les packs de beatmaps"
+	},
+	"osu!ppy.beatmapRankings": {
+		"description": "Displayed when viewing Kudosu Rankings.",
+		"message": "Regarde les classements kudosu"
+	},
+	"osu!ppy.buttonViewBeatmap": {
+		"description": "Displayed for a button to redirect to the beatmap page.",
+		"message": "Voir la beatmap"
+	},
+	"osu!ppy.countryRankings": {
+		"description": "Country rankings {0} = gamemode. E.g. Country Rankings [osu!]",
+		"message": "Classement par pays [{0}]"
+	},
+	"osu!ppy.for": {
+		"description": "{0} = country/for All, {1} = gamemode. E.g. Performance Rankings (for All) [osu!]",
+		"message": "(pour {0}) [{1}]"
+	},
+	"osu!ppy.performanceRankings": {
+		"description": "Displayed when viewing the performance rankings.",
+		"message": "Classement des performances"
+	},
+	"osu!ppy.scoreRankings": {
+		"description": "{0} = gamemode. E.g. Score Rankings [osu!]",
+		"message": "Classement par score [{0}]"
+	},
+	"osu!ppy.spotlights": {
+		"description": "{0} = gamemode, {1} = All/Friends. E.g. The osu! Spotlights (All)",
+		"message": "Les spotlights d'{0} ({1})"
+	},
+	"osu!ppy.support": {
+		"description": "Displayed when viewing the support page.",
+		"message": "Les façons de soutenir osu!ppy"
+	},
+	"osu!ppy.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Page principale du Wiki"
+	}
+}
