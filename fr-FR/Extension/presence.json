@@ -1,7 +1,7 @@
 {
   "presence.activity.browsing": {
     "description": "Shows when you hover over the little magnifying glass icon at your Discord Rich Presence",
-    "message": "Recherche..."
+    "message": "Navigue..."
   },
   "presence.activity.live": {
     "description": "Shows when you hover over the little red circle icon at your Discord Rich Presence",
