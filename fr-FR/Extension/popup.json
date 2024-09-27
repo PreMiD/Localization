@@ -187,6 +187,10 @@
 		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
 		"message": "Échec de la récupération de l'utilisateur"
 	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Collecte anonyme des données d'utilisation"
+	},
 	"popup.setting.preferApp": {
 		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Préférer l'application"
