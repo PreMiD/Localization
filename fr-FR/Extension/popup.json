@@ -119,6 +119,10 @@
 		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
 		"message": "Veuillez vous assurer que vous avez activé le paramètre « Partage tes activités détectées avec les autres » dans vos paramètres Discord."
 	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD n'a pas pu trouver de présence pour vos onglets actuels. Veuillez vous assurer que vous avez installé une présence pour le site Web sur lequel vous vous trouvez actuellement. Si vous avez installé une présence, essayez de recharger le site Web de la présence et assurez-vous que vous avez activé la présence dans les paramètres."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Crédits"
@@ -367,8 +371,36 @@
 		"description": "The title of the other feedback page",
 		"message": "Autres"
 	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Veuillez remplir le formulaire suivant pour nous faire part de vos commentaires sur tout autre sujet que vous souhaiteriez partager avec nous."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Décrivez le commentaire"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Veuillez décrire le plus précisément possible le commentaire que vous souhaitez partager avec nous."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Tous les commentaires sont anonymes, à moins que vous ne choisissiez de fournir vos coordonnées.\nIl se peut que nous vous contactions pour obtenir de plus amples informations, si nécessaire, ou pour vous informer de la suite donnée à votre commentaire."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Commentaire envoyé"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Nous vous remercions de nous avoir fait part de vos commentaires ! 🎉\n\nNous apprécions que vous ayez pris le temps de nous faire part de vos réflexions. Nous examinerons vos commentaires et reviendrons vers vous si nécessaire."
+	},
 	"popup.feedback.error.header": {
 		"description": "The title of the error feedback page",
 		"message": "Oh non ! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Un problème s'est produit lors de l'envoi de votre commentaire. Veuillez réessayer plus tard.\n\nSi le problème persiste, veuillez nous contacter sur notre serveur Discord."
 	}
 }
