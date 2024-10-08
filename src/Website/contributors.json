@@ -35,6 +35,10 @@
     "description": "'Software Engineer' title for contributors and user pages.",
     "message": "Software Engineer"
   },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "Developer"
+  },
   "contributors.roles.moderator": {
     "description": "'Moderator' title for contributors and user pages.",
     "message": "Moderator"
