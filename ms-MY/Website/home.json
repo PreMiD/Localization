@@ -71,6 +71,10 @@
     "description": "Features section subheading",
     "message": "Antara muka pengguna yang ringkas"
   },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Dapatkan PreMiD"
+  },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "Muat Turun"
