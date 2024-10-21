@@ -31,6 +31,14 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Pengurus Komuniti"
   },
+  "contributors.roles.softwareEngineer": {
+    "description": "'Software Engineer' title for contributors and user pages.",
+    "message": "Jurutera Perisian"
+  },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "Pembangun"
+  },
   "contributors.roles.moderator": {
     "description": "'Moderator' title for contributors and user pages.",
     "message": "Moderator"
