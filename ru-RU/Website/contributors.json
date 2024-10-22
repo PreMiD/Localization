@@ -31,6 +31,14 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Менеджер сообщества"
   },
+  "contributors.roles.softwareEngineer": {
+    "description": "'Software Engineer' title for contributors and user pages.",
+    "message": "Программный инженер"
+  },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "Разработчик"
+  },
   "contributors.roles.moderator": {
     "description": "'Moderator' title for contributors and user pages.",
     "message": "Модератор"
