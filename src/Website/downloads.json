@@ -243,14 +243,6 @@
 		"description": "Description in the appreciation section.",
 		"message": "Consider supporting us or leaving a review - it means the world to us!"
 	},
-	"downloads.notice.appreciation.buttons.github": {
-		"description": "GitHub sponsors button text.",
-		"message": "GitHub Sponsors"
-	},
-	"downloads.notice.appreciation.buttons.patreon": {
-		"description": "Patreon button text.",
-		"message": "Patreon"
-	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
 		"message": "Review Us"
