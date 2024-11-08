@@ -112,11 +112,11 @@
 		"message": "Исправления"
 	},
 	"tab.updated.changeTypes.performance": {
-		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
 		"message": "Производительность"
 	},
 	"tab.updated.changeTypes.chores": {
-		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
 		"message": "Основные изменения"
 	},
 	"tab.updated.linkYourDiscordAccount": {
