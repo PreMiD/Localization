@@ -112,11 +112,11 @@
 		"message": "Düzeltmeler"
 	},
 	"tab.updated.changeTypes.performance": {
-		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
 		"message": "Performans"
 	},
 	"tab.updated.changeTypes.chores": {
-		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
 		"message": "Genel Değişiklikler"
 	},
 	"tab.updated.linkYourDiscordAccount": {
