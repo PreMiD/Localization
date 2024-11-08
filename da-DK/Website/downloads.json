@@ -1,106 +1,106 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Venligst deaktivér din adblock"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Tak!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Applikation"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Annullér"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Færdig"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "Spring over alligevel"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Venligst log ind for at se disse downloads."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Du kan gratis deltage i vores betaprogram **her**. Skynd dig! Vi har kun {0} pladser mere til rådighed"
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Udvidelse"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Brug PreMiD nu og vis dine venner, hvad du laver, måske finder du nogen med de samme interesser."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Tid til at vise sig."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Har du stadig problemer? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Vi er her for at hjælpe!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Kom i gang"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Download PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Installér vores applikation"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Tilføj vores udvidelse til din browser"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Genindlæs dette websted og tjek om udvidelsen er tilsluttet"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Vær venligst opmærksom på, at PreMiD ikke understøttes på mobiltelefoner."
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Virkelig?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "V-vær rar support :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Jeg har brug for dig :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Okay, okay..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Advarsel:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Denne version er specifik for Linux og gælder ikke for andre systemer. Applikationens hovedversion er {0}"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Venligst deaktivér din adblock"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Tak!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Applikation"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Annullér"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Færdig"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Spring over alligevel"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Venligst log ind for at se disse downloads."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Du kan gratis deltage i vores betaprogram **her**. Skynd dig! Vi har kun {0} pladser mere til rådighed"
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Udvidelse"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Brug PreMiD nu og vis dine venner, hvad du laver, måske finder du nogen med de samme interesser."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Tid til at vise sig."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Har du stadig problemer? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Vi er her for at hjælpe!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Kom i gang"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Download PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Installér vores applikation"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Tilføj vores udvidelse til din browser"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Genindlæs dette websted og tjek om udvidelsen er tilsluttet"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Vær venligst opmærksom på, at PreMiD ikke understøttes på mobiltelefoner."
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Virkelig?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "V-vær rar support :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Jeg har brug for dig :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Okay, okay..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Advarsel:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Der er ikke noget installationsprogram til dette operativsystem. Det betyder, at der ikke er nogen professionel support til det."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Denne version er specifik for Linux og gælder ikke for andre systemer. Applikationens hovedversion er {0}"
+	}
 }

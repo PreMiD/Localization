@@ -1,146 +1,146 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Isključi adblock"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Aplikacija"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Nazad"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Otkazati"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Gotovo"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "U redu"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Preskoči"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Prijavi se kako bi vidio preuzimanja."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Možeš se prijaviti u naš beta program **ovdje**. Požuri! Imamo samo još {0} mjesta dostupnih"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Uh oh, čini se da nemaš pristup alphi/beti :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Proširenje"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Koristi PreMiD sada i pokaži svojim prijateljima što radš, možda pronađeš nekoga sa istim interestima."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Vrijeme da se pokažeš."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "I dalje imaš problema? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Ovdje smo da bismo ti pomogli!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Započnimo"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Preuzmi PreMid"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Instalirajte našu aplikaciju"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Dodaj naše proširenje svome pregledniku"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Ponovno učitaj ovu stranicu i provjeri je li proširenje povezano"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Rane verzije"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Imaj na umu da PreMiD nije podržan na mobilnim telefonima."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Sakrij Preuzimanja"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Prikaži Preuzimanja"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Ne želim vas podržavati."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Jesi li siguran?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Stvarno?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "M-molim te :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Trebamo te :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Ok, ok..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Upozorenje:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Ne postoji instalacijski program za ovaj operativni sustav. To znači da nema profesionalne podrške za taj OS."
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "Trenutna verzija ove platforme je {0} (ova je verzija specifična za Linux i ne odnosi se na druge platforme)."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Ovo verzija je specifična Linux-u, i ne odnosi se na ostale sustave. Glavna verzija programa je {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "Trebaš instalirati **ovo** proširenje da instaliraš PreMiD iz Chrome Web-Trgovine."
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Upozorenje"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Isključi adblock"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Aplikacija"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Nazad"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Otkazati"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Gotovo"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "U redu"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Preskoči"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Prijavi se kako bi vidio preuzimanja."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Možeš se prijaviti u naš beta program **ovdje**. Požuri! Imamo samo još {0} mjesta dostupnih"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Uh oh, čini se da nemaš pristup alphi/beti :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Proširenje"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Koristi PreMiD sada i pokaži svojim prijateljima što radš, možda pronađeš nekoga sa istim interestima."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Vrijeme da se pokažeš."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "I dalje imaš problema? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Ovdje smo da bismo ti pomogli!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Započnimo"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Preuzmi PreMid"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Instalirajte našu aplikaciju"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Dodaj naše proširenje svome pregledniku"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Ponovno učitaj ovu stranicu i provjeri je li proširenje povezano"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Rane verzije"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Imaj na umu da PreMiD nije podržan na mobilnim telefonima."
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Ne želim vas podržavati."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Jesi li siguran?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Stvarno?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "M-molim te :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Trebamo te :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Ok, ok..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Upozorenje:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Ne postoji instalacijski program za ovaj operativni sustav. To znači da nema profesionalne podrške za taj OS."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Trenutna verzija ove platforme je {0} (ova je verzija specifična za Linux i ne odnosi se na druge platforme)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Ovo verzija je specifična Linux-u, i ne odnosi se na ostale sustave. Glavna verzija programa je {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "Trebaš instalirati **ovo** proširenje da instaliraš PreMiD iz Chrome Web-Trgovine."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Upozorenje"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Prikaži Preuzimanja"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Sakrij Preuzimanja"
+	}
 }

@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Keelake oma reklaami blokeerimine"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "Kasutame reklaame oma meeskonna toetamiseks ja oma serverite hooldamiseks, et pakkuda teile parimat kasutuskogemust!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Tänan!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Rakendus"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Tagasi"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Tühista"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Valmis"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "Sisselogimine"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Ok"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Jäta vahele"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "Jäta ikkagi vahele"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Palun logige sisse, et näha allalaadimisi."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Meie beetaprogrammiga saate liituda tasuta **siin**. Kiirusta! Meil on ainult {0} kohta alles"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Oh, näib, et teil pole alfa/beeta juurdepääsu :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Lisa"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Kasutage PreMiD-i kohe ja näidake sõpradele, millega tegelete. Võib-olla leiate kellegi, kellel on samad huvid."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Aeg eputada."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Kas teil on endiselt probleeme? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Oleme siin, et aidata!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Alusta"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Lae PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Paigaldage meie rakendus"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Lisage oma brauserisse meie laiendus"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Laadige see sait uuesti ja kontrollige, kas laiendus on ühendatud"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Varased väljalasked"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Olge teadlikud, PreMiD ei ole telefonidel toetatud."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Peida allalaadimised"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Kuva allalaadimised"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "Näita varasemaid väljalaskeid"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(pole vajalik, kui olete siin ainult tavalise rakenduse allalaadimiseks)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Ma ei taha toetada."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Olete kindel?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Päriselt?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "P-palun toeta :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Ma vajan sind :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Ok, ok..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Hoiatus:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Selle operatsioonisüsteemi jaoks pole installerit. See tähendab seda, et siin pole professionaalset tuge selle jaoks."
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "Selle platvormi praegune versioon on {0} (see versioon on spetsiifiline Linuxile ja ei kehti teistele platvormidele)."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "See versioon on spetsiifiline Linuxile ja ei kehti teiste süsteemide kohta. Rakenduse põhiversioon on {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "PreMiD'i installimiseks Chrome-i veebipoest peate allalaadima **selle** laienduse."
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Hoiatus"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Keelake oma reklaami blokeerimine"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Kasutame reklaame oma meeskonna toetamiseks ja oma serverite hooldamiseks, et pakkuda teile parimat kasutuskogemust!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Tänan!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Rakendus"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Tagasi"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Tühista"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Valmis"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Sisselogimine"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Ok"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Jäta vahele"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Jäta ikkagi vahele"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Palun logige sisse, et näha allalaadimisi."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Meie beetaprogrammiga saate liituda tasuta **siin**. Kiirusta! Meil on ainult {0} kohta alles"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Oh, näib, et teil pole alfa/beeta juurdepääsu :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Lisa"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Kasutage PreMiD-i kohe ja näidake sõpradele, millega tegelete. Võib-olla leiate kellegi, kellel on samad huvid."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Aeg eputada."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Kas teil on endiselt probleeme? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Oleme siin, et aidata!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Alusta"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Lae PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Paigaldage meie rakendus"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Lisage oma brauserisse meie laiendus"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Laadige see sait uuesti ja kontrollige, kas laiendus on ühendatud"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Varased väljalasked"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Olge teadlikud, PreMiD ei ole telefonidel toetatud."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Näita varasemaid väljalaskeid"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(pole vajalik, kui olete siin ainult tavalise rakenduse allalaadimiseks)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Ma ei taha toetada."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Olete kindel?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Päriselt?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "P-palun toeta :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Ma vajan sind :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Ok, ok..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Hoiatus:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Selle operatsioonisüsteemi jaoks pole installerit. See tähendab seda, et siin pole professionaalset tuge selle jaoks."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Selle platvormi praegune versioon on {0} (see versioon on spetsiifiline Linuxile ja ei kehti teistele platvormidele)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "See versioon on spetsiifiline Linuxile ja ei kehti teiste süsteemide kohta. Rakenduse põhiversioon on {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "PreMiD'i installimiseks Chrome-i veebipoest peate allalaadima **selle** laienduse."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Hoiatus"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Kuva allalaadimised"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Peida allalaadimised"
+	}
 }

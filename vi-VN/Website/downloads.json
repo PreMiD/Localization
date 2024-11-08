@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Vui lòng tắt trình chặn quảng cáo của bạn"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "Chúng tôi đặt quảng cáo để hỗ trợ nhóm có thể duy trì máy chủ và cung cấp cho bạn trải nghiệm tốt nhất!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Cảm ơn!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Ứng dụng"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Trở lại"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Hủy"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Xong"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "Đăng nhập"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Okay"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Bỏ qua"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "Vẫn bỏ qua"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Vui lòng đăng nhập để có thể tải về."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Bạn có thể tham gia chương trình beta của chúng tôi miễn phí **tại đây**. Nhanh chân lên! chúng tôi chỉ còn {0} vị trí trống"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Oops, có vẻ như bạn không có quyền truy cập alpha/beta :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Tiện ích mở rộng"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Sử dụng PreMiD ngay để bạn bè của bạn biết bạn đang làm gì, nó có thể giúp bạn tìm được những người chung sở thích."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Đã đến lúc thể hiện."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Vẫn gặp vấn đề? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Chúng tôi sẵn sàng hỗ trợ bạn!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Bắt đầu"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Tải xuống PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Cài đặt ứng dụng của chúng tôi"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Thêm Phần mở rộng vào trình duyệt của bạn"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Tải lại trang và kiểm tra phần mở rộng đã kết nối chưa"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Bản phát hành sớm"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Lưu ý rằng PreMiD không hỗ trợ cho các thiết bị di động."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Ẩn mục tải"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Hiển thị mục tải"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "Hiển thị phiên bản thử nghiệm"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(không cần nếu bạn chỉ ở đây để tải xuống ứng dụng thông thường)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Tôi không muốn hỗ trợ."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Bạn chắc không?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Thật chứ?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "X-xin hãy hỗ trợ :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Tôi cần bạn :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Okay, okay..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Cảnh báo:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Không có bộ cài đặt nào cho hệ điều hành này. Điều này có nghĩa là nó vẫn chưa được hỗ trợ."
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "Phiên bản hiện tại của nền tảng này là {0} (phiên bản này là dành riêng cho Linux, không áp dụng cho các nền tảng khác)."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Phiên bản này là dành riêng cho Linux, không áp dụng cho các hệ điều hành khác. Phiên bản hiện tại của ứng dụng là {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "Bạn phải cài đặt Extension **này** để có thể cài đặt PreMiD từ Cửa hàng trực tuyến Chrome."
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Cảnh báo"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Vui lòng tắt trình chặn quảng cáo của bạn"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Chúng tôi đặt quảng cáo để hỗ trợ nhóm có thể duy trì máy chủ và cung cấp cho bạn trải nghiệm tốt nhất!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Cảm ơn!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Ứng dụng"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Trở lại"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Hủy"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Xong"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Đăng nhập"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Okay"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Bỏ qua"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Vẫn bỏ qua"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Vui lòng đăng nhập để có thể tải về."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Bạn có thể tham gia chương trình beta của chúng tôi miễn phí **tại đây**. Nhanh chân lên! chúng tôi chỉ còn {0} vị trí trống"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Oops, có vẻ như bạn không có quyền truy cập alpha/beta :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Tiện ích mở rộng"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Sử dụng PreMiD ngay để bạn bè của bạn biết bạn đang làm gì, nó có thể giúp bạn tìm được những người chung sở thích."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Đã đến lúc thể hiện."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Vẫn gặp vấn đề? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Chúng tôi sẵn sàng hỗ trợ bạn!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Bắt đầu"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Tải xuống PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Cài đặt ứng dụng của chúng tôi"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Thêm Phần mở rộng vào trình duyệt của bạn"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Tải lại trang và kiểm tra phần mở rộng đã kết nối chưa"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Bản phát hành sớm"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Lưu ý rằng PreMiD không hỗ trợ cho các thiết bị di động."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Hiển thị phiên bản thử nghiệm"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(không cần nếu bạn chỉ ở đây để tải xuống ứng dụng thông thường)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Tôi không muốn hỗ trợ."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Bạn chắc không?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Thật chứ?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "X-xin hãy hỗ trợ :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Tôi cần bạn :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Okay, okay..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Cảnh báo:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Không có bộ cài đặt nào cho hệ điều hành này. Điều này có nghĩa là nó vẫn chưa được hỗ trợ."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Phiên bản hiện tại của nền tảng này là {0} (phiên bản này là dành riêng cho Linux, không áp dụng cho các nền tảng khác)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Phiên bản này là dành riêng cho Linux, không áp dụng cho các hệ điều hành khác. Phiên bản hiện tại của ứng dụng là {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "Bạn phải cài đặt Extension **này** để có thể cài đặt PreMiD từ Cửa hàng trực tuyến Chrome."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Cảnh báo"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Hiển thị mục tải"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Ẩn mục tải"
+	}
 }

@@ -1,158 +1,158 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Prašome išjungti savo AdBlock"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "Mes naudojame reklamas, kad išlaikytume savo komandą ir serverius, jog galėtume užtikrinti geriausią vartotojo patirtį!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Ačiū!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Programa"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Atgal"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Atšaukti"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Baigta"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "Prisijungti"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Gerai"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Praleisti"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Prašome prisijungti norint pamatysi šiuos atsisiuntimus."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Jūs galite prisidėti prie mūsų beta programos **čia** nemokamai. Paskubėkite! Mes turime tik {0} laisvų vietų"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Uh, oh, atrodo, kad jūs neturite alpha/beta prieigos :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Plėtinys"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Pradėkite naudotis PreMiD dabar ir parodykite kitiems kuo užsiimate, galbūt rasite ką nors su tokiais pačiais pomėgiais."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Laikas pasirodyti."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Visdar susiduriate su problemomis? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Mes esame čia jog padėti!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Pradėkite"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Atsisiųskite PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Įdiekite mūsų programą"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Įdiekite mūsų naršyklės plėtinį"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Apsilankykite {0} puslapyje ir patikrinkite, ar plėtinys prijungtas"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Ankstyvūs leidiniai"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Atminkite, kad „PreMiD“ šiuo metu yra nepalaikomas mobiliuosiuose įrenginiuose."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Slėpti atsisiuntimus"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Rodyti atsisiuntimus"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "Rodyti beta atsisiuntimus"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(nebūtina, jei tik norite atsisiųsti įprastą programą)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Aš nenoriu remti."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Ar esate įsitikinę?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Ar tikrai?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "P-prašau paremkite : C"
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Man reikia tavęs :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Gerai, gerai..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Įspėjimai:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Šiai operacinei sistemai nėra diegimo programos. Tai reiškia, kad jai nėra taikoma jokia profesionali parama."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms. Pagrindinė programos versija yra {0}"
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Įspėjimas"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Prašome išjungti savo AdBlock"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Mes naudojame reklamas, kad išlaikytume savo komandą ir serverius, jog galėtume užtikrinti geriausią vartotojo patirtį!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Ačiū!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Programa"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Atgal"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Atšaukti"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Baigta"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Prisijungti"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Gerai"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Praleisti"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Prašome prisijungti norint pamatysi šiuos atsisiuntimus."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Jūs galite prisidėti prie mūsų beta programos **čia** nemokamai. Paskubėkite! Mes turime tik {0} laisvų vietų"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Uh, oh, atrodo, kad jūs neturite alpha/beta prieigos :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Plėtinys"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Pradėkite naudotis PreMiD dabar ir parodykite kitiems kuo užsiimate, galbūt rasite ką nors su tokiais pačiais pomėgiais."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Laikas pasirodyti."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Visdar susiduriate su problemomis? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Mes esame čia jog padėti!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Pradėkite"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Atsisiųskite PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Įdiekite mūsų programą"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Įdiekite mūsų naršyklės plėtinį"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Apsilankykite {0} puslapyje ir patikrinkite, ar plėtinys prijungtas"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Ankstyvūs leidiniai"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Atminkite, kad „PreMiD“ šiuo metu yra nepalaikomas mobiliuosiuose įrenginiuose."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Rodyti beta atsisiuntimus"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(nebūtina, jei tik norite atsisiųsti įprastą programą)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Aš nenoriu remti."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Ar esate įsitikinę?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Ar tikrai?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "P-prašau paremkite : C"
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Man reikia tavęs :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Gerai, gerai..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Įspėjimai:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Šiai operacinei sistemai nėra diegimo programos. Tai reiškia, kad jai nėra taikoma jokia profesionali parama."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms. Pagrindinė programos versija yra {0}"
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Įspėjimas"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Rodyti atsisiuntimus"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Slėpti atsisiuntimus"
+	}
 }

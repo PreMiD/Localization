@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "กรุณาปิด Adblock ของคุณ"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "เราใช้โฆษณาเพื่อสนับสนุนทีมและดูแลเซิร์ฟเวอร์ของเรา เพื่อมอบประสบการณ์การใช้งานที่ดีที่สุดแก่คุณ!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "ขอบคุณ!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "แอปพลิเคชัน"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "ย้อนกลับ"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "ยกเลิก"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "เสร็จสิ้น"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "เข้าสู่ระบบ"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "ตกลง"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "ข้าม"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "ข้ามไปเลย"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "กรุณาเข้าสู่ระบบเพื่อดาวน์โหลด"
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "คุณสามารถเข้าร่วมโปรแกรมเบต้าได้ฟรี **ที่นี่**. เร็วเข้าหล่ะ! พวกเรามีที่ว่างเหลืออยู่ {0} ที่เท่านั้น"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "ไม่นะ, ดูเหมือนว่าคุณไม่มีสิทธิ์ในการเข้าถึงแบบอัลฟ่า / เบต้า :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "ส่วนขยาย"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "เริ่มต้นการใช้ PreMiD ตอนนี้และบอกให้คนอื่นรู้ว่าคุณกำลังดูหรือฟังอะไรอยู่ เผื่อว่าคุณอาจจะเจอที่ถูกคอกันก็ได้นะ"
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "ถึงเวลาเฉิดฉายแล้ว!"
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "ยังมีปัญหาอยู่เหรอ? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "เรามาเพื่อช่วยคุณ!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "เริ่มใช้งาน"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "ดาวน์โหลด PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "ติดตั้งแอปพลิเคชัน"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "เพิ่มส่วนขยายลงในเบราว์เซอร์"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "รีเฟรซหน้านี้ แล้วเช็คว่าส่วนขยายได้เชื่อมต่อกับโปรแกรมแล้ว"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "ปล่อยตัวก่อน"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "โปรดทราบว่า PreMiD ยังไม่พร้อมใช้งานบนมือถือในตอนนี้"
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "ซ่อนการดาวน์โหลด"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "แสดงการดาวน์โหลด"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "แสดงการเปิดตัวก่อนกำหนด"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(ไม่ต้องการถ้าคุณเเค่ดาวน์โหลดเเอพทั่วไป)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "ฉันไม่ต้องการความช่วยเหลือ"
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "แน่ใจหรอ?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "จริงหรอ?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "กรุณาสนับสนุน :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "เราต้องการคุณ :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "โอเค โอเค..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "คำเตือน:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "แอปพลิเคชันไม่มีตัวติดตั้งสำหรับระบบปฏิบัติการนี้ นั่นหมายความว่ายังไม่มีผู้เชี่ยวชาญดูแลมัน"
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "เวอร์ชั่นปัจจุบันบนระบบปฏิบัตินี้คือ {0} (เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะ Linux และไม่สามารถใช้งานกับระบบปฏิบัติการอื่นได้)"
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น เวอร์ชั่นหลักของโปรแกรมคือเวอร์ชั่น {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "คุณต้องติดตั้งส่วนขยาย**นี้**เพื่อติดตั้ง PreMiD จาก Chrome Webstore"
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "คำเตือน"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "กรุณาปิด Adblock ของคุณ"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "เราใช้โฆษณาเพื่อสนับสนุนทีมและดูแลเซิร์ฟเวอร์ของเรา เพื่อมอบประสบการณ์การใช้งานที่ดีที่สุดแก่คุณ!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "ขอบคุณ!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "แอปพลิเคชัน"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "ย้อนกลับ"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "ยกเลิก"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "เสร็จสิ้น"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "เข้าสู่ระบบ"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "ตกลง"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "ข้าม"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "ข้ามไปเลย"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "กรุณาเข้าสู่ระบบเพื่อดาวน์โหลด"
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "คุณสามารถเข้าร่วมโปรแกรมเบต้าได้ฟรี **ที่นี่**. เร็วเข้าหล่ะ! พวกเรามีที่ว่างเหลืออยู่ {0} ที่เท่านั้น"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "ไม่นะ, ดูเหมือนว่าคุณไม่มีสิทธิ์ในการเข้าถึงแบบอัลฟ่า / เบต้า :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "ส่วนขยาย"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "เริ่มต้นการใช้ PreMiD ตอนนี้และบอกให้คนอื่นรู้ว่าคุณกำลังดูหรือฟังอะไรอยู่ เผื่อว่าคุณอาจจะเจอที่ถูกคอกันก็ได้นะ"
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "ถึงเวลาเฉิดฉายแล้ว!"
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "ยังมีปัญหาอยู่เหรอ? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "เรามาเพื่อช่วยคุณ!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "เริ่มใช้งาน"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "ดาวน์โหลด PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "ติดตั้งแอปพลิเคชัน"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "เพิ่มส่วนขยายลงในเบราว์เซอร์"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "รีเฟรซหน้านี้ แล้วเช็คว่าส่วนขยายได้เชื่อมต่อกับโปรแกรมแล้ว"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "ปล่อยตัวก่อน"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "โปรดทราบว่า PreMiD ยังไม่พร้อมใช้งานบนมือถือในตอนนี้"
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "แสดงการเปิดตัวก่อนกำหนด"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(ไม่ต้องการถ้าคุณเเค่ดาวน์โหลดเเอพทั่วไป)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "ฉันไม่ต้องการความช่วยเหลือ"
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "แน่ใจหรอ?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "จริงหรอ?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "กรุณาสนับสนุน :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "เราต้องการคุณ :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "โอเค โอเค..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "คำเตือน:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "แอปพลิเคชันไม่มีตัวติดตั้งสำหรับระบบปฏิบัติการนี้ นั่นหมายความว่ายังไม่มีผู้เชี่ยวชาญดูแลมัน"
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "เวอร์ชั่นปัจจุบันบนระบบปฏิบัตินี้คือ {0} (เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะ Linux และไม่สามารถใช้งานกับระบบปฏิบัติการอื่นได้)"
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "เวอร์ชั่นนี้เป็นเวอร์ชั่นเฉพาะบน Linux และไม่เกี่ยวข้องกับระบบอื่น เวอร์ชั่นหลักของโปรแกรมคือเวอร์ชั่น {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "คุณต้องติดตั้งส่วนขยาย**นี้**เพื่อติดตั้ง PreMiD จาก Chrome Webstore"
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "คำเตือน"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "แสดงการดาวน์โหลด"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "ซ่อนการดาวน์โหลด"
+	}
 }

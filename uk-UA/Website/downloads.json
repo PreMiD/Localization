@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Будь ласка, вимкніть свій блокувач реклами"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "Ми використовуємо рекламу, щоб підтримати нашу команду і підтримувати наші сервери, щоб пропонувати вам сервіс!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Дякуємо!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Застосунок"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Назад"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Скасувати"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Готово"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "Увійти"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Гаразд"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Пропустити"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "Все одно пропустити"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Будь ласка, увійдіть до системи, щоб побачити ці завантаження."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Ви можете приєднатися до нашої бета-програми **тут** безкоштовно. Поспішайте! Ми маємо тільки {0} доступних слотів"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Ой, схоже, що ви не маєте альфа/бета доступу :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Розширення"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Використовуйте PreMiD зараз і покажіть вашим друзям, що ви робите, мабуть, ви знайдете когось зі схожими інтересами."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Час показати."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Все ще є проблеми? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Ми тут, щоб допомогти!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Розпочати"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Завантажте PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Установіть наш додаток"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Додайте наше розширення до свого браузера"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Перезавантажте цей сайт і перевірте чи розширення підключене"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Ранні релізи"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Будь ласка, майте на увазі, що PreMiD не підтримується на мобільних телефонах."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Приховати завантаження"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Показати завантаження"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "Показати ранні релізи"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(не потрібно, якщо ви тут лише для завантаження звичайного додатку)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Я не хочу підтримувати."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Ви впевнені?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Справді?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Б-будь-ласка підтримайте :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Ви мені потрібні :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Добре, добре..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Увага:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Застосунок не має встановлювача для цієї операційної системи. Це означає, що для цієї ОС немає професійної підтримки."
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "Поточна версія для цієї платформи — {0} (ця версія специфічна для Linux і не застосовується до інших платформ)."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Ця версія специфічна для Linux, і не застосовується до інших систем. Основна версія застосунку: {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "Ви повинні встановити **це** розширення для того, щоб встановити PreMiD із Chrome Webstore."
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Увага"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Будь ласка, вимкніть свій блокувач реклами"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Ми використовуємо рекламу, щоб підтримати нашу команду і підтримувати наші сервери, щоб пропонувати вам сервіс!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Дякуємо!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Застосунок"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Назад"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Скасувати"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Готово"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Увійти"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Гаразд"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Пропустити"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Все одно пропустити"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Будь ласка, увійдіть до системи, щоб побачити ці завантаження."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Ви можете приєднатися до нашої бета-програми **тут** безкоштовно. Поспішайте! Ми маємо тільки {0} доступних слотів"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Ой, схоже, що ви не маєте альфа/бета доступу :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Розширення"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Використовуйте PreMiD зараз і покажіть вашим друзям, що ви робите, мабуть, ви знайдете когось зі схожими інтересами."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Час показати."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Все ще є проблеми? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Ми тут, щоб допомогти!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Розпочати"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Завантажте PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Установіть наш додаток"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Додайте наше розширення до свого браузера"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Перезавантажте цей сайт і перевірте чи розширення підключене"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Ранні релізи"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Будь ласка, майте на увазі, що PreMiD не підтримується на мобільних телефонах."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Показати ранні релізи"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(не потрібно, якщо ви тут лише для завантаження звичайного додатку)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Я не хочу підтримувати."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Ви впевнені?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Справді?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Б-будь-ласка підтримайте :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Ви мені потрібні :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Добре, добре..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Увага:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Застосунок не має встановлювача для цієї операційної системи. Це означає, що для цієї ОС немає професійної підтримки."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Поточна версія для цієї платформи — {0} (ця версія специфічна для Linux і не застосовується до інших платформ)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Ця версія специфічна для Linux, і не застосовується до інших систем. Основна версія застосунку: {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "Ви повинні встановити **це** розширення для того, щоб встановити PreMiD із Chrome Webstore."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Увага"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Показати завантаження"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Приховати завантаження"
+	}
 }

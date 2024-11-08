@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Kérlek tiltsd le az adblock-ot"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "A hirdetéseket csapatunk támogatására és szervereink fenntartására használjuk, hogy a lehető legjobb felhasználói élményt biztosítsuk!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Köszönjük!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Alkalmazás letöltése"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Vissza"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Mégse"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Kész"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "Bejelentkezés"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Rendben"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Átugrás"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "Mégis kihagyom"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Kérlek jelentkezz be a letöltések megjelenítéséhez."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Csatlakozz **itt** a béta programba teljesen ingyen. Siess! Már csak {0} hely elérhető"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Ó, úgy látszik nem rendelkezel alfa/beta hozzáféréssel :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Bővítmény"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Használd a PreMiD-et most és oszd meg másokkal, amit éppen csinálsz, így talán hasonló érdeklődésű személyeket is felfedezhetsz."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Ideje felvágni."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Továbbra is problémáid vannak? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Azért vagyunk, hogy segítsünk!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Kezdő lépések"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "PreMiD alkalmazás letöltése"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Telepítsd az alkalmazásunkat"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Bővítmény hozzáadása a böngészőhöz"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Frissítsd az oldalt és nézd meg hogy a bővítmény csatlakoztatva van-e"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Korai kiadások"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Felhívjuk figyelmedet, hogy a PreMiD jelenleg nem támogatott mobiltelefonokon."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Letöltések elrejtése"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Letöltések megjelenítése"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "Korai kiadások megjelenítése"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(nem szükséges ha csak a normál alkalmazást szeretnéd letölteni)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Nem adakozok."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Biztos vagy benne?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Tényleg?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "K-kérlek támogass :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Szükségem van rád :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Oké, oké..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Figyelmeztetés:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Az alkalmazásnak nincs telepítője ehhez az operációs rendszerhez. Ez azt jelenti, hogy nincs hozzá professzionális támogatás."
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "Jelenlegi verzió ezen a platformon {0} (ez a verzió Linux-ra jellemző, nem vonatkozik másik platformra)."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "A PreMiD használatához **ezt** a bővitményt fel kell telepítened a Chrome Webáruházból."
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Figyelmeztetés"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Kérlek tiltsd le az adblock-ot"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "A hirdetéseket csapatunk támogatására és szervereink fenntartására használjuk, hogy a lehető legjobb felhasználói élményt biztosítsuk!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Köszönjük!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Alkalmazás letöltése"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Vissza"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Mégse"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Kész"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Bejelentkezés"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Rendben"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Átugrás"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Mégis kihagyom"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Kérlek jelentkezz be a letöltések megjelenítéséhez."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Csatlakozz **itt** a béta programba teljesen ingyen. Siess! Már csak {0} hely elérhető"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Ó, úgy látszik nem rendelkezel alfa/beta hozzáféréssel :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Bővítmény"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Használd a PreMiD-et most és oszd meg másokkal, amit éppen csinálsz, így talán hasonló érdeklődésű személyeket is felfedezhetsz."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Ideje felvágni."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Továbbra is problémáid vannak? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Azért vagyunk, hogy segítsünk!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Kezdő lépések"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "PreMiD alkalmazás letöltése"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Telepítsd az alkalmazásunkat"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Bővítmény hozzáadása a böngészőhöz"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Frissítsd az oldalt és nézd meg hogy a bővítmény csatlakoztatva van-e"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Korai kiadások"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Felhívjuk figyelmedet, hogy a PreMiD jelenleg nem támogatott mobiltelefonokon."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Korai kiadások megjelenítése"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(nem szükséges ha csak a normál alkalmazást szeretnéd letölteni)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Nem adakozok."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Biztos vagy benne?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Tényleg?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "K-kérlek támogass :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Szükségem van rád :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Oké, oké..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Figyelmeztetés:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Az alkalmazásnak nincs telepítője ehhez az operációs rendszerhez. Ez azt jelenti, hogy nincs hozzá professzionális támogatás."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Jelenlegi verzió ezen a platformon {0} (ez a verzió Linux-ra jellemző, nem vonatkozik másik platformra)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Ez a verzió Linux rendszerre jellemző és nem vonatkozik más rendszerekre. Az alkalmazás fő verziója {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "A PreMiD használatához **ezt** a bővitményt fel kell telepítened a Chrome Webáruházból."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Figyelmeztetés"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Letöltések megjelenítése"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Letöltések elrejtése"
+	}
 }
