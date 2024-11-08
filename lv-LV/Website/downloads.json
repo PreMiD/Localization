@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Lūdzu atspējojiet adblock"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "Mēs izmantojam reklāmas, lai atbalstītu savu komandu un uzturētu serverus, lai piedāvātu jums vislabāko lietotāja pieredzi!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Paldies!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Aplikācija"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Atpakaļ"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Atcelt"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Gatavs"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "Pieslēgties"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Labi"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Izlaist"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "Tomēr Izlaist"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Lūdzu pieslēdzieties, lai redzētu šīs lejupielādes."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Tu vari pievienoties mūsu beta programmai **šeit** bez maksas. Pasteidzies! Mums ir tikai {0} vietas pieejamas"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Ak vai, izskatās, ka jums nav alpha/beta pieejas :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Paplašinājums"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Izmanto PreMiD tagad, lai izrādītos draugiem, ko tu dari, varbūt tu atradīsi kādu ar līdzīgām interesēm."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Laiks izrādīties."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Joprojām problēmas? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Mēs esam te, lai palīdzētu!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Sāc"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Lejupielādē PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Uzstādi mūsu lietotni"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Pievieno mūsu paplašinājumu jūsu pārlūkprogrammai"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Pārlādējiet šo saiti un pārbaudiet vai paplašinājums ir savienots"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Agrīnie Izlaidumi"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Lūdzu esi informēs, ka PreMiD nav atbalstīs uz mobilajiem telefoniem."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Slēpt Lejupielādes"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Rādīt Lejupielādes"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "Parādīt beta izlaidumus"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(nav nepieciešams, ja jūs esat tikai šeit, lai lejupielādētu normālo lietotni)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Es negribu atbalstīt."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Vai esat pārliecināts?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Patiešām?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "L-lūdzu atbalsti :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Man tevi vajag :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Labi, labi..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Uzmanību:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Nav uzstādītājs priekš šīs operētājsistēmas. Tas nozīmē, ka tam nav profesionāla atbalsta."
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "Pašreizējā versija šai platformai ir {0} (šī versija ir konkrēti Linux un neattiecas uz citām platformām)."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Šī versija ir konkrēti Linux, un neattiecas uz citām sistēmām. Aplikācijas galvenā versija ir {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "Jums vajag uzstādīt **šo** paplašinājumu, lai varētu uzstādīt PreMiD no Chrome interneta veikala."
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Uzmanību"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Lūdzu atspējojiet adblock"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Mēs izmantojam reklāmas, lai atbalstītu savu komandu un uzturētu serverus, lai piedāvātu jums vislabāko lietotāja pieredzi!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Paldies!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Aplikācija"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Atpakaļ"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Atcelt"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Gatavs"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Pieslēgties"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Labi"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Izlaist"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Tomēr Izlaist"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Lūdzu pieslēdzieties, lai redzētu šīs lejupielādes."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Tu vari pievienoties mūsu beta programmai **šeit** bez maksas. Pasteidzies! Mums ir tikai {0} vietas pieejamas"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Ak vai, izskatās, ka jums nav alpha/beta pieejas :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Paplašinājums"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Izmanto PreMiD tagad, lai izrādītos draugiem, ko tu dari, varbūt tu atradīsi kādu ar līdzīgām interesēm."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Laiks izrādīties."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Joprojām problēmas? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Mēs esam te, lai palīdzētu!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Sāc"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Lejupielādē PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Uzstādi mūsu lietotni"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Pievieno mūsu paplašinājumu jūsu pārlūkprogrammai"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Pārlādējiet šo saiti un pārbaudiet vai paplašinājums ir savienots"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Agrīnie Izlaidumi"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Lūdzu esi informēs, ka PreMiD nav atbalstīs uz mobilajiem telefoniem."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Parādīt beta izlaidumus"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(nav nepieciešams, ja jūs esat tikai šeit, lai lejupielādētu normālo lietotni)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Es negribu atbalstīt."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Vai esat pārliecināts?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Patiešām?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "L-lūdzu atbalsti :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Man tevi vajag :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Labi, labi..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Uzmanību:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Nav uzstādītājs priekš šīs operētājsistēmas. Tas nozīmē, ka tam nav profesionāla atbalsta."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Pašreizējā versija šai platformai ir {0} (šī versija ir konkrēti Linux un neattiecas uz citām platformām)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Šī versija ir konkrēti Linux, un neattiecas uz citām sistēmām. Aplikācijas galvenā versija ir {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "Jums vajag uzstādīt **šo** paplašinājumu, lai varētu uzstādīt PreMiD no Chrome interneta veikala."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Uzmanību"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Rādīt Lejupielādes"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Slēpt Lejupielādes"
+	}
 }
