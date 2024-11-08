@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Prosím, vypni svůj blokátor reklam"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "Používáme reklamy na podporu našeho týmu a údržbu našich serverů, abychom ti mohli nabídnout co nejlepší zážitek!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Děkujeme!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Aplikace"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Zpět"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Zrušit"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Hotovo"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "Přihlásit se"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Dobře"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Přeskočit"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "Přesto přeskočit"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Pro zobrazení těchto souborů ke stažení se, prosím, přihlas."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "K našemu beta programu se můžeš připojit zcela zdarma **zde**. Ale pospěš si! Máme jen {0} volných slotů"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Ale ne, vypadá to, že nemáš alfa/beta přístup :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Rozšíření"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Použij PreMiD a ukaž svým přátelům, co děláš, možná najdeš někoho se stejnými zájmy."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Čas se předvést."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Stále máš problémy? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Jsme tady od toho, abychom ti pomohli!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Jak Začít"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Stáhni si PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Nainstaluj si naši aplikaci"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Přidej si naše rozšíření do prohlížeče"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Znovu načti tuto stránku a zkontroluj, jestli je rozšíření připojené"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Předběžná Vydání"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Buď si vědom, že PreMiD není podporován na mobilních telefonech."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Skrýt soubory ke stažení"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Zobrazit soubory ke stažení"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "Zobrazit beta stahování"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(nevyžaduje se, pokud jsi zde pouze, abys sis stáhl běžnou aplikaci)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Nechci podporovat."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Jsi si jist?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Opravdu?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "P-prosím podpora :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Potřebuji tě :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Dobře, v pořádku..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Varování:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Není zde žádný instalační soubor pro tenhle operační systém. To znamená, že pro něj není žádná profesionální podpora."
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "Aktuální verze této platformy je {0} (tato verze je určená pro Linux a neplatí pro ostatní platformy)."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Tato verze je určená pro Linux a neplatí pro ostatní systémy. Hlavní verze aplikace je {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "Pro instalaci PreMiD z Internetového Obchodu Chrome si musíš nainstalovat **toto** rozšíření."
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Varování"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Prosím, vypni svůj blokátor reklam"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Používáme reklamy na podporu našeho týmu a údržbu našich serverů, abychom ti mohli nabídnout co nejlepší zážitek!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Děkujeme!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Aplikace"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Zpět"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Zrušit"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Hotovo"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Přihlásit se"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Dobře"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Přeskočit"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Přesto přeskočit"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Pro zobrazení těchto souborů ke stažení se, prosím, přihlas."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "K našemu beta programu se můžeš připojit zcela zdarma **zde**. Ale pospěš si! Máme jen {0} volných slotů"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Ale ne, vypadá to, že nemáš alfa/beta přístup :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Rozšíření"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Použij PreMiD a ukaž svým přátelům, co děláš, možná najdeš někoho se stejnými zájmy."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Čas se předvést."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Stále máš problémy? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Jsme tady od toho, abychom ti pomohli!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Jak Začít"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Stáhni si PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Nainstaluj si naši aplikaci"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Přidej si naše rozšíření do prohlížeče"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Znovu načti tuto stránku a zkontroluj, jestli je rozšíření připojené"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Předběžná Vydání"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Buď si vědom, že PreMiD není podporován na mobilních telefonech."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Zobrazit beta stahování"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(nevyžaduje se, pokud jsi zde pouze, abys sis stáhl běžnou aplikaci)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Nechci podporovat."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Jsi si jist?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Opravdu?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "P-prosím podpora :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Potřebuji tě :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Dobře, v pořádku..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Varování:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Není zde žádný instalační soubor pro tenhle operační systém. To znamená, že pro něj není žádná profesionální podpora."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Aktuální verze této platformy je {0} (tato verze je určená pro Linux a neplatí pro ostatní platformy)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Tato verze je určená pro Linux a neplatí pro ostatní systémy. Hlavní verze aplikace je {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "Pro instalaci PreMiD z Internetového Obchodu Chrome si musíš nainstalovat **toto** rozšíření."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Varování"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Zobrazit soubory ke stažení"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Skrýt soubory ke stažení"
+	}
 }
