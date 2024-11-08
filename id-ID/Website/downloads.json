@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "Harap matikan adblock"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "Kami menggunakan iklan untuk membantu tim dan membiayai server kami untuk memberikan kamu pengalaman yang terbaik!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Terima Kasih!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "Aplikasi"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "Kembali"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Batal"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Selesai"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "Masuk"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Oke"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "Lewati"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "Lewati Saja"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "Silahkan login untuk melihat unduhan."
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "Kamu dapat mengikuti program beta **disini** secara gratis. Cepat! tersisa {0} tempat"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "Uh oh, sepertinya kamu tidak memiliki akses alpha/beta :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "Ekstensi"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Gunakan PreMiD sekarang dan tunjukan apa yang kamu lakukan, mungkin kamu akan bertemu orang dengan minat yang sama."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Waktunya pamer."
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "Masih mengalami masalah? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "Kami disini untuk membantu!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Mulai"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "Unduh PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "Pasang aplikasi kami"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "Tambahkan ekstensi kami ke browsermu"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "Muat ulang situs ini dan periksa jika ekstensi telah terhubung"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "Rilisan Awal"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "Perlu diketahui bahwa PreMiD tidak didukung di ponsel."
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Sembunyikan Unduhan"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "Tampilkan Unduhan"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "Tampilkan rilisan awal"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(tidak dibutuhkan jika kamu kesini hanya untuk mengunduh aplikasi biasa)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Saya tidak mau membantu."
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Apakah anda yakin?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Yakin?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "M-mohon dukungannya :("
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "Aku butuh kamu :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "Oke, oke..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "Peringatan:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} Tidak ada installer untuk sistem operasi ini. Ini berarti tidak ada bantuan profesional untuk ini."
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "Versi sekarang pada platform ini adalah {0} (versi ini hanya berlaku untuk Linux dan tidak berlaku pada platform lain)."
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "Versi ini khusus untuk Linux, dan tidak berlaku untuk sistem lain. Versi utama aplikasi adalah {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "Kamu harus menginstal ekstensi **ini** untuk menginstal PreMiD dari Chrome Webstore."
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "Peringatan"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Harap matikan adblock"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Kami menggunakan iklan untuk membantu tim dan membiayai server kami untuk memberikan kamu pengalaman yang terbaik!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Terima Kasih!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Aplikasi"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Kembali"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Batal"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Selesai"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Masuk"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Oke"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "Lewati"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Lewati Saja"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Silahkan login untuk melihat unduhan."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Kamu dapat mengikuti program beta **disini** secara gratis. Cepat! tersisa {0} tempat"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Uh oh, sepertinya kamu tidak memiliki akses alpha/beta :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Ekstensi"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Gunakan PreMiD sekarang dan tunjukan apa yang kamu lakukan, mungkin kamu akan bertemu orang dengan minat yang sama."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Waktunya pamer."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "Masih mengalami masalah? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Kami disini untuk membantu!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Mulai"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "Unduh PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "Pasang aplikasi kami"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "Tambahkan ekstensi kami ke browsermu"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "Muat ulang situs ini dan periksa jika ekstensi telah terhubung"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Rilisan Awal"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Perlu diketahui bahwa PreMiD tidak didukung di ponsel."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Tampilkan rilisan awal"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(tidak dibutuhkan jika kamu kesini hanya untuk mengunduh aplikasi biasa)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Saya tidak mau membantu."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Apakah anda yakin?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Yakin?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "M-mohon dukungannya :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Aku butuh kamu :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Oke, oke..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Peringatan:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Tidak ada installer untuk sistem operasi ini. Ini berarti tidak ada bantuan profesional untuk ini."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Versi sekarang pada platform ini adalah {0} (versi ini hanya berlaku untuk Linux dan tidak berlaku pada platform lain)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Versi ini khusus untuk Linux, dan tidak berlaku untuk sistem lain. Versi utama aplikasi adalah {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "Kamu harus menginstal ekstensi **ini** untuk menginstal PreMiD dari Chrome Webstore."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Peringatan"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Tampilkan Unduhan"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Sembunyikan Unduhan"
+	}
 }
