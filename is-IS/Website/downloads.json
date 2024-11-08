@@ -1,26 +1,26 @@
 {
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "Takk fyrir!"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "Hætta"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "Búið"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "Notaðu PreMiD núna og sýndu vinum þínum hvað þú ert að gera, kannski finnurðu einhvern með sömu áhugamál."
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "Tími til kominn að láta sjá sig."
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "Byrja"
-  }
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Takk fyrir!"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Hætta"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Búið"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Notaðu PreMiD núna og sýndu vinum þínum hvað þú ert að gera, kannski finnurðu einhvern með sömu áhugamál."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Tími til kominn að láta sjá sig."
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Byrja"
+	}
 }
