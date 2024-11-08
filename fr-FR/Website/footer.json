@@ -105,6 +105,6 @@
   },
   "footer.usercount.message": {
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
-    "message": "Rejoignez les {0} utilisateurs dès aujourd'hui!"
+    "message": "Rejoignez les {0} utilisateurs dès aujourd'hui !"
   }
 }
