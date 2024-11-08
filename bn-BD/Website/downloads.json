@@ -1,170 +1,170 @@
 {
-  "downloads.adsbox.disableAdblock": {
-    "description": "Message next to pepe.",
-    "message": "দয়া করে তোমার Adblocker টি বন্ধ করো"
-  },
-  "downloads.adsbox.thankyou.message": {
-    "description": "Message of the advertisement section box.",
-    "message": "আমরা Ad ব্যবহার করি আমাদের টিমকে সাপোর্ট করতে এবং আমাদের সার্ভারকে মেইনটেইন করতে, তোমাকে সেরা ইউজার এক্সপেরিয়েন্স দেওয়ার জন্যে!"
-  },
-  "downloads.adsbox.thankyou.title": {
-    "description": "Title of the advertisement section box.",
-    "message": "ধন্যবাদ!"
-  },
-  "downloads.appdownloading.header": {
-    "description": "Header above application download buttons.",
-    "message": "অ্যাপ্লিকেশন"
-  },
-  "downloads.button.back": {
-    "description": "Back button on the ads section",
-    "message": "ব্যাক"
-  },
-  "downloads.button.cancel": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "বাতিল করো"
-  },
-  "downloads.button.done": {
-    "description": "Button on the page when trying to download with adblocker on.",
-    "message": "সম্পন্ন"
-  },
-  "downloads.button.login": {
-    "description": "Login button on the downloads page.",
-    "message": "লগইন"
-  },
-  "downloads.button.okay": {
-    "description": "Button on the modal of Opera/Edge browsers.",
-    "message": "ঠিক আছে"
-  },
-  "downloads.button.skip": {
-    "description": "Skip button on the ads section",
-    "message": "স্কিপ"
-  },
-  "downloads.button.skipanyway": {
-    "description": "Skip Anyway button on the ads page.",
-    "message": "যাইহোক স্কিপ করো"
-  },
-  "downloads.error.login": {
-    "description": "Error message if the user is not logged in.",
-    "message": "লগইন করো ডাউনলোডগুলো দেখার জন্যে।"
-  },
-  "downloads.error.noaccess.description": {
-    "description": "More info if the user doesn't alpha/beta access.",
-    "message": "তুমি আমাদের বেটা প্রোগ্রাম জয়েন করতে পারো **এখানে** ফ্রিতে। তাড়াতাড়ি করো! আমাদের কাছে আরো শুধু {0} স্লট ফাঁকা পড়ে আছে"
-  },
-  "downloads.error.noaccess.title": {
-    "description": "Error message if the user doesn't alpha/beta access.",
-    "message": "দেখে মনে হচ্ছে তোমার কাছে অ্যালফা/বেটা অ্যাক্সেস নেই :("
-  },
-  "downloads.extdownloading.header": {
-    "description": "Header above extension download buttons.",
-    "message": "এক্সটেনশন"
-  },
-  "downloads.header.subtitle": {
-    "description": "Subtitle for header",
-    "message": "এখনই ব্যবহার করো PreMiD এবং দেখাও তোমার বন্ধুদের তুমি কী করছ, হয়তো তুমি কাওকে পেয়ে যাবে একই ইন্টারেস্ট এর।"
-  },
-  "downloads.header.title": {
-    "description": "Title",
-    "message": "সময় এখন দেখানোর।"
-  },
-  "downloads.instructions.footer": {
-    "description": "{0} will be replaced with footer.link",
-    "message": "এখনও সমস্যা আছে? {0}"
-  },
-  "downloads.instructions.footer.link": {
-    "description": "Link to our discord",
-    "message": "আমরা এখানে আছি সাহায্য করতে!"
-  },
-  "downloads.instructions.heading": {
-    "description": "Displayed at Downloads page above steps",
-    "message": "শুরু করা যাক"
-  },
-  "downloads.instructions.step_1": {
-    "description": "Heading for installing the application",
-    "message": "ডাউনলোড করো PreMiD"
-  },
-  "downloads.instructions.step_2": {
-    "description": "Heading for installing the application",
-    "message": "ইন্সটল করো আমাদের অ্যাপ্লিকেশন"
-  },
-  "downloads.instructions.step_3": {
-    "description": "Heading for installing the application",
-    "message": "অ্যাড করো আমাদের এক্সটেনশন তোমার ব্রাউজারে"
-  },
-  "downloads.instructions.step_4": {
-    "description": "I think you get what this is...",
-    "message": "এই ওয়েবসাইটটি রিলোড করো এবং দেখো এক্সটেনশনটি কানেক্টেড আছে কিনা"
-  },
-  "downloads.latest.header": {
-    "description": "Header above alpha/beta download buttons.",
-    "message": "আর্লি রিলিজেস"
-  },
-  "downloads.mobile.errorMessage": {
-    "description": "Downloads page warning when user is on mobile.",
-    "message": "জেনে রাখো যে PreMiD মোবাইল ফোনে সাপোর্টেড নয়।"
-  },
-  "downloads.mobile.hideDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "ডাউনলোডগুলো হাইড করাও"
-  },
-  "downloads.mobile.showDownloads": {
-    "description": "Little button on the downloads page for mobile users.",
-    "message": "ডাউনলোডগুলো দেখাও"
-  },
-  "downloads.showbeta.message": {
-    "description": "",
-    "message": "আর্লি রিলিজেস দেখাও"
-  },
-  "downloads.showbeta.small": {
-    "description": "Small text under the show beta title.",
-    "message": "(প্রয়োজন নেই যদি তুমি এখানে শুধু এসেছ নরমাল অ্যাপ্লিকেশনটা ডাউনলোড করতে)"
-  },
-  "downloads.skipanyway.message1": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "আমি সাপোর্ট করতে চাই না।"
-  },
-  "downloads.skipanyway.message2": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "তুমি নিশ্চিত তো?"
-  },
-  "downloads.skipanyway.message3": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "সত্যি?"
-  },
-  "downloads.skipanyway.message4": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "দ-দয়া করে সাপোর্ট করো :( "
-  },
-  "downloads.skipanyway.message5": {
-    "description": "Skip anyway messages (changes everytime you click it).",
-    "message": "আমাদের তোমার প্রয়োজন :<"
-  },
-  "downloads.skipanyway.message6": {
-    "description": "Last message of the skip anyway messages (changes everytime you click it).",
-    "message": "ঠিক আছে, ঠিক আছে..."
-  },
-  "downloads.tooltips.os_not_supported.part1": {
-    "description": "First part of the message.",
-    "message": "সতর্কতা:"
-  },
-  "downloads.tooltips.os_not_supported.part2": {
-    "description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
-    "message": "{0} কোনো ইন্সটলার নেই এই অপারেটিং সিস্টেম এর জন্য। তার মানে এটার জন্য কোনো সাপোর্ট নেই।"
-  },
-  "downloads.warning.differentVersion": {
-    "description": "Tippy message of the Linux card.",
-    "message": "এই প্ল্যাটফর্ম এর বর্তমান ভার্সন হচ্ছে {0} (এই ভার্সনটি লিনাক্স এর জন্য নির্দিষ্ট, এবং অন্যসব প্ল্যাটফর্মে নয়)।"
-  },
-  "downloads.warning.differentVersion2": {
-    "description": "Tippy message of the version number when user is on Linux.",
-    "message": "এই ভার্সনটি লিনাক্স এর জন্য নির্দিষ্ট, এবং অন্যসব সিস্টেম এর জন্য নয়। অ্যাপ্লিকেশন এর মেইন ভার্সন হচ্ছে {0}"
-  },
-  "downloads.warning.message.opera": {
-    "description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
-    "message": "তোমাকে **এই** এক্সটেনশনটি ইন্সটল করতে হবে, তারপর PreMiD ইন্সটল করতে হবে Chrome Webstore থেকে।"
-  },
-  "downloads.warning.title": {
-    "description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
-    "message": "সতর্কতা"
-  }
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "দয়া করে তোমার Adblocker টি বন্ধ করো"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "আমরা Ad ব্যবহার করি আমাদের টিমকে সাপোর্ট করতে এবং আমাদের সার্ভারকে মেইনটেইন করতে, তোমাকে সেরা ইউজার এক্সপেরিয়েন্স দেওয়ার জন্যে!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "ধন্যবাদ!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "অ্যাপ্লিকেশন"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "ব্যাক"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "বাতিল করো"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "সম্পন্ন"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "লগইন"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "ঠিক আছে"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "স্কিপ"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "যাইহোক স্কিপ করো"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "লগইন করো ডাউনলোডগুলো দেখার জন্যে।"
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "তুমি আমাদের বেটা প্রোগ্রাম জয়েন করতে পারো **এখানে** ফ্রিতে। তাড়াতাড়ি করো! আমাদের কাছে আরো শুধু {0} স্লট ফাঁকা পড়ে আছে"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "দেখে মনে হচ্ছে তোমার কাছে অ্যালফা/বেটা অ্যাক্সেস নেই :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "এক্সটেনশন"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "এখনই ব্যবহার করো PreMiD এবং দেখাও তোমার বন্ধুদের তুমি কী করছ, হয়তো তুমি কাওকে পেয়ে যাবে একই ইন্টারেস্ট এর।"
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "সময় এখন দেখানোর।"
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "এখনও সমস্যা আছে? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "আমরা এখানে আছি সাহায্য করতে!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "শুরু করা যাক"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "ডাউনলোড করো PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "ইন্সটল করো আমাদের অ্যাপ্লিকেশন"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "অ্যাড করো আমাদের এক্সটেনশন তোমার ব্রাউজারে"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "এই ওয়েবসাইটটি রিলোড করো এবং দেখো এক্সটেনশনটি কানেক্টেড আছে কিনা"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "আর্লি রিলিজেস"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "জেনে রাখো যে PreMiD মোবাইল ফোনে সাপোর্টেড নয়।"
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "আর্লি রিলিজেস দেখাও"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(প্রয়োজন নেই যদি তুমি এখানে শুধু এসেছ নরমাল অ্যাপ্লিকেশনটা ডাউনলোড করতে)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "আমি সাপোর্ট করতে চাই না।"
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "তুমি নিশ্চিত তো?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "সত্যি?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "দ-দয়া করে সাপোর্ট করো :( "
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "আমাদের তোমার প্রয়োজন :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "ঠিক আছে, ঠিক আছে..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "সতর্কতা:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} কোনো ইন্সটলার নেই এই অপারেটিং সিস্টেম এর জন্য। তার মানে এটার জন্য কোনো সাপোর্ট নেই।"
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "এই প্ল্যাটফর্ম এর বর্তমান ভার্সন হচ্ছে {0} (এই ভার্সনটি লিনাক্স এর জন্য নির্দিষ্ট, এবং অন্যসব প্ল্যাটফর্মে নয়)।"
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "এই ভার্সনটি লিনাক্স এর জন্য নির্দিষ্ট, এবং অন্যসব সিস্টেম এর জন্য নয়। অ্যাপ্লিকেশন এর মেইন ভার্সন হচ্ছে {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "তোমাকে **এই** এক্সটেনশনটি ইন্সটল করতে হবে, তারপর PreMiD ইন্সটল করতে হবে Chrome Webstore থেকে।"
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "সতর্কতা"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "ডাউনলোডগুলো দেখাও"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "ডাউনলোডগুলো হাইড করাও"
+	}
 }
