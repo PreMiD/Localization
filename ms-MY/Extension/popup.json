@@ -273,11 +273,11 @@
 	},
 	"popup.navigation.feedback": {
 		"description": "Text on the information tab in the popup to give feedback",
-		"message": "Ada sesuatu ingin disuarakan?"
+		"message": "Ada sesuatu nak disuarakan?"
 	},
 	"popup.navigation.feedbackLink": {
 		"description": "Link to the feedback page",
-		"message": "Hantarkan maklum balas"
+		"message": "Hantar maklum balas"
 	},
 	"popup.feedback.presence": {
 		"description": "Title of the presence option in the feedback type selection box",
