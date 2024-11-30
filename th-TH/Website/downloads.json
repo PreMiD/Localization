@@ -159,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "คำเตือน"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "PreMiD ไม่รองรับอุปกรณ์มือถือ โปรดใช้เบราว์เซอร์บนเดสก์ท็อปเพื่อติดตั้ง PreMiD"
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "แสดงการดาวน์โหลด"
@@ -166,6 +170,54 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "ซ่อนการดาวน์โหลด"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "ข่าวใหญ่!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "ไม่ต้องโหลดแอปแล้ว!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "ตอนนี้ต้องใช้แค่ส่วนขยายเบราว์เซอร์ - ไม่ต้องดาวน์โหลดอะไรเพิ่มเติมแล้ว"
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "คลิกเดียวจบ"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "ไม่ต้องใช้แอป"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "มัน just ใช้ได้™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "ตัวแอปถูกลบออกในเวอร์ชัน v2.6.0 เพื่อทำให้ชีวิตของคุณง่ายขึ้น ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "รับ PreMiD ไปใช้ในเบราว์เซอร์ของคุณ"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "กำลังจะมาเร็ว ๆ นี้"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "โปรแกรมเบต้า"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "ชอบลองอะไรใหม่ๆ ไหม? เข้า Discord ของเราแล้วใช้คำสั่ง /beta เพื่อรับสิทธิ์เข้าถึงก่อนใคร"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "ได้สิทธิในการใช้เวอร์ชั่นแอลฟา"
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",

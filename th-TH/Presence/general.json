@@ -23,6 +23,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "ดูอัลบั้ม"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "ดูอนิเมะ"
+	},
 	"general.buttonViewArticle": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "ดูบทความ"
@@ -75,9 +79,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "ดูเพลง"
 	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "ดูอนิเมะ"
+	},
 	"general.buttonWatchMovie": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "ดูภาพยนตร์"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "ดูซีรีส์"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
@@ -275,6 +287,10 @@
 		"description": "A page name of statuspages",
 		"message": "ประวัติการทำงาน"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "กำลังดูอนิเมะ"
+	},
 	"general.viewAList": {
 		"description": "",
 		"message": "กำลังดูลิสต์"
@@ -438,6 +454,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "กำลังดู:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "กำลังดูอนิเมะ"
 	},
 	"general.watchingLive": {
 		"description": "",

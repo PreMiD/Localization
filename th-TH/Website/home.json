@@ -71,6 +71,10 @@
     "description": "Features section subheading",
     "message": "อินเตอร์เฟสแบบเรียบง่าย"
   },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "รับ PreMiD"
+  },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "ดาวน์โหลด"
