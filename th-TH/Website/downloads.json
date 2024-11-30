@@ -166,5 +166,33 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "ซ่อนการดาวน์โหลด"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "สนับสนุนพวกเราบน GitHub หรือ Patreon เพื่อรับฟีเจอร์ใหม่ล่าสุดก่อนใคร!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "มีอะไรอยากจะถามหรอ? เข้า"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Discord"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "ได้เลย"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "ถูกใจ PreMiD?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "ช่วยพิจารณาสนับสนุนเราหรือเขียนรีวิวให้ด้วยน้าา - มันมีความหมายกับเรามากจริงๆ!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "เขียนรีวิว"
 	}
 }
