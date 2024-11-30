@@ -17,7 +17,7 @@
   },
   "presence.sections.information.contributors": {
     "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
-    "message": "ผู้พัฒนา"
+    "message": "ผู้ร่วมพัฒนา"
   },
   "presence.sections.information.likes": {
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
