@@ -217,7 +217,7 @@
 	},
 	"downloads.notice.alpha.title": {
 		"description": "Title for the alpha access section.",
-		"message": "ได้สิทธิในการใช้เวอร์ชั่นแอลฟา"
+		"message": "ได้สิทธิใช้เวอร์ชั่นแอลฟา"
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
