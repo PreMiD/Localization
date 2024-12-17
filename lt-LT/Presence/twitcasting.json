@@ -1,0 +1,14 @@
+{
+  "twitcasting.subs": {
+    "description": "",
+    "message": "Peržiūri savo prenumeratas..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Naršoma per vaizdo įrašus"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "kanalo:"
+  }
+}
