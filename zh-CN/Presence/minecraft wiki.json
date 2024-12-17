@@ -1,1 +1,6 @@
-{}
+{
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "正在上传一些东西..."
+  }
+}
