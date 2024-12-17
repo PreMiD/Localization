@@ -30,5 +30,21 @@
   "minecraft wiki.viewWatchlist": {
     "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
     "message": "กำลังดูรายการวิกิที่บันทึกไว้"
+  },
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "กำลังอัปโหลดอะไรบางอย่าง"
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "กำลังเข้าสู่ระบบ"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "ดูเธรด"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "กำลังแก้ไขการตั้งค่า"
   }
 }
