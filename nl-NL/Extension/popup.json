@@ -163,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Inschakelen"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Ontwikkelaarsmodus"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Mediabediening"
@@ -179,9 +183,17 @@
 		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "Voorkeurstaal voor presences"
 	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Kan gebruiker niet ophalen"
+	},
 	"popup.setting.heartbeat": {
 		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
 		"message": "Anonieme informatie verzenden"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Gebruik App"
 	},
 	"popup.information.extensionVersion": {
 		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
@@ -203,24 +215,196 @@
 		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
 		"message": "Niet verbonden met Discord-app"
 	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord Ontkoppeld"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD vereist een gekoppeld Discord-account om goed te werken. Koppel je Discord-account om PreMiD te blijven gebruiken."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Koppel Discord"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Ben jij dit niet?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Niet gekoppeld"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Je Discord-account is niet gekoppeld aan PreMiD."
 	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Uitloggen"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Gebruik Speelt Status"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Wat is er nieuw 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Bekijk de nieuwste coole spullen!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Open wijzigingslogboek"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord Ontkoppeld"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD vereist een gekoppeld Discord-account om goed te werken. Koppel je Discord-account om PreMiD te blijven gebruiken."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Koppel Discord"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Heb je iets?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Geef feedback"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Meld een fout of probleem met een Presence"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Meld een fout of probleem met de extensie"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Een functieverzoek"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Overige"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Feedback"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Wat gebeurt er? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Selecteer het type feedback dat je wilt indienen."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Meld een fout of probleem met een Presence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Oh nee! 😱 Sorry om te horen dat je problemen ondervindt met een Presence.\n\nOnze Presences worden onderhouden door de community, dus rapporteer alle problemen die je ondervindt met een Presence op onze GitHub repository.\n\nAls je de Presence hieronder kiest, voegen we de details van de Presence automatisch toe aan het issue template."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Sluit"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Verstuur"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Meld een fout of probleem met de extensie"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "Oh nee! 😱 Sorry om te horen dat je problemen ondervindt met de extensie.\n\nVul het volgende formulier in om eventuele problemen te melden die je ondervindt met de extensie."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Beschrijf het probleem"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Beschrijf het probleem dat je ondervindt in de extensie met zo veel mogelijk details."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Alle meldingen zijn anoniem, tenzij je ervoor kiest om je contactgegevens door te geven.\nIndien nodig kunnen we contact met je opnemen voor meer informatie of om je te laten weten wanneer het probleem is opgelost."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Je e-mailadres (optioneel)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Je Discord-gebruikersnaam (optioneel)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Een functieverzoek"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "We zijn altijd op zoek naar manieren om PreMiD te verbeteren en beter te maken voor jou.\n\nVul het volgende formulier in om een functie aan te vragen die je graag in PreMiD zou willen zien."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Beschrijf de functie"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Beschrijf de functie die je graag in PreMiD zou willen zien zo gedetailleerd mogelijk."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Alle functieverzoeken zijn anoniem, tenzij je ervoor kiest om je contactgegevens door te geven.\nIndien nodig kunnen we contact met je opnemen voor meer informatie of om je te laten weten wanneer de functie is geïmplementeerd."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Overige"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Vul het onderstaande formulier in om feedback te geven over alles wat je met ons wilt delen."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Beschrijf de feedback"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Beschrijf de feedback die je graag in PreMiD zou willen zien zo gedetailleerd mogelijk."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Alle feedback is anoniem, tenzij je ervoor kiest om je contactgegevens door te geven.\nIndien nodig kunnen we contact met je opnemen voor meer informatie of om je te laten weten wanneer de feedback is opgelost."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Feedback verstuurd"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Bedankt voor het indienen van je feedback! 🎉\n\nWe waarderen het dat je de tijd neemt om je gedachten met ons te delen. We zullen je feedback bekijken en indien nodig contact met je opnemen."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Oei! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Er ging iets mis tijdens het versturen van je feedback. Probeer het later opnieuw.\n\nAls het probleem zich blijft voordoen, neem dan contact met ons op in onze Discord server."
 	}
 }
