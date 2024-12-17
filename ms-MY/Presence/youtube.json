@@ -129,7 +129,7 @@
 	},
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-		"message": "Melihat hantaran komuniti"
+		"message": "Melihat siaran komuniti"
 	},
 	"youtube.perVideoPrivacy.tooltip.1": {
 		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
