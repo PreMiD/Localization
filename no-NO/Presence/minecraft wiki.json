@@ -1,1 +1,10 @@
-{}
+{
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "Logger inn"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "Konfigurerer innstillinger"
+  }
+}
