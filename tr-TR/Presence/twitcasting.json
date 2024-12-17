@@ -1,0 +1,26 @@
+{
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "Görüntülüyor"
+  },
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Takipçi listesi"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "Yayınını yönetiyor..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "Aboneliklerine bakıyor..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Videolara göz atıyor"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "kanalın:"
+  }
+}
