@@ -1,1 +1,18 @@
-{}
+{
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "Millegi üleslaadimine..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "Sisselogimine"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Kuva Teema"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "Seadete konfigureerimine"
+  }
+}
