@@ -1,0 +1,46 @@
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Закладки"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Исследовать"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Уведомления"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Читает пост:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Изменяет какие-то настройки..."
+  },
+  "x.com.viewDms": {
+    "description": "",
+    "message": "Смотрит личные сообщения"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Смотрит понравившееся посты:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Смотрит список:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Смотрит медиа:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Смотрит посты:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Смотрит посты (с ответами):"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Marcadores"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Explorar"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Notificaciones"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Leyendo post de:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Cambiando algunas configuraciones..."
+  },
+  "x.com.viewDms": {
+    "description": "",
+    "message": "Viendo sus MDs"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Viendo gustado por:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Viendo lista:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Viendo multimedia de:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Viendo posts de:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Viendo posts (con respuestas) de:"
+  }
+}
