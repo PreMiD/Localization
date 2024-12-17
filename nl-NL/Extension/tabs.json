@@ -91,13 +91,113 @@
 		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
 		"message": "Presence om te tonen"
 	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "Om PreMiD te gebruiken, moet je deze verbinden met je Discord-account. Klik op onderstaande knop."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD is geüpdatet!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Wat is er nieuw 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Functies"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Oplossingen"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Algemene wijzigingen"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Koppel je Discord-account"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Vanaf versie v2.6.0 moet je een Discord-account koppelen om PreMiD te kunnen gebruiken. Koppel je Discord-account om PreMiD te blijven gebruiken."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Koppel je Discord-account"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "En nu?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "We hopen dat je tevreden bent met de nieuwe update! Als je feedback of suggesties hebt, neem dan gerust deel aan onze Discord server en laat het ons weten."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Word lid van onze Discord-server"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Welkom bij PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Laten we beginnen!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Installeer PreMiD's extensie"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Koppel je Discord-account"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Zorg ervoor dat \"Deel je waargenomen activiteiten met anderen\" ingeschakeld is"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Gebruikersinstellingen {0} Activiteitsinstellingen {0} Activiteitenprivacy"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Koppel je Discord-account"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Hiermee kan PreMiD uw huidige activiteit weergeven als een statusbericht."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord account gekoppeld"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Laten we verdergaan naar de volgende stap."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Volgende"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Zorg ervoor dat u \"Deel je waargenomen activiteiten met anderen\" heeft ingeschakeld, anders ziet niemand uw glanzende nieuwe status."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Schakel \"Deel je waargenomen activiteiten met anderen\" in"
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Helemaal klaar!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Je bent helemaal ingesteld en klaar om te beginnen! We hopen dat je veel plezier hebt met PreMiD. Als je vragen hebt of hulp nodig hebt, voel je vrij om je aan te sluiten bij onze Discord server. Als je net zo veel van PreMiD houdt als wij, overweeg ons te steunen door te doneren, de extensie te beoordelen of het te delen met uw vrienden."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
