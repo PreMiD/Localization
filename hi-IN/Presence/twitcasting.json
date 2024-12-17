@@ -1,0 +1,26 @@
+{
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "Their देखना"
+  },
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "अनुयायियों की सूची"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "उनकी धारा का प्रबंधन..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "उनकी सदस्यताएं देखी जा रही हैं..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "वीडियो के माध्यम से ब्राउज़िंग"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "चैनल का:"
+  }
+}
