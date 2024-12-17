@@ -1,0 +1,26 @@
+{
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "Гледа своите"
+  },
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Списък с последователи"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "Управлява своя стрийм..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "Гледа своите абонаменти..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Търси видеа"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "от канал:"
+  }
+}
