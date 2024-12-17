@@ -30,5 +30,21 @@
   "minecraft wiki.viewWatchlist": {
     "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
     "message": "Melihat senarai pantauan miliknya"
+  },
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "Memuat naik sesuatu..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "Sedang log masuk"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Lihat Bebenang"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "Mengubah tetapan"
   }
 }
