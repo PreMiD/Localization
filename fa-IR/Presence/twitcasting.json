@@ -1,0 +1,22 @@
+{
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "لیست دنبال کنندگان"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "مدیریت استریمشان..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "درحال مشاهده اشتراک‌هایشان..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "گشتن در ویدیو ها"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "کانال:"
+  }
+}
