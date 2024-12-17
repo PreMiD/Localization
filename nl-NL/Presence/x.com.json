@@ -1,0 +1,46 @@
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Bladwijzers"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Ontdek"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Notificaties"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Leest post van:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Instellingen aan het aanpassen..."
+  },
+  "x.com.viewDms": {
+    "description": "",
+    "message": "Bekijkt zijn/haar privéberichten"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Bekijkt leuk gevonden door:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Bekijkt lijst:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Bekijkt media van:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Bekijkt posts van:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Bekijkt posts (met antwoorden) van:"
+  }
+}
