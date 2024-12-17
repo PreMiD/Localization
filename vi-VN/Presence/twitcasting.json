@@ -1,0 +1,26 @@
+{
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "Đang xem"
+  },
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Danh sách người theo dõi"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "Đang quản lý stream của họ..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "Đang xem dịch vụ đã đăng ký..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Đang duyệt qua video"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "của kênh:"
+  }
+}
