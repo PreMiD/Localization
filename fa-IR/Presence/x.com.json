@@ -1,0 +1,42 @@
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "نشانک ها"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "کاوش"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "اعلانات"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "درحال خواندن پست از:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "تغییر دادن یک سری تنظیمات..."
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "مشاهده لایک ها توسط:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "درحال نگاه کردن لیست:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "درحال نگاه کردن رسانه از:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "نگاه کردن پست های:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "نگاه کردن پست های (با پاسخ) از:"
+  }
+}
