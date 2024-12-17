@@ -1,0 +1,46 @@
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Zakładki"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Przeglądaj"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Powiadomienia"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Czyta post:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Zmienia kilka ustawień..."
+  },
+  "x.com.viewDms": {
+    "description": "",
+    "message": "Przegląda swoje wiadomości prywatne"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Przegląda polubione przez:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Przegląda listę:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Przegląda multimedia:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Przegląda posty:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Przegląda posty (z odpowiedziami):"
+  }
+}
