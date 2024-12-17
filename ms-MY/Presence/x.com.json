@@ -5,7 +5,7 @@
   },
   "x.com.explore": {
     "description": "",
-    "message": "Terokai"
+    "message": "Teroka"
   },
   "x.com.notifs": {
     "description": "",
@@ -13,15 +13,15 @@
   },
   "x.com.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Membaca hantaran:"
+    "message": "Membaca siaran:"
   },
   "x.com.settings": {
     "description": "",
-    "message": "Mengubah beberapa tetapan..."
+    "message": "Mengubah sesetengah tetapan..."
   },
   "x.com.viewDms": {
     "description": "",
-    "message": "Melihat DM miliknya"
+    "message": "Melihat mesej miliknya"
   },
   "x.com.viewLiked": {
     "description": "",
@@ -37,10 +37,10 @@
   },
   "x.com.viewPosts": {
     "description": "",
-    "message": "Melihat hantaran:"
+    "message": "Melihat siaran:"
   },
   "x.com.viewPostsWithReplies": {
     "description": "",
-    "message": "Melihat hantaran (berserta balasan):"
+    "message": "Melihat siaran (berserta balasan):"
   }
 }

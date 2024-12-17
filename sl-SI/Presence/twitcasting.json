@@ -1,0 +1,14 @@
+{
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "Ogledovanje njegovih"
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Brskanje po videoposnetkih"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "od kanala:"
+  }
+}

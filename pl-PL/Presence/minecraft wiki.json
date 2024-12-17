@@ -1,1 +1,18 @@
-{}
+{
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "Coś przesyła..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "Loguje się"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Zobacz wątek"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "Konfiguruje ustawienia"
+  }
+}

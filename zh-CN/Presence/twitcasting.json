@@ -1,0 +1,10 @@
+{
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "正在浏览视频"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "频道："
+  }
+}

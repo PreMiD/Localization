@@ -1,1 +1,18 @@
-{}
+{
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "Đang tải lên..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "Đang đăng nhập"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Xem chủ đề"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "Đang tinh chỉnh cài đặt"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "チャンネルの動画一覧"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "を閲覧中:"
+  }
+}

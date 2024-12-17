@@ -1,1 +1,6 @@
-{}
+{
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "درحال پیکربندی تنظیمات"
+  }
+}

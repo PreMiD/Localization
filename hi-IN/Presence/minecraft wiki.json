@@ -1,1 +1,18 @@
-{}
+{
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "कुछ अपलोड कर रहा है..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "लॉगिंग-इन"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "थ्रेड देखे"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "सेटिंग कॉन्फ़िगर करना"
+  }
+}

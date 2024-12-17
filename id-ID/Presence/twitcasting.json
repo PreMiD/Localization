@@ -1,0 +1,26 @@
+{
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "Melihat"
+  },
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Daftar Pengikut"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "Mengatur stream..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "Melihat langganan mereka..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Menelusuri video"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "saluran:"
+  }
+}

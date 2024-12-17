@@ -83,10 +83,6 @@
     "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
     "message": "Extensie is niet verbonden."
   },
-  "store.search": {
-    "description": "Placeholder for presence search",
-    "message": "Zoeken"
-  },
   "store.search.filters": {
     "description": "Little message next to the keys of search filters on the store.",
     "message": "Invoeren"

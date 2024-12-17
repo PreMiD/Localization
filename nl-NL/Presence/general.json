@@ -287,6 +287,10 @@
 		"description": "A page name of statuspages",
 		"message": "Beschikbaarheidsgeschiedenis"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "Bekijkt een anime"
+	},
 	"general.viewAList": {
 		"description": "",
 		"message": "Bekijkt een lijst"
@@ -450,6 +454,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "Kijkt naar:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "Bekijkt een anime"
 	},
 	"general.watchingLive": {
 		"description": "",

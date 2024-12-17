@@ -1,0 +1,22 @@
+{
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Seznam sledujících"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "Spravuje svůj stream..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "Prohlíží svá předplatná..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Prohlíží videa"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "kanálu:"
+  }
+}

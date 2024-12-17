@@ -1,1 +1,10 @@
-{}
+{
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "Caricando qualcosa..."
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "Configurando le impostazioni"
+  }
+}

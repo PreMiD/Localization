@@ -1,0 +1,10 @@
+{
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Blar igjennom videoer"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "for kanal:"
+  }
+}

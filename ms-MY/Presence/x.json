@@ -13,7 +13,7 @@
   },
   "x.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Membaca hantaran:"
+    "message": "Membaca siaran:"
   },
   "x.settings": {
     "description": "",
@@ -37,10 +37,10 @@
   },
   "x.viewPosts": {
     "description": "",
-    "message": "Melihat hantaran:"
+    "message": "Melihat siaran:"
   },
   "x.viewPostsWithReplies": {
     "description": "",
-    "message": "Melihat hantaran (berserta balasan):"
+    "message": "Melihat siaran (berserta balasan):"
   }
 }
