@@ -115,10 +115,6 @@
 		"description": "Skip anyway messages (changes everytime you click it).",
 		"message": "전 지원하고 싶지 않아요."
 	},
-	"downloads.skipanyway.message2": {
-		"description": "Skip anyway messages (changes everytime you click it).",
-		"message": "확실하신 거죠?"
-	},
 	"downloads.skipanyway.message3": {
 		"description": "Skip anyway messages (changes everytime you click it).",
 		"message": "정말요?"

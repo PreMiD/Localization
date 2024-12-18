@@ -65,7 +65,7 @@
 	},
 	"popup.info.noInternet.message": {
 		"description": "Shown when the user has no internet connection",
-		"message": "인터넷 연결이 되지 않은 것 같아요! PreMiD가 현재 상태를 보여줄 수 없을 거예요."
+		"message": "인터넷 연결이 되지 않은 것 같아요! 현재 PreMiD가 상태를 보여줄 수 없어요."
 	},
 	"popup.info.notConnected": {
 		"description": "Shown when the extension can't connect to the application",
@@ -175,6 +175,30 @@
 		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "선호하는 Presence 언어"
 	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "하트비트"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "선호 앱"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "확장 프로그램 버전: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "앱 버전: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "PreMiD 앱과 연결되지 않음"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Discord 앱과 연결되지 않음"
+	},
 	"popup.notConnectedBanner.heading": {
 		"description": "Title of the error banner when no discord connection is found",
 		"message": "Discord 연동 해제됨"
@@ -227,6 +251,10 @@
 		"description": "Button to link the Discord account",
 		"message": "Discord와 연동하기"
 	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "기능 요청"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "기타"
@@ -234,6 +262,10 @@
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "닫기"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "기능 요청"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
