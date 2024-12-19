@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "Tvá PreMiD aplikace je zastaralá. Aktualizuj ji abys mohl pokračovat v používání PreMiD."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Rozšíření vypnuto"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Rozšíření PreMiD bylo vypnuto v nastavení. Povolte jej prosím pro další používání PreMiD."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Ujistěte se, že jste povolili nastavení 'Zobrazit aktuální aktivitu jako stavovou zprávu' v nastavení Discordu."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD nebyl schopen najít prezentaci pro vaše aktuální panely. Ujistěte se, že jste si nainstalovali prezentace pro webové stránky, na kterých se právě nacházíte. Pokud jste nainstalovali prezentaci, zkuste znovu načíst web prezentace a ujistěte se, že jste povolili prezentaci v nastavení."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Poděkování"
@@ -118,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Informace"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Diagnostika"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Povolit"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Vývojářský Režim"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Multimediální Ovládaní"
@@ -151,24 +175,144 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Název Menubaru"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Synchronizovat Jazyk"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Preferovaný jazyk prezentací"
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Načtení uživatele selhalo"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Tlukot srdce"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Preferovat aplikaci"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Verze rozšíření: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Verze aplikace: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Není připojeno k aplikaci PreMiD"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Discord uživatel: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Nepřipojeno k Discord aplikaci"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord Odpojen"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD požaduje propojení s tvým Discord účtem aby mohl fungovat správně. Prosím propoj si Discord účet aby jsi mohl PreMiD používat."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Propojit s Discordem"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Nejsi to ty?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Nepropojeno"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Tvůj Discord účet neni propojen s PreMiDem."
 	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Odhlásit se"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Použít \"Hraje\" status"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Co Je Nového 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Koukni se na nejnovější věci!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Otevřít Changelog"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord Odpojen"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD požaduje propojení s tvým Discord účtem aby mohl fungovat správně. Prosím propoj si Discord účet aby jsi mohl PreMiD používat."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Propojit s Discordem"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Máte něco na mysli?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Odeslat zpětnou vazbu"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Nahlásit chybu nebo problém s Presence"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Ostatní"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Zpětná vazba"
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Nahlásit chybu nebo problém s Presence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Ale ne! 😱 Omlouváme se, že máte problémy s Presence.\n\nNaše Presence je udržována komunitou, proto prosím nahlaste veškeré problémy, které máte s Presence na našem GitHubu.\n\nPokud zvolíte Presence níže, automaticky zahrneme do šablony problému detaily Presence."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Zavřít"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Odeslat"
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Ostatní"
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Ale ne! 😱"
 	}
 }
