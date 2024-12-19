@@ -63,6 +63,14 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Λειτουργίες"
 	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "Επώμενο"
+	},
+	"tab.installed.close": {
+		"description": "Close button text",
+		"message": "Κλείσιμο"
+	},
 	"tab.installed.donate": {
 		"description": "Donate button text",
 		"message": "Δωρήστε"
