@@ -19,6 +19,10 @@
     "description": "Tippy content (mode 2) in user profile.",
     "message": "ここを押してこのユーザーが開発に関わったプレゼンスを見る"
   },
+  "user.presences.created": {
+    "description": "Tippy content in user profile.",
+    "message": "ここを押してこのユーザーが作成したプレゼンスを見る"
+  },
   "user.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for user pages.",
     "message": "プレゼンス開発者"
@@ -26,5 +30,9 @@
   "user.roles.presenceVerifier": {
     "description": "'Presence Verifier' title for user pages.",
     "message": "プレゼンステスター"
+  },
+  "user.switch.contributed": {
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
+    "message": "この人の [プレゼンス/貢献]"
   }
 }
