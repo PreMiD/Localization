@@ -3,8 +3,96 @@
     "description": "The first part of the next 6 strings",
     "message": "Naršoma per"
   },
+  "v live.channelBoard": {
+    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
+    "message": "Peržiūri lentą „{0}\""
+  },
+  "v live.channelHome": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Peržiūri pagrindinį puslapį"
+  },
+  "v live.channelList": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "sarašas kanalų"
+  },
+  "v live.channelMy": {
+    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
+    "message": "Peržiuri \"my\" puslapį"
+  },
+  "v live.channelSchedule": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Peržiūri tvarkaraščio puslapį"
+  },
+  "v live.channelStore": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Peržiūri parduotuvės puslapį"
+  },
+  "v live.charts": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "diagramų puslapis"
+  },
+  "v live.coins": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "monetų balansas"
+  },
+  "v live.devices": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "prijungti įrenginiai"
+  },
+  "v live.events": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "įvykių puslapis"
+  },
+  "v live.followed": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "sekami kanalai"
+  },
+  "v live.newVid": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "naujų vaizdo įrašų puslapis"
+  },
+  "v live.ofChannel": {
+    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
+    "message": "iš {0} kanalo"
+  },
+  "v live.policies": {
+    "description": "",
+    "message": "Skaito politikas"
+  },
+  "v live.product": {
+    "description": "{0} will be replaced with the name of the publisher of the product",
+    "message": "Peržiūri {0} produktą"
+  },
+  "v live.profile": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "profilio puslapis"
+  },
+  "v live.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Redaguoja savo {0} profilį"
+  },
+  "v live.purchases": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "naujausi pirkiniai"
+  },
+  "v live.recentUploads": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Naršoma po paskutinius jų {0} stebėtojų įkėlimus"
+  },
+  "v live.store": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "parduotuves puslapis"
+  },
+  "v live.upcoming": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "artėjančių puslapis"
+  },
   "v live.viewTheir": {
     "description": "The first part of the next 6 strings",
     "message": "Peržiūrimi"
+  },
+  "v live.watched": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "peržiūrėti vaizdo įrašai"
   }
 }
