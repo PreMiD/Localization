@@ -19,6 +19,10 @@
     "description": "Rich Presence -> redirects to discord.com/rich-presence",
     "message": "Rich Presence"
   },
+  "footer.followUs.heading": {
+    "description": "Follow Us section",
+    "message": "Følg os"
+  },
   "footer.help.getsupport": {
     "description": "Get Support -> redirects to Discord invite",
     "message": "Få hjælp"
@@ -67,6 +71,10 @@
     "description": "Partner section",
     "message": "Partnere"
   },
+  "footer.partners.more": {
+    "description": "Button next to all listed partners on the footer.",
+    "message": "Klik her for at se resten af vores partnere og sponsorer."
+  },
   "footer.supportus.contribute": {
     "description": "Contribute -> redirects to github.com/premid",
     "message": "Giv os en hjælpende hånd"
@@ -79,6 +87,10 @@
     "description": "Support us section",
     "message": "Støt os"
   },
+  "footer.supportus.jobs": {
+    "description": "Work for us! -> redirects to /jobs page",
+    "message": "Arbejde med os!"
+  },
   "footer.supportus.translate": {
     "description": "Translate -> redirects to locilazation page",
     "message": "Oversæt"
@@ -86,6 +98,10 @@
   "footer.usercount.button": {
     "description": "Install button under the promotional message",
     "message": "Installér"
+  },
+  "footer.usercount.heading": {
+    "description": "Promotional heading",
+    "message": "Klar til at bruge PreMiD?"
   },
   "footer.usercount.message": {
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
