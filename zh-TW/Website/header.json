@@ -50,5 +50,9 @@
   "header.staff": {
     "description": "Dashboard button",
     "message": "控制面板"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "商店"
   }
 }
