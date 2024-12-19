@@ -7,28 +7,320 @@
 		"description": "",
 		"message": "Pregledavanje..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Pretraživati"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Slušajte zajedno"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Pročitaj članak"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži album"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaz članka"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži izvođača"
+	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži evidenciju promjena"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži kanal"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Pogledajte epizodu"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži film"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži stranicu"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaz popisa za reproduciranje"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaz podcasta"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži profil"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži nizove"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži dijaprojekciju"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prikaži pjesmu"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Gledajte film"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Gledajte stream"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Gledanje videozapisa"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Pozivajući"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Poglavlje"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Pravila o kolačićima"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Uređivanje:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Epizoda"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Forumi"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Žanr"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "U pozivu..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Povijest incidenata"
+	},
 	"general.language": {
 		"description": "For choosing a language",
 		"message": "Jezik"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Slušatelja"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Slušanje glazbe"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Slušanje{0}{1}"
 	},
 	"general.live": {
 		"description": "",
 		"message": "Uživo"
 	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Merch"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Stranica"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Pauzirano"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Igranje"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Privatnosti"
+	},
 	"general.reading": {
 		"description": "",
 		"message": "Čitanje"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Čitanje na kanalu"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Čitanje DM-a"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Čitanje objave"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Čitanje niti"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Čitanje o:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Čitanje članka"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Čitanje članka:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Čitanje na kanalu:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Čitanje DM-a iz:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Reading post:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Nit za čitanje:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "U petlji"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Petljanje svih pjesama"
 	},
 	"general.search": {
 		"description": "",
 		"message": "Pretraživanje"
 	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Pretraživanje:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Traženje nečega..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "Godišnje doba"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Košaricu"
+	},
 	"general.store": {
 		"description": "",
 		"message": "Trgovina"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "Stranica podrške"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Uvjeti pružanja usluga"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Upisivanje u kanal:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Upisivanje DM-ova u:"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "Upisivanje u DM-ove"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Povijest neprekidnog rada"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Prikaz popisa"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Gledanje mange"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Prikaz člana"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Gledanje filma"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Prikaz stranice"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Prikaz popisa za reproduciranje"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Prikaz proizvoda"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Prikaz profila"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Prikaz niza"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Pregleda stranicu:"
+	},
 	"general.wiki": {
 		"description": "A page name",
 		"message": "Dokumentacija"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Pisanje"
 	}
 }
