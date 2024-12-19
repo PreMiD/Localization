@@ -1,14 +1,122 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "מתחבר..."
+  },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "צפה באפקליקציה"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "צפה במפתח"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "צפה באירוע"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "צפה {0}"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "צפה במוצר"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "צפה בחשבון של {0}"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "צפה בשירות"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "צפה בסטודיו {0}"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "צפה בתוויות"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "צפה בשרשור"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "צפה {0}"
+  },
+  "apple.chooseLang": {
+    "description": "Choosing the language of the website",
+    "message": "בוחר שפה..."
+  },
+  "apple.comparing": {
+    "description": "e.g. \"Comparing: Apple Watch\"",
+    "message": "משווה:"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "יוצר קשר עם תמיכה"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "תיעוד"
+  },
+  "apple.devFeatures": {
+    "description": "Features for app design",
+    "message": "אפשרויות"
   },
   "apple.devGames": {
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "משחקים"
   },
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "מה חדש"
+  },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "חדשות ועדכונים"
+  },
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "אפליקציות אייפון ואייפד"
+  },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "מהדורות"
+  },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "משאבים"
+  },
   "apple.other": {
     "description": "Other pages not added to the code",
     "message": "אחר"
+  },
+  "apple.shopBag": {
+    "description": "Shopping cart",
+    "message": "סל קניות"
+  },
+  "apple.shopBagSummary": {
+    "description": "The total price of the items in your bag (shopping cart)",
+    "message": "סך הכול: {0}"
+  },
+  "apple.shopBands": {
+    "description": "Bands (Bracelets) for the Apple Watch",
+    "message": "רצועות שעון Apple"
+  },
+  "apple.shopFavorites": {
+    "description": "Favorite products",
+    "message": "מועדפים"
+  },
+  "apple.shopGiftCards": {
+    "description": "Gift cards for e.g. the App Store",
+    "message": "כרטיסי מתנה"
+  },
+  "apple.shopPlanVisit": {
+    "description": "Plan your visit to the Apple Store",
+    "message": "תכנן את ביקורך"
   }
 }
