@@ -11,6 +11,10 @@
     "description": "Error when a field isn't filled.",
     "message": "Por favor, preencha todos os campos."
   },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Descrição máxima de 150 caracteres."
+  },
   "partners.apply.error3": {
     "description": "Error when image link is entered wrong.",
     "message": "Adicione um link (deve começar com https:// e terminar com .png)"
@@ -30,6 +34,10 @@
   "partners.apply.form.description": {
     "description": "Description field.",
     "message": "Descrição: (máximo de 150 caracteres)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Descrição para destaque"
   },
   "partners.apply.form.imageLink": {
     "description": "Do not change the sizes.",
@@ -81,7 +89,11 @@
   },
   "partners.apply.success": {
     "description": "Success message when applying.",
-    "message": "Obrigado por aplicar!"
+    "message": "Obrigado por se candidatar!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Inscreva-se para parceiro"
   },
   "partners.header.description": {
     "description": "Description for page.",
@@ -99,13 +111,49 @@
     "description": "Description for Arena of Kings.",
     "message": "Arena of Kings é um jogo PvP Arena de última geração, jogado no navegador."
   },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Uma ferramenta de criação de instaladores de plataforma cruzada poderosa e fácil de usar."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Localização ágil para empresas de tecnologia."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Comece a criar sua própria comunidade com nossos incríveis modelos. Construa o seu próprio reino."
+  },
   "partners.partner.erisly": {
     "description": "Description for Erisly.",
     "message": "Uma deusa que joga com um bot do discord divertido!"
   },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "Por trás do melhor da web."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit é sua estação de rádio musical online feita para reproduzir os melhores sucessos 24/7 e para fazer você descobrir os futuros sucessos primeiro."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "Uma interface unificada e amigável para todos os seus artefatos."
+  },
   "partners.partner.rNetflix": {
     "description": "Description for r/Netflix.",
     "message": "r/Netflix é o maior servidor de Discord relacionado à Netflix. Discuta sobre suas séries ou filmes favoritos com pessoas que pensam como você aqui."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM te permite ouvir mais de 15+ rádios de graça - sem parar. Com as melhores e mais recentes músicas apenas para você!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio é a rádio de info entretenimento mais bem sucedida para jogos de simulação na Alemanha, Áustria e Suíça!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Comunique facilmente o status em tempo real aos seus usuários."
   },
   "partners.partner.taigaBot": {
     "description": "Description for taigabot.",
@@ -115,9 +163,21 @@
     "description": "Description for UpBeatRadio.",
     "message": "UpBeat Radio é uma rádio online comunitário, proporcionando entretenimento sem publicidade 24/7, artigos de notícias diárias e muito mais!"
   },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "O software Wiki de código aberto mais poderoso e extensível."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Mantemos um olho atento às comunidades em crescimento e coisas interessantes pela Internet. Resumindo: você já deve usar o PreMiD e estar pronto para espalhá-lo para ainda mais malucos na Internet. A aceitação no programa é extremamente qualitativa e varia de um candidato para o outro."
+  },
   "partners.requirements.first.title": {
     "description": "Heading for the first requirement.",
     "message": "O que estamos procurando?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "No momento, estamos aceitando vários tipos de esforços em nosso programa de parceria. Qualquer pessoa deve ter a chance de ser notada. Os streamers da Twitch devem ter pelo menos 500 seguidores e pelo menos 10 espectadores simultâneos. Você deve transmitir pelo menos 1 vez por semana."
   },
   "partners.requirements.second.title": {
     "description": "Heading for the second requirement.",
@@ -147,6 +207,10 @@
     "description": "Heading for the first benefit.",
     "message": "Sua presence gratuita"
   },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Um cargo especial e uma grande honra serão dados a você em nosso servidor do Discord."
+  },
   "partners.why.benefit2.title": {
     "description": "Heading for the second benefit.",
     "message": "Torne-se verificado"
@@ -159,6 +223,10 @@
     "description": "Heading for the third benefit.",
     "message": "Integração meta-tag"
   },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Um lugar desagradável na página do nosso parceiro."
+  },
   "partners.why.benefit4.title": {
     "description": "Heading for the fourth benefit.",
     "message": "Seja imortalizado"
@@ -170,5 +238,9 @@
   "partners.why.benefit5.title": {
     "description": "Heading for the fifth benefit.",
     "message": "Seja famoso"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "Que tal ir para o céu em vez do inferno?"
   }
 }
