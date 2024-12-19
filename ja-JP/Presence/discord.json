@@ -1,7 +1,27 @@
 {
+  "discord.blog": {
+    "description": "",
+    "message": "Discordのブログ"
+  },
+  "discord.branding": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ブランディングガイドライン"
+  },
   "discord.browseThrough": {
     "description": "The first part of the next 17 strings",
     "message": "閲覧中:"
+  },
+  "discord.buttonInvite": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "招待を見る"
+  },
+  "discord.channelReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "チャンネルを閲覧中:{0}{1} (サーバー: {2})"
+  },
+  "discord.channelTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "以下のチャンネルで入力中: {0}{1} (サーバー: {2})"
   },
   "discord.college": {
     "description": "Second part of the \"Browsing through\" string",
@@ -11,12 +31,156 @@
     "description": "Second part of the \"Browsing through\" string",
     "message": "Discordについて"
   },
+  "discord.devs.appsBrowse": {
+    "description": "",
+    "message": "アプリ一覧"
+  },
+  "discord.devs.appsEdit": {
+    "description": "{0} will be replaced with the name of the app.",
+    "message": "アプリ: {0} を編集中"
+  },
+  "discord.devs.docs": {
+    "description": "",
+    "message": "ドキュメントを閲覧中"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "デベロッパーポータル"
+  },
+  "discord.devs.serversBrowse": {
+    "description": "",
+    "message": "サーバーインサイト"
+  },
+  "discord.devs.serversEdit": {
+    "description": "{0} will be replaced with the name of the server.",
+    "message": "サーバーインサイト: {0} を閲覧中"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "チーム一覧"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "チーム: {0} を編集中"
+  },
+  "discord.dmGroupReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "グループDMを閲覧中:{0}{1}"
+  },
+  "discord.dmGroupTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "グループDMで入力中:{0}{1}"
+  },
+  "discord.dmReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "DMを閲覧中:{0}{1}"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "DMで入力中:{0}{1}"
+  },
+  "discord.download": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ダウンロード"
+  },
+  "discord.friends": {
+    "description": "",
+    "message": "フレンドを閲覧中"
+  },
+  "discord.inspiration": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Discordの活用"
+  },
+  "discord.invite": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
+    "message": "招待を閲覧中:{0}{1} (サーバー: {2})"
+  },
+  "discord.inviteServer": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "サーバー: {1} の{0}招待を閲覧中"
+  },
+  "discord.jobs": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Discordで働く"
+  },
+  "discord.merch": {
+    "description": "",
+    "message": "Discordのグッズ"
+  },
+  "discord.merch.collection": {
+    "description": "",
+    "message": "グッズを閲覧中"
+  },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "モデレーターアカデミー"
+  },
+  "discord.newsroom": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ニュースルーム"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "Nitroページを閲覧中"
+  },
+  "discord.opensource": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "オープンソースプロジェクト"
+  },
+  "discord.partner": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Discordのパートナーシップ"
+  },
+  "discord.policies": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ポリシー"
+  },
+  "discord.rpc": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Rich Presenceページ"
+  },
+  "discord.safety": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "セーフティーセンター"
+  },
   "discord.security": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "セキュリティバグ・バウンティページ"
   },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "サーバー: {1} の{0}設定を閲覧中"
+  },
+  "discord.settings": {
+    "description": "",
+    "message": "設定を閲覧中..."
+  },
+  "discord.status": {
+    "description": "",
+    "message": "Discordのステータス"
+  },
+  "discord.streamkit": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "StreamKitでサーバーを強化"
+  },
   "discord.support": {
     "description": "",
     "message": "ヘルプセンター"
+  },
+  "discord.verification": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "サーバー認証"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "通話中: {0}{1} (サーバー: {2})"
+  },
+  "discord.voiceConnectedWith": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
+    "message": "通話中:{0}{1}"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Discordとは"
   }
 }
