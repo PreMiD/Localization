@@ -1,1 +1,42 @@
-{}
+{
+  "google classroom.assignment": {
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class",
+    "message": "Prezerá si zadanie v:"
+  },
+  "google classroom.assignmentPrivate": {
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "Prezerá si zadanie"
+  },
+  "google classroom.calendar": {
+    "description": "Displayed when the user viewing their calendar",
+    "message": "Prezerá si kalendár"
+  },
+  "google classroom.class": {
+    "description": "Displayed when a user is viewing a class",
+    "message": "Prezerá si hodinu"
+  },
+  "google classroom.classmembers": {
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class",
+    "message": "Prezerá si členov tried:"
+  },
+  "google classroom.classmembersPrivate": {
+    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "Prezerá si členov triedy"
+  },
+  "google classroom.classwork": {
+    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class",
+    "message": "Prezerá si úlohu od:"
+  },
+  "google classroom.classworkPrivate": {
+    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "Prezerá si úlohu"
+  },
+  "google classroom.settings": {
+    "description": "Displayed when a user is viewing their Google Classroom settings",
+    "message": "Konfiguruje nastavení"
+  },
+  "google classroom.todo": {
+    "description": "Displayed when the user is viewing their to-do list",
+    "message": "Prezerá si to-do list"
+  }
+}
