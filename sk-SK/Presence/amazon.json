@@ -1,1 +1,74 @@
-{}
+{
+  "amazon.address": {
+    "description": "",
+    "message": "Prezeranie ich adres"
+  },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "Prezerajú si ich adresáre"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "Prezeranie ich zostatku"
+  },
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "nákupný košík"
+  },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "Prezerajú sa všetky kategórie"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "darčekové karty"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "Prezeranie ich histórie"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "detaily objednávky"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "história objednávok"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "Prezeranie spôsobov platby"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "Prezeranie ich domácich miláčikov"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "Zobrazuje sa Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "Pozeranie Prime Video:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "Prezeranie odporúčaných"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "Prezeranie obchodu:"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "Prezerajú si ich predplatné"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "Prezeranie ich"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "zoznam prianí"
+  }
+}
