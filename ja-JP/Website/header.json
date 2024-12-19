@@ -27,6 +27,10 @@
     "description": "Heading of the language notification when user has different language.",
     "message": "このサイトは日本語に対応しています。切り替えますか？"
   },
+  "header.lia": {
+    "description": "Indicates which user is logged in",
+    "message": "ログイン中のアカウント:"
+  },
   "header.loader.phrases": {
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
     "message": "パンケーキを焼いています…;荷物を運んでいます…;IPアドレスを解析しています…;（˘ω˘） ;ルールを破壊しています…"
@@ -34,6 +38,18 @@
   "header.login": {
     "description": "Login Button",
     "message": "ログイン"
+  },
+  "header.logout": {
+    "description": "Logout button",
+    "message": "ログアウト"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "バグを報告する"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "ダッシュボード"
   },
   "header.store": {
     "description": "Store tab",
