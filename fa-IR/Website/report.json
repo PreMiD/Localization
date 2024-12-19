@@ -3,9 +3,21 @@
     "description": "Lists users active bugs",
     "message": "باگ های فعال"
   },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "مرورگر و نسخه خود را انتخاب کنید - می توانید نسخه را با مراجعه به about:support در فایرفاکس یا chrome://help دریافت کنید"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 گزارش باقی مانده"
+  },
   "report.button": {
     "description": "Button to send the information inputed.",
     "message": "ارسال گزارش"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "یک لینک یا مثال زنده یا یک توضیح واضح مرحله به مرحله درباره به وجود آوردن این باگ ارائه دهید."
   },
   "report.error": {
     "description": "User needs to input more notification",
@@ -14,6 +26,18 @@
   "report.error.unauth": {
     "description": "Users Discord not verified",
     "message": "اکانت دیسکورد نیاز به تائید دارد"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "گزارش باگ برای مشکلاتی هستند که در سایت PreMiD و سرور دیسکورد PreMiD اتفاق می افتند. باگ های مرتبط به Presence ها باید به خود سازنده آن Presence گزارش داده شوند. فقط اشکالات را به زبان انگلیسی گزارش کنید."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "سیستم عامل و نسخه خود را انتخاب کنید"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "توضیحی واضح و مختصر از اشکال ارائه دهید."
   },
   "report.success": {
     "description": "Success notification",
