@@ -1,1 +1,38 @@
-{}
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Bokmerker"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Utforsk"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Varslinger"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Endrer noen instillinger..."
+  },
+  "x.com.viewDms": {
+    "description": "",
+    "message": "Ser på deres direktemeldinger"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Ser likt av:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Ser listen av:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Ser postene til:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Ser posten (med svar) til:"
+  }
+}
