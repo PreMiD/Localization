@@ -1,1 +1,38 @@
-{}
+{
+  "user.geniusPresenceDev.message1": {
+    "description": "'Genuis Presence Developer' tippy description for user pages.",
+    "message": "Genijalni Programer Statusa"
+  },
+  "user.geniusPresenceDev.message2": {
+    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "Napravio preko 100 statusa!"
+  },
+  "user.importantPresenceDev.message1": {
+    "description": "'Important Presence Developer' tippy description for user pages.",
+    "message": "Važan Programer Statusa"
+  },
+  "user.importantPresenceDev.message2": {
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "Napravio {0} statusa."
+  },
+  "user.presences.contributed": {
+    "description": "Tippy content (mode 2) in user profile.",
+    "message": "Klikni ovdje da vidiš Statuse kojim je ovaj korisnik doprinosio."
+  },
+  "user.presences.created": {
+    "description": "Tippy content in user profile.",
+    "message": "Klikni ovdje da vidiš Statuse koje je napravio ovaj korisnik."
+  },
+  "user.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for user pages.",
+    "message": "Programer Statusa"
+  },
+  "user.roles.presenceVerifier": {
+    "description": "'Presence Verifier' title for user pages.",
+    "message": "Potvrđivač Statusa"
+  },
+  "user.switch.contributed": {
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
+    "message": "Korisnik [Statusa/doprinosi]"
+  }
+}
