@@ -7,6 +7,10 @@
     "description": "",
     "message": "דפדוף דרך:"
   },
+  "facebook.call": {
+    "description": "",
+    "message": "בשיחה עם:"
+  },
   "facebook.savedVids": {
     "description": "",
     "message": "סרטונים שמורים"
@@ -15,8 +19,44 @@
     "description": "",
     "message": "קריאה על משתמש:"
   },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "צפייה בקהילת המשתמשים:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "צפייה חברים של משתמש:"
+  },
   "facebook.userHidden": {
     "description": "Shows when you dont want to show who you are calling/texting.",
     "message": "מישהו... (המשתמש מוסתר)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "הצגת תמונות לפי משתמש:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "צפייה בפוסטים לפי משתמש:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "צפייה בחנות של משתמש:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "צפייה בסרטונים לפי משתמש:"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "בשיחת וידאו עם:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "צופה במזג האוויר של היום"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "כתיבת הודעה"
   }
 }
