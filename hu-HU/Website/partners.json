@@ -63,6 +63,10 @@
     "description": "Name field's placeholder.",
     "message": "Példa: PreMiD"
   },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Hogy ha inkább közvetlenül dolgoznál a PreMiD-nél, akkor válogass **álláshírdetéseink** közül."
+  },
   "partners.apply.loggedUser": {
     "description": "{0} will be replaced with user account.",
     "message": "Bejelentkezve mint {0}"
@@ -123,6 +127,10 @@
     "description": "Description for StatusPage.",
     "message": "Egyszerüen ossz meg valós idejű státuszt a felhasználóidnak."
   },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taigai egy Discord Bot aki megoldást nyújthat problémáidra!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "A legerősebb és legjobban bővíthető nyílt forráskódú Wiki szoftver."
@@ -159,9 +167,17 @@
     "description": "Heading for the second benefit.",
     "message": "Hitelesítve leszel"
   },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Automatikusan használja az általad létrehozott Állapotot amikor valaki meglátogatja a weboldalad."
+  },
   "partners.why.benefit3.title": {
     "description": "Heading for the third benefit.",
     "message": "Meta-tag integráció"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Egy csodálatos hely a partner oldalunkon."
   },
   "partners.why.benefit4.title": {
     "description": "Heading for the fourth benefit.",
