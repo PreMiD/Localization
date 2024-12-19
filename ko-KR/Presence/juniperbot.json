@@ -7,6 +7,22 @@
     "description": "Reading about the site's cookies",
     "message": "사이트의 쿠키에 관해 읽는 중"
   },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "후원 플랜 정보에 관해 읽는 중"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "서버의 순위표 확인 중:"
+  },
+  "juniperbot.mainpage": {
+    "description": "Home page of the site",
+    "message": "메인 페이지"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "대시보드"
+  },
   "juniperbot.serverdashname": {
     "description": "Guild name",
     "message": "서버: {0}"
@@ -18,5 +34,9 @@
   "juniperbot.stats": {
     "description": "Page with bot's statistics",
     "message": "봇의 통계 보는 중"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "등급 카드 맞춤 설정 중"
   }
 }
