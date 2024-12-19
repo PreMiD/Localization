@@ -1,1 +1,58 @@
-{}
+{
+  "spotify.albumLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "albumai, kurie jiems patinka"
+  },
+  "spotify.artistsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "atlikėjai, kurie jiems patinka"
+  },
+  "spotify.bestPodcasts": {
+    "description": "",
+    "message": "Geriausi podcast'ai"
+  },
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "Naršoma per"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "Grafikų peržiūra"
+  },
+  "spotify.discover": {
+    "description": "",
+    "message": "Atranda naujas dainas"
+  },
+  "spotify.download": {
+    "description": "",
+    "message": "Siunčiamas Spotify"
+  },
+  "spotify.featured": {
+    "description": "",
+    "message": "Populiaros dainos"
+  },
+  "spotify.genres": {
+    "description": "",
+    "message": "Naršoma žanruose"
+  },
+  "spotify.latest": {
+    "description": "",
+    "message": "Paskutinių laidų peržiūra"
+  },
+  "spotify.madeForYou": {
+    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
+    "message": "„Skirta tau“"
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "grojaraščius"
+  },
+  "spotify.podcastsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "podcast'ai, kurie jiems patinka"
+  },
+  "spotify.songsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "dainos, kurios jiems patinka"
+  }
+}
