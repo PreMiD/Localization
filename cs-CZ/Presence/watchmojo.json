@@ -1,1 +1,18 @@
-{}
+{
+  "watchmojo.buttonPlayTrivia": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Hrát Trivia"
+  },
+  "watchmojo.playingTrivia": {
+    "description": "For privacy mode, \"a\" as in unspecified.",
+    "message": "Hraje hru Trivia"
+  },
+  "watchmojo.trivia": {
+    "description": "{0} will be replaced with the name of the Trivia game",
+    "message": "Hraje Trivia: {0}"
+  },
+  "watchmojo.triviaGame": {
+    "description": "The round and score of the Trivia game the user is playing.",
+    "message": "Kolo {0} z {1} (Skore: {2}/{3})"
+  }
+}
