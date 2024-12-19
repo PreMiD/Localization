@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "Guardando i loro DM"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Guardando gioco:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Guardando lista staff"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Guardando i loro forum seguiti"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Guardando i loro thread seguiti"
+  }
+}
