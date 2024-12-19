@@ -59,9 +59,33 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "Nesklandumų sprendimas"
 	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Plėtinys įjungtas"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Įjungta Discord būsenos žinutė"
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD buvo atnaujintas!"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Ypatybės"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Susiekite Discord paskyrą"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Įsitikinkite, kad jūs turite \"Display current activity as a status message.\" įjungtą"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Susiekite savo Discord paskyrą"
 	},
 	"tab.installed.next": {
 		"description": "Next button text",
