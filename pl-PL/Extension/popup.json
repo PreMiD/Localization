@@ -183,9 +183,17 @@
 		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "Preferowany język Presence"
 	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Nie udało się pobrać użytkownika"
+	},
 	"popup.setting.heartbeat": {
 		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
 		"message": "Heartbeat"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Preferuj aplikację"
 	},
 	"popup.information.extensionVersion": {
 		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
@@ -263,16 +271,140 @@
 		"description": "Button to link the Discord account",
 		"message": "Połącz z Discordem"
 	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Masz coś do powiedzenia?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Prześlij opinię"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Zgłoś błąd lub problem z Aktywnością"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Zgłoś błąd lub problem z rozszerzeniem"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Zaproponuj funkcję"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Inne"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Opinia"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Co się dzieje? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Wybierz rodzaj opinii, którą chcesz przesłać."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Zgłoś błąd lub problem z Aktywnością"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "O nie! 😱 Przepraszamy, że masz problemy z Aktywnością.\n\nNasze Aktywności są utrzymywane przez społeczność, więc zgłaszaj wszelkie problemy, których doświadczasz w naszym repozytorium GitHub.\n\nJeśli wybierzesz Aktywność poniżej, automatycznie dołączymy szczegóły Aktywności do szablonu problemu."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Zamknij"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Prześlij"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Zgłoś błąd lub problem z rozszerzeniem"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "O nie! 😱 Przepraszamy, że masz problemy z rozszerzeniem.\n\nWypełnij poniższy formularz, aby zgłosić problemy z rozszerzeniem."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Opisz problem"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Proszę opisać problem z rozszerzeniem jak najbardziej szczegółowo."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Wszystkie zgłoszenia są anonimowe, chyba że zdecydujesz się podać swoje dane kontaktowe.\nW razie potrzeby możemy skontaktować się z Tobą, aby uzyskać więcej informacji lub poinformować Cię, kiedy problem zostanie rozwiązany."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Twój adres e-mail (opcjonalnie)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Twoja nazwa użytkownika Discord (opcjonalnie)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Zaproponuj funkcję"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Zawsze szukamy sposobów na ulepszenie PreMiD i uczynienie go lepszym dla Ciebie.\n\nWypełnij poniższy formularz, aby poprosić o funkcję, którą chciałbyś zobaczyć w PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Opisz funkcję"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Proszę opisać funkcję, którą chciałbyś zobaczyć w PreMiD jak najbardziej szczegółowo."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Wszystkie prośby o funkcje są anonimowe, chyba że zdecydujesz się podać swoje dane kontaktowe.\nW razie potrzeby możemy skontaktować się z Tobą, aby uzyskać więcej informacji lub poinformować Cię, kiedy funkcja zostanie zaimplementowana."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Inne"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Wypełnij poniższy formularz, aby przekazać opinię na temat czegokolwiek innego, co chcesz nam przekazać."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Opisz opinię"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Proszę opisać, czym chciałbyś się z nami podzielić jak najbardziej szczegółowo."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Wszystkie zgłoszenia są anonimowe, chyba że zdecydujesz się podać swoje dane kontaktowe.\nW razie potrzeby możemy skontaktować się z Tobą, aby uzyskać więcej informacji lub poinformować Cię, kiedy problem zostanie rozwiązany."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Przesłano opinię"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Dziękujemy za przesłanie opinii! 🎉\n\nDoceniamy poświęcenie czasu na podzielenie się z nami swoimi przemyśleniami. Sprawdzimy Twoją opinię i skontaktujemy się z Tobą w razie potrzeby."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "O nie! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Coś poszło nie tak podczas przesyłania opinii. Spróbuj ponownie później.\n\nJeśli problem będzie się powtarzał, skontaktuj się z nami na naszym serwerze Discord."
 	}
 }
