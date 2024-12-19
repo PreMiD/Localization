@@ -1,10 +1,58 @@
 {
+  "spotify.albumLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "album som de liker"
+  },
+  "spotify.artistsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "artister som de liker"
+  },
+  "spotify.bestPodcasts": {
+    "description": "",
+    "message": "Beste podkaster"
+  },
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "Blar igjennom"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "Ser på topplistene"
+  },
+  "spotify.discover": {
+    "description": "",
+    "message": "Utforsker nye sanger"
+  },
   "spotify.download": {
     "description": "",
     "message": "Laster ned Spotify"
   },
+  "spotify.featured": {
+    "description": "",
+    "message": "Utvalgte sanger"
+  },
+  "spotify.genres": {
+    "description": "",
+    "message": "Blar gjennom sjangre"
+  },
+  "spotify.latest": {
+    "description": "",
+    "message": "Ser på de nyeste låtene"
+  },
   "spotify.madeForYou": {
     "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
     "message": "\"Spesielt for deg\""
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "sine spillelister"
+  },
+  "spotify.podcastsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "podkaster som de liker"
+  },
+  "spotify.songsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "sanger som de liker"
   }
 }
