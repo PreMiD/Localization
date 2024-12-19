@@ -1,6 +1,42 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Закладки"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Досліджує"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Сповіщення"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Змінює деякі налаштування..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Переглядає приватні повідомлення"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Переглядає вподобане "
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Переглядає список "
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Переглядає медіа "
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Переглядає твіти "
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Переглядає твіти (з відповідями) "
   }
 }
