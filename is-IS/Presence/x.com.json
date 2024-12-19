@@ -1,1 +1,38 @@
-{}
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Bókamerki"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Skoðar"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Tilkynningar"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Breytir stillingum..."
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Skoðar manns sem líkaði við:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Skoðar lista:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Skoðar fjölmiðlun af:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Skoðar post af:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Skoðar posts (með svörum) af:"
+  }
+}
