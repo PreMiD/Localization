@@ -10,5 +10,9 @@
   "juniperbot.serverdashname": {
     "description": "Guild name",
     "message": "Szerver: {0}"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "Rank kártya testreszabása"
   }
 }
