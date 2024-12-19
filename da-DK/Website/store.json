@@ -1,4 +1,12 @@
 {
+  "store.card.presence.add": {
+    "description": "Button that will appear on hover after extension is installed.",
+    "message": "Tilføj Presense"
+  },
+  "store.card.presence.remove": {
+    "description": "Button that will appear on hover after extension and presence is installed.",
+    "message": "Fjern Presence"
+  },
   "store.cards.creator": {
     "description": "Creator of a presence",
     "message": "Forfatter"
@@ -7,9 +15,25 @@
     "description": "Category at the top",
     "message": "Alle"
   },
+  "store.category.filters.allowAdult": {
+    "description": "Adult content checkbox",
+    "message": "Vis NSFW"
+  },
+  "store.category.filters.heading": {
+    "description": "Searh filters option at the store page",
+    "message": "Filtre"
+  },
+  "store.category.filters.mostUsed": {
+    "description": "Most used first checkbox",
+    "message": "Hyppigst benyttede først"
+  },
   "store.category.games": {
     "description": "Category at the top",
     "message": "Spil"
+  },
+  "store.category.heading": {
+    "description": "Category heading",
+    "message": "Kategorier"
   },
   "store.category.music": {
     "description": "Category at the top",
@@ -25,10 +49,30 @@
   },
   "store.category.videos": {
     "description": "Category at the top",
-    "message": "Videoer & Streaming"
+    "message": "Video & Streaming"
+  },
+  "store.filters.added": {
+    "description": "Store filter to display/not display already installed presences.",
+    "message": "Vis tilføjede Presences"
+  },
+  "store.header.search": {
+    "description": "Search bar text when nothing is stated",
+    "message": "Søg efter Presence"
+  },
+  "store.message.error": {
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
+    "message": "Udvidelsen er ikke tilsluttet."
   },
   "store.search": {
     "description": "Placeholder for presence search",
     "message": "Søg"
+  },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "Enter"
+  },
+  "store.search.removeFilter": {
+    "description": "Remove message for active search filters.",
+    "message": "Klik for at fjerne filtret"
   }
 }
