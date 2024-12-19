@@ -1,1 +1,34 @@
-{}
+{
+  "9gag.about": {
+    "description": "",
+    "message": "9GAG에 대한 모든 내용 읽기"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "컬렉션 보기:"
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "무엇이 유행인지 보는 중"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "페이지 보는 중:"
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "핫한 내용 보기"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "상점 페이지를 보는 중"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "태그 보기:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "무엇이 유행인지 보는 중"
+  }
+}
