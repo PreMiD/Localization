@@ -1,4 +1,12 @@
 {
+  "contributors.cards.copyUserId": {
+    "description": "Tippy message when you hover on the avatar of a credit card.",
+    "message": "Klik for at kopiere brugerens ID."
+  },
+  "contributors.cards.userIdCopied": {
+    "description": "Notification after user ID was copied.",
+    "message": "Bruger ID kopieret!"
+  },
   "contributors.headings.staff": {
     "description": "Heading for group of users.",
     "message": "Personale"
@@ -6,5 +14,33 @@
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Oversættere"
+  },
+  "contributors.roles.booster": {
+    "description": "'Booster' title for contributors page and user pages.",
+    "message": "Booster"
+  },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Fællesskab Manager"
+  },
+  "contributors.roles.donator": {
+    "description": "'Donator' title for contributors page.",
+    "message": "Donatorer"
+  },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Menneskelige ressourcer"
+  },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "Lokaliseringsleder"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "Korrekturlæser"
+  },
+  "contributors.roles.translator": {
+    "description": "'Translator' title for contributors page.",
+    "message": "Oversætter"
   }
 }
