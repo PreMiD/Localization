@@ -1,4 +1,16 @@
 {
+  "9gag.about": {
+    "description": "",
+    "message": "קורא הכל על 9GAG"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "צפייה באוסף:"
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "צופה במה טרי"
+  },
   "9gag.gag": {
     "description": "",
     "message": "צפייה gag:"
@@ -14,5 +26,9 @@
   "9gag.tag": {
     "description": "",
     "message": "צפייה tag:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "הצגת מגמות"
   }
 }
