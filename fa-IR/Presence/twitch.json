@@ -35,6 +35,26 @@
     "description": "",
     "message": "خواندن درباره برند Twitch..."
   },
+  "twitch.brandExpression": {
+    "description": "Page name",
+    "message": "به حداکثر رساندن احساسات ما"
+  },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "آوردن روش ها در دیوانگی (دوست داشتنی) ما"
+  },
+  "twitch.brandReal": {
+    "description": "Page name",
+    "message": "Twitch را واقعی نگه داشتن"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "همه چیزش را به هم آوردن"
+  },
+  "twitch.brandWatch": {
+    "description": "Watching as in watching a video",
+    "message": "نگاه کردن برند سیر تحول Twitch"
+  },
   "twitch.camp": {
     "description": "",
     "message": "کمپین سازنده"
