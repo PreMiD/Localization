@@ -1,1 +1,34 @@
-{}
+{
+  "9gag.about": {
+    "description": "",
+    "message": "Prezeranie všetkého o 9GAG"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "Prezeranie kolekcie:"
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "Prezeranie, toho čo je čerstvé"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "Prezeranie gag:"
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "Pozeranie, čo je populárne"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "Prezeranie stránky obchodu"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "Prezeranie Tagu:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "Zobrazujú sa trendy"
+  }
+}
