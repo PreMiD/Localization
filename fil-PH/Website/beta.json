@@ -1,1 +1,46 @@
-{}
+{
+  "beta.description.1": {
+    "description": "Section description",
+    "message": "Ang **PreMiD Beta** ay available na para sa lahat!"
+  },
+  "beta.description.2": {
+    "description": "Section description",
+    "message": "Ano ang makukuha mo kapag nag-sign up ka?"
+  },
+  "beta.features.1": {
+    "description": "Features list",
+    "message": "Mga latest feature"
+  },
+  "beta.features.2": {
+    "description": "Features list",
+    "message": "May access sa mga super secret text channel ni PreMiD"
+  },
+  "beta.features.3": {
+    "description": "Features list",
+    "message": "Isang special role sa aming Discord server"
+  },
+  "beta.register.button": {
+    "description": "Sign up button text",
+    "message": "Mag-sign up na!"
+  },
+  "beta.register.text": {
+    "description": "{0} will be replaced with the beta testers count -> is a variable",
+    "message": "Handa na para dito? Mag-join na sa mga {0} ibang Beta Tester!"
+  },
+  "beta.title": {
+    "description": "Beta page title",
+    "message": "Gusto mo ng mga bagong feature?"
+  },
+  "error.noslots": {
+    "description": "Shows when the beta slots are full.",
+    "message": "Mukhang wala na kaming available na mga beta slot."
+  },
+  "thankyou.description": {
+    "description": "Thank You page description",
+    "message": "Ang aming mga unggoy ay nagtatrabaho sa pagkuha sa iyo sa aming beta program as fast as possible. Salamat sa pag-register!"
+  },
+  "thankyou.title": {
+    "description": "Thank You page title",
+    "message": "Cool! Ikaw ngayon ay isang beta user na!"
+  }
+}
