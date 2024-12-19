@@ -19,6 +19,10 @@
     "description": "Tippy content (mode 2) in user profile.",
     "message": "按這裏顯示該用戶有參與製作的 presences"
   },
+  "user.presences.created": {
+    "description": "Tippy content in user profile.",
+    "message": "按這裏顯示該用戶所製作的 Presences"
+  },
   "user.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for user pages.",
     "message": "Presence 開發者"
@@ -26,5 +30,9 @@
   "user.roles.presenceVerifier": {
     "description": "'Presence Verifier' title for user pages.",
     "message": "Presence 審核人員"
+  },
+  "user.switch.contributed": {
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
+    "message": "用戶的 [Presences/貢獻]"
   }
 }
