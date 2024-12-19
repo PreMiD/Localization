@@ -1,1 +1,18 @@
-{}
+{
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "Tinitingnan ang mga lyric ng:"
+  },
+  "genius.viewAlbum": {
+    "description": "Album of a song",
+    "message": "Tumitingin ng album:"
+  },
+  "genius.viewHome": {
+    "description": "",
+    "message": "Tinitingnan ang homepage"
+  },
+  "genius.viewLyrics": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Tingnan ang mga Lyric"
+  }
+}
