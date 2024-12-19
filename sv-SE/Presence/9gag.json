@@ -1,1 +1,34 @@
-{}
+{
+  "9gag.about": {
+    "description": "",
+    "message": "Läser allt om 9GAG"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "Visar kollektion:"
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "Tittar på vad som är nytt"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "Tittar på gag:"
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "Tittar på vad som är hett"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "Visar butikssida"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "Tittar på tagg:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "Tittar på vad som är trendigt"
+  }
+}
