@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Visa Server"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "Tittar på mantlar"
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "Tittar på hur man claimar sin profil"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Redigerar deras{0}profilinformation"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "Tittar på Servrar"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Tittar på nya Skins"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Tittar på random Skins"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "Tittar på Skins med {0} tagg"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Tittar på taggade Skins"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Tittar på topp Skins"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Tittar på trendande Skins"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "Tittar på uppkommande namn"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "Tittar på en mantel:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "Tittar på deras profil emojis"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "Tittar på deras vänner"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "Tittar på Server:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Tittar på en Skin"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "Tittar på deras skins"
+  }
+}
