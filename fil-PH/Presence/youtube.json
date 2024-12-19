@@ -1,1 +1,14 @@
-{}
+{
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Tumitingin ng kanyang"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Tinitingnan ano ang trending"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "May ina-upload something..."
+	}
+}
