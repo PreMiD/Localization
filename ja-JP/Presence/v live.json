@@ -2,5 +2,45 @@
   "v live.browseThrough": {
     "description": "The first part of the next 6 strings",
     "message": "閲覧中"
+  },
+  "v live.channelHome": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "ホームページ"
+  },
+  "v live.channelList": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "チャンネル一覧"
+  },
+  "v live.channelSchedule": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "スケジュール"
+  },
+  "v live.charts": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ライブチャート"
+  },
+  "v live.events": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ライブイベント"
+  },
+  "v live.newVid": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "新しいビデオ"
+  },
+  "v live.recentUploads": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "フォロー中のチャンネル{0}\n最近のアップロード"
+  },
+  "v live.store": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ストア"
+  },
+  "v live.upcoming": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ライブスケジュール"
+  },
+  "v live.viewTheir": {
+    "description": "The first part of the next 6 strings",
+    "message": "閲覧中:"
   }
 }
