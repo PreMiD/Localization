@@ -115,6 +115,10 @@
 		"description": "Skip anyway messages (changes everytime you click it).",
 		"message": "전 지원하고 싶지 않아요."
 	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "확실하신가요?"
+	},
 	"downloads.skipanyway.message3": {
 		"description": "Skip anyway messages (changes everytime you click it).",
 		"message": "정말요?"
@@ -155,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "경고"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "모바일 기기에서는 PreMiD를 사용할 수 없습니다. 데스크톱 브라우저를 사용해주세요."
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "다운로드 보기"
@@ -162,5 +170,33 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "다운로드 숨기기"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "대형 소식!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "애플리케이션을 없앴습니다!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "브라우저 확장이 필요합니다. 추가적 다운로드는 필요하지 않습니다."
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "간단 설치"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "앱 불필요"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "잘 작동함™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "편의를 위해 v2.6.0부터 애플리케이션을 없앴습니다 ✨"
 	}
 }
