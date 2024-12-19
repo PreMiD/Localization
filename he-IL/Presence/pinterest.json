@@ -1,1 +1,18 @@
-{}
+{
+  "pinterest.board": {
+    "description": "",
+    "message": "לוח צפייה:"
+  },
+  "pinterest.follow": {
+    "description": "",
+    "message": "צופה בעוקבים שלהם"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "צופה בעוקבים שלהם"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "צופה בסיכה"
+  }
+}
