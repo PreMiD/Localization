@@ -7,6 +7,10 @@
 		"description": "",
 		"message": "Prochází..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Procházet"
+	},
 	"general.buttonListenAlong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Poslouchat Spolu"
@@ -19,6 +23,14 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Zobrazit Album"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobrazit Anime"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobrazit článek"
+	},
 	"general.buttonViewArtist": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Zobrazit Umělce"
@@ -30,6 +42,10 @@
 	"general.buttonViewEpisode": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Zobrazit Epizodu"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobrazit Film"
 	},
 	"general.buttonViewPage": {
 		"description": "Used as the title for the button in Discord.",
@@ -51,9 +67,25 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Zobrazit Sérii"
 	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobrazit"
+	},
 	"general.buttonViewSong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Zobrazit Skladbu"
+	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Sleduj Anime"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Sledovat film"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Sleduj série"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
@@ -115,6 +147,10 @@
 		"description": "",
 		"message": "Poslouchá hudbu"
 	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Poslouchá{0}{1}"
+	},
 	"general.live": {
 		"description": "",
 		"message": "Živě"
@@ -146,6 +182,10 @@
 	"general.reading": {
 		"description": "",
 		"message": "Čte"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Čte v kanálu"
 	},
 	"general.readingAbout": {
 		"description": "",
@@ -191,6 +231,10 @@
 		"description": "",
 		"message": "Něco vyhledává..."
 	},
+	"general.season": {
+		"description": "",
+		"message": "Sezóna"
+	},
 	"general.shopCart": {
 		"description": "",
 		"message": "Nákupní košík"
@@ -198,6 +242,10 @@
 	"general.store": {
 		"description": "",
 		"message": "Obchod"
+	},
+	"general.support": {
+		"description": "A page name",
+		"message": "Stránka podpory"
 	},
 	"general.terms": {
 		"description": "A page name",
@@ -214,6 +262,10 @@
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
 		"message": "Historie provozu"
+	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "Prohlíží anime"
 	},
 	"general.viewAccount": {
 		"description": "",
@@ -314,6 +366,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "Sleduje:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "Sledování anime"
 	},
 	"general.watchingLive": {
 		"description": "",
