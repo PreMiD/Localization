@@ -3,6 +3,10 @@
     "description": "",
     "message": "주소 목록 보는 중"
   },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "광고 선호도 보는 중"
+  },
   "amazon.balance": {
     "description": "",
     "message": "잔액 보는 중"
