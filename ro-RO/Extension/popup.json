@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "Aplicația ta PreMiD este veche. Te rugăm să o actualizezi pentru a putea folosi PreMiD în continuare."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Extensie dezactivată"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Extensia PreMid a fost dezactivată în setări. Pentru a continua să folosiți PreMid, vă rugăm să o activați."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Vă rugăm să vă asigurați că ați activat setarea \"Arată activitatea curentă ca și un mesaj de status\" în setările de la Discord."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMid nu a reușit să găsească o prezență pentru una din filele curente. Vă rugăm să vă asigurați că ați instalat o prezență pentru pagina web pe care sunteți. Dacă ați instalat o prezență, încercați să reîncărcați pagina web a prezenței, și asigurați-vă că ați activat prezența în setări."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Credite"
@@ -118,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Informații"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Diagnostic"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Activat"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Mod pentru dezvoltatori"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Controale media"
@@ -151,24 +175,236 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Titlul bării de meniu"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Sincronizează Limba"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Limbă Preferată pentru Prezențe"
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "A eșuat preluarea utilizatorului"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Puls"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Preferă aplicația"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Versiunea extensiei: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Versiunea aplicației: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Nu s-a conectat cu aplicația PreMid"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Utilizator Discord: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Nu este conectat cu aplicația Discord"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord Deconectat"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD necesită un cont Discord conectat pentru a funcționa corect. Vă rugăm să vă legați contul de Discord pentru a continua să utilizați PreMiD."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Legați Discord"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Nu ești tu?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Nu este legat"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Contul tău Discord nu este legat de PreMiD."
 	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Deconectare"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Utilizați starea de redare"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Ce-i Nou 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Descoperiți cele mai noi lucruri interesante!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Deschideți Changelog"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord Deconectat"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD necesită un cont Discord conectat pentru a funcționa corect. Vă rugăm să vă legați contul de Discord pentru a continua să utilizați PreMiD."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Legați Discord"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Aveți ceva de spus?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Trimiteți feedback"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Raportați un bug sau o problemă cu o prezență"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Raportați un bug sau o problemă cu extensia"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Solicitați o Funcție"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Altele"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Feedback"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Ce se întâmplă? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Vă rugăm să selectați tipul de feedback pe care doriți să îl trimiteți."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Raportați un bug sau o problemă cu o prezență"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Oh nu! 😱 Ne pare rău să auzim că întâmpinați probleme cu o Prezență.\n\nPrezențele noastre sunt menținute de comunitate, așa că vă rugăm să raportați orice problemă cu care vă confruntați la o Prezență pe GitHub.\n\nDacă alegeți Prezența de mai jos, vom include automat detaliile Prezenței în șablonul de problemă."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Închide"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Trimite"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Raportați un bug sau o problemă cu extensia"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "Oh nu! 😱 Ne pare rău să auzim că întâmpinați probleme cu extensia.\n\nVă rugăm să completaţi următorul formular pentru a raporta orice problemă cu extensia."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Descrieți problema"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Te rugăm să descrii problema cu extensia cât mai detaliat posibil."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Toate rapoartele sunt anonime cu excepția cazului în care alegeți să furnizați informațiile dvs. de contact.\nVă putem contacta pentru mai multe informații dacă este necesar, sau pentru a vă anunța când problema a fost rezolvată."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Adresa ta de Email (Opțional)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Numele tău de utilizator pe Discord (Opțional)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Solicitați o Funcție"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Căutăm întotdeauna modalități de a îmbunătăți PreMiD și de a-l face mai bun pentru tine.\n\nVă rugăm să completați următorul formular pentru a solicita o funcție pe care doriți să o vedeți în PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Descrie Funcția"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Vă rugăm să descrieți cât mai detaliat posibil funcția pe care doriți să o vedeți în PreMiD."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Toate cererile de funcții sunt anonime dacă nu alegeți să vă furnizați informațiile de contact.\nVă putem contacta pentru mai multe informații, dacă este necesar, sau pentru a vă anunța când funcția a fost implementată."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Altele"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Te rugăm să completezi următorul formular pentru a oferi feedback cu privire la orice altceva dorești să împărtășești cu noi."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Descrie feedback-ul"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Vă rugăm să descrieți feedback-ul pe care doriți să ni-l împărtășiți cât mai detaliat posibil."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Toate rapoartele sunt anonime cu excepția cazului în care alegeți să furnizați informațiile dvs. de contact.\nVă putem contacta pentru mai multe informații dacă este necesar, sau pentru a vă anunța când problema a fost rezolvată."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Feedback trimis"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Îți mulțumim pentru feedback-ul tău! 🎉\n\nApreciem faptul că ai avut timp să ne spui gândurile tale. Îți vom revizui feedback-ul și te vom contacta dacă va fi necesar."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Oh nu! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Ceva nu a mers bine în timpul trimiterii feedback-ului tău. Te rugăm să încerci din nou mai târziu.\n\nDacă problema persistă, te rugăm să ne contactezi pe serverul nostru de Discord."
 	}
 }
