@@ -1,1 +1,58 @@
-{}
+{
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Aktyvios klaidos"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Pasirinkite savo naršyklę ir versiją - Jūs galite rasti versija arba apsilankant about:support Firefox naršyklėje arba chrome://help Chrome naršyklėje"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 Pranešimų liko"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Pranešti"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Nurodykite adresą į gyvą pavyzdį arba į nedviprasmišką nurodymų rinkinį, kad atkartoti šias klaidas."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Reikia daugiau informacijos"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Discord paskyra turi būti patvirtinta"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "Klaidų pranešinėjimas yra dėl klaidų susijusių su PreMiD svetaine arba PreMiD Discord serveriu. Klaidos dėl statusų turi būti pranešamos statusų kūrėjams. Prašome pranešinėti klaidas tik anglų kalba."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Pasirinkite savo operacinę sistemą ir versiją"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Pateikite aiškų ir tikslų paaiškinimą kokia yra klaida."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Klaida buvo pranešta"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Pranešti apie klaidą"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Jūs turite per daug aktyvių pranešimų. Palaukite kol jūsų išsiųsti pranešimai bus peržiūrėti. Pranešimai yra peržiūrimi savaitės dažnumu, būkite kantrūs."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Jūs turite per daug aktyvių pranešimų."
+  }
+}
