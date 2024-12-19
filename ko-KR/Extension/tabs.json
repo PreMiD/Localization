@@ -61,11 +61,127 @@
 	},
 	"tab.troubleshooting.heading": {
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
-		"message": "문제 해결"
+		"message": "문제 해결하기"
+	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "{0}에 문제가 있나요?"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "확장 프로그램 활성화"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "인터넷 연결"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "PreMiD앱과의 연결"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Discord와의 연결"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Discoord 상태 메시지 활성화"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Presence 표시"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "PreMiD를 사용하기 위해 Discord 계정을 연동해야 합니다. 아래 버튼만 누르시면 됩니다."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD가 업데이트 됐어요!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "새로운 기능 🎉"
 	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "기능"
+	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "수정 목록"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "퍼포먼스"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "일반적인 변경 사항"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Discord 계정을 연동하기"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "버전 2.6.0부터, PreMiD가 제대로 작동하려면 연동된 Discord 계정이 필요해요. PreMiD를 계속 사용하려면 Discord 계정과 연동해 주세요."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Discord 계정을 연동하기"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "다음 단계는 뭔가요?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "새로운 업데이트가 마음에 드셨기를 바랍니다! 피드백이나 제안 사항이 있으시면 언제든지 Discord 서버에 가입하여 알려주세요."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Discord 서버에 참여하기"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "PreMiD에 오신 것을 환영합니다!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "이제 시작해 봅시다!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "PreMiD의 확장 프로그램 설치하기"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Discord 계정을 연동하기"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "\"현재 활동을 상태 메시지로 표시해요.\"를 꼭 켜도록 하세요"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "사용자 설정 {0} 활동 설정 {0} 활동 프라이버시"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Discord와 연결하기"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "이것은 PreMiD가 현재 활동을 상태 메시지로 표시할 수 있도록 해줍니다."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord 연동됨"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "다음 단계로 가봅시다."
 	},
 	"tab.installed.next": {
 		"description": "Next button text",
@@ -74,6 +190,18 @@
 	"tab.installed.enableActivityStatusDescription": {
 		"description": "Description of the prompt to enable activity status",
 		"message": "\"현재 활동을 상태 메시지로 표시해요.\"를 꼭 켜도록 하세요. 그렇지 않으면, 아무도 반짝반짝한 새 상태를 볼 수 없게 돼요."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "\"현재 활동을 상태 메시지로 표시해요\"를 켜 주세요"
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "모두 끝!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "이제 다 끝났습니다. PreMiD를 사용해 주셔서 기쁩니다. 만약 도움 혹은 질문이 있거나 필요하다면, 저희의 Discord 서버에 가입해 주세요. 만약 저희만큼 PreMiD를 사랑하신다면, 후원해 주시거나, 확장 프로그램을 평가해 주시거나, 친구들과 공유해 주시는 것으로써 저희를 지원하는 것을 고려해 보세요!"
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
