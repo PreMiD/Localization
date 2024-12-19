@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "Ứng dụng PreMiD của bạn đã cũ. Vui lòng cập nhật nó để tiếp tục sử dụng PreMiD."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Đã vô hiệu hoá Tiện ích"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Tiện ích PreMiD đã bị tắt trong cài đặt. Vui lòng bật để tiếp tục sử dụng PreMiD."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Hãy đảm bảo rằng bạn đã bật tùy chọn 'Hiển thị hoạt động hiện tại như một thông báo trạng thái' trong cài đặt Discord của bạn."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD không thể tìm thấy thông tin hiện tại cho các tab bạn đang mở. Vui lòng đảm bảo rằng bạn đã cài đặt thông tin hiện tại cho trang web bạn đang truy cập. Nếu bạn đã cài đặt thông tin hiện tại, hãy thử tải lại trang web hoặc đảm bảo rằng bạn đã bật thông tin hiện tại trong cài đặt."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Đóng góp"
@@ -118,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Thông tin"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Chẩn đoán"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Đã bật"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Chế độ Nhà phát triển"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Điều khiển phương tiện"
@@ -151,24 +175,236 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Tiêu đề Menubar"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Đồng bộ Ngôn ngữ"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Ngôn ngữ Hiện diện Ưu tiên"
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Truy xuất dữ liệu người dùng thất bại"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Tín hiệu"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Ứng dụng ưu tiên"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Phiên bản Tiện ích: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Phiên bản Ứng dụng: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Không kết nối với Ứng dụng PreMiD"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Người dùng Discord: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Chưa được kết nối tới ứng dụng Discord"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Đã Hủy Liên Kết Discord"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD cần liên kết với tài khoản Discord để hoạt động đúng cách. Vui lòng sử dụng tài khoản Discord của bạn để tiếp tục sử dụng PreMiD."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Liên kết Discord"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Không phải bạn?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Chưa liên kết"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Tài khoản Discord của bạn chưa được liên kết với PreMiD."
 	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Đăng xuất"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Sử dụng trạng thái \"Đang chơi\""
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Có gì mới  🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Hãy xem những chức năng mới tuyệt nhất!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Mở nhật ký thay đổi\n"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Đã Hủy Liên Kết Discord"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD cần liên kết với tài khoản Discord để hoạt động đúng cách. Vui lòng sử dụng tài khoản Discord của bạn để tiếp tục sử dụng PreMiD."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Liên kết Discord"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Có điều gì muốn nói?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Gửi một vài phản hồi"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Báo cáo một lỗi hoặc sự cố với trạng thái"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Báo cáo một lỗi hoặc sự cố với tiện tích mở rộng"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Yêu cầu một Tính năng"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Khác"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Phản hồi"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Cái gì đang xảy ra? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Vui lòng chọn loại phản hồi mà bạn muốn gửi."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Báo cáo một lỗi hoặc sự cố với Trạng thái"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Ôi không! 😱 Xin lỗi vì đã để bạn trải nghiệm vấn đề này với trạng thái đó."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Đóng"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Gửi"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Báo cáo một lỗi hoặc sự cố với Tiện ích mở rộng"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "Ôi không! 😱 Xin lỗi vì đã để bạn trải nghiệm sự cố này với tiện ích mở rộng đó."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Miêu tả sự cố bạn gặp phải"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Vui lòng mô tả sự cố bạn gặp phải khi trải nghiệm tiện tích mở rộng một cách chi tiết ."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Tất cả báo cáo đều được gửi ẩn danh trừ khi bạn chọn cung cấp thông tin liên lạc của bạn.\nChúng tôi có thể liên hệ với bạn để biết thêm thông tin nếu cần hoặc để thông báo cho bạn khi sự cố đã được giải quyết."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Email của bạn (Tuỳ chọn)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Tên người dùng Discord của bạn (Tuỳ chọn)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Yêu cầu một Tính năng"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Chúng tôi luôn tìm cách cải thiện PreMiD và biến trải nghiệm của bạn tốt hơn.\n\nVui lòng điền vào biểu mẫu sau để yêu cầu tính năng bạn muốn thấy trong PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Miêu tả Tính năng"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Vui lòng miêu tả tính năng mà bạn muốn có trong PreMiD nhiều nhất có thể."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Tất cả yêu cầu về tính năng đều ẩn danh trừ khi bạn chọn cung cấp thông tin liên hệ của mình.\nChúng tôi có thể liên hệ với bạn để biết thêm thông tin nếu cần hoặc để thông báo cho bạn khi tính năng mà bạn yêu cầu đã được phát triển."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Khác"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Vui lòng điền vào mẫu sau để cung cấp phản hồi về bất kỳ điều gì khác mà bạn muốn chia sẻ với chúng tôi."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Miêu tả Phản hồi"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Vui lòng miêu tả phản hồi mà bạn muốn chia sẻ với chúng tôi một cách chi tiết nhất có thể."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Mọi phản hồi đều ẩn danh trừ khi bạn chọn cung cấp thông tin liên lạc của mình.\nChúng tôi có thể liên hệ với bạn để biết thêm thông tin nếu cần hoặc để thông báo cho bạn khi phản hồi đã được giải quyết."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Phản hồi đã được gửi"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Cảm ơn bạn đã gửi phản hồi! 🎉\n\nChúng tôi rất cảm kích vì bạn đã dành thời gian chia sẻ suy nghĩ của mình với chúng tôi. Chúng tôi sẽ xem xét phản hồi của bạn và phản hồi lại nếu cần."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Ôi không! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Có lỗi xảy ra khi gửi phản hồi của bạn. Vui lòng thử lại sau.\n\nNếu sự cố vẫn tiếp diễn, vui lòng liên hệ với chúng tôi tại server Discord."
 	}
 }
