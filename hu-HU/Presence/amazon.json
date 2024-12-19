@@ -3,6 +3,10 @@
     "description": "",
     "message": "Lakcímeit nézi"
   },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "Reklám preferenciák nézegetése"
+  },
   "amazon.balance": {
     "description": "",
     "message": "Az egyenlegét nézi"
