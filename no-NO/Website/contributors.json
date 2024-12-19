@@ -43,6 +43,10 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korrekturleser"
   },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Hjelp"
+  },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
     "message": "Oversetter"
