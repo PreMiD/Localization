@@ -1,1 +1,14 @@
-{}
+{
+  "pinterest.follow": {
+    "description": "",
+    "message": "正在查看正在追隨的人"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "編輯他們的主頁"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "正在檢視釘選"
+  }
+}
