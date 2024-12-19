@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Mostra Server"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "Visualizzazione Dei Capi"
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "Visualizzare Come Ottenere Il Tuo Profilo"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Modificare le informazioni del profilo{0}"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "Visualizzazione dei Servers"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Visualizzazione delle Nuove Skin"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Visualizzazione delle Skin Casuali"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "Visualizzazione delle skins con {0} Tag"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Visualizzazione Delle Skin Taggate"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Visualizzazione Delle Top Skin"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Visualizzazione Skin Di Tendenza"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "Visualizzazione Dei prossimi Nomi"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "Visualizzazione Del Capo:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "Visualizzare le emoji del loro profilo"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "Visualizzando i loro Amici"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "Visualizzazione Server:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Visualizzazione di una Skin"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "Visualizzando le loro Skins"
+  }
+}
