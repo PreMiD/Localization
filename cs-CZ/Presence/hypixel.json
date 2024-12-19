@@ -2,5 +2,21 @@
   "hypixel.dm": {
     "description": "",
     "message": "Prohlížení jejich přímých zpráv"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Zobrazení hry:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Zobrazení seznamu zaměstnanců"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Zobrazení jejich sledovaných fór"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Zobrazení jejich sledovaných vláken"
   }
 }
