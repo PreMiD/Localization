@@ -1,1 +1,26 @@
-{}
+{
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "Skatās sava"
+  },
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Sekotāju Saraksts"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "Pārvalda Straumi..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "Skatās savus abonementus..."
+  },
+  "twitcasting.browsingVideos": {
+    "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+    "message": "Pārlūko video"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "kanāls:"
+  }
+}
