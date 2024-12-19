@@ -1,1 +1,42 @@
-{}
+{
+	"osu!ppy.beatmapListing": {
+		"description": "Displayed when viewing all beatmaps.",
+		"message": "ビートマップリストを見ています"
+	},
+	"osu!ppy.beatmapLooking": {
+		"description": "Displayed when looking at a beatmap.",
+		"message": "ビートマップを見ています"
+	},
+	"osu!ppy.beatmapPacks": {
+		"description": "Displayed when viewing all beatmap packs.",
+		"message": "ビートマップパックを見ています"
+	},
+	"osu!ppy.beatmapRankings": {
+		"description": "Displayed when viewing Kudosu Rankings.",
+		"message": "クドスランキングを見ています"
+	},
+	"osu!ppy.buttonViewBeatmap": {
+		"description": "Displayed for a button to redirect to the beatmap page.",
+		"message": "ビートマップを見る"
+	},
+	"osu!ppy.countryRankings": {
+		"description": "Country rankings {0} = gamemode. E.g. Country Rankings [osu!]",
+		"message": "国別ランキング: {0}"
+	},
+	"osu!ppy.performanceRankings": {
+		"description": "Displayed when viewing the performance rankings.",
+		"message": "パフォーマンスランキング"
+	},
+	"osu!ppy.scoreRankings": {
+		"description": "{0} = gamemode. E.g. Score Rankings [osu!]",
+		"message": "スコアランキング: {0}"
+	},
+	"osu!ppy.support": {
+		"description": "Displayed when viewing the support page.",
+		"message": "osu!ppyを支援する方法"
+	},
+	"osu!ppy.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Wiki メインページ"
+	}
+}
