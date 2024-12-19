@@ -1,1 +1,186 @@
-{}
+{
+  "discord.blog": {
+    "description": "",
+    "message": "Discord Blog"
+  },
+  "discord.branding": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Branding page"
+  },
+  "discord.browseThrough": {
+    "description": "The first part of the next 17 strings",
+    "message": "Nagba-browse"
+  },
+  "discord.buttonInvite": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Tingnan ang Invite Link"
+  },
+  "discord.channelReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Nagbabasa sa channel:{0}{1} (Server: {2})"
+  },
+  "discord.channelTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Nagta-type sa channel:{0}{1} (Server: {2})"
+  },
+  "discord.college": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang College page"
+  },
+  "discord.company": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang About page"
+  },
+  "discord.devs.appsBrowse": {
+    "description": "",
+    "message": "Nagba-browse through sa mga app nya"
+  },
+  "discord.devs.appsEdit": {
+    "description": "{0} will be replaced with the name of the app.",
+    "message": "Nag-e-edit ng app: {0}"
+  },
+  "discord.devs.docs": {
+    "description": "",
+    "message": "Binabasa ang documentation"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "Developer Portal"
+  },
+  "discord.devs.serversBrowse": {
+    "description": "",
+    "message": "Nagba-browse through sa mga server nya"
+  },
+  "discord.devs.serversEdit": {
+    "description": "{0} will be replaced with the name of the server.",
+    "message": "Nagbi-view ng mga insights sa server: {0}"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "Nagba-browse through sa mga team nya"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "Nag-e-edit ng team: {0}"
+  },
+  "discord.dmGroupReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Nagbabasa sa group DM:{0}{1}"
+  },
+  "discord.dmGroupTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Nagta-type sa group DM:{0}{1}"
+  },
+  "discord.dmReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Nagbabasa ng mga DM kay:{0}{1}"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Nagta-type ng mga DM kay:{0}{1}"
+  },
+  "discord.download": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Downloads page"
+  },
+  "discord.friends": {
+    "description": "",
+    "message": "Tinitingnan ang kanyang mga friend..."
+  },
+  "discord.inspiration": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Inspiration page"
+  },
+  "discord.invite": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
+    "message": "Tinitingnan ang invite link:{0}{1} (Server: {2})"
+  },
+  "discord.inviteServer": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Tinitingnan ang invite link{0}sa Server: {1}"
+  },
+  "discord.jobs": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Jobs page"
+  },
+  "discord.merch": {
+    "description": "",
+    "message": "Discord Merch"
+  },
+  "discord.merch.collection": {
+    "description": "",
+    "message": "Tumitingin ng collection:"
+  },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Moderation page"
+  },
+  "discord.newsroom": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Newsroom page"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "Nagbabasa about sa Nitro..."
+  },
+  "discord.opensource": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Open Source page"
+  },
+  "discord.partner": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Partner page"
+  },
+  "discord.policies": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang mga policy"
+  },
+  "discord.rpc": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Rich Presence page"
+  },
+  "discord.safety": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Safety Center"
+  },
+  "discord.security": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Security page"
+  },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Tinitignan ang mga setting{0}sa server: {1}"
+  },
+  "discord.settings": {
+    "description": "",
+    "message": "Tinitignan ang kanyang mga setting..."
+  },
+  "discord.status": {
+    "description": "",
+    "message": "Discord Status"
+  },
+  "discord.streamkit": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang StreamKit page"
+  },
+  "discord.support": {
+    "description": "",
+    "message": "Help Center"
+  },
+  "discord.verification": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang Verification page"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Naka-connect ang voice kasama ang:{0}{1} (Server: {2})"
+  },
+  "discord.voiceConnectedWith": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
+    "message": "Naka-connect ang voice kasama ang:{0}{1}"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "ang \"Bakit Discord?\" page"
+  }
+}
