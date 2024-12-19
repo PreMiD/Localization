@@ -1,1 +1,34 @@
-{}
+{
+  "aliexpress.address": {
+    "description": "",
+    "message": "Katsoo osoitettaan"
+  },
+  "aliexpress.coupons": {
+    "description": "",
+    "message": "Katsoo kuponkejaan"
+  },
+  "aliexpress.helpCenter": {
+    "description": "",
+    "message": "AliExpress Apukeskus"
+  },
+  "aliexpress.message": {
+    "description": "Meaning Direct messages",
+    "message": "Viestikeskus"
+  },
+  "aliexpress.sellCenter": {
+    "description": "",
+    "message": "AliExpress Myyntikeskus"
+  },
+  "aliexpress.store": {
+    "description": "",
+    "message": "Katsoo kauppaa:"
+  },
+  "aliexpress.trade": {
+    "description": "",
+    "message": "AliExpress Vaihtokeskus"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "Tarkastelee"
+  }
+}
