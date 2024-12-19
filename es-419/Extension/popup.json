@@ -275,20 +275,116 @@
 		"description": "Text on the information tab in the popup to give feedback",
 		"message": "¿Tienes algo que decir?"
 	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Enviar comentarios"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Reporta un Error o un Problema con la Extensión"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Sugerir una característica"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Otros"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Comentarios"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "¿Qué está pasando? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Por favor, ingresa el tipo de comentario que quisieras enviar."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Cerrar"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Enviar"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Reporta un Error o un Problema con la Extensión"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "¡Oh no! 😱 Lamentamos oír que estás teniendo problemas con la Extensión.\n\nPor favor, rellena el siguiente formulario para reportar cualquier tipo de problema que estés teniendo con la Extensión."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Describe el problema"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Por favor describe el problema que estás teniendo con la Extensión con el mayor detalle posible."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Todos los reportes son anónimos a menos que decidas proveer tu información de contacto.\nPuede que te contactemos si necesitamos más información, o para dejarte saber cuando el problema esté arreglado."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Tu Correo Electrónico (Opcional)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Tu Usuario de Discord (Opcional)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Sugerir una Característica"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Siempre estamos buscando formas de mejorar a PreMiD y hacerlo mejor para ti.\n\nPor favor rellena el siguiente formulario para sugerir una característica que quisieras ver en PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Describe la Característica"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Por favor describe la característica que quisieras ver en PreMiD con el mayor detalle posible."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Todas las sugerencias son anónimas a menos que decidas proveer tu información de contacto.\nPuede que te contactemos si necesitamos más información, o para dejarte saber cuando la característica sea implementada."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Otros"
 	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Describe el Comentario"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Por favor describe los comentarios que quisieras compartirnos con el mayor detalle posible."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Comentarios Enviados"
+	},
 	"popup.feedback.submitted.description": {
 		"description": "The description of the submitted feedback page",
 		"message": "¡Gracias por tus comentarios! 🎉\n\nApreciamos que te tomes tu tiempo en compartir tus opiniones con nosotros. Revisaremos tus comentarios y te contactaremos si es necesario."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "¡Oh no! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Algo salió mal al enviar tus comentarios. Por favor intenta de nuevo más tarde.\n\nSi el problema persiste, por favor contáctanos por medio de nuestro servidor de Discord."
 	}
 }
