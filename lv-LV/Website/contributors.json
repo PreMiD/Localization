@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Personāls"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Atbalstītāji"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Tulki"
@@ -19,13 +23,29 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Atbalstītājs"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Kopienas vadītājs"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Ziedotājs"
   },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Personāla resursi"
+  },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Lokalizācijas Vadītājs"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Projekta pārvaldība"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Ieguldītājs"
   },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
@@ -34,6 +54,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korektors"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Atbalsts"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
