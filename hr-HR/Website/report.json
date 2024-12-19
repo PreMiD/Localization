@@ -1,1 +1,58 @@
-{}
+{
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Aktivne Greške"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Odaberite svoj Preglednik i Verziju - Već možete nabaviti verziju tako da posjetite about:support na Firefox-u ili chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 Prijave preostale"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Prijavi"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Navedite vezu do primjera uživo ili nedvosmislenog niza koraka za reprodukciju ove greške."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Više informacija je potrebno"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Discord račun mora biti potvrđen"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "Prijavljivanje grešaka je jedino za greške unutar PreMiD stranice i PreMiD Discord Server-a. Greške za Presence se moraju prijaviti stvaratelju Presence-a. Jedino prijavljujte greške u Engleskome."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Odaberite svoj Operativni Sustav i Verziju"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Dajte kratki i jasni opis greške."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Greška Prijavljena"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Prijavi problem"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Imate previše aktivnik prijava. Pričekajte da se vaše poslane prijave odriješe. Prijave su provjerene tjedno, budite strpljivi."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Imate previše aktivnih prijava."
+  }
+}
