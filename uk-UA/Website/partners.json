@@ -55,6 +55,10 @@
     "description": "Link filed's placeholder.",
     "message": "Наприклад: https://premid.app"
   },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Ім’я"
+  },
   "partners.apply.form.name.placeholder": {
     "description": "Name field's placeholder.",
     "message": "Наприклад: PreMiD"
@@ -85,7 +89,7 @@
   },
   "partners.apply.success": {
     "description": "Success message when applying.",
-    "message": "Дякуємо, що подали заявку!"
+    "message": "Дякуємо за подачу заявки!"
   },
   "partners.apply.title": {
     "description": "Partnership application modal title.",
@@ -127,9 +131,21 @@
     "description": "Description for Fastly.",
     "message": "За найкращими веб-сторінками."
   },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit — ваша музична онлайн-радіостанція, створена для відтворення ваших найкращих хітів 24/7, і щоб дозволити вам знаходити ваші майбутні хіти першим."
+  },
   "partners.partner.packageCloud": {
     "description": "Description for PackageCloud.",
     "message": "Єдиний, дружній інтерфейс для розробників і для всіх ваших артефактів."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix — найбільший сервер Discord, пов’язаний з Netflix. Обговорюйте там ваші улюблені серіали або фільми з однодумцями."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM дозволяє вам слухати 15+ музичних потоків безкоштовно та нон-стоп. З найкращою та найновішою музикою тільки для вас!"
   },
   "partners.partner.simLiveRadio": {
     "description": "Description for SimLoveRadio.",
@@ -142,6 +158,10 @@
   "partners.partner.taigaBot": {
     "description": "Description for taigabot.",
     "message": "taiga - це бот Discord, який намагається запропонувати всі функції, які вам можуть знадобитися відразу!"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio це онлайн радіо, що працює 24/7 без реклам, щоденні статті новин та багато іншого!"
   },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
@@ -162,6 +182,10 @@
   "partners.requirements.second.title": {
     "description": "Heading for the second requirement.",
     "message": "Наш брандмауер"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Вимоги"
   },
   "partners.slideshow.description": {
     "description": "Description for slideshow.",
