@@ -31,6 +31,10 @@
     "description": "Beta page title",
     "message": "רוצה תכונות חדשות?"
   },
+  "error.noslots": {
+    "description": "Shows when the beta slots are full.",
+    "message": "נראה שאין לנו מקומות פנויים בבטא."
+  },
   "thankyou.description": {
     "description": "Thank You page description",
     "message": "הקופים שלנו עובדים על להכניס אותך לתוכנית הבטא שלנו בהקדם האפשרי. תודה על שנרשמת!"
