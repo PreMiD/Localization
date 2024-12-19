@@ -15,6 +15,14 @@
     "description": "Used as the title for the button in Discord.",
     "message": "عرض رابط الدعوة"
   },
+  "discord.channelReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "القراءة في القـناة:{0}{1} (الخادم: {2})"
+  },
+  "discord.channelTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "يكتـب في القناة:{0}{1} (سيرفر: {2})"
+  },
   "discord.college": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "صفحة الكلية"
@@ -23,21 +31,53 @@
     "description": "Second part of the \"Browsing through\" string",
     "message": "الصفحة حول"
   },
+  "discord.devs.appsBrowse": {
+    "description": "",
+    "message": "ياتم التصفح من خلال تطبيقاتهم"
+  },
   "discord.devs.appsEdit": {
     "description": "{0} will be replaced with the name of the app.",
     "message": "يُعدل التطبيق: {0}"
+  },
+  "discord.devs.docs": {
+    "description": "",
+    "message": "يرجي قراءة الوثائق"
   },
   "discord.devs.portal": {
     "description": "",
     "message": "بوابة المطوّر"
   },
+  "discord.devs.serversBrowse": {
+    "description": "",
+    "message": "يتم التصفح من خلال سيرفراتهم"
+  },
+  "discord.devs.serversEdit": {
+    "description": "{0} will be replaced with the name of the server.",
+    "message": "عرض رؤى الخادم : {0}"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "يتم التفصح من خلال فريق العمل"
+  },
   "discord.devs.teamsEdit": {
     "description": "{0} will be replaced with the name of the team.",
     "message": "يُعدل الفريق: {0}"
   },
+  "discord.dmGroupReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "القراءة المجموعة الخاصة:{0}{1}"
+  },
+  "discord.dmGroupTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "يكتـب في مجموعة الان: DM:{0}{1}"
+  },
   "discord.dmReading": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
     "message": "يقرأ الرسائل الخاصة من:{0}{1}"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "يرسل رسالة في الرسائل الخاصة الي:{0}{1}"
   },
   "discord.download": {
     "description": "Second part of the \"Browsing through\" string",
@@ -50,6 +90,14 @@
   "discord.inspiration": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "صفحة الإلهام"
+  },
+  "discord.invite": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
+    "message": "معاينة رابط الدعوة :{0}{1} (الخادم: {2})"
+  },
+  "discord.inviteServer": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "معاينة رابط الدعوة{0}من السيرفر: {1}"
   },
   "discord.jobs": {
     "description": "Second part of the \"Browsing through\" string",
@@ -99,6 +147,10 @@
     "description": "Second part of the \"Browsing through\" string",
     "message": "صفحة الأمان"
   },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "عرض الإعدادات : {0} الخادم : {1}"
+  },
   "discord.settings": {
     "description": "",
     "message": "يشاهد إعداداته..."
@@ -118,5 +170,17 @@
   "discord.verification": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "صفحة التحقق"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "الصوت متصل الان:{0}{1} (السيرفر: {2})"
+  },
+  "discord.voiceConnectedWith": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
+    "message": "الصوت المتصل بـة:{0}{1}"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "صـفحة \"لماذة الديسكورد ؟\""
   }
 }
