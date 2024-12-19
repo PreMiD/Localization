@@ -1,4 +1,16 @@
 {
+  "apple.chooseLang": {
+    "description": "Choosing the language of the website",
+    "message": "Renkasi kalbą..."
+  },
+  "apple.comparing": {
+    "description": "e.g. \"Comparing: Apple Watch\"",
+    "message": "Lygina:"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "Kreipiasi į pagalbą"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "Dokumentacija"
@@ -11,8 +23,68 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "Žaidimai"
   },
+  "apple.healthRecords": {
+    "description": "Health records of a person",
+    "message": "Sveikatos įrašai"
+  },
+  "apple.healthcare": {
+    "description": "The organized provision of medical care to individuals or a community",
+    "message": "Sveikatos priežiūra"
+  },
   "apple.other": {
     "description": "Other pages not added to the code",
     "message": "Kita"
+  },
+  "apple.overview": {
+    "description": "Overview of e.g. all pages of a category",
+    "message": "Apžvalga"
+  },
+  "apple.productsPlatform": {
+    "description": "Products/platforms for companies",
+    "message": "Produktai ir platforma"
+  },
+  "apple.purchasingAdvice": {
+    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
+    "message": "Pirkimo patarimai"
+  },
+  "apple.shopAccessories": {
+    "description": "Accessories for Apple products (e.g iPhone case)",
+    "message": "\"Apple\" priedai"
+  },
+  "apple.shopBands": {
+    "description": "Bands (Bracelets) for the Apple Watch",
+    "message": "Apple Watch dirželiai"
+  },
+  "apple.shopFavorites": {
+    "description": "Favorite products",
+    "message": "Mėgstamiausi"
+  },
+  "apple.shopGiftCards": {
+    "description": "Gift cards for e.g. the App Store",
+    "message": "Dovanų kortelės"
+  },
+  "apple.shopPlanVisit": {
+    "description": "Plan your visit to the Apple Store",
+    "message": "Planuokite savo vizitą"
+  },
+  "apple.shopStudio": {
+    "description": "Choose your own design components for a product",
+    "message": "Apple Watch studija"
+  },
+  "apple.storeFinder": {
+    "description": "Tool used to find the nearest store",
+    "message": "Parduotuvių ieškiklis"
+  },
+  "apple.supplierResp": {
+    "description": "Information on human rights, health, safety, education, etc. of employees",
+    "message": "Tiekėjo atsakomybė"
+  },
+  "apple.viewEvent": {
+    "description": "Viewing an event (e.g. September event)",
+    "message": "Žiūri renginį"
+  },
+  "apple.viewService": {
+    "description": "e.g. \"Viewing Service: Fitness+\"",
+    "message": "Peržiūri paslaugą:"
   }
 }
