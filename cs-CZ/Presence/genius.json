@@ -1,1 +1,18 @@
-{}
+{
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "Zobrazení textů od:"
+  },
+  "genius.viewAlbum": {
+    "description": "Album of a song",
+    "message": "Prohlíží album:"
+  },
+  "genius.viewHome": {
+    "description": "",
+    "message": "Prohlíží domovskou stránku"
+  },
+  "genius.viewLyrics": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Zobrazit text"
+  }
+}
