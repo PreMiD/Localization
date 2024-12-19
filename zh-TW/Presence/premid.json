@@ -1,4 +1,20 @@
 {
+  "premid.docs": {
+    "description": "as in documents",
+    "message": "文件"
+  },
+  "premid.pageAbout": {
+    "description": "A page name",
+    "message": "關於 PreMiD"
+  },
+  "premid.pageApi": {
+    "description": "A page name",
+    "message": "API"
+  },
+  "premid.pageApiVersion": {
+    "description": "A page name // {0} will be replaced with the version number.",
+    "message": "正在編譯v{0} API"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "貢獻者"
@@ -7,12 +23,68 @@
     "description": "A page name",
     "message": "下載"
   },
+  "premid.pageHome": {
+    "description": "A page name",
+    "message": "首頁"
+  },
+  "premid.pageIframe": {
+    "description": "A page name",
+    "message": "正在編譯iframe"
+  },
+  "premid.pageInstall": {
+    "description": "A page name",
+    "message": "下載"
+  },
+  "premid.pageInstallFor": {
+    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
+    "message": "{0} 的安裝"
+  },
+  "premid.pageMetadata": {
+    "description": "A page name",
+    "message": "正在修改metadata.json"
+  },
+  "premid.pagePresenceDev": {
+    "description": "A page name",
+    "message": "Presence 開發"
+  },
+  "premid.pagePresenceGuide": {
+    "description": "A page name",
+    "message": "Presence 指引"
+  },
+  "premid.pageSlideshowClass": {
+    "description": "A page name",
+    "message": "幻燈片"
+  },
+  "premid.pageStart": {
+    "description": "A page name",
+    "message": "開始使用"
+  },
+  "premid.pageStore": {
+    "description": "A page name",
+    "message": "商店"
+  },
+  "premid.pageSysReq": {
+    "description": "A page name",
+    "message": "系統需求"
+  },
   "premid.pageTroubleshooting": {
     "description": "A page name",
     "message": "疑難排解"
   },
+  "premid.pageTs": {
+    "description": "A page name",
+    "message": "正在設置TypeScript"
+  },
   "premid.partners": {
     "description": "A page name",
     "message": "合作夥伴"
+  },
+  "premid.viewPage": {
+    "description": "",
+    "message": "正在檢視頁面:"
+  },
+  "premid.viewPresence": {
+    "description": "",
+    "message": "查看狀態:"
   }
 }
