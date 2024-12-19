@@ -3,6 +3,10 @@
 		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
 		"message": "Donează "
 	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "Schimbări"
@@ -59,13 +63,145 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "Depanare"
 	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "Ai probleme cu {0}?"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Extensie activată"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Conexiune la internet"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Conectat la aplicația PreMid"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Conectat la aplicația Discord"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Mesaj de stare Discord activat"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Prezența de afișat"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "Pentru a folosi PreMiD, trebuie să îl contectezi la contul tău Discord. Doar dă click pe butonul de mai jos."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD a fost actualizat!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Ce-i Nou 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Caracteristici"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Corectări"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Performanță"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Schimbări Generale"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Contectează-ți contul Discord"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Începând cu versiunea v2.6.0, PreMiD are nevoie de un cont Discord pentru a funcționa corect. Te rugăm să îți conectezi contul Discord pentru a continua să folosești PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Contectează-ți contul Discord"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Ce Urmează?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Sperăm că te bucuri de noua actualizare! Dacă ai feedback sau sugestii, nu ezita să te alături server-ului nostru Discord și să ne spui."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Alătură-te serverului nostru Discord"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Bine ai venit la PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Hai să începem!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Instalează Extensia PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Conectează un cont Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Asigură-te ca ai activat \"Partajează-ți activitățile detectabile cu ceilalți\""
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Setări utilizator {0} Setări activitate {0} Confidențialitate activitate"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Conectează-ți contul Discord"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Asta permite PreMiD să-ți afișeze activitatea curentă ca și un mesaj de stare."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Contul Discord conectat"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Să trecem la următorul pas."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Mai departe"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Asigură-te că ai \"Afișează activitatea curentă ca mesaj de stare\" activat, altfel nimeni nu va vedea noua ta stare."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Activează \"Afișează activitatea curentă ca mesaj de stare.\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Totul este gata!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Sunteți pregătiți și gata de încercare! Sperăm că vă va place să folosiți PreMiD. Dacă ai întrebări sau ai nevoie de ajutor, nu ezita să te alături serverului nostru de Discord. Dacă iubiți PreMiD la fel de mult ca noi, luați în considerare susținerea noastră prin donarea, evaluarea extensiei, sau împărțirea acesteia cu prietenii tăi."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
