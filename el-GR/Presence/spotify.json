@@ -1,4 +1,12 @@
 {
+  "spotify.albumLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "άλμπουμ που τους αρέσουν"
+  },
+  "spotify.artistsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "καλλιτέχνες που τους αρέσουν"
+  },
   "spotify.bestPodcasts": {
     "description": "",
     "message": "Καλύτερα podcasts"
@@ -7,13 +15,37 @@
     "description": "First section of the next 6 strings",
     "message": "Περιήγηση μέσα"
   },
+  "spotify.charts": {
+    "description": "",
+    "message": "Προβολή των διαγραμμάτων"
+  },
+  "spotify.discover": {
+    "description": "",
+    "message": "Ανακαλύπτοντας νέα τραγούδια"
+  },
   "spotify.download": {
     "description": "",
     "message": "Λήψη Του Spotify"
   },
+  "spotify.featured": {
+    "description": "",
+    "message": "Προτεινόμενα τραγούδια"
+  },
+  "spotify.genres": {
+    "description": "",
+    "message": "Περιήγηση μέσα από είδη"
+  },
+  "spotify.latest": {
+    "description": "",
+    "message": "Προβολή των τελευταίων κυκλοφοριών"
+  },
   "spotify.madeForYou": {
     "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
     "message": "\"Φτιαγμένο για σένα\""
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "τις playlists τους"
   },
   "spotify.podcastsLike": {
     "description": "\"Browsing through\" + this",
