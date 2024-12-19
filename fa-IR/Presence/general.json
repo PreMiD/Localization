@@ -7,6 +7,10 @@
 		"description": "",
 		"message": "گشتن..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "مرورکردن"
+	},
 	"general.buttonListenAlong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "همراه گوش دادن"
@@ -19,9 +23,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "مشاهده آلبوم"
 	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "مشاهده مقاله"
+	},
 	"general.buttonViewArtist": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "مشاهده هنرمند"
+	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "مشاهده لیست تغییرات"
 	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
@@ -54,6 +66,10 @@
 	"general.buttonViewSeries": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "مشاهده سری"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "بازدید از نمایش"
 	},
 	"general.buttonViewSong": {
 		"description": "Used as the title for the button in Discord.",
@@ -234,6 +250,10 @@
 	"general.store": {
 		"description": "",
 		"message": "فروشگاه"
+	},
+	"general.support": {
+		"description": "A page name",
+		"message": "صفحه \\شتیبانی"
 	},
 	"general.terms": {
 		"description": "A page name",
@@ -442,6 +462,10 @@
 	"general.wiki": {
 		"description": "A page name",
 		"message": "ویکی"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "صفحه اصلی ویکی"
 	},
 	"general.wishlist": {
 		"description": "",
