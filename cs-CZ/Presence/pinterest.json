@@ -1,1 +1,18 @@
-{}
+{
+  "pinterest.board": {
+    "description": "",
+    "message": "Zobrazení stránky:"
+  },
+  "pinterest.follow": {
+    "description": "",
+    "message": "Zobrazení jejich následujících"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "Úprava jejich domovské stránky"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "Zobrazení pinu"
+  }
+}
