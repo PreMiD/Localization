@@ -159,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "تايغا هو بوت ديسكورد يحاول تقديم جميع الميزات التي قد تحتاجها في وقت واحد!"
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio عبارة عن راديو عبر الإنترنت يدعمه المجتمع ، ويوفر ترفيهًا إذاعيًا بدون إعلانات على مدار الساعة طوال أيام الأسبوع ، ومقالات إخبارية يومية وغير ذلك الكثير!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "برنامج ويكي مفتوح المصدر الأقوى والأكثر قابلية للتوسيع."
