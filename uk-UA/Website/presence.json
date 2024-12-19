@@ -5,7 +5,7 @@
   },
   "presence.sections.changelog.title": {
     "description": "The title of the changelog section.",
-    "message": "Список змін"
+    "message": "Журнал змін"
   },
   "presence.sections.description.title": {
     "description": "The title of the description section.",
@@ -22,6 +22,10 @@
   "presence.sections.information.likes": {
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
     "message": "Вподобання"
+  },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Ця присутність підтримує більше URL-адрес, ніж перелічено нижче, завдяки використанню RegExp. Наведіть курсор, щоб побачити шаблон"
   },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
