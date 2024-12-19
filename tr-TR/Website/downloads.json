@@ -159,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "Dikkat"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "PreMiD mobil cihazlarda mevcut değildir. PreMiD'yi yüklemek için lütfen bir masaüstü tarayıcı kullanın."
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "Bağlantıları Göster"
@@ -166,5 +170,33 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "Bağlantıları Gizle"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "Büyük Haber!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "Artık yalnızca tarayıcı uzantısına ihtiyacınız var; ekstra indirmeye gerek yok."
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "En yeni deneyimi elde etmek için bizi GitHub veya Patreon'da destekleyin!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "Yardıma mı ihtiyacın var? Bize katıl"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Discord"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "PreMiD'i seviyor musunuz?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "Bizi desteklemeyi veya yorum bırakmayı düşünün; bu bizim için dünyalara bedel!"
 	}
 }
