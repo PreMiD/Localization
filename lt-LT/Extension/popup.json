@@ -247,6 +247,14 @@
 		"description": "Button to link the Discord account",
 		"message": "Susieti Discord"
 	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Pateikite atsiliepimą"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Praneškite apie klaidą arba problemą su Būseną"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Kita"
@@ -259,12 +267,64 @@
 		"description": "Close button on the feedback popup",
 		"message": "Uždaryti"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "."
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Praneškite apie klaidą arba problemą su Būseną"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Prašome apibrėžti šia problemą, kurioje jūs patyrėte Būsenoje, kuo detaliau."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Visi pranešimai yra slapti, nebent nuspręstumėte pateikti savo kontaktinę informaciją. Prireikus, galime su jumis susisiekti dėl papildomos informacijos arba pranešti, kai problema bus išspręsta."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Jūsų Email adresas (Neprivaloma)"
+	},
 	"popup.feedback.discord": {
 		"description": "The placeholder for the discord input field",
 		"message": "Jūsų „Discord“ naudotojo vardas (neprivaloma)"
 	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Mes nuolat ieškome būdų, kaip pagerinti PreMiD ir padaryti jį geresnį jums.\n\nPrašome užpildyti šią formą, jei norite pasiūlyti funkciją, kurią norėtumėte matyti PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Apibūdinkite šią funkciją"
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Visi pranešimai yra slapti, nebent nuspręstumėte pateikti savo kontaktinę informaciją. \nPrireikus, galime su jumis susisiekti dėl papildomos informacijos arba pranešti, kai funkcija bus įdiegta."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Kita"
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Apibūdinkite šį atsiliepimą"
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Atsiliepimas pateiktas"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Ačiū, kad pateikėte savo atsiliepimus! 🎉\n\nMes vertiname, kad skyrėte laiką pasidalinti savo mintimis su mumis. Mes peržiūrėsime jūsų atsiliepimus ir susisieksime, jei reikės."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "O ne! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Kažkas atsitiko pateikiant jūsų atsiliepimą. Prašome pabandyti dar kartą.\n\nJeigu ši problema kartojasi, prašome susisiekti su mumis mūsų Discord serveryje."
 	}
 }
