@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "צופה ב-DM שלהם"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "צפייה במשחק:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "צפייה ברשימת הצוות"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "צופה בפורומים הנצפים שלהם"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "צופה באשכולות שנצפו בהם"
+  }
+}
