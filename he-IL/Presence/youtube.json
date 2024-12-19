@@ -1,1 +1,114 @@
-{}
+{
+	"youtube.ad": {
+		"description": "",
+		"message": "צופה עכשיו במודעה"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "מחפש בין פלייליסטים"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "גלישה דרך"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "מחפש בין סרטונים"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "ההיסטוריה שלהם"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "הספרייה שלהם"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "הקניות שלהם"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "קורא לגבי ערוץ:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "מסתכל בהיסטורית רפורטים שלהם"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "עמוד האומן"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "נתונים של הערוץ"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "תגובות הערוץ"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "תרגומי ערוץ"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "צופה בדאשבורד שלהם"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "עורך סרטון:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "צופה בנתונים של סרטון:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "צופה בתגובות של סרטון:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "צופה בתרגומים של הסרטון:"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "צפייה שלהם"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "צופה בסרטונים שלהם"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "הרשומים שלהם"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "הצגת מגמות"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "מעלה משהו..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "מסתכל בכל הפלייליסטים שלהם"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "מסתכל בספריית אודיו שלהם"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "מסתכל בלייב דאשבורד שלהם"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "צופה בלייבים שלהם"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "צופה בתגובות הקהילה"
+	}
+}
