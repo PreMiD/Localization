@@ -1,11 +1,35 @@
 {
+	"youtube.ad": {
+		"description": "",
+		"message": "Βλέποντας μια διαφήμιση"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Περιήγηση λιστών αναπαραγωγής"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Περιήγηση μέσα"
 	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Περιήγηση βίντεο"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "του καναλιού:"
+	},
 	"youtube.purchases": {
 		"description": "Part two of \"Browsing through\"",
 		"message": "τις αγορές τους"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Διαβάζοντας για το κανάλι:"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Αναζήτηση στο κανάλι: {0} για:"
 	},
 	"youtube.studio.dashboard": {
 		"description": "",
@@ -30,5 +54,9 @@
 	"youtube.viewLiveDashboard": {
 		"description": "",
 		"message": "Προβάλει του ζωντανός ταμπλό τους"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Βλέποντας δημοσιεύσεις κοινότητας"
 	}
 }
