@@ -7,9 +7,17 @@
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "Navigando tra le playlists"
 	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "Navigando tra gli shorts"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Navigando tra"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "Navigando tra {0} video"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
@@ -79,6 +87,10 @@
 		"description": "",
 		"message": "Visualizzando le traduzioni del video:"
 	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "Guardando il loro contenuto"
+	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Visualizzando i propri"
@@ -118,5 +130,9 @@
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "Visualizzando i post della comunità"
+	},
+	"youtube.perVideoPrivacy.tooltip.1": {
+		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
+		"message": "Sovrascrivi la tua modalità privacy per questo video"
 	}
 }
