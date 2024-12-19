@@ -7,13 +7,33 @@
     "description": "Disclaimer located above the apply button.",
     "message": "パートナーになりましょう！"
   },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "すべての項目を入力してください。"
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "説明は最大150文字までです。"
+  },
   "partners.apply.error3": {
     "description": "Error when image link is entered wrong.",
     "message": "リンクを追加してください (https:// で始まり .png で終わる必要があります。)"
   },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "すでに申し込み済みです！"
+  },
   "partners.apply.form.button.apply": {
     "description": "Modal apply button.",
     "message": "申請する"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "閉じる"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "説明(最大150文字まで入力できます。):"
   },
   "partners.apply.form.imageLink": {
     "description": "Do not change the sizes.",
@@ -23,21 +43,53 @@
     "description": "Image link field's placeholder. Do not change the image URL.",
     "message": "例: https://i.imgur.com/clun1ID.png"
   },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "URL"
+  },
   "partners.apply.form.link.placeholder": {
     "description": "Link filed's placeholder.",
     "message": "例:https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "名前"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "例: PreMiD"
   },
   "partners.apply.jobs": {
     "description": "Hint located under the button.",
     "message": "直接PreMiDの仕事に関わりたい場合は、**こちらを**ご覧ください。"
   },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "{0}としてサインイン中"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "別人ですか？"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "どれか一つを選択してください。"
+  },
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "その他"
   },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "ウェブサイト"
+  },
   "partners.apply.success": {
     "description": "Success message when applying.",
     "message": "応募していただき、ありがとうございます！"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "パートナーに申請する"
   },
   "partners.header.description": {
     "description": "Description for page.",
@@ -63,6 +115,18 @@
     "description": "Description for Crowdin.",
     "message": "企業のための翻訳加速装置。"
   },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Discordのサーバーテンプレートで、コミュニティを作り始める事ができます。"
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "すべてのアーティファクトのための統合開発者フレンドリーなインターフェイスです。"
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflixは、最も大きいNetflix関連のDiscordサーバーで、あなたのお気に入りの映画やシリーズについて語り合うことができます。"
+  },
   "partners.partner.simLiveRadio": {
     "description": "Description for SimLoveRadio.",
     "message": "SimLiveRadio は、ドイツ、オーストリア、スイスで最も成功しているシミュレーションゲームの情報ラジオです。"
@@ -70,6 +134,22 @@
   "partners.partner.statusPage": {
     "description": "Description for StatusPage.",
     "message": "簡単にリアルタイムのステータスをユーザーに伝える。"
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taigaは超便利Discord botです！"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radioはコミュニティが運営するオンラインラジオで、24時間365日、広告なしのラジオエンターテイメント、毎日のニュースなどを提供しています！"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "最も強力で、拡張可能なオープンソースのWikiソフトウェア。"
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "私たちは成長するコミュニティとインターネットの刺激的なものに目を光らせています。\nもし私達と同じ考えならば、PreMiDを使用してさらなるインターネットの人々へ拡散すべきです。パートナープログラムは、あなたの形に合うように一つ一つを考慮しながら進めていきます。"
   },
   "partners.requirements.first.title": {
     "description": "Heading for the first requirement.",
@@ -83,6 +163,10 @@
     "description": "Heading for the second requirement.",
     "message": "私たちのファイヤウォール"
   },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "必要条件"
+  },
   "partners.slideshow.description": {
     "description": "Description for slideshow.",
     "message": "PreMiDのパートナーはこんな人たち"
@@ -91,6 +175,18 @@
     "description": "Description for sponsors.",
     "message": "この人達がいなければ、PreMiDは存在すらしなかったでしょう。"
   },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "スポンサー"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "私達のチームが、あなたのサイトのプレゼンスを作成します。"
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "あなたのサイト専用のプレゼンス"
+  },
   "partners.why.benefit2.description": {
     "description": "Description for the second benefit.",
     "message": "PreMiD公式Discordサーバーで、名誉あるロールをもらえる。"
@@ -98,6 +194,10 @@
   "partners.why.benefit2.title": {
     "description": "Heading for the second benefit.",
     "message": "パートナー専用のロールを手に入れる"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "誰かがあなたのサイトを見ている時に、プレゼンスを自動的に有効にします。"
   },
   "partners.why.benefit3.title": {
     "description": "Heading for the third benefit.",
@@ -110,6 +210,10 @@
   "partners.why.benefit4.title": {
     "description": "Heading for the fourth benefit.",
     "message": "記念される。"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "私達のSNSで宣伝します。"
   },
   "partners.why.benefit5.title": {
     "description": "Heading for the fifth benefit.",
