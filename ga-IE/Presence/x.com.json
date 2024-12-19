@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Leabharmharcanna"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Taiscéalaíocht"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Fógraí"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "post léitheoireachta de:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Athrú ar roinnt socruithe..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Ag féachaint ar a gcuid DManna"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Is maith le lucht féachana:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Liosta féachana:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Meáin féachana de:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Ag féachaint ar thweets de:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Ag féachaint ar thweets (le freagraí) ar:"
   }
 }
