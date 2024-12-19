@@ -1,6 +1,18 @@
 {
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "歌詞を閲覧中:"
+  },
+  "genius.viewAlbum": {
+    "description": "Album of a song",
+    "message": "アルバムを閲覧中:"
+  },
   "genius.viewHome": {
     "description": "",
     "message": "ホームページを閲覧中"
+  },
+  "genius.viewLyrics": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "歌詞を見る"
   }
 }
