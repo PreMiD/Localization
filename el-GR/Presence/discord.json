@@ -19,6 +19,10 @@
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
     "message": "Ανάγνωση στο κανάλι:{0}{1} (Διακομιστής: {2})"
   },
+  "discord.channelTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Πληκτρολόγηση στο κανάλι:{0}{1} (Διακομιστής: {2})"
+  },
   "discord.college": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "η σελίδα Σχολή"
@@ -27,17 +31,61 @@
     "description": "Second part of the \"Browsing through\" string",
     "message": "η σελίδα Σχετικά"
   },
+  "discord.devs.appsBrowse": {
+    "description": "",
+    "message": "Περιήγηση μέσω των εφαρμογών τους"
+  },
   "discord.devs.appsEdit": {
     "description": "{0} will be replaced with the name of the app.",
     "message": "Επεξεργασία εφαρμογής: {0}"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "Πύλη Προγραμματιστή"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "Περιήγηση μέσω των ομαδον τους"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "Επεξεργασία ομάδας: {0}"
+  },
+  "discord.dmGroupReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Ανάγνωση στην ομάδα DM:{0}{1}"
+  },
+  "discord.dmGroupTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Πληκτρολογώντας την ομάδα DM:{0}{1}"
+  },
+  "discord.dmReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Ανάγνωση DMs από:{0}{1}"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Πληκτρολογώντας σε DMs στο:{0}{1}"
   },
   "discord.download": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "η σελίδα Λήψη"
   },
+  "discord.friends": {
+    "description": "",
+    "message": "Βλέπει τους φίλους τους..."
+  },
   "discord.inspiration": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "η σελίδα Έμπνευση"
+  },
+  "discord.invite": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
+    "message": "Προβολή πρόσκλησης σύνδεσμος:{0}{1} (Διακομιστής: {2})"
+  },
+  "discord.inviteServer": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Προβολή πρόσκλησης σύνδεσμος:{0}του διακομιστής: {1}"
   },
   "discord.jobs": {
     "description": "Second part of the \"Browsing through\" string",
@@ -54,6 +102,10 @@
   "discord.newsroom": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "η σελίδα Aíθουσα σύνταξης"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "Ανάγνωση για το Nitro..."
   },
   "discord.opensource": {
     "description": "Second part of the \"Browsing through\" string",
@@ -79,6 +131,14 @@
     "description": "Second part of the \"Browsing through\" string",
     "message": "η σελίδα Ασφάλεια"
   },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Προβολή των ρυθμίσεών{0}του διακομιστή: {1}"
+  },
+  "discord.settings": {
+    "description": "",
+    "message": "Προβολή των ρυθμίσεών τους..."
+  },
   "discord.status": {
     "description": "",
     "message": "Κατάσταση Discord"
@@ -94,6 +154,14 @@
   "discord.verification": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "η σελίδα Επαλήθευση"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Η φωνή συνδέθηκε στο:{0}{1} (διακομιστής: {2})"
+  },
+  "discord.voiceConnectedWith": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
+    "message": "Η φωνή συνδέθηκε με:{0}{1}"
   },
   "discord.why": {
     "description": "Second part of the \"Browsing through\" string",
