@@ -1,4 +1,8 @@
 {
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "مشاهده"
+  },
   "twitcasting.followList": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "لیست دنبال کنندگان"
