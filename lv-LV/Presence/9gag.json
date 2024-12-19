@@ -1,1 +1,34 @@
-{}
+{
+  "9gag.about": {
+    "description": "",
+    "message": "Lasa visu par 9GAG"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "Skatās kolekciju:"
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "Skatās, kas ir jauns"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "Skatās gag:"
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "Skatās, kas aktuāls"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "Skatās veikala lapu"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "Skatās atzīmi:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "Skatās tendences"
+  }
+}
