@@ -7,6 +7,10 @@
 		"description": "",
 		"message": "Böngészés..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Böngészés"
+	},
 	"general.buttonListenAlong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Hallgasd együtt"
@@ -18,6 +22,10 @@
 	"general.buttonViewAlbum": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Album megtekintése"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Cikk megtekintése"
 	},
 	"general.buttonViewArtist": {
 		"description": "Used as the title for the button in Discord.",
@@ -52,6 +60,10 @@
 		"message": "Profil megtekintése"
 	},
 	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Sorozat megtekintése"
+	},
+	"general.buttonViewShow": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Sorozat megtekintése"
 	},
@@ -123,6 +135,10 @@
 		"description": "",
 		"message": "Zenét hallgat"
 	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Hallgatja {0}{1}"
+	},
 	"general.live": {
 		"description": "",
 		"message": "Élő közvetítés"
@@ -155,9 +171,29 @@
 		"description": "",
 		"message": "Olvasás"
 	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Egy csatornában olvas"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Egy DM olvasása"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Egy bejegyzést olvas"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Egy gondolatmenetet olvas"
+	},
 	"general.readingAbout": {
 		"description": "",
 		"message": "A következőről olvas:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Egy cikket olvas"
 	},
 	"general.readingArticle": {
 		"description": "",
@@ -223,13 +259,69 @@
 		"description": "",
 		"message": "Üzenetet ír neki:"
 	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "DM-ekben gépel"
+	},
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
 		"message": "Futási idő előzményei"
 	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Egy listát nézeget"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Egy mangát nézeget"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Egy tagot nézeget"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Egy filmet nézeget"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Egy oldalt nézeget"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Egy lejátszási listát nézeget"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Egy terméket nézeget"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Egy profilt nézeget"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Egy sorozatot nézeget"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Egy műsort nézeget"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Egy gondolatmenetet nézeget"
+	},
 	"general.viewAccount": {
 		"description": "",
 		"message": "Fiókját nézi"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "Egy incidenst nézeget"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Egy felhasználót nézeget"
 	},
 	"general.viewAnime": {
 		"description": "",
@@ -254,6 +346,10 @@
 	"general.viewHome": {
 		"description": "",
 		"message": "Főoldalt nézi"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "Egy incidensről nézeget:"
 	},
 	"general.viewList": {
 		"description": "",
@@ -306,6 +402,14 @@
 	"general.viewing": {
 		"description": "",
 		"message": "Nézi:"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Egy kívánságlistát nézeget"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "A kívánságlistáját nézegeti:"
 	},
 	"general.waitingLive": {
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
