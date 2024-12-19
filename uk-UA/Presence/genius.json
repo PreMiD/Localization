@@ -1,1 +1,18 @@
-{}
+{
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "Перегляд текстів:"
+  },
+  "genius.viewAlbum": {
+    "description": "Album of a song",
+    "message": "Перегляд альбому:"
+  },
+  "genius.viewHome": {
+    "description": "",
+    "message": "Перегляд головної сторінки"
+  },
+  "genius.viewLyrics": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Перегляд тексту пісень"
+  }
+}
