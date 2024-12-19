@@ -1,11 +1,51 @@
 {
+  "store.card.presence.add": {
+    "description": "Button that will appear on hover after extension is installed.",
+    "message": "הוסף Presence"
+  },
+  "store.card.presence.included": {
+    "description": "The message that appears instead of the buttons.",
+    "message": "נוכחות זו מופעלת באופן אוטומטי בעת ביקור באתר שלה."
+  },
+  "store.card.presence.remove": {
+    "description": "Button that will appear on hover after extension and presence is installed.",
+    "message": "מחק Presence"
+  },
   "store.cards.creator": {
     "description": "Creator of a presence",
     "message": "מחבר"
   },
+  "store.cards.extraStepsRequired": {
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
+    "message": "ה-Presence דורש צעדים נוספים לעבודה, אנא עיין בדף שלה למידע נוסף."
+  },
+  "store.cards.partner": {
+    "description": "Presence card partner flame",
+    "message": "Presence משותף"
+  },
+  "store.cards.popular": {
+    "description": "Presence card popular flame",
+    "message": "ה Presence מאוד פופולארי בקרבת משתמשים."
+  },
   "store.category.all": {
     "description": "Category at the top",
     "message": "הכל"
+  },
+  "store.category.filters.allowAdult": {
+    "description": "Adult content checkbox",
+    "message": "הראה NSFW"
+  },
+  "store.category.filters.heading": {
+    "description": "Searh filters option at the store page",
+    "message": "פילטרים"
+  },
+  "store.category.filters.likedOnly": {
+    "description": "Liked presences only checkbox",
+    "message": "רק נוכחות אהבתי"
+  },
+  "store.category.filters.mostUsed": {
+    "description": "Most used first checkbox",
+    "message": "הראה את הכי משומשים קודם"
   },
   "store.category.games": {
     "description": "Category at the top",
@@ -31,8 +71,28 @@
     "description": "Category at the top",
     "message": "סרטונים & שידורים"
   },
+  "store.filters.added": {
+    "description": "Store filter to display/not display already installed presences.",
+    "message": "הצג נוכחות שנוספה"
+  },
+  "store.header.search": {
+    "description": "Search bar text when nothing is stated",
+    "message": "חפש Presence"
+  },
+  "store.message.error": {
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
+    "message": "תוסף לא מחובר."
+  },
   "store.search": {
     "description": "Placeholder for presence search",
     "message": "חיפוש"
+  },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "כנס"
+  },
+  "store.search.removeFilter": {
+    "description": "Remove message for active search filters.",
+    "message": "שחרר להסרת הפילטר"
   }
 }
