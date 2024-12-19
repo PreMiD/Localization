@@ -1,1 +1,42 @@
-{}
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Segnalibri"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Esplora"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Notifiche"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Leggendo il post di:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Cambiando alcune impostazioni..."
+  },
+  "x.com.viewDms": {
+    "description": "",
+    "message": "Guardando i loro DM"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Visualizzando i mi piace di:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Visualizzando i media di:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Visualizzando i post di:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Visualizzando i post (con le risposte) di:"
+  }
+}
