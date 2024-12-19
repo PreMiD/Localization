@@ -3,6 +3,10 @@
 		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
 		"message": "Donasi"
 	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "Changelog"
@@ -59,13 +63,145 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "Pemecahan masalah"
 	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "Mengalami masalah dengan {0}?"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Ekstensi diaktifkan"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Koneksi Internet"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Terhubung dengan aplikasi PreMiD"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Terhubung dengan aplikasi Discord"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Pesan status Discord diaktifkan"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Presence untuk ditampilkan"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "Untuk menggunakan PreMiD Anda perlu menghubungkannya ke akun Discord Anda. Cukup klik tombol di bawah ini."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD telah diperbarui!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Apa yang Baru 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Fitur-fitur"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Perbaikan"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Performa"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Perubahan Umum"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Tautkan Akun Discordmu"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Mulai dari versi v. 2.6.0, PreMiD membutuhkan akun Discord yang terhubung untuk bekerja dengan baik. Silahkan tautkan akun Discord mu untuk melanjutkan menggunakan PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Tautkan Akun Discordmu"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Apa saja yang Baru?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Kami harap kamu menikmati pembaruan ini! Jika memiliki beberapa saran atau feedback, silahkan untuk bergabung dengan peladen Discord kami dan beri tahu kami."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Gabung peladen Discord kami"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Selamat datang di PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Ayo mari kita persiapkan!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Instal Ekstensi PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Tautkan akun Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Pastikan kamu mengaktifkan \"Tampilkan aktivitas saat ini sebagai pesan status.\""
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Pengaturan Pengguna {0} Pengaturan Aktivitas {0} Privasi Aktivitas"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Tautkan akun Discord mu"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Ini mengijinkan PreMiD untuk menampilkan aktivitas status mu sebagai pesan status."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Akun Discord sudah ditautkan"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Ayo pindah ke langkah berikutnya."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Lanjut"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Pastikan kamu harus mengaktifkan \"Tampilkan status saat ini sebagai pesan status.\", jika tidak, tidak ada yang akan melihat status baru Anda yang cemerlang."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Aktifkan \"Tampilkan aktivitas saat ini sebagai pesan status.\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Semuanya selesai!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Kamu sudah mengaturnya dan siap untuk digunakan! Kami harap kamu menikmati PreMiD. Jika kamu memiliki beberapa pertanyaan atau butuh bantan, silahkan bergabung di peladen Discord kami. Jika kamu menyukai PreMiD, jangan lupa untuk mendukung kami dengan berdonasi, nilai ektensi, atau bagikan kepada teman-temanmu."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
