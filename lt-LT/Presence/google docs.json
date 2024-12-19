@@ -1,1 +1,50 @@
-{}
+{
+  "google docs.browsingDoc": {
+    "description": "Displayed when the user is browsing their Google Documents",
+    "message": "Naršo dokumentus"
+  },
+  "google docs.browsingForm": {
+    "description": "Displayed when the user is browsing their Google Forms",
+    "message": "Naršo formas"
+  },
+  "google docs.browsingPresentation": {
+    "description": "Displayed when the user is browsing their Google presentation",
+    "message": "Naršo prezentacijas "
+  },
+  "google docs.browsingSheet": {
+    "description": "Displayed when the user is browsing their Google Sheets",
+    "message": "Naršo skaičiuokles"
+  },
+  "google docs.editingDoc": {
+    "description": "Displayed when the user is editing a Google Document",
+    "message": "Taiso dokumentą"
+  },
+  "google docs.editingForm": {
+    "description": "Displayed when the user is editing a Google Form",
+    "message": "Taiso formą"
+  },
+  "google docs.editingPresentation": {
+    "description": "Displayed when the user is editing a Google presentation",
+    "message": "Taiso prezentaciją "
+  },
+  "google docs.editingSheet": {
+    "description": "Displayed when the user is eiditng a Google Sheet",
+    "message": "Taiso skaičiuoklę"
+  },
+  "google docs.viewingDoc": {
+    "description": "Displayed when the user is viewing a Google Document",
+    "message": "Žiūri dokumentą"
+  },
+  "google docs.viewingForm": {
+    "description": "Displayed when the user is viewing a Google Form",
+    "message": "Žiūri formą"
+  },
+  "google docs.viewingPresentation": {
+    "description": "Displayed when the user is viewing a Google presentation",
+    "message": "Žiūri prezentaciją"
+  },
+  "google docs.viewingSheet": {
+    "description": "Displayed when the user is viewing a Google Sheet",
+    "message": "Žiūri skaičiuoklę"
+  }
+}
