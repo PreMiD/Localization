@@ -1,4 +1,8 @@
 {
+  "presence.page.buttons.sourceCode": {
+    "description": "Source Code button on presence pages.",
+    "message": "קוד מקור"
+  },
   "presence.sections.changelog.title": {
     "description": "The title of the changelog section.",
     "message": "יומן שינויים"
@@ -15,6 +19,14 @@
     "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
     "message": "תורמים"
   },
+  "presence.sections.information.likes": {
+    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+    "message": "לייקים"
+  },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "ה-Presence תומח בהרבה יותר קישורים ממה שמצויין למטה דרך השימוש של-RegExp. רחף עם העכבר כדי לראות את התבנית"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "כתובות נתמכות"
@@ -26,6 +38,10 @@
   "presence.sections.information.title": {
     "description": "The title of the information section.",
     "message": "מידע"
+  },
+  "presence.sections.information.users": {
+    "description": "One of the strings from the Information section. [on webite -> Users: (2000)]",
+    "message": "אנשים"
   },
   "presence.sections.information.version": {
     "description": "One of the strings from the Information section. [on webite -> Version: (2.0)]",
