@@ -1,4 +1,8 @@
 {
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "Tražite nepostojeći ili izbrisani Status."
+  },
   "error.code.404": {
     "description": "Error (404) message",
     "message": "Na žalost nismo mogli pronaći tu stranicu."
@@ -15,6 +19,10 @@
     "description": "'Details' text on error page container",
     "message": "Detalji"
   },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "Nismo mogli pronaći taj Status..."
+  },
   "user.notFound.heading": {
     "description": "Error when user couldn't be found.",
     "message": "Nismo mogli pronaći tog korisnika. Pokušaj biti siguran"
@@ -30,5 +38,9 @@
   "user.notFound.message3": {
     "description": "Check if the error is also happening to others message.",
     "message": "ako drugi imaju isti problem na našem Discord serveru."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "Ako smatrate da je ovo pogreška, kontaktirajte nas na [našem Discord serveru]."
   }
 }
