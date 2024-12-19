@@ -1,1 +1,98 @@
-{}
+{
+  "store.card.presence.add": {
+    "description": "Button that will appear on hover after extension is installed.",
+    "message": "I-add ang Presence"
+  },
+  "store.card.presence.included": {
+    "description": "The message that appears instead of the buttons.",
+    "message": "Ang Presence na ito ay naka-automatic na nai-enable sa pagbi-visit sa site na ito."
+  },
+  "store.card.presence.remove": {
+    "description": "Button that will appear on hover after extension and presence is installed.",
+    "message": "I-remove ang Presence"
+  },
+  "store.cards.creator": {
+    "description": "Creator of a presence",
+    "message": "Ang author"
+  },
+  "store.cards.extraStepsRequired": {
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
+    "message": "Itong presence ay require ng may additional steps, pakiusap i-check itong page para sa maraming information."
+  },
+  "store.cards.partner": {
+    "description": "Presence card partner flame",
+    "message": "Naka-partner sa Presence"
+  },
+  "store.cards.popular": {
+    "description": "Presence card popular flame",
+    "message": "Very popular ang Presence na ito sa paligid ng mga user."
+  },
+  "store.category.all": {
+    "description": "Category at the top",
+    "message": "Lahat"
+  },
+  "store.category.filters.allowAdult": {
+    "description": "Adult content checkbox",
+    "message": "I-show ang NSFW"
+  },
+  "store.category.filters.heading": {
+    "description": "Searh filters option at the store page",
+    "message": "Mga fiter"
+  },
+  "store.category.filters.likedOnly": {
+    "description": "Liked presences only checkbox",
+    "message": "Mga ni-like lang na mga Presence"
+  },
+  "store.category.filters.mostUsed": {
+    "description": "Most used first checkbox",
+    "message": "Unahin ang pinakamaraming nagagamit"
+  },
+  "store.category.games": {
+    "description": "Category at the top",
+    "message": "Mga Laro"
+  },
+  "store.category.heading": {
+    "description": "Category heading",
+    "message": "Mga Category"
+  },
+  "store.category.music": {
+    "description": "Category at the top",
+    "message": "Mga Music"
+  },
+  "store.category.other": {
+    "description": "Category at the top",
+    "message": "Iba"
+  },
+  "store.category.socials": {
+    "description": "Category at the top",
+    "message": "Mga Social"
+  },
+  "store.category.videos": {
+    "description": "Category at the top",
+    "message": "Mga Video & Stream"
+  },
+  "store.filters.added": {
+    "description": "Store filter to display/not display already installed presences.",
+    "message": "I-show ang mga na-add na mga Presence"
+  },
+  "store.header.search": {
+    "description": "Search bar text when nothing is stated",
+    "message": "Mag-search sa Presence"
+  },
+  "store.message.error": {
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
+    "message": "Hindi naka-connect ang extension."
+  },
+  "store.search": {
+    "description": "Placeholder for presence search",
+    "message": "Mag-search"
+  },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "I-enter"
+  },
+  "store.search.removeFilter": {
+    "description": "Remove message for active search filters.",
+    "message": "I-click para i-remove ang filter"
+  }
+}
