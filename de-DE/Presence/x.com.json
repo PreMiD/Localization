@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Lesezeichen"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Erkunden"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Benachrichtigungen"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Liest post von:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Ändert ein paar Einstellungen..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Betrachtet PNs"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Betrachtet Likes von:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Betrachtet Liste:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Betrachtet Medien von:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Betrachtet posts von:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Betrachtet posts (mit Antworten) von:"
   }
 }
