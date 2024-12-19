@@ -339,6 +339,10 @@
 		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
 		"message": "Por favor, describe el problema que estás experimentando con la Extensión con el mayor detalle posible."
 	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Todos los reportes son anónimos, a no ser que decida facilitarnos tu información de contacto. Es posible que nos pongamos en contacto con usted para solicitarle más información si es necesario o para comunicarle la resolución del problema."
+	},
 	"popup.feedback.email": {
 		"description": "The placeholder for the email input field",
 		"message": "Tu Dirección de Correo Electrónico (Opcional)"
@@ -351,8 +355,56 @@
 		"description": "The title of the feature feedback page",
 		"message": "Solicitar una funcionalidad"
 	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Siempre estamos buscando maneras de mejorar PreMiD y hacerlo mejor para ti.\n\nPor favor, rellena el siguiente formulario para solicitar una función que le gustaría ver en PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Describe la Función"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Describa la función que le gustaría ver en PreMiD con el mayor detalle posible."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Todas las solicitudes de nuevas funciones son anónimas, a menos que decidas facilitarnos tus datos de contacto. \nEs posible que nos pongamos en contacto contigo para solicitarte más información o para informarte de la implementación de la función."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Otros"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Rellene el siguiente formulario para hacernos llegar sus comentarios sobre cualquier otra cosa que desee compartir con nosotros."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Describe la Opinión"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Por favor, describa la opinión que le gustaría compartir con nosotros con el mayor detalle posible."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Todas las opiniones son anónimas, a menos que decidas facilitarnos tus datos de contacto.\nEs posible que nos pongamos en contacto contigo para solicitarte más información o para informarte de que tu comentario ha sido atendido."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Comentario Enviado"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "¡Gracias por enviar tu comentario! 🎉\n\nLe agradecemos que se haya tomado el tiempo para compartir su opinión con nosotros. Revisaremos sus comentarios y nos pondremos en contacto contigo si es necesario."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "¡Oh no! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Algo ha ido mal al enviar tu comentario. Inténtalo de nuevo más tarde.\n\nSi el problema persiste, ponte en contacto con nosotros en nuestro servidor de Discord."
 	}
 }
