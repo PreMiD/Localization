@@ -2,5 +2,17 @@
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "Вивантажує щось..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "Триває вхід"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Переглянути тему"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "Налаштування конфігурації"
   }
 }
