@@ -3,6 +3,14 @@
 		"description": "Message next to pepe.",
 		"message": "Isključi adblock"
 	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Oglase koristimo za podršku našem timu i održavanje naših servera kako bismo vam ponudili najbolje korisničko iskustvo!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Hvala ti!"
+	},
 	"downloads.appdownloading.header": {
 		"description": "Header above application download buttons.",
 		"message": "Aplikacija"
@@ -19,6 +27,10 @@
 		"description": "Button on the page when trying to download with adblocker on.",
 		"message": "Gotovo"
 	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Prijavi se"
+	},
 	"downloads.button.okay": {
 		"description": "Button on the modal of Opera/Edge browsers.",
 		"message": "U redu"
@@ -26,6 +38,10 @@
 	"downloads.button.skip": {
 		"description": "Skip button on the ads section",
 		"message": "Preskoči"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Svejedno preskoči"
 	},
 	"downloads.error.login": {
 		"description": "Error message if the user is not logged in.",
@@ -86,6 +102,14 @@
 	"downloads.mobile.errorMessage": {
 		"description": "Downloads page warning when user is on mobile.",
 		"message": "Imaj na umu da PreMiD nije podržan na mobilnim telefonima."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Prikaži preuzimanja za beta verziju"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(nije potrebno ako ste ovdje za preuzimanje normalne aplikacije)"
 	},
 	"downloads.skipanyway.message1": {
 		"description": "Skip anyway messages (changes everytime you click it).",
