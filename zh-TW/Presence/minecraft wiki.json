@@ -2,5 +2,17 @@
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "正在上載影片"
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "正在登入"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "檢視討論串"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "正在調整設定"
   }
 }
