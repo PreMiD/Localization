@@ -229,7 +229,7 @@
 	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
-		"message": "본인이 아닌가요?"
+		"message": "다른 사용자인가요?"
 	},
 	"popup.informationIcon.notLinked.heading": {
 		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",

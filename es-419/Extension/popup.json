@@ -271,6 +271,10 @@
 		"description": "Button to link the Discord account",
 		"message": "Conectar Discord"
 	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "¿Tienes algo que decir?"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Otros"
@@ -282,5 +286,9 @@
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Otros"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "¡Gracias por tus comentarios! 🎉\n\nApreciamos que te tomes tu tiempo en compartir tus opiniones con nosotros. Revisaremos tus comentarios y te contactaremos si es necesario."
 	}
 }

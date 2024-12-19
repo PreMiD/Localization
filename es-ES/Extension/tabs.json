@@ -95,13 +95,113 @@
 		"description": "Information text to tell users to connect to Discord",
 		"message": "Necesitas conectar a tu cuenta de Discord para usar PreMiD. Simplemente haz clic en el botón de abajo."
 	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "¡PreMiD se ha actualizado!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Novedades 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Características"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Correcciones"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Rendimiento"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Cambios Generales"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Vincular tu cuenta de Discord"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "A partir de la versión v2.6.0, PreMiD requiere una cuenta de Discord vinculada para funcionar correctamente. Vincula tu cuenta de Discord para seguir usando PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Vincular tu cuenta de Discord"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "¿Y ahora, qué?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Esperamos que disfrutes de la nueva actualización. Si tienes algún comentario o sugerencia, no dudes en unirte a nuestro servidor Discord y hacérnoslo saber."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Únete a nuestro servidor Discord"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "¡Bienvenido a PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "¡Empecemos!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Instala la extensión de PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Vincular una cuenta de Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Asegúrate de tener activada la opción «Mostrar la actividad actual como mensaje de estado»."
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Configuración del usuario {0} Configuración de la actividad {0} Privacidad de la actividad"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Vincular tu cuenta de Discord"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Esto permite a PreMiD mostrar tu actividad actual como un mensaje de estado."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Cuenta de Discord vinculada"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Vamos al siguiente paso."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Siguiente"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Asegúrate de tener activada la opción «Mostrar la actividad actual como mensaje de estado», de lo contrario nadie verá tu nuevo y brillante estado."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Activa «Mostrar la actividad actual como mensaje de estado»."
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "¡Todo listo!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Ya está todo configurado y listo para funcionar. Esperamos que disfrutes usando PreMiD. Si tienes alguna pregunta o necesitas ayuda, no dudes en unirte a nuestro servidor Discord. Si te gusta PreMiD tanto como a nosotros, considera apoyarnos donando, valorando la extensión o compartiéndola con tus amigos."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
