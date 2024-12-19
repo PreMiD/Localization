@@ -3,8 +3,28 @@
     "description": "Page name",
     "message": "Lataukset"
   },
+  "twitch.home": {
+    "description": "Page name",
+    "message": "Kotisivu"
+  },
+  "twitch.jobs": {
+    "description": "Page name",
+    "message": "Työpaikat"
+  },
   "twitch.partners": {
     "description": "Page name",
     "message": "Yhteistyökumppanit"
+  },
+  "twitch.turbo": {
+    "description": "Page name",
+    "message": "Turbo"
+  },
+  "twitch.viewFriends": {
+    "description": "",
+    "message": "Katselee kaveriluetteloaan..."
+  },
+  "twitch.viewTheir": {
+    "description": "Part 1 of the next 10 strings",
+    "message": "Tarkastelee"
   }
 }
