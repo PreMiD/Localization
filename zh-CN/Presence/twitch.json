@@ -3,8 +3,16 @@
     "description": "Page name",
     "message": "下载"
   },
+  "twitch.home": {
+    "description": "Page name",
+    "message": "首页"
+  },
   "twitch.partners": {
     "description": "Page name",
     "message": "合作伙伴"
+  },
+  "twitch.viewTheir": {
+    "description": "Part 1 of the next 10 strings",
+    "message": "查看他们的"
   }
 }
