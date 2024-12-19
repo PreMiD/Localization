@@ -7,6 +7,14 @@
     "description": "Reading about the site's cookies",
     "message": "Leser om nettsidens informasjonskapsler"
   },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "Leser informasjon om donasjonsplanene"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "Ser på serverens toppliste:"
+  },
   "juniperbot.mainpage": {
     "description": "Home page of the site",
     "message": "Hovedside"
