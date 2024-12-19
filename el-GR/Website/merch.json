@@ -1,1 +1,14 @@
-{}
+{
+  "merch.cart": {
+    "description": "Add product to cart",
+    "message": "Προσθήκη στο καλάθι"
+  },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "Βρείτε το **Swag** σου"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "Καλώς ήρθατε στο επίσημο **PreMiD** Εμπορεύματα κατάστημα!"
+  }
+}
