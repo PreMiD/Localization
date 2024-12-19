@@ -7,6 +7,14 @@
     "description": "Discord Server link on maintenance page",
     "message": "שרת הדיסקורד"
   },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "למרבה הצער אנו חווים כמה קשיים טכניים. נחזור בקרוב. מצטער על אי הנוחות."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "בבקשה תחזור אחר כך בשביל עוד מידע."
+  },
   "maintenance.message": {
     "description": "Message on maintenance page",
     "message": "עד שהמפתחים המיוחדים שלנו יסדרו את זה, תרגיש חופשי להסתכל פה!"
