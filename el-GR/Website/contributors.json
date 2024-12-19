@@ -47,6 +47,10 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Επιμελητής"
   },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Υποστήριξη"
+  },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
     "message": "Μεταφραστής"
