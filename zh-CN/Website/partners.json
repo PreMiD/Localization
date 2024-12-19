@@ -111,6 +111,10 @@
     "description": "Description for Arena of Kings.",
     "message": "Arena of Kings 是在浏览器中游玩的一种快节奏的 PvP 竞技游戏。"
   },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "Taiga 是一个 Discord 机器人，一次性提供您可能需要的所有功能！"
+  },
   "partners.requirements.first.description": {
     "description": "Description for the first requirement.",
     "message": "我们关注日益增长的社区，关注互联网周围令人振奋的事情。 TL;DR 你应该已经在使用 PreMiD 并准备好将它传播到更多地方。 对该计划的接受是非常定性的，并且从一个候选人到下一个候选人都会有所不同。"
