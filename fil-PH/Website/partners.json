@@ -1,1 +1,242 @@
-{}
+{
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Mag-apply na!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Sabay tayong pumunta sa heaven!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Pakiusap i-complete ang lahat ng nasa mga field."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Maximum na 150 mga character na description."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Pakiusap mag-add ng link (dapat mag-start sa https:// at mag-e-end sa .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Nakapag-apply ka na para sa partner."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Mag-apply"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Isara"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Description: (Maximum na 150 mga character)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Description para sa nai-feature"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Link ng image: (550x300, PNG lang)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Hal: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Link"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Hal: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Pangalan"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Hal: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Kung mas interested ka sa direct job sa PreMiD, then take a look sa aming **job advertisements**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Naka-log in bilang si {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Hindi ikaw?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Pakiusap pumili ng isa"
+  },
+  "partners.apply.select.other": {
+    "description": "Select 'Other' category.",
+    "message": "Iba"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Website"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Maraming salamat sa pag-apply!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Mag-apply para sa partner"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Mag-join na sa fam at makakuha ng mga ilang partner-only banefit para ipagyabang gaano kayo ka-swag."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Mga partner"
+  },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Ganyan ka manood ng anime."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Ang Arena of Kings ay isang next-gen fast-paced PvP Arena Game na nilaro sa browser."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Isang powerful at madaling gamitin na cross platform installer na tool sa paglikha."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Agile localization para sa mga tech company."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Mag-start gumawa ng sariling mong community na may awesome templates namin! Gumawa ng sarili mong kingdom."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Isang diyosa na gumaganap bilang isang fun Discord Bot!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "Sa likod ng best sa web."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "Ang OnlyHit ay iyong online music radio station ginawa para mag-play ng iyong best hits 24/7 at para ma-discover mo muna ng iyong mga future hit."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "Isang pinag-unify, developer friendly interface para sa lahat ng iyong mga artifact."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix ay isa sa pinakamalaking Netflix-related Discord server. Mag-discuss about sa iyong mga favorite series o film kasama ang mga like-minded people dito."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "Hinahayaan ka ni REYFM na makinig sa 15+ music stream nang libre - nonstop. Gamit ang pinaka-best at pina-latest na music para lang sa iyo!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "Ang SimLiveRadio ay isa sa pinaka-successful na infotainment radio para sa simulation games sa Germany, Austria at Switzerland!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Madaling makipag-communicate sa real-time na status sa iyong mga user."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "Ang taiga ay isang Discord Bot na tina-try na mag-offer ng lahat ng mga feature na pwede mong kailanganin mo nang sabay-sabay!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "Ang pinaka-powerful at extensible open source Wiki software."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Nakatingin ang aming mga mata para sa mga lumalaking community at mga excited na bagay sa paligid ng internet. TL;DR dapat nagamit mo na ang PreMiD at maging ready sa pag-spread nito kahit sa mga mararaming internet freak. Acceptance sa program na ito ay napakalaking quality na at magiging vary from one candidate to the next."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Ano ang hinahanap namin?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "Kami ay currently tumatanggap ng iba't ibang uri ng mga effort sa aming partnership program. Kahit sino ay dapat magkaroon ng chance para ma-notice. Ang mga Twitch broadcaster ay dapat may 500 na mga follower at 10 na mga concurrent viewers. Dapat kang mag-stream nang hindi bababa sa 1 beses per week."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Ang aming firewall"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Mga requirement"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Ito ay nabibilang na sa amin"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "Hindi magiging posible ang PreMiD, kung wala ang mga amazing people na ito."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Mga sponsor"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Ang aming team ay magpo-provide sa inyo ng isang Presence sa aming service."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Ang iyong libreng Presence"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Isang special role at dakilang honor ay mabibigay sa iyo sa aming Discord server."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Maging verify"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Automatically ginagamit ang Presence mo kapag may nagbi-visit sa iyong Website."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Meta-tag integration"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Isang nasty place sa aming parner page."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Maging immortalized"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Ma-feature sa aming social media."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Maging famous"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "How about pumunta sa heaven instead sa hell?"
+  }
+}
