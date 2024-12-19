@@ -3,8 +3,56 @@
     "description": "Contributors tab",
     "message": "Prinosnici"
   },
+  "header.downloads": {
+    "description": "Downloads tab",
+    "message": "Preuzimanja"
+  },
   "header.language": {
     "description": "Replace English with the name of YOUR language!",
     "message": "Hrvatski"
+  },
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Promijeni jezik"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Ne, hvala"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Naša je web-stranica prevedena na tvoj jezik. Ovo može pomoći u slučaju da ne govoriš engleski tako dobro."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Podržavamo vaš jezik, želiš li promjeniti jezik?"
+  },
+  "header.lia": {
+    "description": "Indicates which user is logged in",
+    "message": "Prijavljeni ste kao"
+  },
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Pečemo palačinke...;Postavljamo spremnike...;Pregledavamo tvoju IP adresu...;UwU;Kršimo pravila..."
+  },
+  "header.login": {
+    "description": "Login Button",
+    "message": "Prijaviti se"
+  },
+  "header.logout": {
+    "description": "Logout button",
+    "message": "Odjava"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Prijavi bug"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Kontrolna ploča"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Trgovina"
   }
 }
