@@ -3,6 +3,18 @@
     "description": "The first part of the next 6 strings",
     "message": "Böngészi a(z)"
   },
+  "v live.devices": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "csatlakoztatott eszközök"
+  },
+  "v live.followed": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "követett csatornák"
+  },
+  "v live.profile": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "profil oldal"
+  },
   "v live.viewTheir": {
     "description": "The first part of the next 6 strings",
     "message": "Nézi a"
