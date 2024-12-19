@@ -27,6 +27,10 @@
     "description": "",
     "message": "Nézi a rendeléseit"
   },
+  "aliexpress.recentlyViewProducts1": {
+    "description": "Part 1 of 2",
+    "message": "A legutóbbiak nézegetése"
+  },
   "aliexpress.recentlyViewProducts2": {
     "description": "Part 2 of 2",
     "message": "megtekintett termékek"
