@@ -1,1 +1,134 @@
-{}
+{
+	"youtube.ad": {
+		"description": "",
+		"message": "Momentálne sleduje reklamu"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Prezerá playlisty"
+	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "Prezerá shorts"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Prezerá si"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "Prezerá {0} videí"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Prezerá videá"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "vlastnú históriu"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "vlastnú knižnicu"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "kanálu:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "vlastné nákupy"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Číta si o kanáli:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Prezerá históriu ich nahlásení"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Prehľadáva kanál: {0} pre:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "stránku umelca"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "analytiku kanálu"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "komentáre kanálu"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "preklady kanálu"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "Prehliada svoj riadiaci panel"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "Upravuje video:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "Prezerá analytiku videa:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "Prezerá komentáre videa:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Prezerá preklady videa:"
+	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "Prezerá vlastný obsah"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Prezeranie ich"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "Prezerá vlastné videá"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "vlastné odbery"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Zobrazujú sa trendy"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "Nahráva sa niečo..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Prezerá si všetky vlastné playlisty"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "Prezerá audio knižnicu"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "Prezerá vlastný živý riadiaci panel"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "Prezerá vlastné živé udalosti"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Prezerá komunitné príspevky"
+	}
+}
