@@ -1,4 +1,20 @@
 {
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "閲覧中:"
+  },
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "フォロワーリスト"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "配信を管理しています..."
+  },
+  "twitcasting.subs": {
+    "description": "",
+    "message": "定期購読の履歴を閲覧中..."
+  },
   "twitcasting.browsingVideos": {
     "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
     "message": "チャンネルの動画一覧"
