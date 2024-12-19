@@ -1,6 +1,74 @@
 {
+  "amazon.address": {
+    "description": "",
+    "message": "住所を閲覧中"
+  },
   "amazon.adprefs": {
     "description": "",
     "message": "広告設定を閲覧中"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "残高を閲覧中"
+  },
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "ショッピングカート"
+  },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "すべてのカテゴリを閲覧中"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "ギフトカード"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "履歴を閲覧中"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "注文の詳細"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "注文履歴"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "支払い方法を閲覧中"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "ペットを閲覧中"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "アマゾンプライムを閲覧中"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "プライムビデオを閲覧中:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "おすすめを閲覧中"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "ストアを閲覧中:"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "定期購読の履歴を閲覧中"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "閲覧中:"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "欲しい物リスト"
   }
 }
