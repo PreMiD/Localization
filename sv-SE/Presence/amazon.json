@@ -1,10 +1,74 @@
 {
+  "amazon.address": {
+    "description": "",
+    "message": "Tittar på deras adresser"
+  },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "Tittar på sina annonspreferenser"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "Tittar på deras saldo"
+  },
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "varukorg"
+  },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "Tittar på alla kategorier"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "presentkort"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "Tittar på sin historik"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "order detaljer"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "orderhistorik"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "Tittar på deras betalningsmetoder"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "Tittar på sina husdjur"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "Tittar på Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "Tittar på Prime Video:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "Tittar på rekommenderat"
+  },
   "amazon.store": {
     "description": "",
     "message": "Tittar på butiken:"
   },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "Tittar på deras prenumerationer"
+  },
   "amazon.viewTheir": {
     "description": "Part 1 of the next 5 strings",
     "message": "Tittar på deras"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "önskelista"
   }
 }
