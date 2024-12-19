@@ -1,1 +1,26 @@
-{}
+{
+  "maintenance.big": {
+    "description": "The big text on maintenance page",
+    "message": "Oh mga ilong!"
+  },
+  "maintenance.discordserver": {
+    "description": "Discord Server link on maintenance page",
+    "message": "Discord Server"
+  },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Unfortunately nakakaranas kami ng mga ilang technical difficulty. Babalik din kami agad. Sorry para sa mga inconvenience."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Pakiusap bumalik nalang kayo mamaya para sa marami pang information."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Hanggang inaayos ito ng aming mga special developer, feel free kayong tumingin dito!"
+  },
+  "maintenance.statuspage": {
+    "description": "Status Page link on maintenance page",
+    "message": "Status ng Page"
+  }
+}
