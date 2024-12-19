@@ -311,6 +311,10 @@
 		"description": "The title of the input field to describe the issue on the other feedback page",
 		"message": "Apibūdinkite šį atsiliepimą"
 	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Visi pranešimai yra slapti, nebent nuspręstumėte pateikti savo kontaktinę informaciją.\nPrireikus, galime su jumis susisiekti dėl papildomos informacijos arba pranešti, kai jūsų atsiliepimai bus išnagrinėti."
+	},
 	"popup.feedback.submitted.header": {
 		"description": "The title of the submitted feedback page",
 		"message": "Atsiliepimas pateiktas"
