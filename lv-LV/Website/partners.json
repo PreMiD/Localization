@@ -159,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "taiga ir Discord Robots, kas cenšas piedāvāt visas funkcijas, kuras jums nepieciešamas vienlaicīgi!"
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio ir kopienas atbalstīts tiešsaistes radio, kas sniedz 24/7 radio-izklaides bez reklāmām, ikdienas ziņu rakstus un daudz ko citu!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "Visjaudīgākā un paplašināmā atvērtā koda Wiki programmatūra."
