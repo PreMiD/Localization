@@ -1,1 +1,46 @@
-{}
+{
+  "beta.description.1": {
+    "description": "Section description",
+    "message": "**PreMiD Beta** er nu tilgængelig for alle!"
+  },
+  "beta.description.2": {
+    "description": "Section description",
+    "message": "Hvad får du, hvis du tilmelder dig?"
+  },
+  "beta.features.1": {
+    "description": "Features list",
+    "message": "Seneste funktioner"
+  },
+  "beta.features.2": {
+    "description": "Features list",
+    "message": "Adgang til PreMiDs superhemmelige tekstkanaler"
+  },
+  "beta.features.3": {
+    "description": "Features list",
+    "message": "En særlig rolle på vores Discord-server"
+  },
+  "beta.register.button": {
+    "description": "Sign up button text",
+    "message": "Tilmeld dig nu!"
+  },
+  "beta.register.text": {
+    "description": "{0} will be replaced with the beta testers count -> is a variable",
+    "message": "Klar til det? Slut dig til {0} andre beta-testere!"
+  },
+  "beta.title": {
+    "description": "Beta page title",
+    "message": "Vil du have nye funktioner?"
+  },
+  "error.noslots": {
+    "description": "Shows when the beta slots are full.",
+    "message": "Det ser ud til, at vi ikke har flere tilgængelige beta-slots."
+  },
+  "thankyou.description": {
+    "description": "Thank You page description",
+    "message": "Vores aber arbejder på at få dig ind i vores beta-program så hurtigt som muligt. Tak for din registrering!"
+  },
+  "thankyou.title": {
+    "description": "Thank You page title",
+    "message": "Fedt nok! Du er nu betabruger!"
+  }
+}
