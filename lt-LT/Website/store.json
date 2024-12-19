@@ -1,7 +1,31 @@
 {
+  "store.card.presence.add": {
+    "description": "Button that will appear on hover after extension is installed.",
+    "message": "Pridėti Buvimą"
+  },
+  "store.card.presence.included": {
+    "description": "The message that appears instead of the buttons.",
+    "message": "Šis Buvimas yra automatiškai aktyvuojamas apsilankius svetainėje."
+  },
+  "store.card.presence.remove": {
+    "description": "Button that will appear on hover after extension and presence is installed.",
+    "message": "Pašalinti Buvimą"
+  },
   "store.cards.creator": {
     "description": "Creator of a presence",
     "message": "Autorius"
+  },
+  "store.cards.extraStepsRequired": {
+    "description": "Information flame when presence requires extra steps, like Custom Status and VLC presences.",
+    "message": "Šis statusas reikalauja papildomų veiksmų, prašome peržiūrėti jo puslapį, norint gauti daugiau informacijos."
+  },
+  "store.cards.partner": {
+    "description": "Presence card partner flame",
+    "message": "Statusas turintis partnerį"
+  },
+  "store.cards.popular": {
+    "description": "Presence card popular flame",
+    "message": "Šis Buvimas yra labai populiarus tarp vartotojų."
   },
   "store.category.all": {
     "description": "Category at the top",
@@ -10,6 +34,18 @@
   "store.category.filters.allowAdult": {
     "description": "Adult content checkbox",
     "message": "Rodyti NSFW formato turinį"
+  },
+  "store.category.filters.heading": {
+    "description": "Searh filters option at the store page",
+    "message": "Filtrai"
+  },
+  "store.category.filters.likedOnly": {
+    "description": "Liked presences only checkbox",
+    "message": "Tik patikusius Buvimus"
+  },
+  "store.category.filters.mostUsed": {
+    "description": "Most used first checkbox",
+    "message": "Dažniausiai panaudotas pirma"
   },
   "store.category.games": {
     "description": "Category at the top",
@@ -35,9 +71,25 @@
     "description": "Category at the top",
     "message": "Vaizdo įrašai ir tiesioginiai eteriai"
   },
+  "store.filters.added": {
+    "description": "Store filter to display/not display already installed presences.",
+    "message": "Rodyti pridėtus Statusus"
+  },
+  "store.header.search": {
+    "description": "Search bar text when nothing is stated",
+    "message": "Ieškoti Buvimų"
+  },
+  "store.message.error": {
+    "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
+    "message": "Plėtinys nėra prisijungęs."
+  },
   "store.search": {
     "description": "Placeholder for presence search",
     "message": "Paieška"
+  },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "Įveskite"
   },
   "store.search.removeFilter": {
     "description": "Remove message for active search filters.",
