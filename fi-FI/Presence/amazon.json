@@ -1,4 +1,16 @@
 {
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "ostoskori"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "Katsoo kauppaa:"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "Tarkastelee"
+  },
   "amazon.wishlist": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "toivelista"
