@@ -1,1 +1,90 @@
-{}
+{
+  "home.examples.playingagame": {
+    "description": "Discord Rich Presence -> Playing a game",
+    "message": "Naglalaro ng isang laro"
+  },
+  "home.examples.status.browsing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Nagba-browse..."
+  },
+  "home.examples.status.live": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Live"
+  },
+  "home.examples.status.playing": {
+    "description": "Discord Rich Presence -> small image text;",
+    "message": "Nagpe-play back"
+  },
+  "home.examples.timestamp": {
+    "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} natitira"
+  },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} na lumipas"
+  },
+  "home.features.heading": {
+    "description": "Features section",
+    "message": "Mamahalin mo itong mga feature na ito!"
+  },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "I-visit ang store"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "Ginawa namin ang extension sa isang paraan na hinahayaan kang mag-add at gamitin ang mga Presence na ginawa ng iba at i-manage nila sa aming extention!"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "Hanapin ang **iyong** presensya"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "Sumali sa aming Discord"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "May nag-glitch, nagpapadala sa iyo ng toneladang errors o hindi talaga gumagana? Tutulungan ka namin alisin iyang mga isyu sa aming Discord server. Gumawa din kami ng pinakasarili naming support system na masisigurado namin na ang iyong isyu ay mare-resolve-a as soon as possible."
+  },
+  "home.features.quickSupport.heading": {
+    "description": "Features section subheading",
+    "message": "Madaliang suporta"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "Pagod na sa mga komplikadong user interface? Ito and dahilan kung bakit namin ginawa at sinubukang i-keep ang aming UI na simple at makatutulong hangga't makakaya namin na may kasamang mga importanteng features katulad ng:"
+  },
+  "home.features.simpleInterface.description.1": {
+    "description": "Features section description point",
+    "message": "App at Extension na mga setting"
+  },
+  "home.features.simpleInterface.description.2": {
+    "description": "Features section description point",
+    "message": "Pagma-manage ng Presence"
+  },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "I-sort ayon sa category"
+  },
+  "home.features.simpleInterface.heading": {
+    "description": "Features section subheading",
+    "message": "Simpleng user interface"
+  },
+  "home.introduction.button.downloads": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Mga download"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "Mga feature"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "Si **PreMiD** ay isang simple, configurable utility na pinapayagan kang ipakita kung ano ang ginagawa mo sa web sa Discord playing status mo."
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "Lengguwahe ng website"
+  }
+}
