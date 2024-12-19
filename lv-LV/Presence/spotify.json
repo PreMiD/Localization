@@ -1,1 +1,58 @@
-{}
+{
+  "spotify.albumLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "albumi, kas viņam patīk"
+  },
+  "spotify.artistsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "artisti, kas viņam patīk"
+  },
+  "spotify.bestPodcasts": {
+    "description": "",
+    "message": "Labākie raidieraksti"
+  },
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "Pārlūko"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "Skatās čarti"
+  },
+  "spotify.discover": {
+    "description": "",
+    "message": "Atklāj jaunas dziesmas"
+  },
+  "spotify.download": {
+    "description": "",
+    "message": "Lejupielādē Spotify"
+  },
+  "spotify.featured": {
+    "description": "",
+    "message": "Iecienītas dziesmas"
+  },
+  "spotify.genres": {
+    "description": "",
+    "message": "Pārlūko žanrus"
+  },
+  "spotify.latest": {
+    "description": "",
+    "message": "Skatās pēdējie izdevumi"
+  },
+  "spotify.madeForYou": {
+    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
+    "message": "\"Made for you\""
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "savus atskaņošanas sarakstus"
+  },
+  "spotify.podcastsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "raidieraksti, kas viņam patīk"
+  },
+  "spotify.songsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "dziesmas, kas viņam patīk"
+  }
+}
