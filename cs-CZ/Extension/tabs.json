@@ -1,4 +1,12 @@
 {
+	"donate": {
+		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
+		"message": "Podpořit"
+	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "Seznam změn"
@@ -55,16 +63,40 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "Řešit Problémy"
 	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Co Je Nového 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Funkce"
+	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Opravy"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Výkon"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Co Bude Následovat?"
 	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Další"
 	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Hotovo!"
+	},
 	"tab.installed.close": {
 		"description": "Close button text",
 		"message": "Zavřít"
+	},
+	"tab.installed.donate": {
+		"description": "Donate button text",
+		"message": "Podpořit"
 	}
 }
