@@ -1,1 +1,42 @@
-{}
+{
+  "contributors.cards.copyUserId": {
+    "description": "Tippy message when you hover on the avatar of a credit card.",
+    "message": "I-click para ma-copy and ID ng user."
+  },
+  "contributors.cards.userIdCopied": {
+    "description": "Notification after user ID was copied.",
+    "message": "Na-copy na ang ID ng User!"
+  },
+  "contributors.headings.staff": {
+    "description": "Heading for group of users.",
+    "message": "Ang Staff"
+  },
+  "contributors.headings.translators": {
+    "description": "Heading for group of users.",
+    "message": "Mga Translator"
+  },
+  "contributors.roles.booster": {
+    "description": "'Booster' title for contributors page and user pages.",
+    "message": "Ang Booster"
+  },
+  "contributors.roles.donator": {
+    "description": "'Donator' title for contributors page.",
+    "message": "Ang Donator"
+  },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "Ang Localization Manager"
+  },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Developer ng Presence"
+  },
+  "contributors.roles.proofreader": {
+    "description": "'Proofreader' title for contributors and user pages.",
+    "message": "Ang Proofreader"
+  },
+  "contributors.roles.translator": {
+    "description": "'Translator' title for contributors page.",
+    "message": "Ang Translator"
+  }
+}
