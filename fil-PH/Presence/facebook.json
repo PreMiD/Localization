@@ -1,1 +1,62 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "Recently naidagdag"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "Nagba-browse through:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "Nasa call kasama si:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "Mga naka-save na video"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "Nagbabasa about sa user:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "Tumitingin sa community ng user:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "Tinitingnan ang mga friend ng user:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "someone... (Naka-hide ang user)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "Tumitingin ng mga photo ayon sa user:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "Tinitingnan ang mga post ayon sa user:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "Tinitingnan ang shop ng user:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "Tinitingnan ang mga video ng user:"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "Nasa video call kasama si:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Tinitingnan ang weather ngayon"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "Nagko-compose ng isang message"
+  }
+}
