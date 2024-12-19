@@ -1,1 +1,66 @@
-{}
+{
+  "aliexpress.address": {
+    "description": "",
+    "message": "צופה בכתובת שלהם"
+  },
+  "aliexpress.coupons": {
+    "description": "",
+    "message": "צופה קופונים שלהם"
+  },
+  "aliexpress.deletedOrders": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "הזמנות שנמחקו"
+  },
+  "aliexpress.feedback": {
+    "description": "",
+    "message": "משוב AliExpress"
+  },
+  "aliexpress.helpCenter": {
+    "description": "",
+    "message": "מרכז העזרה של AliExpress"
+  },
+  "aliexpress.message": {
+    "description": "Meaning Direct messages",
+    "message": "מרכז המסרים"
+  },
+  "aliexpress.orders": {
+    "description": "",
+    "message": "הצגת ההזמנות שלהם"
+  },
+  "aliexpress.recentlyViewProducts1": {
+    "description": "Part 1 of 2",
+    "message": "צפייה שלהם לאחרונה"
+  },
+  "aliexpress.recentlyViewProducts2": {
+    "description": "Part 2 of 2",
+    "message": "מוצרים שנצפו"
+  },
+  "aliexpress.refunds": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "החזרים & מחלוקות"
+  },
+  "aliexpress.sale": {
+    "description": "",
+    "message": "גלישה דרך המכירה"
+  },
+  "aliexpress.sellCenter": {
+    "description": "",
+    "message": "מרכז מכירות AliExpress"
+  },
+  "aliexpress.store": {
+    "description": "",
+    "message": "חנות צפייה:"
+  },
+  "aliexpress.theirAli": {
+    "description": "",
+    "message": "הצגת ה- AliExpress שלהם"
+  },
+  "aliexpress.trade": {
+    "description": "",
+    "message": "מרכז הסחר AliExpress"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "צפייה שלהם"
+  }
+}
