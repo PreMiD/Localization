@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "مشاهده DM هایشان"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "مشاهده بازی:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "مشاهده لیست کارکنان"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "مشاهده انجمن هایی که آنان نگاه کرده اند"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "مشاهده موضوعاتی که آنان نگاه کرده اند"
+  }
+}
