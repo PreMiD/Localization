@@ -1,1 +1,42 @@
-{}
+{
+  "juniperbot.commands": {
+    "description": "Page with the list of bot's commands",
+    "message": "正在查看指令列表"
+  },
+  "juniperbot.cookies": {
+    "description": "Reading about the site's cookies",
+    "message": "正在閱讀網站的Cookies"
+  },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "正在閱讀捐款計劃資訊"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "正在查看伺服器列表："
+  },
+  "juniperbot.mainpage": {
+    "description": "Home page of the site",
+    "message": "首頁"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "在控制台中"
+  },
+  "juniperbot.serverdashname": {
+    "description": "Guild name",
+    "message": "公會：{0}"
+  },
+  "juniperbot.servers": {
+    "description": "Server selection page",
+    "message": "正在選擇伺服器"
+  },
+  "juniperbot.stats": {
+    "description": "Page with bot's statistics",
+    "message": "正在查看機器人的統計資料"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "正在自訂階級卡"
+  }
+}
