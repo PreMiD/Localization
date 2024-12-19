@@ -1,14 +1,246 @@
 {
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Teikti paraišką dabar!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Eikime į dangų kartu!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Prašome užpildyti visus laukus."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Ne daugiau kaip 150 simbolių aprašymas."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Pridėkite nuorodą (turi prasidėti https: // ir baigtis .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Jūs jau kreipėtės dėl partnerio."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Pritaikyti"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Uždaryti"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Aprašymas: (daugiausia 150 simbolių)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Temų aprašymas"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Vaizdo nuoroda: (tik 550 x 300, tik PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Ex: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Nuoroda"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Pvz: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Vardas"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Ex: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Jei jus labiau domina tiesioginis darbas PreMiD, tada pasižiūrėkite į mūsų **darbo skelbimą**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Esate prisijungę kaip {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Ne jūs?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Prašome pasirinkti vieną"
+  },
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "Kita"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Tinklalapis"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Ačiū, kad kreipėtės!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Tapkite partneriu"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Prisijunkite prie partnerių ir gaukite keletą išskirtinių pranašumų, kuriais galėsite parodyti savo \"swag\"."
   },
   "partners.header.title": {
     "description": "Heading for page.",
     "message": "Partneriai"
   },
+  "partners.partner.aniFlix": {
+    "description": "Description for AniFlix.",
+    "message": "Štai kaip reikia žiūrėti anime."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena of Kings yra naujos-kartos greito tempo PvP arenos žaidimas, kuris žaidžiamas naršyklėje."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Galingas ir lengvai naudojamas kelių platformų instaliacijų kūrimo įrankis."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Greitas lokalizavimas technologijų įmonėms."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Pradėkite kurti savo bendruomenę su mūsų šauniu šablonu. Statykite savo nuosavą karalystę."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Dievaitė kuri žaidžia kaip smagus Discord botas!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "Už geriausios interneto pusės."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit yra tavo online muzikos radijo stotis sukurta groti jūsų geriausius hitus 24/7 ir leisti jums sužinoti apie ateities hitus pirmiem."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "Bendra, koduotojam patogi vartotojo sąsaja visiems jūsų artefaktams."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix yra didžiausias su Netflix susijęs Discord serveris. Diskutuokite apie mėgstamus serialus ar filmus su bendraminčiais."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM leidžia jums klausyti 15+ muzikos transliacijų nemokamai - be sustojimo. Su geriausia ir naujausia muzika tik jums!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio yra labiausiai pasisekusi informacinė radijo stotis simuliaciniams žaidimams Vokietijoje, Austrijoje ir Šveicarijoje!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Lengvai praneškite realiojo laiko statusą savo vartotojams."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga yra discord botas norintis pasiūlyti visas funkcijas kurios jums gali prireikti viename!"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "\"UpBeat Radio\" yra bendruomenės palaikomas internetinis radijas, kuriame 24 valandas per parą, 7 dienas per savaitę be reklamos teikiamos radijo pramogos, kasdieniai naujienų straipsniai ir daug daugiau!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "Pati galingiausia ir išplėstinė atvirojo kodo „Wiki“ programinė įranga."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Mes nuolat stebime augančias bendruomenes ir įdomius dalykus internete. Nedaugžodžiaujant, jau turėtumėte naudoti „PreMiD“ ir būti pasirengę skleisti jį kitiems interneto keistuoliams. Priėmimas į programą yra labai kokybiškas ir kiekvienam kandidatui gali skirtis."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Ko mes ieškome?"
+  },
   "partners.requirements.second.description": {
     "description": "Description for the second requirement.",
     "message": "Šiuo metu priimame įvairias pastangas į savo partnerystės programą. Kiekvienas turėtų turėti galimybę būti pastebėtas. „Twitch“ transliuotojai turi turėti bent 500 stebėtojų ir ne mažiau kaip 10 žiūrovus vienu metu. Turite transliuoti bent 1 kartą per savaitę."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Mūsų ugniasienė"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Reikalavimai"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Šitie jau priklauso mums"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "„PreMiD“ nebūtų įmanomas be šių nuostabių žmonių."
+  },
+  "partners.sponsors.title": {
+    "description": "Heading for sponsors.",
+    "message": "Rėmėjai"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Mūsų komanda pateiks jums statusą jūsų interneto paslaugai."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Jūsų laisvas statusas"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Ypatinga rolė ir didelė garbė jums bus suteikta mūsų „Discord“ serveryje."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Tapk patvirtintas"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Automatiškai įjungia jūsų statusą, kai kas nors lankosi jūsų svetainėje."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Meta-tag integracija"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Vieta mūsų partnerių puslapyje."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Tapkite įamžinti"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Paminėjimas mūsų socialiniuose tinkluose."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Būti įžimiu"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "O jeigu eiti į dangų, o ne į pragarą?"
   }
 }
