@@ -19,6 +19,10 @@
     "description": "Rich Presence -> redirects to discord.com/rich-presence",
     "message": "Rich Presence"
   },
+  "footer.followUs.heading": {
+    "description": "Follow Us section",
+    "message": "Sekite mus"
+  },
   "footer.help.getsupport": {
     "description": "Get Support -> redirects to Discord invite",
     "message": "Kreiptis pagalbos"
@@ -61,11 +65,15 @@
   },
   "footer.more.wiki": {
     "description": "Wiki -> redirects to wiki.premid.app",
-    "message": "Wikipedija"
+    "message": "Viki"
   },
   "footer.partners.heading": {
     "description": "Partner section",
     "message": "Partneriai"
+  },
+  "footer.partners.more": {
+    "description": "Button next to all listed partners on the footer.",
+    "message": "Spustelėkite čia, kad pamatytumėte likusius partnerius ir rėmėjus."
   },
   "footer.supportus.contribute": {
     "description": "Contribute -> redirects to github.com/premid",
@@ -79,6 +87,10 @@
     "description": "Support us section",
     "message": "Paremkite mus"
   },
+  "footer.supportus.jobs": {
+    "description": "Work for us! -> redirects to /jobs page",
+    "message": "Dirbkite su mumis!"
+  },
   "footer.supportus.translate": {
     "description": "Translate -> redirects to locilazation page",
     "message": "Išversti"
@@ -86,6 +98,10 @@
   "footer.usercount.button": {
     "description": "Install button under the promotional message",
     "message": "Diegti"
+  },
+  "footer.usercount.heading": {
+    "description": "Promotional heading",
+    "message": "Pasiruošę naudoti „PreMiD“?"
   },
   "footer.usercount.message": {
     "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
