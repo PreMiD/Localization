@@ -1,1 +1,6 @@
-{}
+{
+  "x.viewDms": {
+    "description": "",
+    "message": "Pregledava njihov DM"
+  }
+}
