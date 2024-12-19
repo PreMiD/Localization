@@ -75,6 +75,10 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Ypatybės"
 	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Kas toliau?"
+	},
 	"tab.installed.linkDiscord": {
 		"description": "Instruction to link Discord account",
 		"message": "Susiekite Discord paskyrą"
@@ -87,9 +91,21 @@
 		"description": "Prompt to link Discord account",
 		"message": "Susiekite savo Discord paskyrą"
 	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord paskyra susieta"
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Tęsti"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Įsitikinkite, kad įjungėte \"Display current activity as a status message.\", kitaip niekas nematys jūsų naujos, švytinčios būsenos."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Įjunkite nustatymą \"Display current activity as a status message.\""
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
