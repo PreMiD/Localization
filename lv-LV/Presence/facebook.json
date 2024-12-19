@@ -1,1 +1,62 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "Nesen pievienots"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "Pārlūko caur:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "Sarunā ar:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "Saglabātie videoklipi"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "Lasa par lietotāju:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "Skatās lietotāja kopienu:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "Skatās lietotāja draugus:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "kāds...(Lietotājs paslēpts)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "Skatās lietotāja bildes:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "Skatās lietotāja ziņas:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "Skatās lietotāja veikalu:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "Skatās lietotāja videoklipus:"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "Video zvanā ar:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Skatās šodienas laikapstākļus"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "Komponē ziņu"
+  }
+}
