@@ -1,15 +1,47 @@
 {
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Modifică setările de protecție din:"
+  },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Mutând:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Vizualizarea contribuțiilor de:"
+  },
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Vizualizează istoric:"
+  },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Verifică setările de protecție din:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Vizualizează modificările recente"
+  },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Vizualizează sursa:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
+    "message": "Veridică lista lor de vizionare"
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
-    "message": "Incarcă Ceva..."
+    "message": "Încarcă ceva..."
   },
   "minecraft wiki.login": {
     "description": "Used when a user is logging in",
-    "message": "Logare"
+    "message": "Autentificare în curs"
   },
   "minecraft wiki.btnViewThread": {
     "description": "View a forum thread",
-    "message": "Vizualizați subiectul"
+    "message": "Vizualizează subiectul"
   },
   "minecraft wiki.settings": {
     "description": "Displayed when a user is viewing their Minecraft Wiki settings",
