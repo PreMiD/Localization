@@ -1,4 +1,16 @@
 {
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "آپلود کردن چیزی..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "درحال ورود"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "مشاهده سربرگ"
+  },
   "minecraft wiki.settings": {
     "description": "Displayed when a user is viewing their Minecraft Wiki settings",
     "message": "درحال پیکربندی تنظیمات"
