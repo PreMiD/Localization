@@ -11,8 +11,16 @@
     "description": "Page name",
     "message": "הורדות"
   },
+  "twitch.home": {
+    "description": "Page name",
+    "message": "דף הבית"
+  },
   "twitch.partners": {
     "description": "Page name",
     "message": "שותפים"
+  },
+  "twitch.viewTheir": {
+    "description": "Part 1 of the next 10 strings",
+    "message": "צפייה שלהם"
   }
 }
