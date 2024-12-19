@@ -19,6 +19,58 @@
     "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
     "message": "Twitch Érdekelt Program"
   },
+  "twitch.blogArchive": {
+    "description": "{0} will be replaced with the year",
+    "message": "A {0} Blog archívum megtekintése"
+  },
+  "twitch.blogBrowse": {
+    "description": "",
+    "message": "A legutóbbi blogposztok böngészése..."
+  },
+  "twitch.blogs": {
+    "description": "",
+    "message": "Twitch Blogok"
+  },
+  "twitch.brand": {
+    "description": "",
+    "message": "A Twitch Brand olvasása..."
+  },
+  "twitch.brandExpression": {
+    "description": "Page name",
+    "message": "A kifejezésünk maximalizálása"
+  },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "Egy módszert hoz a (szeretett) őrültségünkhöz"
+  },
+  "twitch.brandReal": {
+    "description": "Page name",
+    "message": "Twitch megtartása igazán"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "Összehoz mindenkit"
+  },
+  "twitch.brandWatch": {
+    "description": "Watching as in watching a video",
+    "message": "A Twitch brand evolúciójának megtekintése"
+  },
+  "twitch.camp": {
+    "description": "",
+    "message": "Alkotótábor"
+  },
+  "twitch.campBasic": {
+    "description": "Page name",
+    "message": "Ismerd meg az alapokat"
+  },
+  "twitch.campConnect": {
+    "description": "Page name",
+    "message": "Csatlakozz és vegyél részt"
+  },
+  "twitch.campLevel": {
+    "description": "Page name",
+    "message": "Szintlépés"
+  },
   "twitch.campLive": {
     "description": "Page name",
     "message": "Tanulás élőben"
@@ -103,9 +155,17 @@
     "description": "Page name",
     "message": "Közösségi irányelvek"
   },
+  "twitch.help": {
+    "description": "Page name",
+    "message": "Súgóközpont"
+  },
   "twitch.helpTopic": {
     "description": "",
     "message": "Témát néz:"
+  },
+  "twitch.helpTopicCatalog": {
+    "description": "",
+    "message": "A téma katalógus böngészése..."
   },
   "twitch.home": {
     "description": "Page name",
@@ -118,6 +178,10 @@
   "twitch.manageRoles": {
     "description": "",
     "message": "Szerepköreit kezeli..."
+  },
+  "twitch.modStreamer": {
+    "description": "",
+    "message": "Streamer moderálása:"
   },
   "twitch.moderationSettings": {
     "description": "Part 2 of the string: \"Viewing their\"",
@@ -162,6 +226,18 @@
   "twitch.turbo": {
     "description": "Page name",
     "message": "Turbó"
+  },
+  "twitch.viewDropsComp": {
+    "description": "",
+    "message": "Nézi a jelenleg zajló kampányokat..."
+  },
+  "twitch.viewDropsInv": {
+    "description": "",
+    "message": "Nézi a raktárját..."
+  },
+  "twitch.viewFollow": {
+    "description": "",
+    "message": "Emberek megtekintése akiket követek..."
   },
   "twitch.viewFriends": {
     "description": "",
