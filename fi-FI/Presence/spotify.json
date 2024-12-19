@@ -1,1 +1,14 @@
-{}
+{
+  "spotify.bestPodcasts": {
+    "description": "",
+    "message": "Parhaat podcastit"
+  },
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "Selaa"
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "soittolistojaan"
+  }
+}
