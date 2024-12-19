@@ -1,4 +1,12 @@
 {
+  "discord.blog": {
+    "description": "",
+    "message": "Discord tinklaraštis"
+  },
+  "discord.branding": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "prekės ženklo puslapis"
+  },
   "discord.browseThrough": {
     "description": "The first part of the next 17 strings",
     "message": "Naršoma per"
@@ -15,9 +23,45 @@
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
     "message": "Rašo kanale:{0}{1} (Serveris: {2})"
   },
+  "discord.college": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "kolegijos puslapis"
+  },
   "discord.company": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "„Apie\" puslapis"
+  },
+  "discord.devs.appsBrowse": {
+    "description": "",
+    "message": "Naršo per savo programėles"
+  },
+  "discord.devs.appsEdit": {
+    "description": "{0} will be replaced with the name of the app.",
+    "message": "Redaguoja programėlę: {0}"
+  },
+  "discord.devs.docs": {
+    "description": "",
+    "message": "Skaito dokumentaciją"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "Kūrėjų portalas"
+  },
+  "discord.devs.serversBrowse": {
+    "description": "",
+    "message": "Naršo per savo serverius"
+  },
+  "discord.devs.serversEdit": {
+    "description": "{0} will be replaced with the name of the server.",
+    "message": "Peržiūri serverio įžvalgas: {0}"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "Naršo per savo komandas"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "Redaguoja komandą: {0}"
   },
   "discord.dmGroupReading": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
@@ -43,6 +87,10 @@
     "description": "",
     "message": "Peržiūri savo draugus..."
   },
+  "discord.inspiration": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Įkvėpimo puslapis"
+  },
   "discord.invite": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
     "message": "Peržiūrima kvietimo nuoroda:{0}{1} (Serveris: {2})"
@@ -51,20 +99,88 @@
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
     "message": "Peržiūrima serverio {1} kvietimo nuoroda: {0}"
   },
+  "discord.jobs": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Darbų puslapį"
+  },
+  "discord.merch": {
+    "description": "",
+    "message": "Discord prekės"
+  },
   "discord.merch.collection": {
     "description": "",
     "message": "Peržiūrima kolekcija:"
+  },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Moderacijos puslapis"
+  },
+  "discord.newsroom": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Naujienų puslapį"
   },
   "discord.nitro": {
     "description": "",
     "message": "Skaito apie Nitro..."
   },
+  "discord.opensource": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Atviro kodo puslapį"
+  },
+  "discord.partner": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Partnerystės puslapį"
+  },
+  "discord.policies": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "politika"
+  },
+  "discord.rpc": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Rich Presence puslapis"
+  },
+  "discord.safety": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Saugos centrą"
+  },
+  "discord.security": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Saugos puslapis"
+  },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Žiūri serverio{0}{1} nustatymus"
+  },
   "discord.settings": {
     "description": "",
     "message": "Peržiūri savo nustatymus..."
   },
+  "discord.status": {
+    "description": "",
+    "message": "Discord statusas"
+  },
+  "discord.streamkit": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "StreamKit puslapį"
+  },
+  "discord.support": {
+    "description": "",
+    "message": "Pagalbos centras"
+  },
+  "discord.verification": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Verifikacijos puslapį"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Pokalbyje kanale:{0}{1} (Serveris: {2})"
+  },
   "discord.voiceConnectedWith": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
     "message": "Pokalbyje su:{0}{1}"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "\"Kodėl Discord?\" puslapį"
   }
 }
