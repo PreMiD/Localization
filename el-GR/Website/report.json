@@ -1,1 +1,18 @@
-{}
+{
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 Αναφορές απομένουν"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "Αναγορά"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "Αναφορά Σφάλματος"
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Έχετε πάρα πολλές ενεργές αναφορές."
+  }
+}
