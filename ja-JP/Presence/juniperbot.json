@@ -1,1 +1,30 @@
-{}
+{
+  "juniperbot.commands": {
+    "description": "Page with the list of bot's commands",
+    "message": "コマンドのリストを見る"
+  },
+  "juniperbot.cookies": {
+    "description": "Reading about the site's cookies",
+    "message": "サイトの Cookie についての読み込み中"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "サーバーのリーダーボードを確認中:"
+  },
+  "juniperbot.mainpage": {
+    "description": "Home page of the site",
+    "message": "メインページ"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "ダッシュボード"
+  },
+  "juniperbot.servers": {
+    "description": "Server selection page",
+    "message": "サーバーを選択"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "ランクカードのカスタマイズ"
+  }
+}
