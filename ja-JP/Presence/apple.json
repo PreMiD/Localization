@@ -1,4 +1,68 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "接続中..."
+  },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "アプリを閲覧中"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "開発者を閲覧中"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "イベントを閲覧中"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "{0} を閲覧中"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "製品を閲覧中"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "{0} のプロフィールを閲覧中"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "サービスを閲覧中"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "{0} スタジオを閲覧中"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "タグを閲覧中"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "スレッドを閲覧中"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "{0} を閲覧中"
+  },
+  "apple.chooseLang": {
+    "description": "Choosing the language of the website",
+    "message": "言語を選択中..."
+  },
+  "apple.comparing": {
+    "description": "e.g. \"Comparing: Apple Watch\"",
+    "message": "比較:"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "サポートに連絡中"
+  },
+  "apple.devDistribution": {
+    "description": "Distribute software to the App Store",
+    "message": "ソフトウェアを配布中"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "ドキュメント"
@@ -11,8 +75,148 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "ゲーム"
   },
+  "apple.devHIG": {
+    "description": "Guidelines for designing apps for the various Apple operating systems",
+    "message": "ヒューマンインターフェースガイドライン"
+  },
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "新着情報"
+  },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "ニュースと更新情報"
+  },
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "iPhoneとiPadのアプリ"
+  },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "リリース"
+  },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "リソース"
+  },
+  "apple.devSubmit": {
+    "description": "Submit iOS and iPadOS apps to the App Store",
+    "message": "アプリを送信する方法"
+  },
+  "apple.devVidTopic": {
+    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
+    "message": "動画のトピックを閲覧中"
+  },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "動画"
+  },
+  "apple.forumCreateThread": {
+    "description": "Creating a forum thread",
+    "message": "スレッドを作成中"
+  },
+  "apple.forumPreferences": {
+    "description": "Profile settings/preferences, e.g. change username",
+    "message": "設定"
+  },
+  "apple.forumRegister": {
+    "description": "Register a new account (alternative translation: registering)",
+    "message": "登録"
+  },
+  "apple.forumTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "フォーラムタグ"
+  },
+  "apple.healthRecords": {
+    "description": "Health records of a person",
+    "message": "健康記録"
+  },
+  "apple.healthcare": {
+    "description": "The organized provision of medical care to individuals or a community",
+    "message": "ヘルスケア"
+  },
+  "apple.iCloudCalendar": {
+    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "カレンダー"
+  },
+  "apple.iCloudContacts": {
+    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "連絡先"
+  },
+  "apple.iCloudKeynoteWait": {
+    "description": "Before the keynote begins, you'll be in the waiting room",
+    "message": "待合室"
+  },
+  "apple.iCloudMail": {
+    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "メール"
+  },
+  "apple.iCloudNotes": {
+    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "メモ"
+  },
+  "apple.iCloudPagesCreate": {
+    "description": "Creating a new Pages document",
+    "message": "作成中..."
+  },
+  "apple.iCloudPhotos": {
+    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "写真"
+  },
+  "apple.iCloudReminders": {
+    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "リマインダー"
+  },
   "apple.other": {
     "description": "Other pages not added to the code",
     "message": "その他"
+  },
+  "apple.overview": {
+    "description": "Overview of e.g. all pages of a category",
+    "message": "概要"
+  },
+  "apple.productsPlatform": {
+    "description": "Products/platforms for companies",
+    "message": "製品・プラットフォーム"
+  },
+  "apple.purchasingAdvice": {
+    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
+    "message": "購入に関するアドバイス"
+  },
+  "apple.shopAccessories": {
+    "description": "Accessories for Apple products (e.g iPhone case)",
+    "message": "Apple アクセサリー"
+  },
+  "apple.shopBagSummary": {
+    "description": "The total price of the items in your bag (shopping cart)",
+    "message": "合計：{0}"
+  },
+  "apple.shopBands": {
+    "description": "Bands (Bracelets) for the Apple Watch",
+    "message": "Apple Watch バンド"
+  },
+  "apple.shopFavorites": {
+    "description": "Favorite products",
+    "message": "お気に入り"
+  },
+  "apple.shopGiftCards": {
+    "description": "Gift cards for e.g. the App Store",
+    "message": "ギフトカード"
+  },
+  "apple.shopStudio": {
+    "description": "Choose your own design components for a product",
+    "message": "Apple Watch スタジオ"
+  },
+  "apple.support": {
+    "description": "Support for products, services/apps from Apple, etc.",
+    "message": "Appleサポート"
+  },
+  "apple.viewEvent": {
+    "description": "Viewing an event (e.g. September event)",
+    "message": "イベントを閲覧中"
+  },
+  "apple.viewService": {
+    "description": "e.g. \"Viewing Service: Fitness+\"",
+    "message": "サービスを閲覧中:"
   }
 }
