@@ -1,1 +1,58 @@
-{}
+{
+  "spotify.albumLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "好きなアルバム"
+  },
+  "spotify.artistsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "好きなアーティスト"
+  },
+  "spotify.bestPodcasts": {
+    "description": "",
+    "message": "ベストポッドキャスト"
+  },
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "閲覧中:"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "チャートを閲覧中"
+  },
+  "spotify.discover": {
+    "description": "",
+    "message": "新しい曲を発見中"
+  },
+  "spotify.download": {
+    "description": "",
+    "message": "Spotifyをダウンロード中"
+  },
+  "spotify.featured": {
+    "description": "",
+    "message": "注目曲"
+  },
+  "spotify.genres": {
+    "description": "",
+    "message": "ジャンルを閲覧中"
+  },
+  "spotify.latest": {
+    "description": "",
+    "message": "最新リリースを閲覧中"
+  },
+  "spotify.madeForYou": {
+    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
+    "message": "あなたへのおすすめ"
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "プレイリスト"
+  },
+  "spotify.podcastsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "好きなポッドキャスト"
+  },
+  "spotify.songsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "好きな曲"
+  }
+}
