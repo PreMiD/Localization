@@ -1,4 +1,36 @@
 {
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Schutzeinstellungen ändern von:"
+  },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Verschieben:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Beiträge anzeigen von:"
+  },
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Verlauf anzeigen:"
+  },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Anzeigen der Schutzeinstellungen von:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Letzte Änderungen anzeigen"
+  },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Quelle anzeigen von:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
+    "message": "Ansehen ihrer Watchlist"
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "Lädt etwas hoch..."
