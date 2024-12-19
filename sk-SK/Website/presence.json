@@ -23,6 +23,10 @@
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
     "message": "Páči sa mi"
   },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Táto Presence podporuje viacero odkazov než je spomenutých nižšie, s použitím RegExp. Prejdite myšou nad objekt pre zobrazenie vzoru"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "Podporené URL stránky"
