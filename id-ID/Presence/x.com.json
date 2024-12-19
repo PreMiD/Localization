@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Bookmark"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Jelajahi"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Notifikasi"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Membaca post dari:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Mengubah beberapa pengaturan..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Melihat DM mereka"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Melihat disukai oleh:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Melihat daftar:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Melihat media dari:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Melihat post dari:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Melihat post (dengan balasan) dari:"
   }
 }
