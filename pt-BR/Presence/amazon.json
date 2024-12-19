@@ -47,6 +47,10 @@
     "description": "",
     "message": "Vendo Amazon Prime"
   },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "Assistindo no Prime Video:"
+  },
   "amazon.recommended": {
     "description": "",
     "message": "Vendo os recomendados"
