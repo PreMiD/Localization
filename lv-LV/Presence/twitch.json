@@ -1,10 +1,262 @@
 {
+  "twitch.access": {
+    "description": "Page name",
+    "message": "Pieejamība"
+  },
+  "twitch.achievements": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Sasniegumi"
+  },
+  "twitch.activity": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Kopienas Aktivitāte"
+  },
+  "twitch.ads": {
+    "description": "Page name",
+    "message": "Reklāmu Izvēle"
+  },
+  "twitch.affiliate": {
+    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
+    "message": "Twitch Affiliate Program"
+  },
+  "twitch.blogArchive": {
+    "description": "{0} will be replaced with the year",
+    "message": "Skātas {0} Blog Archive"
+  },
+  "twitch.blogBrowse": {
+    "description": "",
+    "message": "Pārlūko jaunākos bloga ierakstus..."
+  },
+  "twitch.blogs": {
+    "description": "",
+    "message": "Twitch Blogs"
+  },
+  "twitch.brand": {
+    "description": "",
+    "message": "Lasa par Twitch zīmolu..."
+  },
+  "twitch.brandExpression": {
+    "description": "Page name",
+    "message": "Maxing our expression"
+  },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "Bringing method to our (beloved) madness"
+  },
+  "twitch.brandReal": {
+    "description": "Page name",
+    "message": "Keeping Twitch real"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "Bringing it all together"
+  },
+  "twitch.brandWatch": {
+    "description": "Watching as in watching a video",
+    "message": "Skatās Twitch zīmola evolūcija"
+  },
+  "twitch.camp": {
+    "description": "",
+    "message": "Satura Veidotāju Nometne"
+  },
+  "twitch.campBasic": {
+    "description": "Page name",
+    "message": "Iemācies Pamatus"
+  },
+  "twitch.campConnect": {
+    "description": "Page name",
+    "message": "Sazināšana un iesaistiešana"
+  },
+  "twitch.campLevel": {
+    "description": "Page name",
+    "message": "Nākamais līmenis"
+  },
+  "twitch.campLive": {
+    "description": "Page name",
+    "message": "Mācīšanās Tiešraidē"
+  },
+  "twitch.campMusic": {
+    "description": "Page name",
+    "message": "Mūzika Twitch vietnē"
+  },
+  "twitch.campReward": {
+    "description": "Page name",
+    "message": "Saņemt Atlīdzību"
+  },
+  "twitch.campSetup": {
+    "description": "Page name",
+    "message": "Straumes Iestatīšana"
+  },
+  "twitch.channelAnaly": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Kanālu Analītika"
+  },
+  "twitch.channelSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Kanālu Iestatījumi"
+  },
+  "twitch.clips": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Klipus"
+  },
+  "twitch.colls": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Videoklipu Kolekcijas"
+  },
+  "twitch.dashboard": {
+    "description": "Page name",
+    "message": "Radītāja Vadības Panelis"
+  },
+  "twitch.dashboardManage": {
+    "description": "",
+    "message": "Pārvalda Straumi..."
+  },
+  "twitch.dev": {
+    "description": "Page name",
+    "message": "Twitch Developers"
+  },
+  "twitch.devDocs": {
+    "description": "Page name",
+    "message": "Twitch Developer Documentation"
+  },
+  "twitch.devProduct": {
+    "description": "Page name",
+    "message": "Twitch Developer Products"
+  },
+  "twitch.devShowcase": {
+    "description": "Page name",
+    "message": "Kopienas veiksmes stāsti"
+  },
+  "twitch.devSupport": {
+    "description": "Page name",
+    "message": "Noderīgi Resursi"
+  },
   "twitch.downloads": {
     "description": "Page name",
     "message": "Lejupielādes"
   },
+  "twitch.dropsSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Drops Iestatījumi"
+  },
+  "twitch.esports": {
+    "description": "",
+    "message": "Skatās Esportu..."
+  },
+  "twitch.extensions": {
+    "description": "",
+    "message": "Skatās Paplašinājumus"
+  },
+  "twitch.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Sekotāju Saraksts"
+  },
+  "twitch.guidelines": {
+    "description": "Page name",
+    "message": "Kopienas Vadlīnijas"
+  },
+  "twitch.help": {
+    "description": "Page name",
+    "message": "Atbalsta centrs"
+  },
+  "twitch.helpTopic": {
+    "description": "",
+    "message": "Skatās tematu:"
+  },
+  "twitch.helpTopicCatalog": {
+    "description": "",
+    "message": "Pārlūko tēmu katalogā..."
+  },
+  "twitch.home": {
+    "description": "Page name",
+    "message": "Mājaslapa"
+  },
+  "twitch.jobs": {
+    "description": "Page name",
+    "message": "Darbi"
+  },
+  "twitch.manageRoles": {
+    "description": "",
+    "message": "Pārvalda lomas kopienā..."
+  },
+  "twitch.modStreamer": {
+    "description": "",
+    "message": "Uzrauga straumētāju:"
+  },
+  "twitch.moderationSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Moderācijas Iestatījumi"
+  },
   "twitch.partners": {
     "description": "Page name",
     "message": "Partneri"
+  },
+  "twitch.press": {
+    "description": "Page name",
+    "message": "Preses Centrs"
+  },
+  "twitch.produce": {
+    "description": "",
+    "message": "Videoklipu Producentā..."
+  },
+  "twitch.redeem": {
+    "description": "",
+    "message": "Aktivizē kodu..."
+  },
+  "twitch.security": {
+    "description": "Page name",
+    "message": "Drošība"
+  },
+  "twitch.squad": {
+    "description": "",
+    "message": "Skatās Sastāvu..."
+  },
+  "twitch.streamSum": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Straumes Kopsavilkums"
+  },
+  "twitch.subs": {
+    "description": "",
+    "message": "Skatās savus abonementus..."
+  },
+  "twitch.tools": {
+    "description": "",
+    "message": "Skatās Straumēšanas Rīku"
+  },
+  "twitch.turbo": {
+    "description": "Page name",
+    "message": "Turbo"
+  },
+  "twitch.viewDropsComp": {
+    "description": "",
+    "message": "Skatās aktīvo Laimestu kampaņas..."
+  },
+  "twitch.viewDropsInv": {
+    "description": "",
+    "message": "Skatās savu Laimestu inventāru..."
+  },
+  "twitch.viewFollow": {
+    "description": "",
+    "message": "Skatās Cilvēkus Kuriem Es Sekoju..."
+  },
+  "twitch.viewFriends": {
+    "description": "",
+    "message": "Skatās savus draugus..."
+  },
+  "twitch.viewSettings": {
+    "description": "",
+    "message": "Skatās savus iestatījumus..."
+  },
+  "twitch.viewTeam": {
+    "description": "",
+    "message": "Skatās komandu:"
+  },
+  "twitch.viewTheir": {
+    "description": "Part 1 of the next 10 strings",
+    "message": "Skatās"
+  },
+  "twitch.wallet": {
+    "description": "",
+    "message": "Skatās maku..."
   }
 }
