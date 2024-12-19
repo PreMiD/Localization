@@ -1,11 +1,31 @@
 {
+  "amazon.address": {
+    "description": "",
+    "message": "Zobrazení jejich adres"
+  },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "Zobrazení jejich adprese"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "Zobrazení jejich bilance"
+  },
   "amazon.cart": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "nákupní košík"
   },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "Zobrazování všech kategorií"
+  },
   "amazon.giftcards": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "giftkarty"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "Prohlížení jejich historie"
   },
   "amazon.orderDetails": {
     "description": "Part 2 of the string: \"Viewing their\"",
@@ -14,6 +34,30 @@
   "amazon.orderHistory": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "historie objednávek"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "Zobrazení platebních metod"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "Prohlížení jejich zvířat v zájmovém chovu"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "Zobrazení Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "Zobrazení primárního videa:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "Doporučené prohlížení"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "Zobrazení obchodu:"
   },
   "amazon.subscriptions": {
     "description": "",
