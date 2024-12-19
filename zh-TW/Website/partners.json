@@ -159,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "taiga是一個Discord 機器人,它盡量一次提供所有你可能需要的功能."
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio 是一個由大家支持的24/7在線廣播"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "最強大和可擴展的開源Wiki軟件。"
