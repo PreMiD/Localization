@@ -7,6 +7,10 @@
 		"description": "",
 		"message": "살펴보는 중..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "둘러보기"
+	},
 	"general.buttonListenAlong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "같이 듣기"
@@ -19,9 +23,21 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "앨범 보기"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "애니메이션 보기"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "기사 보기"
+	},
 	"general.buttonViewArtist": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "아티스트 보기"
+	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "변경사항 보기"
 	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
@@ -55,13 +71,25 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "시리즈 보기"
 	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "공연 보기"
+	},
 	"general.buttonViewSong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "노래 보기"
 	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "애니메이션 시청"
+	},
 	"general.buttonWatchMovie": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "영화 시청"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "시리즈 보기"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
@@ -159,9 +187,29 @@
 		"description": "",
 		"message": "읽는 중"
 	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "채널에서 읽기"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "DM 읽는 중"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "포스트 읽는 중"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "스레드 읽는 중"
+	},
 	"general.readingAbout": {
 		"description": "",
 		"message": "읽는 중:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "기사 읽는 중"
 	},
 	"general.readingArticle": {
 		"description": "",
@@ -215,6 +263,10 @@
 		"description": "",
 		"message": "상점"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "도움 요청하기"
+	},
 	"general.terms": {
 		"description": "A page name",
 		"message": "이용 약관"
@@ -227,13 +279,73 @@
 		"description": "",
 		"message": "DM 입력 중:"
 	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "DM 입력 중"
+	},
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
 		"message": "가동 시간 기록"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "애니메이션 보는 중"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "리스트 보는 중"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "만화 보는 중"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "멤버 보는 중"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "영화 보는 중"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "페이지 보는 중"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "플레이리스트 보는 중"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "제품 보는 중"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "프로필 보는 중"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "시리즈 보기"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "쇼 보기"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "스레드 보는 중"
+	},
 	"general.viewAccount": {
 		"description": "",
 		"message": "계정 보는 중"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "이슈 보기"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "유저 보는 중"
 	},
 	"general.viewAnime": {
 		"description": "",
@@ -258,6 +370,10 @@
 	"general.viewHome": {
 		"description": "",
 		"message": "홈페이지 보는 중"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "다음에 관한 이슈 보기:"
 	},
 	"general.viewList": {
 		"description": "",
@@ -311,6 +427,14 @@
 		"description": "",
 		"message": "보는 중:"
 	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "찜한 항목 보는 중"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "찜한 항목 보는 중:"
+	},
 	"general.waitingLive": {
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
 		"message": "생방송 시작 대기 중"
@@ -330,6 +454,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "시청 중:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "애니메이션 시청 중"
 	},
 	"general.watchingLive": {
 		"description": "",
