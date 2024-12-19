@@ -39,6 +39,10 @@
     "description": "",
     "message": "Mokėjimo būdų peržiūra"
   },
+  "amazon.pets": {
+    "description": "",
+    "message": "Peržiūri gyvūnus"
+  },
   "amazon.prime": {
     "description": "",
     "message": "Amazon Prime peržiūra"
