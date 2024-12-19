@@ -3,6 +3,18 @@
     "description": "Benefit card description.",
     "message": "Susisiekite su žmonėmis iš „PreMiD“."
   },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "Susipažink su mumis"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "Pažvelkite į mūsų developmentą ir rinkodarą."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "Užmesti akį į naujoves"
+  },
   "jobs.benefit3.description": {
     "description": "Benefit card description.",
     "message": "Galingus Discord leidimus ir spalvinga rolė."
@@ -11,12 +23,88 @@
     "description": "Benefit card title.",
     "message": "Garbė"
   },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "Su jūsų prisidėjimu, tampa toliau įmanoma plėsti šį projektą."
+  },
   "jobs.benefit4.title": {
     "description": "Benefit card title.",
     "message": "Palaikykite PreMiD"
   },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "Neskubėkit. Tai yra savanoriškas darbas."
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "Laikas baigėsi"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "Išbandykite naujas funkcijas prieš kitus."
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "Ankstyvas priėjimas"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "Aukščiausios klasės privalumai"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "Jūs jau kreipėtės anksčiau!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "Jog galėtumete užpildyti anketą, pirma turite būti prisijungę prie mūsų Discord serverio. Antraip negalėsime su jumis susisiekti, jeigu jūs būsite išrinkti pozicijai!"
+  },
+  "jobs.guild.required": {
+    "description": "Title of the modal the user will see if it's not in Discord server.",
+    "message": "Prisidėkite prie mūsų Discord"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "Ar jūs esate pasirenge padėti didžiausiai Discord Rich-Presence programai?"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "Darbas „PreMiD“"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "Atšaukti"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "Prisidėkite"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "Tęsti"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "Prašome užpildyti visus laukus"
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "„PreMiD“ yra atvirojo kodo produktas, reiškiantis, kad esame ne pelno siekianti komanda, kiekvienas paaukojimas bei patreon pinigai grąžinami į produktą. Kreipdamiesi dėl darbo „PreMiD“, jūs pripažįstate, kad savanoriaujate komandoje, jums nebus mokama už darbą."
+  },
   "jobs.modal.step": {
     "description": "Step indicator of the modal. {0} will be replaced with the current page .",
     "message": "Žingsnis {0} iš 2"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "Pateikti paraišką dėl {0}\n"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "Darbo vietos"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "Ačiū, kad kreipėtės!"
   }
 }
