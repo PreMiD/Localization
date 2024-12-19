@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Pogledaj poslužitelj"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "Gleda plašteve"
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "Gleda Kako zatražiti svoj profil"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Uređivanje njihovih{0}podataka o profilu"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "Gleda poslužitelje"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Gleda nove skinove"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Gleda nasumične skinove"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "Gleda skinove sa {0} oznakom"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Gleda označene skinove"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Gleda najbolje skinove"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Gleda skinove u trendu"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "Pregledavanje nadolazećih imena"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "Gleda plašt:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "Pregledavanje njihovih emotikona profila"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "Pregledavanje njihovih prijatelja"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "Gleda poslužitelj:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Gleda skin"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "Pregledavanje njihovih skinova"
+  }
+}
