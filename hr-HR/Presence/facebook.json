@@ -1,1 +1,62 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "Nedavno dodano"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "Pretraživanje kroz:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "U pozivu sa:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "Spremljeni videozapisi"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "Čita o korisniku:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "Gleda zajednice korisnika:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "Gleda prijatelje korisnika:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "netko... (Korisnik skriven)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "Gleda fotografije korisnika:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "Gleda objave korisnika:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "Gleda trgovinu korisnika:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "Gleda videozapise korisnika:"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "U video pozivu sa:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Gleda današnju prognozu"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "Sastavljanje poruke"
+  }
+}
