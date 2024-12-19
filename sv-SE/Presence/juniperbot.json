@@ -1,1 +1,42 @@
-{}
+{
+  "juniperbot.commands": {
+    "description": "Page with the list of bot's commands",
+    "message": "Tittar på listan av kommandon"
+  },
+  "juniperbot.cookies": {
+    "description": "Reading about the site's cookies",
+    "message": "Läser om webbplatsens kakor"
+  },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "Läser information om donationsplanerna"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "Tittar på serverns topplista:"
+  },
+  "juniperbot.mainpage": {
+    "description": "Home page of the site",
+    "message": "Huvudsida"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "I dashboard"
+  },
+  "juniperbot.serverdashname": {
+    "description": "Guild name",
+    "message": "Guild: {0}"
+  },
+  "juniperbot.servers": {
+    "description": "Server selection page",
+    "message": "Väljer server"
+  },
+  "juniperbot.stats": {
+    "description": "Page with bot's statistics",
+    "message": "Tittar på botens statistik"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "Anpassar rankingkort"
+  }
+}
