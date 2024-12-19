@@ -1,1 +1,38 @@
-{}
+{
+  "kahoot.buttonJoinGame": {
+    "description": "Used as the title for the button in Discord. {0} is the Game ID",
+    "message": "Sumali sa Game: {0}"
+  },
+  "kahoot.correctAnswer": {
+    "description": "Used when the user anwered correct on a question",
+    "message": "Tama'ng Sagot"
+  },
+  "kahoot.gameStarting": {
+    "description": "Used when a Kahoot Game is starting",
+    "message": "Ang Game ay magsa-Start!"
+  },
+  "kahoot.incorrectAnswer": {
+    "description": "Used when the user answered incorrectly on a question",
+    "message": "Mali'ng Sagot"
+  },
+  "kahoot.joiningGame": {
+    "description": "Used when a user is joining a Kahoot Game.",
+    "message": "Sumasali sa Game..."
+  },
+  "kahoot.playing": {
+    "description": "Used as the first line when a user is answering a question",
+    "message": "Nagpe-play..."
+  },
+  "kahoot.questionLoading": {
+    "description": "Used when the next question is loading",
+    "message": "Ang next na Question ay naglo-Load..."
+  },
+  "kahoot.resultsQuestion": {
+    "description": "Used when a user is looking at the results of the question they just answered",
+    "message": "Naglo-look sa mga Result:"
+  },
+  "kahoot.waiting": {
+    "description": "Used when the user is waiting for a Kahoot Game to start",
+    "message": "Nagwe-wait para mag-Start..."
+  }
+}
