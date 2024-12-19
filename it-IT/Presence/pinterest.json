@@ -1,1 +1,18 @@
-{}
+{
+  "pinterest.board": {
+    "description": "",
+    "message": "Guardando board:"
+  },
+  "pinterest.follow": {
+    "description": "",
+    "message": "Guardando chi seguono"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "Modificando la loro homepage"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "Guardando un pin"
+  }
+}
