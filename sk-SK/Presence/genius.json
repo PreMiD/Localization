@@ -1,1 +1,18 @@
-{}
+{
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "Prezeranie textov:"
+  },
+  "genius.viewAlbum": {
+    "description": "Album of a song",
+    "message": "Prezeranie albumu:"
+  },
+  "genius.viewHome": {
+    "description": "",
+    "message": "Prezeranie domovskej stránky"
+  },
+  "genius.viewLyrics": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Zobraziť texty"
+  }
+}
