@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Отметки"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Разгледай"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Известия"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Чете поста на:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Променяне на някои настройки..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Гледа своите лични съобщения"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Гледа харесано от:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Гледа списък:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Гледа медия от:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Гледа постове от:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Гледа постове (с отговори) от:"
   }
 }
