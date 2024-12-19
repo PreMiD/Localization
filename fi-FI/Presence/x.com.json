@@ -1,1 +1,46 @@
-{}
+{
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Kirjanmerkit"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Selaa"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Ilmoitukset"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Lukee twiittiä käyttäjältä:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Muuttamassa asetuksia..."
+  },
+  "x.com.viewDms": {
+    "description": "",
+    "message": "Lukee yksityisviestejään"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Lukee tykättyjä twiittejä käyttäjältä:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Tarkastelee luetteloa:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Tarkastelee mediaa käyttäjältä:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Katselee twiittejä käyttäjältä:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Lukee twiittejä (ja vastauksia) käyttäjältä:"
+  }
+}
