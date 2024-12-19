@@ -23,6 +23,10 @@
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
     "message": "Tetszések"
   },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Ez a Presence több URL-t is támogat mint ami ki van listázva lejjebb a RegExp használatán keresztül. Lebeg az egereddel hogy lásd a sablont"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "Kapcsolódó URL címek"
