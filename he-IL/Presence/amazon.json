@@ -1,6 +1,74 @@
 {
+  "amazon.address": {
+    "description": "",
+    "message": "הצגת הכתובות שלהם"
+  },
   "amazon.adprefs": {
     "description": "",
     "message": "צופה ב-adpref שלהם"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "הצגת היתרה שלהם"
+  },
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "עגלת קניות"
+  },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "הצגת כל הקטגוריות"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "כרטיסי מתנה"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "צפייה בהיסטוריה שלהם"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "פרטי הזמנה"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "היסטוריית הזמנות"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "צפייה בשיטות תשלום"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "צפייה בחיות המחמד שלהם"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "צפייה ב-Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "צפייה בסרטון Prime:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "מומלץ לצפייה"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "חנות צפייה:"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "הצגת המנויים שלהם"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "צפייה שלהם"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "רשימת משאלות"
   }
 }
