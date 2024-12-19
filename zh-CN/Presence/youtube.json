@@ -19,6 +19,10 @@
 		"description": "Second part of multiple strings",
 		"message": "频道："
 	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "频道评论"
+	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "查看他们的"
