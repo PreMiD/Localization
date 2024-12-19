@@ -1,6 +1,58 @@
 {
+  "header.contributors": {
+    "description": "Contributors tab",
+    "message": "Mga contributor"
+  },
+  "header.downloads": {
+    "description": "Downloads tab",
+    "message": "Mga download"
+  },
   "header.language": {
     "description": "Replace English with the name of YOUR language!",
     "message": "Filipino"
+  },
+  "header.languageNotification.btnAccept": {
+    "description": "Button that switches language after click.",
+    "message": "Lumipat ng lingguwahe"
+  },
+  "header.languageNotification.btnDecline": {
+    "description": "Button that will decline notification.",
+    "message": "Hindi na, salamat"
+  },
+  "header.languageNotification.text": {
+    "description": "Text in language notification when user has different language.",
+    "message": "Ang aming website ay nai-salin na sa lengguwahe mo. Ito ay makakatulong baka ay hindi ka marunong magsalita ng English."
+  },
+  "header.languageNotification.title": {
+    "description": "Heading of the language notification when user has different language.",
+    "message": "Sinusuportahan namin ang lengguwahe mo, gusto mong lumipat?"
+  },
+  "header.lia": {
+    "description": "Indicates which user is logged in",
+    "message": "Nag-login bilang si"
+  },
+  "header.loader.phrases": {
+    "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
+    "message": "Nagbe-bake ng mga pancake...;Naglalagay ng mga container...;Pina-parse ang iyong IP address;UwU;Nilalabag ang mga patakaran..."
+  },
+  "header.login": {
+    "description": "Login Button",
+    "message": "Mag-login"
+  },
+  "header.logout": {
+    "description": "Logout button",
+    "message": "I-logout"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "I-report ang isang bug"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Dashboard"
+  },
+  "header.store": {
+    "description": "Store tab",
+    "message": "Tindahan"
   }
 }
