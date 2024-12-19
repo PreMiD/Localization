@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Bookmark-uri"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Explorează"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Notificări"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Citește post-ul lui:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Schimbă câteva setări..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Se uită la DM-urile sale"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Se uită la cine a dat like:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Se uită la lista:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Se uită la media-ul lui:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Se uită la post-urile lui:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Se uită la postările (cu comentarii) lui:"
   }
 }
