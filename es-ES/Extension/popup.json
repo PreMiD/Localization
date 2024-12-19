@@ -183,9 +183,17 @@
 		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "Idioma de Presence preferido"
 	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Error al obtener el usuario"
+	},
 	"popup.setting.heartbeat": {
 		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
 		"message": "Latido"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Aplicación preferida"
 	},
 	"popup.information.extensionVersion": {
 		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
@@ -239,6 +247,18 @@
 		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Usar Estado Jugando"
 	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Novedades 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "¡Echa un vistazo a las últimas novedades!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Abrir registro de cambios"
+	},
 	"popup.discordUnlinked.title": {
 		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
 		"message": "Discord no vinculado"
@@ -251,13 +271,85 @@
 		"description": "Button to link the Discord account",
 		"message": "Vincular Discord"
 	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "¿Tienes algo que decir?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Enviar comentarios"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Reportar un error o problema con una Presencia"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Reportar un Error o Problema con la extensión"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Solicitar una funcionalidad"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Otros"
 	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Comentarios"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "¿Qué está pasando? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Por favor, seleccione el tipo de comentario que desea enviar."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Reportar un error o problema con una Presencia"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "¡Oh, no! 😱 Lamentamos oír que estás experimentando problemas con una Presencia.\n\nEl mantenimiento de nuestras Presencias corre a cargo de la comunidad, así que notifica cualquier problema que tengas con una presencia en nuestro repositorio de GitHub.\n\nSi eliges la Presencia a continuación, incluiremos automáticamente los detalles de la Presencia en la plantilla del problema."
+	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Cerrar"
+	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Enviar"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Reportar un Error o Problema con la extensión"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "¡Oh, no! 😱 Lamentamos oír que estás experimentando problemas con una Presencia.\n\nPor favor, rellena el siguiente formulario para informar de cualquier problema que estés experimentando con la Extensión."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Describe el problema"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Por favor, describe el problema que estás experimentando con la Extensión con el mayor detalle posible."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Tu Dirección de Correo Electrónico (Opcional)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Tu nombre de Usuario de Discord (Opcional)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Solicitar una funcionalidad"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
