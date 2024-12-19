@@ -3,6 +3,42 @@
     "description": "Connecting to the App Store",
     "message": "Kobler til..."
   },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "Se app"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "Se utvikler"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "Se hendelse"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "Se {0}"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "Se produkt"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "Se {0} sin profil"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "Se tjeneste"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Se tråd"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "Se {0}"
+  },
   "apple.chooseLang": {
     "description": "Choosing the language of the website",
     "message": "Velger språk..."
@@ -10,6 +46,14 @@
   "apple.comparing": {
     "description": "e.g. \"Comparing: Apple Watch\"",
     "message": "Sammenligner:"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "Kontakt"
+  },
+  "apple.devDistribution": {
+    "description": "Distribute software to the App Store",
+    "message": "Distribuerer programvare"
   },
   "apple.devDocs": {
     "description": "Developer documentation",
@@ -23,6 +67,46 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "Spill"
   },
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "Hva er nytt"
+  },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "Nyheter og oppdateringer"
+  },
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "iPhone- og iPad-apper"
+  },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "Lanseringer"
+  },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "Ressurser"
+  },
+  "apple.devVidTopic": {
+    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
+    "message": "Videoemner"
+  },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "Videoer"
+  },
+  "apple.forumCreateThread": {
+    "description": "Creating a forum thread",
+    "message": "Oppretter tråd"
+  },
+  "apple.forumPreferences": {
+    "description": "Profile settings/preferences, e.g. change username",
+    "message": "Preferanser"
+  },
+  "apple.forumRegister": {
+    "description": "Register a new account (alternative translation: registering)",
+    "message": "Registrering"
+  },
   "apple.iCloudCalendar": {
     "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
     "message": "Kalender"
@@ -30,6 +114,10 @@
   "apple.iCloudContacts": {
     "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
     "message": "Kontakter"
+  },
+  "apple.iCloudKeynoteWait": {
+    "description": "Before the keynote begins, you'll be in the waiting room",
+    "message": "Venterom..."
   },
   "apple.iCloudMail": {
     "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
@@ -39,9 +127,17 @@
     "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
     "message": "Notater"
   },
+  "apple.iCloudPagesCreate": {
+    "description": "Creating a new Pages document",
+    "message": "Oppretter..."
+  },
   "apple.iCloudPhotos": {
     "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
     "message": "Bilder"
+  },
+  "apple.iCloudReminders": {
+    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Påminnelser"
   },
   "apple.other": {
     "description": "Other pages not added to the code",
