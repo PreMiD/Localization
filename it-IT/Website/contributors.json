@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Staff"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Sostenitori"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Traduttori"
@@ -22,6 +26,10 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Manager della Community"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderatori"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -35,6 +43,14 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Responsabile della localizzazione"
   },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Gestione del progetto"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Collaboratore"
+  },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
     "message": "Sviluppatore Presence"
@@ -42,6 +58,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Correttore di bozze"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Supporto"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
