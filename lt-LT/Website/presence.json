@@ -19,6 +19,14 @@
     "description": "One of the strings from the Information section. [on webite -> Contributors: (array)]",
     "message": "Pagalbininkai"
   },
+  "presence.sections.information.likes": {
+    "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
+    "message": "Patiko"
+  },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Ši Presence palaiko daugiau URL adresų, nei išvardyta toliau, naudojant RegExp. Užveskite pelės žymeklį, kad pamatytumėte kaip"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "Palaikomi URLs"
