@@ -1,7 +1,15 @@
 {
+  "minecraft wiki.upload": {
+    "description": "When uploading a file to the wiki",
+    "message": "Laster opp noe..."
+  },
   "minecraft wiki.login": {
     "description": "Used when a user is logging in",
     "message": "Logger inn"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Se tråd"
   },
   "minecraft wiki.settings": {
     "description": "Displayed when a user is viewing their Minecraft Wiki settings",
