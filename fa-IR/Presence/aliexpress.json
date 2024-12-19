@@ -1,1 +1,66 @@
-{}
+{
+  "aliexpress.address": {
+    "description": "",
+    "message": "در حال تماشای آدرسشان"
+  },
+  "aliexpress.coupons": {
+    "description": "",
+    "message": "در حال تماشای کوپن"
+  },
+  "aliexpress.deletedOrders": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "سفارش حذف شده"
+  },
+  "aliexpress.feedback": {
+    "description": "",
+    "message": "AliExpress بازخورد"
+  },
+  "aliexpress.helpCenter": {
+    "description": "",
+    "message": "مرکز راهنمایی AliExpress"
+  },
+  "aliexpress.message": {
+    "description": "Meaning Direct messages",
+    "message": "مرکز پیام ها"
+  },
+  "aliexpress.orders": {
+    "description": "",
+    "message": "نگاه کردن سفارش هایشان"
+  },
+  "aliexpress.recentlyViewProducts1": {
+    "description": "Part 1 of 2",
+    "message": "نگاه کردن به کالا های اخیر"
+  },
+  "aliexpress.recentlyViewProducts2": {
+    "description": "Part 2 of 2",
+    "message": "کالا های مشاهده شده"
+  },
+  "aliexpress.refunds": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "بازپرداخت و اختلافات"
+  },
+  "aliexpress.sale": {
+    "description": "",
+    "message": "گشتن در چیز های فروشی"
+  },
+  "aliexpress.sellCenter": {
+    "description": "",
+    "message": "مرکز فروش AliExpress"
+  },
+  "aliexpress.store": {
+    "description": "",
+    "message": "نگاه کردن فروشگاه:"
+  },
+  "aliexpress.theirAli": {
+    "description": "",
+    "message": "در حال تماشای AliExpress"
+  },
+  "aliexpress.trade": {
+    "description": "",
+    "message": "مرکز معامله AliExpress"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "مشاهده"
+  }
+}
