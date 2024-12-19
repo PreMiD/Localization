@@ -19,6 +19,10 @@
     "description": "{0} replaced with product name",
     "message": "{0}をカートに追加しました"
   },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "**あなたの**商品を見つけましょう。"
+  },
   "merch.title": {
     "description": "Merch store title",
     "message": "**PreMiD**のオフィシャルストアへようこそ！"
