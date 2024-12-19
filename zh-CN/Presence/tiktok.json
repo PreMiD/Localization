@@ -1,1 +1,6 @@
-{}
+{
+  "tiktok.buttonViewTikTok": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "正在看抖音"
+  }
+}
