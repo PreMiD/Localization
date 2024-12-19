@@ -21,10 +21,26 @@
   },
   "x.viewDms": {
     "description": "",
-    "message": "Direkt mesajlarına bakıyor"
+    "message": "DM'lerini görüntülüyor"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Beğendilerine bakıyor:"
   },
   "x.viewList": {
     "description": "",
     "message": "Listeye bakıyor:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Medyasına bakıyor:"
+  },
+  "x.viewPosts": {
+    "description": "",
+    "message": "Post'larına bakıyor:"
+  },
+  "x.viewPostsWithReplies": {
+    "description": "",
+    "message": "(Yanıtlı) post'larına bakıyor:"
   }
 }
