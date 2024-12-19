@@ -1,10 +1,62 @@
 {
+  "facebook.added": {
+    "description": "",
+    "message": "Nedávno pridané"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "Prezerá si:"
+  },
   "facebook.call": {
     "description": "",
     "message": "V hovore s:"
   },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "Uložené videá"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "Číta o užívateľovi:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "Prezerá si komunitu uživateľa:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "Prezerá si priateľov užívateľa:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "niekym... (Uživateľ skrytý)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "Prezerá si obrázky uživateľa:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "Pozerá si príspevky používateľa:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "Prezerá obchod používateľa:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "Prezerá videa užívateľa:"
+  },
   "facebook.vcall": {
     "description": "",
     "message": "Vo videohovore s:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Prezerá si dnešné počasie"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "Píše správu"
   }
 }
