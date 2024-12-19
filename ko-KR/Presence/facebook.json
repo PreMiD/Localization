@@ -15,9 +15,37 @@
     "description": "",
     "message": "저장된 영상"
   },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "사용자에 대해 읽는 중:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "사용자의 커뮤니티를 보는 중:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "사용자의 친구를 보는 중"
+  },
   "facebook.userHidden": {
     "description": "Shows when you dont want to show who you are calling/texting.",
     "message": "누군가... (사용자 숨김)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "사용자의 사진을 보는 중:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "사용자의 게시물을 보는 중:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "사용자의 거래를 보는 중:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "사용자의 영상을 보는 중:"
   },
   "facebook.vcall": {
     "description": "",
