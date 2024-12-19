@@ -1,1 +1,22 @@
-{}
+{
+	"osu!ppy.for": {
+		"description": "{0} = country/for All, {1} = gamemode. E.g. Performance Rankings (for All) [osu!]",
+		"message": "(per {0}) [{1}]"
+	},
+	"osu!ppy.performanceRankings": {
+		"description": "Displayed when viewing the performance rankings.",
+		"message": "Classifica prestazioni"
+	},
+	"osu!ppy.scoreRankings": {
+		"description": "{0} = gamemode. E.g. Score Rankings [osu!]",
+		"message": "Classifica dei punteggi [{0}]"
+	},
+	"osu!ppy.support": {
+		"description": "Displayed when viewing the support page.",
+		"message": "Modi per supportare osu!ppy"
+	},
+	"osu!ppy.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Pagina principale della Wiki"
+	}
+}
