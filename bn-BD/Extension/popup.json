@@ -107,6 +107,18 @@
 		"description": "Shown when application is outdated",
 		"message": "তোমার PreMiD অ্যাপটি আউটডেটেড। এটিকে আপডেট করো PreMiD এর ব্যবহার চালিয়ে যাওয়ার জন্যে।"
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "এক্সটেনশন নিষ্ক্রিয়"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "PreMiD এক্সটেনশন কে সেটিংস এ বন্ধ করা হয়েছে। PreMiD ব্যবহার করা চালিয়ে যেতে হলে অনুগ্রহ করে সেটিংস এ এক্সটেনশন টা কে সক্ষম করুন।"
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "দয়া করে নিশ্চিত করুন যে আপনি আপনার ডিস্করড সেটিংস-এ 'Display current activity as a status message' অপশনটি চালু করেছেন।"
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "কৃতিত্ব"
@@ -167,8 +179,16 @@
 		"description": "Close button on the feedback popup",
 		"message": "বন্ধ করো"
 	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "একটি ফিচার অনুরোধ করুন"
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "অন্যান্য"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "দয়া করে নিম্নলিখিত ফর্মটি পূর্ণ করুন যাতে আপনি আমাদের সাথে শেয়ার করতে চাওয়া যেকোনো প্রতিক্রিয়া প্রদান করতে পারেন।"
 	}
 }
