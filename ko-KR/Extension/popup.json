@@ -115,6 +115,14 @@
 		"description": "Shown when the extension has been disabled in the settings",
 		"message": "PreMiD가 비활성화 되었습니다. PreMiD를 게속 사용하시고 싶으시면 확장 프로그램에서 다시 활성화 해주세요."
 	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Discord 설정에서 \"현재 활동을 상태 메시지로 표시해요.\"가 켜져있는지 확인해 주세요."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD가 현재 페이지에 대한 Presence를 찾을 수 없어요. 현재 접속 중인 페이지에 대응하는 Presence를 설치했는지 확인해 주세요. Presence를 설치했다면, 페이지에 대응하는 Presence를 다시 불러와 주시고 설정에서 Presence를 활성화했는지 확인해 주세요."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "제작진"
@@ -175,6 +183,10 @@
 		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "선호하는 Presence 언어"
 	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "사용자를 가져오지 못했어요"
+	},
 	"popup.setting.heartbeat": {
 		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
 		"message": "하트비트"
@@ -195,6 +207,10 @@
 		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
 		"message": "PreMiD 앱과 연결되지 않음"
 	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "연결된 Discord 계정: {0}"
+	},
 	"popup.information.discordNotFound": {
 		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
 		"message": "Discord 앱과 연결되지 않음"
@@ -213,7 +229,7 @@
 	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
-		"message": "다른 사용자인가요?"
+		"message": "본인이 아닌가요?"
 	},
 	"popup.informationIcon.notLinked.heading": {
 		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
@@ -226,6 +242,10 @@
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "로그아웃"
+	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "'하는 중' 상태 사용"
 	},
 	"popup.whatsNew.heading": {
 		"description": "Title of the 'What's new' section at the navigation in the popup",
@@ -251,6 +271,22 @@
 		"description": "Button to link the Discord account",
 		"message": "Discord와 연동하기"
 	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "무언가 문의하실 게 있나요?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "의견 제출"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Presence의 버그 혹은 문제 신고"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "확장 프로그램의 버그 혹은 문제 신고"
+	},
 	"popup.feedback.feature": {
 		"description": "Title of the feature option in the feedback type selection box",
 		"message": "기능 요청"
@@ -259,16 +295,116 @@
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "기타"
 	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "의견"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "무슨 일인가요? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "제출할 의견 유형을 선택하세요."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Presence의 버그 혹은 문제 신고"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "이런! 😱 Presence를 사용하는 동안 문제가 발생했다니, 유감입니다.\n\nPresence는 커뮤니티를 통해 유지되고 있습니다. 겪고 계시는 Presence의 문제를 GitHub 리포지토리에 신고해 주세요.\n\n아래에서 Presence를 선택하면 자동으로 이슈 템플릿에 해당 Presence의 세부 정보가 포함됩니다."
+	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "닫기"
+	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "제출"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "확장 프로그램의 버그 혹은 문제 신고"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "이런! 😱 확장 프로그램을 사용하시는 동안 문제가 발생했다니, 유감입니다.\n\n이 양식을 작성하여 현재 겪고 계시는 확장 프로그램의 문제를 신고해 주세요."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "문제 설명"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "가능한 한 자세히 확장 프로그램의 문제를 설명해 주세요."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "모든 신고는 연락처를 기재하지 않으면 익명으로 처리됩니다.\n필요한 경우 자세한 정보를 요청하거나 문제가 해결된 경우에 연락을 드릴 수 있습니다."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "이메일 주소 (선택 사항)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Discord 이름 (선택 사항)"
 	},
 	"popup.feedback.feature.header": {
 		"description": "The title of the feature feedback page",
 		"message": "기능 요청"
 	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "저희는 항상 PreMiD를 개선하고 더 나은 서비스를 제공하기 위한 방법을 찾고 있습니다.\n\n다음 양식을 작성하여 PreMiD에 추가되었으면 하는 기능을 요청해 주세요."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "기능 설명"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "가능한 한 자세히 PreMiD에 추가를 원하는 기능을 설명해 주세요."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "모든 기능 요청은 연락처를 제공하지 않으면 익명으로 처리됩니다.\n필요한 경우 자세한 정보를 요청하거나 기능이 구현된 경우에 연락을 드릴 수 있습니다."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "기타"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "다음 양식을 작성하여 공유할 의견을 보내주세요."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "의견 설명"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "가능한 한 자세히 공유할 의견에 대해 설명해 주세요."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "모든 의견은 연락처를 기재하지 않으면 익명으로 처리됩니다.\n필요한 경우 자세한 정보를 요청하거나 문제가 해결된 경우에 연락을 드릴 수 있습니다."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "의견을 제출했습니다"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "피드백을 제출해 주셔서 감사합니다! 🎉\n\n시간을 내어 의견을 공유해 주셔서 감사합니다. 의견을 검토한 후 필요한 경우 다시 연락드리겠습니다."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "이런! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "의견 제출에 문제가 발생했습니다. 나중에 다시 시도해 주세요.\n\n문제가 지속되면 Discord 서버에 문의해 주세요."
 	}
 }
