@@ -1,1 +1,66 @@
-{}
+{
+  "aliexpress.address": {
+    "description": "",
+    "message": "Zobrazuje sa ich adresa"
+  },
+  "aliexpress.coupons": {
+    "description": "",
+    "message": "Prezerajú si kupóny"
+  },
+  "aliexpress.deletedOrders": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "zmazané objednávky"
+  },
+  "aliexpress.feedback": {
+    "description": "",
+    "message": "Spätná väzba AliExpress"
+  },
+  "aliexpress.helpCenter": {
+    "description": "",
+    "message": "Centrum pomoci AliExpress"
+  },
+  "aliexpress.message": {
+    "description": "Meaning Direct messages",
+    "message": "Centrum správ"
+  },
+  "aliexpress.orders": {
+    "description": "",
+    "message": "Prezeranie ich objednávok"
+  },
+  "aliexpress.recentlyViewProducts1": {
+    "description": "Part 1 of 2",
+    "message": "Prezerajú si ich nedávno"
+  },
+  "aliexpress.recentlyViewProducts2": {
+    "description": "Part 2 of 2",
+    "message": "zobrazené produkty"
+  },
+  "aliexpress.refunds": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "Vrátenie peňazí a spory"
+  },
+  "aliexpress.sale": {
+    "description": "",
+    "message": "Prechádzanie výpredajom"
+  },
+  "aliexpress.sellCenter": {
+    "description": "",
+    "message": "AliExpress Sell Center"
+  },
+  "aliexpress.store": {
+    "description": "",
+    "message": "Prezeranie obchodu:"
+  },
+  "aliexpress.theirAli": {
+    "description": "",
+    "message": "Prezerajú si ich AliExpress"
+  },
+  "aliexpress.trade": {
+    "description": "",
+    "message": "AliExpress Trade Center"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "Prezeranie ich"
+  }
+}
