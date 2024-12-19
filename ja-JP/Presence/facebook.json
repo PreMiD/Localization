@@ -1,1 +1,62 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "最近追加したもの"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "閲覧中:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "通話中:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "保存した動画"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "ユーザーについて閲覧中:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "ユーザーのコミュニティを閲覧中:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "ユーザーのフレンドを閲覧中:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "誰か...(ユーザー非表示)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "ユーザーの写真を閲覧中:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "ユーザーの投稿を閲覧中:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "ユーザーのショップを閲覧中:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "ユーザーの動画を閲覧中:"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "ビデオ通話中:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "今日の天気を閲覧中"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "メッセージを作成中"
+  }
+}
