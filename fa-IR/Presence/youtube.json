@@ -7,9 +7,17 @@
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "گشتن در لیست پخش"
 	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "گشتن در ویدیوهای کوتاه"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "گشتن در"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "گشتن بین {0} ویدیو"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
@@ -78,6 +86,10 @@
 	"youtube.studio.videoTranslations": {
 		"description": "",
 		"message": "نگاه کردن ترجمه ویدیو:"
+	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "درحال مشاهده محتوای خویش"
 	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
