@@ -1,1 +1,62 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "Nyligen tillagt"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "Bläddrar igenom:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "I ett samtal med:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "Sparade videor"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "Läser om användare:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "Tittar på användarens gemenskap:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "Tittar på vänner till användare:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "någon... (Användare dold)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "Tittar på foton av användare:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "Tittar på inlägg från användare:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "Tittar på butik av användare:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "Tittar på videor av användare:"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "I ett videosamtal med:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Tittar på dagens väder"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "Skriver ett meddelande"
+  }
+}
