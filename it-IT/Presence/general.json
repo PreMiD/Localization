@@ -7,6 +7,10 @@
 		"description": "",
 		"message": "Navigando..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Naviga"
+	},
 	"general.buttonListenAlong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ascolta assieme"
@@ -19,9 +23,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Visualizza Album"
 	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Vedi l'articolo"
+	},
 	"general.buttonViewArtist": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Visualizza artista"
+	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visualizza Changelog"
 	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
@@ -54,6 +66,10 @@
 	"general.buttonViewSeries": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Guarda le serie"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Guarda lo show"
 	},
 	"general.buttonViewSong": {
 		"description": "Used as the title for the button in Discord.",
@@ -123,6 +139,10 @@
 		"description": "",
 		"message": "Ascoltando musica"
 	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Ascoltando{0}{1}"
+	},
 	"general.live": {
 		"description": "",
 		"message": "In diretta"
@@ -155,9 +175,29 @@
 		"description": "",
 		"message": "Leggendo"
 	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Leggendo in un canale"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Leggendo un DM"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Leggendo un post"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Leggendo una discussione"
+	},
 	"general.readingAbout": {
 		"description": "",
 		"message": "Leggendo a proposito di:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Leggendo un articolo"
 	},
 	"general.readingArticle": {
 		"description": "",
@@ -199,6 +239,10 @@
 		"description": "",
 		"message": "Cercando qualcosa..."
 	},
+	"general.season": {
+		"description": "",
+		"message": "Stagione"
+	},
 	"general.shopCart": {
 		"description": "",
 		"message": "Carrello d'acquisto"
@@ -206,6 +250,10 @@
 	"general.store": {
 		"description": "",
 		"message": "Negozio"
+	},
+	"general.support": {
+		"description": "A page name",
+		"message": "Pagina di Supporto"
 	},
 	"general.terms": {
 		"description": "A page name",
@@ -219,13 +267,69 @@
 		"description": "",
 		"message": "Digitando messaggi diretti a:"
 	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "Scrivendo nei DM"
+	},
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
 		"message": "Inizio del servizio"
 	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Guardando un elenco"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Guardando un manga"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Guardando un membro"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Guardando un film"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Guardando una pagina"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Guardando una playlist"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Guardando un prodotto"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Guardando un profilo"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Guardando una serie"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Guardando uno show"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Guardando una discussione"
+	},
 	"general.viewAccount": {
 		"description": "",
 		"message": "Visualizzando il loro account"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "Guardando un incidente"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Guardando un utente"
 	},
 	"general.viewAnime": {
 		"description": "",
@@ -250,6 +354,10 @@
 	"general.viewHome": {
 		"description": "",
 		"message": "Visualizzando home page"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "Guardando un incidente su:"
 	},
 	"general.viewList": {
 		"description": "",
@@ -303,6 +411,14 @@
 		"description": "",
 		"message": "Guardando:"
 	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Guardando una lista dei desideri"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "Guardando una lista dei desideri di:"
+	},
 	"general.waitingLive": {
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
 		"message": "In attesa che inizi una live"
@@ -346,6 +462,10 @@
 	"general.wiki": {
 		"description": "A page name",
 		"message": "Wiki"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Pagina principale della Wiki"
 	},
 	"general.wishlist": {
 		"description": "",
