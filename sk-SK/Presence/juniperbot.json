@@ -1,1 +1,42 @@
-{}
+{
+  "juniperbot.commands": {
+    "description": "Page with the list of bot's commands",
+    "message": "Pozerá sa na list commandov"
+  },
+  "juniperbot.cookies": {
+    "description": "Reading about the site's cookies",
+    "message": "Číta si o cookies stránky"
+  },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "Prečítajte si informácie o darovacích plánoch"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "Sledovanie výsledkovej tabuľky servera:"
+  },
+  "juniperbot.mainpage": {
+    "description": "Home page of the site",
+    "message": "Hlavná stránka"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "V dashboarde"
+  },
+  "juniperbot.serverdashname": {
+    "description": "Guild name",
+    "message": "Guilda {0}"
+  },
+  "juniperbot.servers": {
+    "description": "Server selection page",
+    "message": "Vyberá server"
+  },
+  "juniperbot.stats": {
+    "description": "Page with bot's statistics",
+    "message": "Pozerá sa na štatistiky bota"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "Upravuje si rank kartu"
+  }
+}
