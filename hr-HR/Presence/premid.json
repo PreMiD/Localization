@@ -1,10 +1,70 @@
 {
+  "premid.docs": {
+    "description": "as in documents",
+    "message": "Dokumenti"
+  },
+  "premid.pageAbout": {
+    "description": "A page name",
+    "message": "O PreMiD-u"
+  },
+  "premid.pageApi": {
+    "description": "A page name",
+    "message": "API"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Prinosnici"
   },
+  "premid.pageDownloads": {
+    "description": "A page name",
+    "message": "Preuzimanja"
+  },
+  "premid.pageHome": {
+    "description": "A page name",
+    "message": "Početna stranica"
+  },
+  "premid.pageInstall": {
+    "description": "A page name",
+    "message": "Instalacija"
+  },
+  "premid.pageInstallFor": {
+    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
+    "message": "Instalaciaj za {0}"
+  },
+  "premid.pagePresenceClass": {
+    "description": "A page name",
+    "message": "Klasa Presence-a"
+  },
+  "premid.pagePresenceDev": {
+    "description": "A page name",
+    "message": "Status Programer"
+  },
+  "premid.pageStart": {
+    "description": "A page name",
+    "message": "Početak rada"
+  },
+  "premid.pageStore": {
+    "description": "A page name",
+    "message": "Trgovina"
+  },
+  "premid.pageSysReq": {
+    "description": "A page name",
+    "message": "Zahtjevi Sustava"
+  },
   "premid.pageTroubleshooting": {
     "description": "A page name",
     "message": "Rješavanje problema"
+  },
+  "premid.partners": {
+    "description": "A page name",
+    "message": "Partneri"
+  },
+  "premid.viewPage": {
+    "description": "",
+    "message": "Pregleda stranicu:"
+  },
+  "premid.viewPresence": {
+    "description": "",
+    "message": "Pregleda presence:"
   }
 }

@@ -1,10 +1,110 @@
 {
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "Ελάτε σε επαφή με τους ανθρώπους πίσω από το PreMiD."
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "Γνωρίστε μας"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "Ρίξτε μια ματιά στην ανάπτυξη και το μάρκετινγκ μας."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "Sneak Peeks"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "Ισχυρά δικαιώματα Discord και ένας πολύχρωμος ρόλος."
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "Τιμή"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "Με τη συνεισφορά σας είναι δυνατή η εκτέλεση αυτού του έργου."
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "Υποστηρίξτε το PreMiD"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "Αφιερώστε το χρόνο σας. Πρόκειται για εθελοντική εργασία."
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "Χρονικό όριο"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "Δοκιμάστε νέα χαρακτηριστικά πριν από οποιονδήποτε άλλο."
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "Πρώιμη Πρόσβαση"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "Πλεονεκτήματα Υψηλής Τάσης"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "Έχετε ήδη υποβάλει αίτηση!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "Για να μπορείτε να υποβάλετε αίτηση πρέπει να έχετε συνδεθεί με τον διακομιστή Discord. Διαφορετικά, δε θα μπορούμε να επικοινωνήσουμε μαζί σας αν καταλήξετε να επιλεγείτε!"
+  },
   "jobs.guild.required": {
     "description": "Title of the modal the user will see if it's not in Discord server.",
     "message": "Γίνε μέλος στο Discord μας"
   },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "Είστε έτοιμοι να βοηθήσετε το μεγαλύτερο Rich-Presence πρόγραμμα;"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "Εργασία για PreMiD"
+  },
   "jobs.modal.buttons.cancel": {
     "description": "Cancel, button in the modal.",
     "message": "Άκυρο"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "Συμμετοχή"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "Επώμενο"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "Παρακαλώ συμπληρώστε όλα τα πεδία"
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "Το PreMiD είναι ένα έργο ανοιχτού κώδικα, που σημαίνει ότι είμαστε μια μη κερδοσκοπική ομάδα, κάθε δωρεά ή χρήματα patreon επιστρέφει στο προϊόν. Με την υποβολή αίτησης για μια θέση εργασίας στο PreMiD αναγνωρίζετε ότι είστε εθελοντικός στην ομάδα, δεν θα πληρωθείτε για την εργασία σας."
+  },
+  "jobs.modal.step": {
+    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
+    "message": "Βήμα {0} από 2"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "Αίτηση για {0}"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "Έναρξη Εργασίας"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "Ευχαριστούμε για την αίτηση!"
   }
 }

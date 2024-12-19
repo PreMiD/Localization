@@ -1,1 +1,98 @@
-{}
+{
+  "v live.browseThrough": {
+    "description": "The first part of the next 6 strings",
+    "message": "Pārlūko"
+  },
+  "v live.channelBoard": {
+    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
+    "message": "Skatās \"{0}\" dēli"
+  },
+  "v live.channelHome": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Skatās mājas lapu"
+  },
+  "v live.channelList": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "kanālu saraksts"
+  },
+  "v live.channelMy": {
+    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
+    "message": "Skatās \"savu\" lapu"
+  },
+  "v live.channelSchedule": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Skatās grafika lapu"
+  },
+  "v live.channelStore": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Skatās veikala lapu"
+  },
+  "v live.charts": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "charts lapu"
+  },
+  "v live.coins": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "monētu atlikumu"
+  },
+  "v live.devices": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "savienotās ierīces"
+  },
+  "v live.events": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "notikumu lapu"
+  },
+  "v live.followed": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "piesekotos kanālus"
+  },
+  "v live.newVid": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "jauno videoklipu lapu"
+  },
+  "v live.ofChannel": {
+    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
+    "message": "{0} kanāla"
+  },
+  "v live.policies": {
+    "description": "",
+    "message": "Lasa politikas"
+  },
+  "v live.product": {
+    "description": "{0} will be replaced with the name of the publisher of the product",
+    "message": "Skatās {0} produktu"
+  },
+  "v live.profile": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "profila lapu"
+  },
+  "v live.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Rediģē{0}savu lapu"
+  },
+  "v live.purchases": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "nesenos pirkumus"
+  },
+  "v live.recentUploads": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Pārlūko{0}jaunākās sekotāju lejupielādes"
+  },
+  "v live.store": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "veikala lapu"
+  },
+  "v live.upcoming": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "gaidāmā lapu"
+  },
+  "v live.viewTheir": {
+    "description": "The first part of the next 6 strings",
+    "message": "Skatās"
+  },
+  "v live.watched": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "skatītos videoklipus"
+  }
+}

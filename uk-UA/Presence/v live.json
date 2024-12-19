@@ -3,8 +3,96 @@
     "description": "The first part of the next 6 strings",
     "message": "Переглядає крізь"
   },
+  "v live.channelBoard": {
+    "description": "{0} will be replaced with the board name // Second part of the \"of {0}'s channel\" string",
+    "message": "Перегляд дошки {0}"
+  },
+  "v live.channelHome": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Переглядає домашню сторінку"
+  },
+  "v live.channelList": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "список каналів"
+  },
+  "v live.channelMy": {
+    "description": "Do not translate the \"my\" // Second part of the \"of {0}'s channel\" string",
+    "message": "Перегляд \"моєї\" сторінки"
+  },
+  "v live.channelSchedule": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Перегляд сторінки розкладу"
+  },
+  "v live.channelStore": {
+    "description": "Second part of the \"of {0}'s channel\" string",
+    "message": "Переглядає сторінку магазину"
+  },
+  "v live.charts": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "сторінка опитувань"
+  },
+  "v live.coins": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "кількість монет"
+  },
+  "v live.devices": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "під'єднані пристрої"
+  },
+  "v live.events": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "сторінка подій"
+  },
+  "v live.followed": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "відстежувані канали"
+  },
+  "v live.newVid": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "нова сторінка відео"
+  },
+  "v live.ofChannel": {
+    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
+    "message": "від {0} каналу"
+  },
+  "v live.policies": {
+    "description": "",
+    "message": "Читає умови використання"
+  },
+  "v live.product": {
+    "description": "{0} will be replaced with the name of the publisher of the product",
+    "message": "Перегляд продукту {0}"
+  },
+  "v live.profile": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "сторінка профілю"
+  },
+  "v live.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Редагує свій{0}профіль"
+  },
+  "v live.purchases": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "останні покупки"
+  },
+  "v live.recentUploads": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Перегляд через своїх{0}підписників недавніх завантажень"
+  },
+  "v live.store": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "сторінка магазину"
+  },
+  "v live.upcoming": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "майбутня сторінка"
+  },
   "v live.viewTheir": {
     "description": "The first part of the next 6 strings",
     "message": "Переглядає поток "
+  },
+  "v live.watched": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "переглянуті відео"
   }
 }

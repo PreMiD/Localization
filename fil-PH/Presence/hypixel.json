@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "Tinitingnan ang kanyang mga DM"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Tumitingin ng laro:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Tumitingin ng staff list"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Tinitingnan ang kanyang mga naka-watch forum"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Tinitingnan ang kanyang mga naka-watch thread"
+  }
+}

@@ -1,22 +1,186 @@
 {
+  "discord.blog": {
+    "description": "",
+    "message": "Discords blogg"
+  },
+  "discord.branding": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Varumärkessidan"
+  },
   "discord.browseThrough": {
     "description": "The first part of the next 17 strings",
     "message": "Bläddrar igenom"
+  },
+  "discord.buttonInvite": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Visa inbjudningslänk"
+  },
+  "discord.channelReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Läser i kanal:{0}{1} (Server: {2})"
+  },
+  "discord.channelTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Skriver i kanal:{0}{1} (Server: {2})"
+  },
+  "discord.college": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "College sidan"
+  },
+  "discord.company": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Om sidan"
+  },
+  "discord.devs.appsBrowse": {
+    "description": "",
+    "message": "Bläddrar genom deras appar"
+  },
+  "discord.devs.appsEdit": {
+    "description": "{0} will be replaced with the name of the app.",
+    "message": "Redigerar app: {0}"
+  },
+  "discord.devs.docs": {
+    "description": "",
+    "message": "Läser dokumentationen"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "Portal för utvecklare"
+  },
+  "discord.devs.serversBrowse": {
+    "description": "",
+    "message": "Bläddrar genom deras servrar"
+  },
+  "discord.devs.serversEdit": {
+    "description": "{0} will be replaced with the name of the server.",
+    "message": "Tittar på insikter av: {0} servern"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "Bläddrar genom deras grupper"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "Redigerar gruppen: {0}"
+  },
+  "discord.dmGroupReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Läser i grupp DM:{0}{1}"
+  },
+  "discord.dmGroupTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Skriver i grupp DM:{0}{1}"
+  },
+  "discord.dmReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Läser DMs ifrån:{0}{1}"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Skriver in DMs till:{0}{1}"
+  },
+  "discord.download": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Nedladdningssida"
   },
   "discord.friends": {
     "description": "",
     "message": "Tittar på deras vänner..."
   },
+  "discord.inspiration": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Inspirations sidan"
+  },
+  "discord.invite": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
+    "message": "Kollar på inbjudningslänk:{0}{1} (Server: {2})"
+  },
+  "discord.inviteServer": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Kollar på inbjudningslänk{0}av servern: {1}"
+  },
+  "discord.jobs": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Jobbsidan"
+  },
+  "discord.merch": {
+    "description": "",
+    "message": "Discords Merch"
+  },
   "discord.merch.collection": {
     "description": "",
     "message": "Visar kollektion:"
+  },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Modereringssidan"
+  },
+  "discord.newsroom": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Nyhetsrummets sida"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "Läser om Nitro..."
+  },
+  "discord.opensource": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Open Source sidan"
+  },
+  "discord.partner": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Partnersidan"
+  },
+  "discord.policies": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "policyer"
+  },
+  "discord.rpc": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Rich Presence sidan"
+  },
+  "discord.safety": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Säkerhetscentret"
+  },
+  "discord.security": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Säkerhetssidan"
+  },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Tittar på inställningarna{0}för server: {1}"
   },
   "discord.settings": {
     "description": "",
     "message": "Tittar på deras inställningar..."
   },
+  "discord.status": {
+    "description": "",
+    "message": "Discords status"
+  },
+  "discord.streamkit": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "StreamKit sidan"
+  },
   "discord.support": {
     "description": "",
     "message": "Hjälpcenter"
+  },
+  "discord.verification": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Verifieringssidan"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Röst ansluten till:{0}{1} (Server: {2})"
+  },
+  "discord.voiceConnectedWith": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
+    "message": "Röst ansluten med:{0}{1}"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "\"Varför Discord?\" sidan"
   }
 }

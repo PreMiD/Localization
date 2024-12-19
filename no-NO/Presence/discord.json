@@ -3,8 +3,64 @@
     "description": "The first part of the next 17 strings",
     "message": "Blar igjennom"
   },
+  "discord.channelReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Leser i kanal:{0}{1} (Server: {2})"
+  },
+  "discord.channelTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Skriver i kanal:{0}{1} (Server: {2})"
+  },
+  "discord.devs.appsEdit": {
+    "description": "{0} will be replaced with the name of the app.",
+    "message": "Redigerer app: {0}"
+  },
+  "discord.devs.docs": {
+    "description": "",
+    "message": "Leser dokumentasjonen"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "Utviklerportal"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "Redigerer lag: {0}"
+  },
+  "discord.dmReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Leser direktemeldinger fra:{0}{1}"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Skriver i DM til:{0}{1}"
+  },
+  "discord.friends": {
+    "description": "",
+    "message": "Ser på deres venner..."
+  },
+  "discord.merch.collection": {
+    "description": "",
+    "message": "Ser på kolleksjon:"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "Leser om Nitro..."
+  },
+  "discord.settings": {
+    "description": "",
+    "message": "Ser på deres innstillinger..."
+  },
+  "discord.status": {
+    "description": "",
+    "message": "Discord-status"
+  },
   "discord.support": {
     "description": "",
     "message": "Hjelpesenter"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "\"Hvorfor Discord?\""
   }
 }

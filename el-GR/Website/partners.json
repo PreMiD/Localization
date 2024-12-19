@@ -1,7 +1,59 @@
 {
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Εφαρμογή"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Κλείσιμο"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Περιγραφή: (Μέγιστο 150 characters)"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Σύνδεσμος εικόνας: (550x300, μόνο PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Πχ: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Πχ: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Όνομα"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Πχ: PreMiD"
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Συνδεδεμένος ως {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Όχι εσείς;"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Παρακαλώ επιλέξτε ένα"
+  },
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "Άλλα"
+  },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Ιστοσελίδα"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Ευχαριστούμε για την αίτηση!"
   },
   "partners.header.title": {
     "description": "Heading for page.",

@@ -15,6 +15,10 @@
     "description": "Displayed when viewing emails in the forums category.",
     "message": "포럼 카테고리 보는 중"
   },
+  "gmail.categoryPrimary": {
+    "description": "Displayed when viewing emails in the primary category.",
+    "message": "주요 카테고리 보는 중"
+  },
   "gmail.categoryPromotions": {
     "description": "Displayed when viewing emails in the promotions category.",
     "message": "프로모션 카테고리 보는 중"

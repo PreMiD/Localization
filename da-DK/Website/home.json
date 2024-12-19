@@ -19,17 +19,41 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
     "message": "{0} tilbage"
   },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} forløbet"
+  },
   "home.features.heading": {
     "description": "Features section",
     "message": "Du vil elske disse funktioner!"
+  },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "Besøg butik"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "Vi har oprettet vores udvidelse på en måde, så du kan tilføje og bruge tilstedeværelser oprettet af andre og administrere dem i vores udvidelse!"
   },
   "home.features.presencesystem.heading": {
     "description": "Features section subheading",
     "message": "Find **din** presence"
   },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "Meld dig ind i vores Discord"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "Er der noget galt, sender dig tonsvis af fejl eller virker det simpelthen ikke? Vi hjælper dig med at slippe af med disse problemer på vores Discord-server. Vi har også skabt vores helt eget supportsystem, der sørger for, at dit problem bliver løst så hurtigt som muligt."
+  },
   "home.features.quickSupport.heading": {
     "description": "Features section subheading",
     "message": "Hurtig support"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "Træt af komplicerede brugergrænseflader? Det er derfor, vi har skabt og forsøger at holde vores brugergrænseflade så enkel og nyttig som muligt med vigtige funktioner som:"
   },
   "home.features.simpleInterface.description.1": {
     "description": "Features section description point",
@@ -39,6 +63,10 @@
     "description": "Features section description point",
     "message": "Presence Administration"
   },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "Sorter efter kategori"
+  },
   "home.features.simpleInterface.heading": {
     "description": "Features section subheading",
     "message": "Enkel brugergrænseflade"
@@ -46,5 +74,17 @@
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "Installationer"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "Funktioner"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "**PreMiD** er et simpelt, konfigurerbart værktøj, der giver dig mulighed for at vise, hvad du laver på nettet i din Discord-status, der spiller nu."
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "Websted-sprog"
   }
 }

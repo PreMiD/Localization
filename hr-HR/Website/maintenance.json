@@ -7,6 +7,18 @@
     "description": "Discord Server link on maintenance page",
     "message": "Discord Server"
   },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Nažalost, imamo nekih tehničkih poteškoća. Uskoro ćemo se vratiti. Oprostite na neugodnosti."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Vrati se kasnije za više informacija."
+  },
+  "maintenance.message": {
+    "description": "Message on maintenance page",
+    "message": "Sve dok naši posebni developeri to ne riješe, pogledajte ovdje!"
+  },
   "maintenance.statuspage": {
     "description": "Status Page link on maintenance page",
     "message": "Stranica Statusa"

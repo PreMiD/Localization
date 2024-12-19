@@ -18,5 +18,9 @@
   "twitcasting.browsingVideos": {
     "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
     "message": "Böngészés videók között"
+  },
+  "twitcasting.ofChannel": {
+    "description": "Second part of previous string",
+    "message": "Csatorna:"
   }
 }

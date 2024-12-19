@@ -19,13 +19,41 @@
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
     "message": "{0} נשארו"
   },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} חלף"
+  },
   "home.features.heading": {
     "description": "Features section",
     "message": "אתה תאהב את התכונות האלה!"
   },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "בקר בחנות"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "יצרנו את התוסף שלנו באופן שמאפשר להוסיף ולהשתמש ב- Presences שנוצרו על ידי אחרים ולנהל אותם בתוסף שלנו!"
+  },
+  "home.features.presencesystem.heading": {
+    "description": "Features section subheading",
+    "message": "מצא את הPresence **שלך**"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "הצטרף לדיסקורד שלנו"
+  },
+  "home.features.quickSupport.description": {
+    "description": "Features section description",
+    "message": "משהו התקלקל, שולח לך המון שגיאות או פשוט לא עובד? אנו נעזור לך להיפטר מהבעיות בשרת ה-Discord שלנו, יצרנו גם מערכת תמיכה משלנו שתבטיח שהבעיה שלך תיפתר בהקדם האפשרי."
+  },
   "home.features.quickSupport.heading": {
     "description": "Features section subheading",
     "message": "תמיכה מהירה"
+  },
+  "home.features.simpleInterface.description": {
+    "description": "Features section description",
+    "message": "נמאס לכם ממשקי משתמש מסובכים? לכן יצרנו וננסה לשמור על ממשק המשתמש שלנו פשוט ושימושי ככל האפשר עם תכונות חשובות כמו:"
   },
   "home.features.simpleInterface.description.1": {
     "description": "Features section description point",
@@ -35,6 +63,10 @@
     "description": "Features section description point",
     "message": "ניהול Presence"
   },
+  "home.features.simpleInterface.description.3": {
+    "description": "Features section description point",
+    "message": "ממויין לפי קטגוריה"
+  },
   "home.features.simpleInterface.heading": {
     "description": "Features section subheading",
     "message": "ממשק משתמש פשוט"
@@ -42,5 +74,17 @@
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "הורדות"
+  },
+  "home.introduction.button.features": {
+    "description": "Introduction button",
+    "message": "אפשרויות"
+  },
+  "home.introduction.paragraph": {
+    "description": "First phrase that users read on our website",
+    "message": "**PreMiD** הוא כלי פשוט להגדרה המאפשר לך להראות מה אתה עושה באינטרנט בסטטוס ה- Discord שלך בזה הרגע."
+  },
+  "home.languageSelector.tippy": {
+    "description": "Tippy content of the language selector.",
+    "message": "שפת האתר"
   }
 }

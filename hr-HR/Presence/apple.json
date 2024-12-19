@@ -1,4 +1,8 @@
 {
+  "apple.devDocs": {
+    "description": "Developer documentation",
+    "message": "Dokumentacija"
+  },
   "apple.devFeatures": {
     "description": "Features for app design",
     "message": "Značajke"

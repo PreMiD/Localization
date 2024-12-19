@@ -11,13 +11,45 @@
     "description": "",
     "message": "Nejlepší podcasty"
   },
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "Prohlíží"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "Zobrazení grafů"
+  },
   "spotify.discover": {
     "description": "",
     "message": "Objevování nových skladeb"
   },
+  "spotify.download": {
+    "description": "",
+    "message": "Stahování Spotify"
+  },
+  "spotify.featured": {
+    "description": "",
+    "message": "Doporučené skladby"
+  },
+  "spotify.genres": {
+    "description": "",
+    "message": "Prohlížení žánrů"
+  },
+  "spotify.latest": {
+    "description": "",
+    "message": "Zobrazení nejnovějších vydání"
+  },
   "spotify.madeForYou": {
     "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
     "message": "\"Vytvořeno pro tebe\""
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "jejich playlisty"
+  },
+  "spotify.podcastsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "podcasty, které se jim líbí"
   },
   "spotify.songsLike": {
     "description": "\"Browsing through\" + this",

@@ -1,6 +1,22 @@
 {
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Peržiūri istoriją:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Peržiūri naujausius pakeitimus"
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "Kažkas įkeliama..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "Prisijungia"
+  },
+  "minecraft wiki.settings": {
+    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
+    "message": "Konfiguruoja nustatymus"
   }
 }

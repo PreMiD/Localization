@@ -23,6 +23,10 @@
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
     "message": "채널에서 입력 중:{0}{1} (서버: {2})"
   },
+  "discord.college": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "대학 페이지"
+  },
   "discord.company": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "소개 페이지"
@@ -38,6 +42,10 @@
   "discord.devs.docs": {
     "description": "",
     "message": "문서 읽는 중"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "개발자 포털"
   },
   "discord.devs.serversBrowse": {
     "description": "",
@@ -79,6 +87,10 @@
     "description": "",
     "message": "친구 목록 보는 중..."
   },
+  "discord.inspiration": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "영감 페이지"
+  },
   "discord.invite": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
     "message": "초대 링크 보는 중:{0}{1} (서버: {2})"
@@ -99,6 +111,10 @@
     "description": "",
     "message": "컬렉션 보는 중:"
   },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "관리자 페이지"
+  },
   "discord.newsroom": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "뉴스 페이지"
@@ -115,6 +131,10 @@
     "description": "Second part of the \"Browsing through\" string",
     "message": "파트너 페이지"
   },
+  "discord.policies": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "정책"
+  },
   "discord.rpc": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "Rich Presence 페이지"
@@ -122,6 +142,10 @@
   "discord.safety": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "안전 센터"
+  },
+  "discord.security": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "보안 페이지"
   },
   "discord.serverSettings": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
@@ -154,5 +178,9 @@
   "discord.voiceConnectedWith": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
     "message": "음성 채널에 연결 중:{0}{1}"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "\"왜 디스코드?\" 페이지"
   }
 }

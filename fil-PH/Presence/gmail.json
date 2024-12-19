@@ -1,1 +1,122 @@
-{}
+{
+  "gmail.accountSetting": {
+    "description": "Displayed when the user is modifying their account's settings",
+    "message": "Kino-configure ang Account at mga Import setting"
+  },
+  "gmail.addonsSettings": {
+    "description": "Displayed when the user is modifying their add-ons",
+    "message": "Kino-configure ang mga Add-on"
+  },
+  "gmail.advancedSettings": {
+    "description": "Displayed when the user is modifying their advanced settings",
+    "message": "Kino-configure ang mga naka-Advance setting"
+  },
+  "gmail.categoryForum": {
+    "description": "Displayed when viewing emails in the forums category.",
+    "message": "Tinitingnan ang category ng mga Forum"
+  },
+  "gmail.categoryPrimary": {
+    "description": "Displayed when viewing emails in the primary category.",
+    "message": "Tinitingnan ang category ng Primary"
+  },
+  "gmail.categoryPromotions": {
+    "description": "Displayed when viewing emails in the promotions category.",
+    "message": "Tinitingnan ang category ng mga Promotion"
+  },
+  "gmail.categorySocial": {
+    "description": "Displayed when viewing emails in the social category.",
+    "message": "Tinitingnan ang category ng Social"
+  },
+  "gmail.categoryUpdates": {
+    "description": "Displayed when viewing emails in the updates category.",
+    "message": "Tinitingnan ang category ng mga Update"
+  },
+  "gmail.chatSettings": {
+    "description": "Displayed when the user is modifying their chat settings",
+    "message": "Kino-configure ang Chat at mga Meet setting"
+  },
+  "gmail.composingEmail": {
+    "description": "Displayed when the user is composing an email",
+    "message": "Nagko-compose ng isang email"
+  },
+  "gmail.filterSettings": {
+    "description": "Displayed when the user is modifying their filters and blocked addresses",
+    "message": "Kino-configure ang mga Filter at naka-Block na mga Address"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
+    "message": "Kino-configure ang mga Forwarding at mga POP/IMAP setting"
+  },
+  "gmail.generalSettings": {
+    "description": "Displayed when the user is modifying their settings",
+    "message": "Kino-configure ang mga General setting"
+  },
+  "gmail.inLabel": {
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
+    "message": "Tumitingin ng label"
+  },
+  "gmail.inboxSettings": {
+    "description": "Displayed when the user is modifying their inbox settings",
+    "message": "Kino-configure ang mga Inbox setting"
+  },
+  "gmail.labelSettings": {
+    "description": "Displayed when the user is modifying their labels",
+    "message": "Kino-configure ang mga Label setting"
+  },
+  "gmail.lookingForEmail": {
+    "description": "Displayed when the user is searching for an email",
+    "message": "Tumitingin para sa isang email"
+  },
+  "gmail.offlineSettings": {
+    "description": "Displayed when the user is modifying their offline settings",
+    "message": "Kino-configure ang mga Offline setting"
+  },
+  "gmail.themesSettings": {
+    "description": "Displayed when the user is modifying their theme in the settings",
+    "message": "Nagpi-pick ng isang tema"
+  },
+  "gmail.viewingAllEmails": {
+    "description": "Displayed when the user is viewing all their emails",
+    "message": "Tinitingnan ang lahat na mga email"
+  },
+  "gmail.viewingChats": {
+    "description": "Displayed when the user is viewing their chats",
+    "message": "Tinitingnan ang mga chat"
+  },
+  "gmail.viewingDrafts": {
+    "description": "Displayed when the user is viewing their drafts",
+    "message": "Tinitingnan ang mga draft"
+  },
+  "gmail.viewingEmail": {
+    "description": "Displayed when the user is viewing an email",
+    "message": "Tinitingnan ang isang email"
+  },
+  "gmail.viewingImportantEmails": {
+    "description": "Displayed when the user is viewing emails marked as important",
+    "message": "Tinitingnan ang mga important email"
+  },
+  "gmail.viewingScheduled": {
+    "description": "Displayed when the user is viewing their scheduled emails",
+    "message": "Tinitingnan ang mga naka-schedule na email"
+  },
+  "gmail.viewingSentEmails": {
+    "description": "Displayed when the user is viewing the emails they have sent",
+    "message": "Tinitingnan ang mga naka-send na email"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "description": "Displayed when the user is viewing their snoozed emails",
+    "message": "Tinitingnan ang mga naka-snooze na email"
+  },
+  "gmail.viewingSpam": {
+    "description": "Displayed when the user is viewing their spam",
+    "message": "Tinitingnan ang mga spam na email"
+  },
+  "gmail.viewingStarredEmails": {
+    "description": "Displayed when the user is viewing emails marked with a star",
+    "message": "Tinitingnan ang mga naka-star na email"
+  },
+  "gmail.viewingTrash": {
+    "description": "Displayed when the user is viewing their trash",
+    "message": "Tinitingnan ang trash"
+  }
+}

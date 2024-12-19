@@ -271,13 +271,65 @@
 		"description": "Button to link the Discord account",
 		"message": "Discord'u bağla"
 	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Söyleyecek bir şeyin mi var?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Geri bildirim gönderin"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Bir hatayı veya sorunu bildirin"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Uzantıyla İlgili Bir Hatayı veya Sorunu Bildirin"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Özellik önerin"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Diğer"
 	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Geri bildirim"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Neler oluyor? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Lütfen göndermek istediğiniz geri bildirim türünü seçin."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Bir hatayı veya sorunu bildirin"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Ah hayır! 😱 Bir Varlıkla ilgili sorunlar yaşadığınızı duyduğuma üzüldüm.\n\nVarlıklarımız topluluk tarafından korunmaktadır; bu nedenle lütfen bir Varlıkla ilgili yaşadığınız sorunları GitHub depomuzda bildirin.\n\nAşağıda İletişim Durumunu seçerseniz İletişim Durumunuzun ayrıntılarını otomatik olarak sorun şablonuna ekleyeceğiz."
+	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "İptal"
+	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Gönder"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Uzantıyla İlgili Bir Hatayı veya Sorunu Bildirin"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Özellik önerin"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",

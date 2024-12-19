@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "Visar deras DMs"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Tittar på spel:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Tittar på personallistan"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Tittar på deras sedda forum"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Tittar på deras sedda trådar"
+  }
+}

@@ -1,11 +1,23 @@
 {
+  "amazon.adprefs": {
+    "description": "",
+    "message": "Ser på sine annonsepreferanser"
+  },
   "amazon.cart": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "handlekurv"
   },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "Ser på alle kategorier"
+  },
   "amazon.giftcards": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "gavekort"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "Ser på sin historikk"
   },
   "amazon.orderDetails": {
     "description": "Part 2 of the string: \"Viewing their\"",
@@ -15,9 +27,37 @@
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "ordrehistorikk"
   },
+  "amazon.payment": {
+    "description": "",
+    "message": "Ser på betalingsmåter"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "Ser på sine kjæledyr"
+  },
   "amazon.prime": {
     "description": "",
     "message": "Ser på Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "Ser på Prime-video:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "Ser på anbefalt"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "Ser på nettbutikk:"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "Ser på sine abonnementer"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "Ser på deres"
   },
   "amazon.wishlist": {
     "description": "Part 2 of the string: \"Viewing their\"",

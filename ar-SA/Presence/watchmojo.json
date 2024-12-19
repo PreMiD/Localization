@@ -2,5 +2,17 @@
   "watchmojo.buttonPlayTrivia": {
     "description": "Used as the title for the button in Discord.",
     "message": "لعب تريفيا"
+  },
+  "watchmojo.playingTrivia": {
+    "description": "For privacy mode, \"a\" as in unspecified.",
+    "message": "تشغيل لعبة تريفيا"
+  },
+  "watchmojo.trivia": {
+    "description": "{0} will be replaced with the name of the Trivia game",
+    "message": "اللعب ثلاثي: {0}"
+  },
+  "watchmojo.triviaGame": {
+    "description": "The round and score of the Trivia game the user is playing.",
+    "message": "الجولة {0} من {1} (النتيجة: {2}/{3})"
   }
 }

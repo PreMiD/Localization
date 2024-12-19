@@ -1,1 +1,18 @@
-{}
+{
+  "tiktok.buttonViewTikTok": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Žiūrėti TikTok"
+  },
+  "tiktok.following": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Peržiūri savo{0}sekama puslapį"
+  },
+  "tiktok.forYou": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Peržiūri savo{0}Skirta jums puslapį"
+  },
+  "tiktok.viewing": {
+    "description": "Name of the user will be after the \":\"",
+    "message": "Peržiūri TikTok asmens:"
+  }
+}

@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Järjehoidjad"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Avasta"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Teavitused"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "posti lugemine:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Mõne sätte muutmine..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "DM-ide vaatamine"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Meeldimiste vaatamine:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Nimekirja vaatamine:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Meediumite vaatamine:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "posti vaatamine:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "posti (koos vastustega) vaatamine:"
   }
 }

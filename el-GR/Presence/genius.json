@@ -1,4 +1,8 @@
 {
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "Προβάλει των στίχων του:"
+  },
   "genius.viewHome": {
     "description": "",
     "message": "Προβάλει την αρχική σελίδα"

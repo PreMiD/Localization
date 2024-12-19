@@ -1,1 +1,34 @@
-{}
+{
+  "9gag.about": {
+    "description": "",
+    "message": "خواندن همه چیز درباره 9GAG"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "نگاه کردن مجموعه:"
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "نگاه کردن چیز های تازه"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "نگاه کردن gag:"
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "نگاه کردن چیز های داغ"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "نگاه کردن صفحه فروشگاه"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "نگاه کردن تگ:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "مشاهده چیز های بروز"
+  }
+}

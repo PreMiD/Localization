@@ -1,6 +1,42 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Zaznamki"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Razišči"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Obvestila"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Spreminjanje nekaterih nastavitev..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Ogledovanje njihovih DM-jev"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Ogledovanje všečkanje od:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Ogledovanje list-a:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Ogledovanje medijev od:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Ogledovanje post-a od:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Ogledovanje post-a (z odgovori) od:"
   }
 }

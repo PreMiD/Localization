@@ -1,14 +1,262 @@
 {
+  "twitch.access": {
+    "description": "Page name",
+    "message": "Tillgänglighet"
+  },
+  "twitch.achievements": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Trofér"
+  },
+  "twitch.activity": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Community aktivitet"
+  },
+  "twitch.ads": {
+    "description": "Page name",
+    "message": "Annonsval"
+  },
+  "twitch.affiliate": {
+    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
+    "message": "Twitch Affiliate Program"
+  },
+  "twitch.blogArchive": {
+    "description": "{0} will be replaced with the year",
+    "message": "Visar {0} Bloggarkiv"
+  },
+  "twitch.blogBrowse": {
+    "description": "",
+    "message": "Bläddra igenom de senaste blogginläggen..."
+  },
+  "twitch.blogs": {
+    "description": "",
+    "message": "Twitch Bloggar"
+  },
+  "twitch.brand": {
+    "description": "",
+    "message": "Läser om Twitch Brand..."
+  },
+  "twitch.brandExpression": {
+    "description": "Page name",
+    "message": "Maxar vårt uttryck"
+  },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "Medför metod till vår (älskade) galenskap"
+  },
+  "twitch.brandReal": {
+    "description": "Page name",
+    "message": "Håller Twitch verkligt"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "För samman allt"
+  },
+  "twitch.brandWatch": {
+    "description": "Watching as in watching a video",
+    "message": "Titta på varumärkes utvecklingen av Twitch"
+  },
+  "twitch.camp": {
+    "description": "",
+    "message": "Läger för skapare"
+  },
+  "twitch.campBasic": {
+    "description": "Page name",
+    "message": "Lär dig grunderna"
+  },
+  "twitch.campConnect": {
+    "description": "Page name",
+    "message": "Anslut och Engagera"
+  },
+  "twitch.campLevel": {
+    "description": "Page name",
+    "message": "Levla Upp"
+  },
+  "twitch.campLive": {
+    "description": "Page name",
+    "message": "Live-lärande"
+  },
+  "twitch.campMusic": {
+    "description": "Page name",
+    "message": "Musik på Twitch"
+  },
+  "twitch.campReward": {
+    "description": "Page name",
+    "message": "Få belöningar"
+  },
+  "twitch.campSetup": {
+    "description": "Page name",
+    "message": "Konfigurerar sin Stream"
+  },
+  "twitch.channelAnaly": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Kanalanalys"
+  },
+  "twitch.channelSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Kanalinställningar"
+  },
+  "twitch.clips": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Klipp"
+  },
+  "twitch.colls": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Videosamlingar"
+  },
+  "twitch.dashboard": {
+    "description": "Page name",
+    "message": "Skaparens instrumentpanel"
+  },
+  "twitch.dashboardManage": {
+    "description": "",
+    "message": "Hanterar deras stream..."
+  },
+  "twitch.dev": {
+    "description": "Page name",
+    "message": "Twitch utvecklare"
+  },
+  "twitch.devDocs": {
+    "description": "Page name",
+    "message": "Dokumentation för Twitch-utvecklare"
+  },
+  "twitch.devProduct": {
+    "description": "Page name",
+    "message": "Produkter för Twitch-utvecklare"
+  },
+  "twitch.devShowcase": {
+    "description": "Page name",
+    "message": "Framgångsberättelser från gemenskapen"
+  },
+  "twitch.devSupport": {
+    "description": "Page name",
+    "message": "Hjälpsamma resurser"
+  },
   "twitch.downloads": {
     "description": "Page name",
-    "message": "Hämtningar"
+    "message": "Nedladdningar"
+  },
+  "twitch.dropsSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Drops inställningar"
+  },
+  "twitch.esports": {
+    "description": "",
+    "message": "Titar på Esport..."
+  },
+  "twitch.extensions": {
+    "description": "",
+    "message": "Visar tilläggen"
+  },
+  "twitch.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Följarlista"
+  },
+  "twitch.guidelines": {
+    "description": "Page name",
+    "message": "Gemenskapsriktlinjer"
+  },
+  "twitch.help": {
+    "description": "Page name",
+    "message": "Hjälpcenter"
+  },
+  "twitch.helpTopic": {
+    "description": "",
+    "message": "Visar ämne:"
+  },
+  "twitch.helpTopicCatalog": {
+    "description": "",
+    "message": "Bläddrar igenom ämneskatalogen..."
+  },
+  "twitch.home": {
+    "description": "Page name",
+    "message": "Hemsida"
+  },
+  "twitch.jobs": {
+    "description": "Page name",
+    "message": "Jobb"
+  },
+  "twitch.manageRoles": {
+    "description": "",
+    "message": "Hanterar deras community roller..."
+  },
+  "twitch.modStreamer": {
+    "description": "",
+    "message": "Modererar streamer:"
+  },
+  "twitch.moderationSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Moderationsinställningar"
   },
   "twitch.partners": {
     "description": "Page name",
     "message": "Partners"
   },
+  "twitch.press": {
+    "description": "Page name",
+    "message": "Press Center"
+  },
+  "twitch.produce": {
+    "description": "",
+    "message": "I video-producenten..."
+  },
+  "twitch.redeem": {
+    "description": "",
+    "message": "Löser in en kod..."
+  },
+  "twitch.security": {
+    "description": "Page name",
+    "message": "Säkerhet"
+  },
+  "twitch.squad": {
+    "description": "",
+    "message": "Titta Squad..."
+  },
+  "twitch.streamSum": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Sammanfattning av stream"
+  },
+  "twitch.subs": {
+    "description": "",
+    "message": "Titar på deras prenumerationer..."
+  },
+  "twitch.tools": {
+    "description": "",
+    "message": "Visar Streaming verktyg"
+  },
+  "twitch.turbo": {
+    "description": "Page name",
+    "message": "Turbo"
+  },
+  "twitch.viewDropsComp": {
+    "description": "",
+    "message": "Titar på de aktiva Drops kampanjerna..."
+  },
+  "twitch.viewDropsInv": {
+    "description": "",
+    "message": "Titar på deras Drops inventory..."
+  },
+  "twitch.viewFollow": {
+    "description": "",
+    "message": "Titar på människor jag följer..."
+  },
+  "twitch.viewFriends": {
+    "description": "",
+    "message": "Tittar på deras vänner..."
+  },
+  "twitch.viewSettings": {
+    "description": "",
+    "message": "Tittar på deras inställningar..."
+  },
+  "twitch.viewTeam": {
+    "description": "",
+    "message": "Titar på team:"
+  },
   "twitch.viewTheir": {
     "description": "Part 1 of the next 10 strings",
     "message": "Tittar på deras"
+  },
+  "twitch.wallet": {
+    "description": "",
+    "message": "Titar på plånbok..."
   }
 }

@@ -1,4 +1,8 @@
 {
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "Ennek a dalszövegét nézi:"
+  },
   "genius.viewAlbum": {
     "description": "Album of a song",
     "message": "Albumot néz:"

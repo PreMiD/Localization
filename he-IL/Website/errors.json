@@ -1,6 +1,46 @@
 {
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "אתה מחפש Presence שאינו קיים או שנמחק."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "מצטערים, לא הצלחנו למצוא את הדף הזה."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "אירעה שגיאת שרת פנימית."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "בחזרה לעמוד הבית"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "פרטים"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "לא הצלחנו למצוא את ה Presence הזה..."
+  },
   "user.notFound.heading": {
     "description": "Error when user couldn't be found.",
     "message": "המשתמש הזה לא נמצא. נסה לוודא"
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "הID של המשתמש שאתה מחפש הוא נכון."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "המשתמש יצר מספיק Presences ויש לו את רול ה\"Presence Developer\" בשרת הדיסקורד שלנו."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "בדוק אם אחרים נתקלים באותה הבעיה בשרת הדיסקורד שלנו."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "אם אתה מאמין שזאת הייתה טעות, בבקשה צור איתנו קשר ב [our Discord server]."
   }
 }

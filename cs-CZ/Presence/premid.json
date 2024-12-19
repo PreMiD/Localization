@@ -27,6 +27,10 @@
     "description": "A page name",
     "message": "Domovská stránka"
   },
+  "premid.pageIframe": {
+    "description": "A page name",
+    "message": "Pochopení iframe"
+  },
   "premid.pageInstall": {
     "description": "A page name",
     "message": "Instalace"
@@ -46,6 +50,14 @@
   "premid.pagePresenceDev": {
     "description": "A page name",
     "message": "Vývoj přítomnosti"
+  },
+  "premid.pagePresenceGuide": {
+    "description": "A page name",
+    "message": "Pokyny k Presencím"
+  },
+  "premid.pageSlideshowClass": {
+    "description": "A page name",
+    "message": "Prezentační třída"
   },
   "premid.pageStart": {
     "description": "A page name",

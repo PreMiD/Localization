@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "الإشارات المرجعيّة"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "استكشاف"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "الإشعارات"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "يشاهد التغريدة:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "يغيير بعض الإعدادات..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "يشاهد الرسائل المباشرة الخاصة بهم"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "يشاهد معجبين من طرفـ:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "يشاهد القائمة:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "يشاهد وسائط الإعلام التالية:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "يشاهد تغريدات ل:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "يشاهدلتغريدات (مع الردود) ل:"
   }
 }

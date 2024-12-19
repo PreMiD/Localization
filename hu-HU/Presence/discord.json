@@ -99,6 +99,10 @@
     "description": "Second part of the \"Browsing through\" string",
     "message": "a StreamKit oldalt"
   },
+  "discord.support": {
+    "description": "",
+    "message": "Súgóközpont"
+  },
   "discord.verification": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "a Hitelesítés oldalt"

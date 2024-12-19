@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "Ваш додаток PreMiD застарів. Будь ласка, оновіть його для продовження використання PreMiD."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Розширення вимкнено"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Розширення PreMiD вимкнено в налаштуваннях. Увімкніть його, щоб продовжити використання PreMiD."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Переконайтеся, що ви ввімкнули параметр «Відображати поточну активність як повідомлення про статус» у налаштуваннях Discord."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD не вдалося знайти Presence для ваших поточних вкладок. Будь ласка, переконайтеся, що ви встановили Presence для сайту, на якому ви знаходитесь. Якщо ви встановили Presence, спробуйте перезавантажити сайт, і переконайтеся, що ввімкнули Presence в налаштуваннях."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Творці"
@@ -118,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Інформація"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Діагностика"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -150,6 +170,38 @@
 	"popup.setting.titleMenubar": {
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Заголовок рядка меню"
+	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Синхронізація мови"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Бажана мова Presence"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Пульсація"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Версія розширення: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Версія програми: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Не підключено до програми PreMiD"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Користувач Discord: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Не підключено до програми Discord"
 	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",

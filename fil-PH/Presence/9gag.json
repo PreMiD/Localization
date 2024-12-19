@@ -1,1 +1,34 @@
-{}
+{
+  "9gag.about": {
+    "description": "",
+    "message": "Nagbabasa lahat about sa 9GAG"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "Tumitingin ng collection:"
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "Tumitingin ano'ng fresh"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "Tumitingin ng gag:"
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "Tumitingin ano'ng hot"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "Tumitingin ng store page"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "Tumitingin ng tag:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "Tinitingnan ano ang trending"
+  }
+}

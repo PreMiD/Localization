@@ -1,6 +1,74 @@
 {
+  "amazon.address": {
+    "description": "",
+    "message": "مشاهده آدرسشان"
+  },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "نگاه کردن تنظیمات تبلیغ های ترجیح داده شان"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "مشاهده میزان اعتبارشان"
+  },
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "سبد خرید"
+  },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "مشاهده تمام دسته بندی ها"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "گیفت کارت ها"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "مشاهده تاریخچه"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "جزییات سفارش"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "تاریخچه سفارشات"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "مشاهده شیوه های پرداخت"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "مشاهده حیوانات خانگی‌شان"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "مشاهده Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "درحال مشاهده ویدیو Prime:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "مشاهده موارد توصیه شده"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "نگاه کردن فروشگاه:"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "مشاهده اشتراک‌هایشان"
+  },
   "amazon.viewTheir": {
     "description": "Part 1 of the next 5 strings",
     "message": "درحال مشاهده"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "لیست علاقه‌مندی‌ها"
   }
 }

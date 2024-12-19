@@ -23,6 +23,10 @@
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
     "message": "讚"
   },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "這個 Presence 比以下使用 RegExp 列出的網址還有更多。擺放鼠標來查看圖案。"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "支援的URL"

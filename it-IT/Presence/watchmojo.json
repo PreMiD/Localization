@@ -1,1 +1,18 @@
-{}
+{
+  "watchmojo.buttonPlayTrivia": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Gioca a Curiosità"
+  },
+  "watchmojo.playingTrivia": {
+    "description": "For privacy mode, \"a\" as in unspecified.",
+    "message": "Giocando un gioco di Curiosità"
+  },
+  "watchmojo.trivia": {
+    "description": "{0} will be replaced with the name of the Trivia game",
+    "message": "Giocando a Curiosità: {0}"
+  },
+  "watchmojo.triviaGame": {
+    "description": "The round and score of the Trivia game the user is playing.",
+    "message": "Round {0} di {1} (Punteggio: {2}/{3})"
+  }
+}

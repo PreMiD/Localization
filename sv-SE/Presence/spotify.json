@@ -1,1 +1,58 @@
-{}
+{
+  "spotify.albumLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "album som de gillar"
+  },
+  "spotify.artistsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "artister som de gillar"
+  },
+  "spotify.bestPodcasts": {
+    "description": "",
+    "message": "Bästa podcasts"
+  },
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "Bläddrar igenom"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "Tittar på topplistan"
+  },
+  "spotify.discover": {
+    "description": "",
+    "message": "Upptäcker nya låtar"
+  },
+  "spotify.download": {
+    "description": "",
+    "message": "Laddar ner Spotify"
+  },
+  "spotify.featured": {
+    "description": "",
+    "message": "Utvalda låtar"
+  },
+  "spotify.genres": {
+    "description": "",
+    "message": "Bläddrar bland genrer"
+  },
+  "spotify.latest": {
+    "description": "",
+    "message": "Tittar på de senaste låtarna"
+  },
+  "spotify.madeForYou": {
+    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
+    "message": "\"Bara för dig\""
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "sina spellistor"
+  },
+  "spotify.podcastsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "podcasts som de gillar"
+  },
+  "spotify.songsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "låtar som de gillar"
+  }
+}

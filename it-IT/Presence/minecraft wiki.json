@@ -1,7 +1,23 @@
 {
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Modifica delle impostazioni di protezione per:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Visualizzando i contributi di:"
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "Caricando qualcosa..."
+  },
+  "minecraft wiki.login": {
+    "description": "Used when a user is logging in",
+    "message": "Accesso in corso"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Visualizza Discussione"
   },
   "minecraft wiki.settings": {
     "description": "Displayed when a user is viewing their Minecraft Wiki settings",

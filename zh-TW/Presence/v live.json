@@ -2,5 +2,13 @@
   "v live.browseThrough": {
     "description": "The first part of the next 6 strings",
     "message": "遊覽中"
+  },
+  "v live.viewTheir": {
+    "description": "The first part of the next 6 strings",
+    "message": "查看他們"
+  },
+  "v live.watched": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "已觀看過的影片"
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+  "1337x.latestEpisode": {
+    "description": "",
+    "message": "Προβολή των πιο πρόσφατων επεισοδίων"
+  },
+  "1337x.movieLibrary": {
+    "description": "",
+    "message": "Προβολή της βιβλιοθήκης ταινιών"
+  },
+  "1337x.seriesLibrary": {
+    "description": "",
+    "message": "Προβολή της βιβλιοθήκης της σειράς"
+  },
+  "1337x.trending": {
+    "description": "",
+    "message": "Προβάλει τι είναι δημοφιλές"
+  }
+}

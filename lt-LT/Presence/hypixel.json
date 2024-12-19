@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "Peržiūrimi jų DM'ai"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Žaidimo peržiūra:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Peržiūrimas darbuotojų sąrašas"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Peržiūrimi jų peržiūrėti forumai"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Žiūrimos jų stebimos gijos"
+  }
+}

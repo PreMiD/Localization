@@ -3,6 +3,10 @@
 		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
 		"message": "Ủng hộ"
 	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "Changelog"
@@ -59,13 +63,145 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "Xử lý sự cố"
 	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "Gặp vấn đề với {0} không?"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Tiện ích đã được kích hoạt"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Kết nối Internet"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Đã kết nối với Ứng dụng PreMiD"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Đã kết nối với Ứng dụng Discord"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Đã bật thông báo trạng thái Discord"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Presence để hiển thị"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "Để sử dụng PreMiD bạn cần kết nối với tài khoản Discord của bạn. Đơn giản chỉ cần bấm vào nút bên dưới."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD đã được cập nhật!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Có gì mới 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Tính năng"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Sửa lỗi"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Hệ thống"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Thay đổi chung"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Liên kết với tài khoản Discord của bạn"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Kể từ phiên bản v2.6.0, PreMiD yêu cầu liên kết tài khoản Discord để hoạt động tốt hơn. Vui lòng liên kết tài khoản Discord của bạn để tiếp tục sử dụng PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Liên kết với tài khoản Discord của bạn"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Có gì tiếp theo?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Chúng tôi mong bạn tận hưởng bản cập nhật lần này! Nếu có bất kì phản hồi hoặc đóng góp nào, đừng ngại tham gia và chia sẻ tại server Discord của chúng tôi."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Tham gia server Discord của chúng tôi"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Chào mừng đến với PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Hãy bắt đầu nào!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Cài đặt tiện ích mở rộng PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Liên kết tài khoản Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Hãy đảm bảo rằng \"Chia sẻ những hoạt động đã phát hiện được với những người khác.\" đã được bật"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Cài đặt người dùng {0} Cài đặt hoạt động {0} Hoạt động riêng tư"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Liên kết tài khoản Discord của bạn"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Điều này sẽ cho phép PreMiD hiển thị hoạt động hiện tại của bạn bằng trạng thái tin nhắn"
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Tài khoản Discord đã được liên kết"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Di chuyển tới bước tiếp theo."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Tiếp theo"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Hãy đảm bảo rằng cài đặt \"Chia sẻ những hoạt động đã phát hiện được với những người khác.\" đã được bật, nếu không sẽ không ai nhìn thấy trạng thái của bạn."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Bật \"Chia sẻ những hoạt động đã phát hiện được với những người khác.\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Tất cả đã xong!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Bạn đã thiết lập xong và có thể sử dụng được rồi! Chúng tôi hy vọng bạn tận hưởng khi sử dụng PreMiD. Nếu có bất kì câu hỏi hoặc cần trợ giúp, đừng ngại tham gia server Discord của chúng tôi. Nếu bạn yêu thích PreMiD, bạn có thể cân nhắc việc ủng hộ cho chúng tôi, đánh giá tiện ích mở rộng, hoặc chia sẻ với bạn bè."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",

@@ -1,4 +1,68 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "Підключення..."
+  },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "Переглянути додаток"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "Переглянути розробника"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "Переглянути Подію"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "Переглянути {0}"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "Переглянути товар"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "Переглянути профіль {0}"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "Переглянути послугу"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "Переглянути студію {0}"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "Переглянути мітку"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Переглянути тему"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "Переглянути {0}"
+  },
+  "apple.chooseLang": {
+    "description": "Choosing the language of the website",
+    "message": "Вибір мови..."
+  },
+  "apple.comparing": {
+    "description": "e.g. \"Comparing: Apple Watch\"",
+    "message": "Порівняння:"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "Звернутися до служби підтримки"
+  },
+  "apple.devDistribution": {
+    "description": "Distribute software to the App Store",
+    "message": "Поширення програмного забезпечення"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "Документація"
@@ -11,8 +75,172 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "Ігри"
   },
+  "apple.devHIG": {
+    "description": "Guidelines for designing apps for the various Apple operating systems",
+    "message": "Інструкції з дизайну додатків"
+  },
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "Що нового"
+  },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "Новини та Оновлення"
+  },
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "Додатки для iPhone і iPad "
+  },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "Релізи"
+  },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "Ресурси"
+  },
+  "apple.devSubmit": {
+    "description": "Submit iOS and iPadOS apps to the App Store",
+    "message": "Як подати додатки"
+  },
+  "apple.devVidTopic": {
+    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
+    "message": "Перегляд теми відео"
+  },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "Відео"
+  },
+  "apple.forumCreateThread": {
+    "description": "Creating a forum thread",
+    "message": "Створення теми"
+  },
+  "apple.forumPreferences": {
+    "description": "Profile settings/preferences, e.g. change username",
+    "message": "Налаштування"
+  },
+  "apple.forumRegister": {
+    "description": "Register a new account (alternative translation: registering)",
+    "message": "Реєстрація"
+  },
+  "apple.forumTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "Ярлики форуму"
+  },
+  "apple.healthRecords": {
+    "description": "Health records of a person",
+    "message": "Записи про здоров'я"
+  },
+  "apple.healthcare": {
+    "description": "The organized provision of medical care to individuals or a community",
+    "message": "Охорона здоров'я"
+  },
+  "apple.iCloudCalendar": {
+    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Календар"
+  },
+  "apple.iCloudContacts": {
+    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Контакти"
+  },
+  "apple.iCloudKeynoteWait": {
+    "description": "Before the keynote begins, you'll be in the waiting room",
+    "message": "Кімната очікування"
+  },
+  "apple.iCloudMail": {
+    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Пошта"
+  },
+  "apple.iCloudNotes": {
+    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Нотатки"
+  },
+  "apple.iCloudPagesCreate": {
+    "description": "Creating a new Pages document",
+    "message": "Створення..."
+  },
+  "apple.iCloudPhotos": {
+    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Фотографії"
+  },
+  "apple.iCloudReminders": {
+    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Нагадування"
+  },
   "apple.other": {
     "description": "Other pages not added to the code",
     "message": "Інше"
+  },
+  "apple.overview": {
+    "description": "Overview of e.g. all pages of a category",
+    "message": "Перегляд"
+  },
+  "apple.productsPlatform": {
+    "description": "Products/platforms for companies",
+    "message": "Товари і Платформи"
+  },
+  "apple.purchasingAdvice": {
+    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
+    "message": "Покупка порад"
+  },
+  "apple.shopAccessories": {
+    "description": "Accessories for Apple products (e.g iPhone case)",
+    "message": "Аксесуари від Apple"
+  },
+  "apple.shopBag": {
+    "description": "Shopping cart",
+    "message": "Кошик"
+  },
+  "apple.shopBagSummary": {
+    "description": "The total price of the items in your bag (shopping cart)",
+    "message": "Всього: {0}"
+  },
+  "apple.shopBands": {
+    "description": "Bands (Bracelets) for the Apple Watch",
+    "message": "Браслети для Apple Watch"
+  },
+  "apple.shopFavorites": {
+    "description": "Favorite products",
+    "message": "Обране"
+  },
+  "apple.shopGiftCards": {
+    "description": "Gift cards for e.g. the App Store",
+    "message": "Подарункові картки"
+  },
+  "apple.shopPlanVisit": {
+    "description": "Plan your visit to the Apple Store",
+    "message": "Сплануйте відвідування"
+  },
+  "apple.shopRefurbished": {
+    "description": "Used Apple products at a lower price",
+    "message": "Сертифікований і Відремонтований"
+  },
+  "apple.shopStudio": {
+    "description": "Choose your own design components for a product",
+    "message": "Студія Apple Watch"
+  },
+  "apple.storeFinder": {
+    "description": "Tool used to find the nearest store",
+    "message": "Пошук магазинів поблизу"
+  },
+  "apple.supplierResp": {
+    "description": "Information on human rights, health, safety, education, etc. of employees",
+    "message": "Відповідальність постачальника"
+  },
+  "apple.support": {
+    "description": "Support for products, services/apps from Apple, etc.",
+    "message": "Підтримка від Apple"
+  },
+  "apple.supportArticle": {
+    "description": "Support article",
+    "message": "Стаття підтримки Apple"
+  },
+  "apple.viewEvent": {
+    "description": "Viewing an event (e.g. September event)",
+    "message": "Перегляд Подій"
+  },
+  "apple.viewService": {
+    "description": "e.g. \"Viewing Service: Fitness+\"",
+    "message": "Переглядає сервіс:"
   }
 }

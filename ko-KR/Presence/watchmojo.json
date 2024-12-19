@@ -1,4 +1,16 @@
 {
+  "watchmojo.buttonPlayTrivia": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "플레이"
+  },
+  "watchmojo.playingTrivia": {
+    "description": "For privacy mode, \"a\" as in unspecified.",
+    "message": "플레이 중"
+  },
+  "watchmojo.trivia": {
+    "description": "{0} will be replaced with the name of the Trivia game",
+    "message": "{0} 플레이 중"
+  },
   "watchmojo.triviaGame": {
     "description": "The round and score of the Trivia game the user is playing.",
     "message": "라운드 {0}/{1} (점수: {2}/{3})"

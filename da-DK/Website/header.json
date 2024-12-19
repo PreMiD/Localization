@@ -27,9 +27,29 @@
     "description": "Heading of the language notification when user has different language.",
     "message": "Vi understytter dit sprog. Vil du skifte?"
   },
+  "header.lia": {
+    "description": "Indicates which user is logged in",
+    "message": "Logget ind som"
+  },
   "header.loader.phrases": {
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
     "message": "Bager pandekager...;Kigger på Beholdere...;Analyserer din IP adresse...;UwU;Bryder regler..."
+  },
+  "header.login": {
+    "description": "Login Button",
+    "message": "Login"
+  },
+  "header.logout": {
+    "description": "Logout button",
+    "message": "Log ud"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Rapportér en fejl"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Dashboard"
   },
   "header.store": {
     "description": "Store tab",

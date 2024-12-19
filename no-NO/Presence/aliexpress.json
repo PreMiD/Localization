@@ -11,8 +11,40 @@
     "description": "Part 2 of \"Viewing their\"",
     "message": "slettede ordre"
   },
+  "aliexpress.feedback": {
+    "description": "",
+    "message": "AliExpress-tilbakemelding"
+  },
+  "aliexpress.helpCenter": {
+    "description": "",
+    "message": "AliExpress-kundesenter"
+  },
   "aliexpress.message": {
     "description": "Meaning Direct messages",
     "message": "Meldingssenter"
+  },
+  "aliexpress.orders": {
+    "description": "",
+    "message": "Ser på deres ordre"
+  },
+  "aliexpress.recentlyViewProducts1": {
+    "description": "Part 1 of 2",
+    "message": "Ser på deres nylig"
+  },
+  "aliexpress.recentlyViewProducts2": {
+    "description": "Part 2 of 2",
+    "message": "sette produkter"
+  },
+  "aliexpress.store": {
+    "description": "",
+    "message": "Ser på nettbutikk:"
+  },
+  "aliexpress.theirAli": {
+    "description": "",
+    "message": "Ser på deres AliExpress"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "Ser på deres"
   }
 }

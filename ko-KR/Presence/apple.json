@@ -3,13 +3,45 @@
     "description": "Connecting to the App Store",
     "message": "연결 중..."
   },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "앱 보기"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "개발자 보기"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "이벤트 보기"
+  },
   "apple.btnViewOS": {
     "description": "e.g. \"View iOS 15\"",
     "message": "{0} 보기"
   },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "상품 보기"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "{0} 의 프로필 보기"
+  },
   "apple.btnViewService": {
     "description": "Button text",
     "message": "서비스 보기"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "{0} 스튜디오 보기"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "태그 보기"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "스레드 보기"
   },
   "apple.btnViewWWDC": {
     "description": "e.g.: \"View WWDC21\"",
@@ -23,6 +55,14 @@
     "description": "e.g. \"Comparing: Apple Watch\"",
     "message": "비교 중:"
   },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "지원부에 문의"
+  },
+  "apple.devDistribution": {
+    "description": "Distribute software to the App Store",
+    "message": "소프트웨어 출시하기"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "문서"
@@ -34,6 +74,10 @@
   "apple.devGames": {
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "게임"
+  },
+  "apple.devHIG": {
+    "description": "Guidelines for designing apps for the various Apple operating systems",
+    "message": "휴먼 인터페이스 가이드라인"
   },
   "apple.devNew": {
     "description": "List of updates",
@@ -47,9 +91,153 @@
     "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
     "message": "아이폰 및 아이패드 앱"
   },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "출시"
+  },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "리소스"
+  },
+  "apple.devSubmit": {
+    "description": "Submit iOS and iPadOS apps to the App Store",
+    "message": "앱 제출 방법"
+  },
+  "apple.devVidTopic": {
+    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
+    "message": "영상 토픽 보는 중"
+  },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "영상"
+  },
+  "apple.forumCreateThread": {
+    "description": "Creating a forum thread",
+    "message": "새 스레드 생성 중"
+  },
+  "apple.forumPreferences": {
+    "description": "Profile settings/preferences, e.g. change username",
+    "message": "환경 설정"
+  },
+  "apple.forumRegister": {
+    "description": "Register a new account (alternative translation: registering)",
+    "message": "등록"
+  },
+  "apple.forumTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "포럼 태그"
+  },
+  "apple.healthRecords": {
+    "description": "Health records of a person",
+    "message": "건강 기록"
+  },
+  "apple.healthcare": {
+    "description": "The organized provision of medical care to individuals or a community",
+    "message": "Healthcare"
+  },
+  "apple.iCloudCalendar": {
+    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "캘린더"
+  },
+  "apple.iCloudContacts": {
+    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "연락처"
+  },
+  "apple.iCloudKeynoteWait": {
+    "description": "Before the keynote begins, you'll be in the waiting room",
+    "message": "대기실"
+  },
+  "apple.iCloudMail": {
+    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Mail"
+  },
+  "apple.iCloudNotes": {
+    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "메모"
+  },
+  "apple.iCloudPagesCreate": {
+    "description": "Creating a new Pages document",
+    "message": "만들기..."
+  },
+  "apple.iCloudPhotos": {
+    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "사진"
+  },
+  "apple.iCloudReminders": {
+    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "미리"
+  },
   "apple.other": {
     "description": "Other pages not added to the code",
     "message": "기타"
+  },
+  "apple.overview": {
+    "description": "Overview of e.g. all pages of a category",
+    "message": "개요"
+  },
+  "apple.productsPlatform": {
+    "description": "Products/platforms for companies",
+    "message": "제품 및 플랫폼"
+  },
+  "apple.purchasingAdvice": {
+    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
+    "message": "구매상담"
+  },
+  "apple.shopAccessories": {
+    "description": "Accessories for Apple products (e.g iPhone case)",
+    "message": "Apple 액세서리"
+  },
+  "apple.shopBag": {
+    "description": "Shopping cart",
+    "message": "쇼핑백"
+  },
+  "apple.shopBagSummary": {
+    "description": "The total price of the items in your bag (shopping cart)",
+    "message": "합계: {0}"
+  },
+  "apple.shopBands": {
+    "description": "Bands (Bracelets) for the Apple Watch",
+    "message": "Apple Watch 밴드"
+  },
+  "apple.shopFavorites": {
+    "description": "Favorite products",
+    "message": "특히 잘하는"
+  },
+  "apple.shopGiftCards": {
+    "description": "Gift cards for e.g. the App Store",
+    "message": "기프트 카드"
+  },
+  "apple.shopPlanVisit": {
+    "description": "Plan your visit to the Apple Store",
+    "message": "방문 계획 수립"
+  },
+  "apple.shopRefurbished": {
+    "description": "Used Apple products at a lower price",
+    "message": "공인된 리퍼브"
+  },
+  "apple.shopStudio": {
+    "description": "Choose your own design components for a product",
+    "message": "Apple Watch Studio"
+  },
+  "apple.storeFinder": {
+    "description": "Tool used to find the nearest store",
+    "message": "스토어 파인더"
+  },
+  "apple.supplierResp": {
+    "description": "Information on human rights, health, safety, education, etc. of employees",
+    "message": "공급적 책임"
+  },
+  "apple.support": {
+    "description": "Support for products, services/apps from Apple, etc.",
+    "message": "Apple 지원"
+  },
+  "apple.supportArticle": {
+    "description": "Support article",
+    "message": "Apple 지원 문서"
+  },
+  "apple.viewEvent": {
+    "description": "Viewing an event (e.g. September event)",
+    "message": "이벤트 보기"
   },
   "apple.viewService": {
     "description": "e.g. \"Viewing Service: Fitness+\"",

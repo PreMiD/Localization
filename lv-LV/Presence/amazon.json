@@ -1,1 +1,74 @@
-{}
+{
+  "amazon.address": {
+    "description": "",
+    "message": "Skatās savas adreses"
+  },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "Skatās savu reklāmu priekšrocību"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "Skatās savu atlikumu"
+  },
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "iepirkumu grozs"
+  },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "Skatās visas kategorijas"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "dāvanu karšu sarakstu"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "Skatās savu vēsturi"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "pasūtījuma informāciju"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "pasūtījumu vēsturi"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "Skatās savas maksājuma metodes"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "Skatās savus mājdzīvniekus"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "Skatās Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "Skatās Prime Video:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "Skatās ieteikto"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "Skatās veikalu:"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "Skatās abonementus"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "Skatās sava"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "vēlmju saraksts"
+  }
+}

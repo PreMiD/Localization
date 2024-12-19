@@ -3,6 +3,10 @@
 		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
 		"message": "寄付"
 	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "更新履歴"
@@ -59,13 +63,133 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "トラブルシューティング"
 	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "{0} に問題がありますか？"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "拡張機能は有効です"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "インターネット接続"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "PreMiDアプリに接続しました"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Discordアプリに接続しました"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Discordステータスメッセージは有効です"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "表示するプレゼンス"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "PreMiDを使用するには、Discordアカウントに接続する必要があります。下のボタンをクリックしてください。"
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiDが更新されました！"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "機能を見る"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "修正"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "パフォーマンス"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "一般的な変更"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Discordと接続する"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "バージョン2.6.0以降、PreMiDは正常に動作するためにはDiscordアカウントと連携している必要があります。PreMiDを引き続き使用するにはDiscordアカウントと連携してください。"
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Discordと接続する"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "新しいアップデートを楽しんでいただけることを願っています！フィードバックやご提案があれば、お気軽にDiscordサーバーに参加してお知らせください。"
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Discord サーバーに参加する"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "PreMiDへようこそ！"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "さあ、始めましょう。"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "PreMiDの拡張機能をインストール"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Discordと接続する"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "「現在のアクティビティをステータスに表示」が有効になっていることを確認してください。"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "ユーザー設定 {0} アクティビティ設定 {0} アクティビティのプライバシー"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Discordと接続する"
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discordアカウントと接続されました。"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "次のステップに進みましょう。"
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "次へ"
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "「現在のアクティビティをステータスメッセージに表示する」を有効にします。"
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "完了しました！"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "以上で準備は完了です！PreMiDをお楽しみください！\n質問やヘルプが必要な場合は、お気軽にDiscordサーバーへご参加ください。\nもしPreMiDを気に入ってくださったら、寄付、拡張機能の評価、友達への共有などで私たちをサポートしてくだされば幸いです！"
+	},
+	"tab.installed.close": {
+		"description": "Close button text",
+		"message": "閉じる"
 	},
 	"tab.installed.donate": {
 		"description": "Donate button text",

@@ -1,1 +1,62 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "Aggiunti di recente"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "Navigando tra:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "In chiamata con:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "Video salvati"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "Leggendo di:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "Visualizzando la comunità dell'utente:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "Visualizzando gli amici dell'utente:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "qualcuno... (Utente nascosto)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "Visualizzando foto per utente:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "Visualizzando post per utente:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "Visualizzando il negozio dell'utente:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "Visualizzando video per utente:"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "In videochiamata con:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Visualizzando il meteo di oggi"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "Scrivendo un messaggio"
+  }
+}

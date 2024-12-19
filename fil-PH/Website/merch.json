@@ -1,1 +1,30 @@
-{}
+{
+  "merch.cart": {
+    "description": "Add product to cart",
+    "message": "I-add sa cart"
+  },
+  "merch.error.noitem": {
+    "description": "Error message when no size selected",
+    "message": "Wala ng item para ma-add sa iyong cart"
+  },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "**Pumili kung ano ang iyong fit**"
+  },
+  "merch.help": {
+    "description": "Link to customer support, {0}{1} is the replacement for the link",
+    "message": "Nakaka-experience ng mga problema sa aming store o order? I-contact ang aming {0}customer support{1}"
+  },
+  "merch.item.added": {
+    "description": "{0} replaced with product name",
+    "message": "Ang {0} ay na-add na sa cart"
+  },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "Hanapin ang iyong **Swag**"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "Welcome sa official **PreMiD** Merchandise store!"
+  }
+}

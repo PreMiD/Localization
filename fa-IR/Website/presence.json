@@ -23,6 +23,10 @@
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
     "message": "پسندیده ها"
   },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "این Presence بیش تر از آدرس URL های لیست شده زیر پشتیبانی می کند با استفاده از RegExp. موس را روی این بیاورید تا الگو را مشاهده کنید"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "URL های پشتیبانی"

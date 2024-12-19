@@ -1,6 +1,122 @@
 {
+	"youtube.ad": {
+		"description": "",
+		"message": "Tittar just nu på en annons"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Bläddrar bland spellistor"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Bläddrar igenom"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Bläddrar bland videor"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "deras historik"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "deras bibliotek"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "av kanal:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "deras köp"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Läser om kanal:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Tittar på deras rapporthistorik"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Söker igenom kanal: {0} efter:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "artistens sida"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanalanalys"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanal kommentarer"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanal översättningar"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "Tittar på deras instrumentpanel"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "Redigerar video:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "Tittar på analys av video:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "Tittar på kommentarer från video:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Tittar på översättningar av video:"
+	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Tittar på deras"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "Tittar på sina videor"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "deras prenumerationer"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Tittar på vad som är trendigt"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "Laddar upp något..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Tittar på alla sina spellistor"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "Tittar på ljudbiblioteket"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "Tittar på deras live instrumentpanel"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "Tittar på sina live-evenemang"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Tittar på community inlägg"
 	}
 }

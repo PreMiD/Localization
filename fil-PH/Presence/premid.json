@@ -1,1 +1,18 @@
-{}
+{
+  "premid.pageContributors": {
+    "description": "A page name",
+    "message": "Mga contributor"
+  },
+  "premid.pageDownloads": {
+    "description": "A page name",
+    "message": "Mga download"
+  },
+  "premid.pageStore": {
+    "description": "A page name",
+    "message": "Tindahan"
+  },
+  "premid.partners": {
+    "description": "A page name",
+    "message": "Mga partner"
+  }
+}

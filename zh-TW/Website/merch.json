@@ -7,6 +7,10 @@
     "description": "Error message when no size selected",
     "message": "購物車內沒有任何物品"
   },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "請選擇你的大小"
+  },
   "merch.help": {
     "description": "Link to customer support, {0}{1} is the replacement for the link",
     "message": "在訂單中遇到問題？聯絡我們的{0}客戶服務{1}"

@@ -59,9 +59,73 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "ایرادیابی"
 	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "برای استفاده از PreMid بایستی حساب دیسکورد خود را متصل کنید. فقط کافیست دکمه زیر را کلیک کنید."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD بروزرسانی شد!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "تغییرات جدید 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "ویژگی‌ها"
+	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "مشکلات رفع شده"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "کارایی"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "تغییرات کلی"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "حساب دیسکورد خود را متصل کنید"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "از نسخه 2.6.0 به بعد، برنامه PreMiD برای درست کار کردن نیاز به حساب دیسکورد دارد. لطفا حساب دیسکورد خودتان را برای ادامه استفاده از PreMiD لینک کنید."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "حساب دیسکورد خود را متصل کنید"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "بعد از این؟"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "امیدواریم از آخرین بروزرسانی ما خوشتان آمده باشد! اگر بازخورد یا پیشنهادی دارید، میتوانید از طریق سرور دیسکورد به ما مراجعه کنید."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "به سرور دیسکورد ما بپیوندید"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "یک حساب دیسکورد متصل کنید"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "تنظیمات کاربر {0} تنظیمات فعالیت {0} خط مشی فعالیت"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "حساب دیسکورد خود را متصل کنید"
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "اکانت دیسکرود متصل شد"
 	},
 	"tab.installed.next": {
 		"description": "Next button text",

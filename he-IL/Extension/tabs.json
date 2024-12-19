@@ -59,6 +59,18 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "פתרון תקלות"
 	},
+	"tab.updated.changeTypes.features": {
+		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
+		"message": "אפשרויות"
+	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "הבא"
+	},
+	"tab.installed.close": {
+		"description": "Close button text",
+		"message": "סגור"
+	},
 	"tab.installed.donate": {
 		"description": "Donate button text",
 		"message": "תרום"

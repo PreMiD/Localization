@@ -23,6 +23,10 @@
     "description": "",
     "message": "Uppgötvar ný lög"
   },
+  "spotify.download": {
+    "description": "",
+    "message": "Sækir Spotify"
+  },
   "spotify.featured": {
     "description": "",
     "message": "Lög"
@@ -38,6 +42,10 @@
   "spotify.madeForYou": {
     "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
     "message": "\"Búið til fyrir þig\""
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "playlistar þeirra"
   },
   "spotify.podcastsLike": {
     "description": "\"Browsing through\" + this",

@@ -1,1 +1,70 @@
-{}
+{
+  "discord.browseThrough": {
+    "description": "The first part of the next 17 strings",
+    "message": "גלישה דרך"
+  },
+  "discord.buttonInvite": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "צפה בקישור הזמנה"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "מחפש בין הקבוצות שלהם"
+  },
+  "discord.download": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "עמוד ההורדות"
+  },
+  "discord.friends": {
+    "description": "",
+    "message": "צופה בחברים שלהם..."
+  },
+  "discord.jobs": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "עמוד העבודות"
+  },
+  "discord.merch": {
+    "description": "",
+    "message": "סחורת דיסקורד"
+  },
+  "discord.merch.collection": {
+    "description": "",
+    "message": "צפייה באוסף:"
+  },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "עמוד הניהול"
+  },
+  "discord.newsroom": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "עמוד חדר החדשות"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "קורא על ניטרו..."
+  },
+  "discord.safety": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "עמוד הבטיחות"
+  },
+  "discord.security": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "עמוד הביטחון"
+  },
+  "discord.settings": {
+    "description": "",
+    "message": "צופה בהגדרות שלהם..."
+  },
+  "discord.status": {
+    "description": "",
+    "message": "סטאטוס דיסקורד"
+  },
+  "discord.support": {
+    "description": "",
+    "message": "מרכז העזרה"
+  },
+  "discord.verification": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "עמוד האימות"
+  }
+}

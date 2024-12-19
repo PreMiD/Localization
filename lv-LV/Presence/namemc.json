@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Skatās Serveris"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "Skatās Cepures"
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "Skatās Kā Pieteikt Savu Profilu"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Rediģē viņu{0}profila informāciju"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "Skatās Serveri"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Skatās Jaunas Skinas"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Skatās Nejaušas Skinas"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "Skatās skinus ar {0} atzīme"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Skatās Atzīmēti Skini"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Skatās Top Skini"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Skatās Tendences Skinas"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "Skatās Faidāmos Vārdus"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "Skatās Cepure:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "Skatās savas profila emocijzīmes"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "Skatās savus draugus"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "Skatās Serveris:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Skatās Skinu"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "Skatās savus skinus"
+  }
+}

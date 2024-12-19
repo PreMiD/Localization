@@ -1,1 +1,14 @@
-{}
+{
+  "9gag.store": {
+    "description": "",
+    "message": "ストアページを閲覧中"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "観覧中のタグ:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "話題のトレンドを閲覧中"
+  }
+}

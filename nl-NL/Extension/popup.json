@@ -353,7 +353,7 @@
 	},
 	"popup.feedback.feature.header": {
 		"description": "The title of the feature feedback page",
-		"message": "Een functieverzoek"
+		"message": "Vraag nieuwe feature aan"
 	},
 	"popup.feedback.feature.description": {
 		"description": "The description of the feature feedback page",

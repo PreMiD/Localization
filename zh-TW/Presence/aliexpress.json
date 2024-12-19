@@ -1,1 +1,66 @@
-{}
+{
+  "aliexpress.address": {
+    "description": "",
+    "message": "查看他們的地址"
+  },
+  "aliexpress.coupons": {
+    "description": "",
+    "message": "查看他們的優惠卷"
+  },
+  "aliexpress.deletedOrders": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "刪除訂單"
+  },
+  "aliexpress.feedback": {
+    "description": "",
+    "message": "AliExpress回報"
+  },
+  "aliexpress.helpCenter": {
+    "description": "",
+    "message": "AliExpress協助中心"
+  },
+  "aliexpress.message": {
+    "description": "Meaning Direct messages",
+    "message": "訊息中心"
+  },
+  "aliexpress.orders": {
+    "description": "",
+    "message": "查看他們的訂單"
+  },
+  "aliexpress.recentlyViewProducts1": {
+    "description": "Part 1 of 2",
+    "message": "查看他們最近的動態"
+  },
+  "aliexpress.recentlyViewProducts2": {
+    "description": "Part 2 of 2",
+    "message": "查看產品"
+  },
+  "aliexpress.refunds": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "退款與爭議"
+  },
+  "aliexpress.sale": {
+    "description": "",
+    "message": "瀏覽銷售"
+  },
+  "aliexpress.sellCenter": {
+    "description": "",
+    "message": "AliExpress銷售中心"
+  },
+  "aliexpress.store": {
+    "description": "",
+    "message": "正在觀看瀏覽商店:"
+  },
+  "aliexpress.theirAli": {
+    "description": "",
+    "message": "查看它們的AliExpress"
+  },
+  "aliexpress.trade": {
+    "description": "",
+    "message": "AliExpress商務中心"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "查看他們"
+  }
+}

@@ -1,4 +1,12 @@
 {
+  "premid.pageAbout": {
+    "description": "A page name",
+    "message": "Σχετικά με PreMiD"
+  },
+  "premid.pageApi": {
+    "description": "A page name",
+    "message": "API"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Συνεισφέροντες"
@@ -7,9 +15,25 @@
     "description": "A page name",
     "message": "Λήψεις"
   },
+  "premid.pageInstall": {
+    "description": "A page name",
+    "message": "Εγκατάσταση"
+  },
   "premid.pagePresenceClass": {
     "description": "A page name",
     "message": "Τάξη Παρουσίας"
+  },
+  "premid.pagePresenceDev": {
+    "description": "A page name",
+    "message": "Aνάπτυξη Presence"
+  },
+  "premid.pagePresenceGuide": {
+    "description": "A page name",
+    "message": "Κατευθυντήριες γραμμές παρουσίας"
+  },
+  "premid.pageStart": {
+    "description": "A page name",
+    "message": "Ξεκινώντας το ξεκίνημα"
   },
   "premid.pageStore": {
     "description": "A page name",
@@ -22,5 +46,9 @@
   "premid.partners": {
     "description": "A page name",
     "message": "Συνεργάτες"
+  },
+  "premid.viewPage": {
+    "description": "",
+    "message": "Προβάλει την σελίδα:"
   }
 }

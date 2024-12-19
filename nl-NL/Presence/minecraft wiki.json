@@ -1,4 +1,36 @@
 {
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Wijzigt beschermingsinstellingen van:"
+  },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Verplaatst:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Bekijkt bijdragers van:"
+  },
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Bekijkt geschiedenis van:"
+  },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Bekijkt beschermingsinstellingen van:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Bekijkt recente wijzigingen"
+  },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Bekijkt bron van:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
+    "message": "Bekijkt zijn/haar watchlist"
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "Iets aan het uploaden..."

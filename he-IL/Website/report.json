@@ -1,1 +1,58 @@
-{}
+{
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "באגים פעילים"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "בחר את הדפדפן והגרסה שלך - באפשרותך לקבל את הגירסה על-ידי ביקור אודות:תמיכה ב- Firefox או chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 דוחות נותרו"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "דיווח"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "ספק קישור לדוגמה חיה או ערכה חד משמעית של שלבים לשחזור באג זה."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "נדרש מידע נוסף"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "חשבון Discord צריך להיות מאומת"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "באגים דיווח הם עבור באגים בתוך אתר PreMiD ושרת PreMiD Discord. באגים לנוכחות ידווחו ליוצר הנוכחות. דווח רק על באגים באנגלית."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "בחר את מערכת ההפעלה והגרסה שלך"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "ספק תיאור ברור ותמציתי של מהו הבאג."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "באג נשלח"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "דווח על באג"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "יש לך דוחות פעילים רבים מדי. המתן לבדיקת הדוחות שנשלחו. דוחות נבדקים על בסיס שבועי, להיות סבלני."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "יש לך דוחות פעילים רבים מדי."
+  }
+}

@@ -87,6 +87,10 @@
     "description": "Placeholder for presence search",
     "message": "検索"
   },
+  "store.search.filters": {
+    "description": "Little message next to the keys of search filters on the store.",
+    "message": "Enter"
+  },
   "store.search.removeFilter": {
     "description": "Remove message for active search filters.",
     "message": "クリックして絞り込みを外す。"

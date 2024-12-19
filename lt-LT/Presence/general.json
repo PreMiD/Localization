@@ -7,6 +7,90 @@
 		"description": "",
 		"message": "Naršoma..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Naršyti"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Klausyti kartu"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Skaityti straipsnį"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Peržiūrėti albumą"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Rodyti straipsnį"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Peržiūrėti artistą"
+	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti pakeitimų sąrašą"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti kanalą"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti epizodą"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti filmą"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Peržiūrėti puslapį"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Peržiūrėti grojaraštį"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Peržiūrėti tinklalaidę"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Peržiūrėti profilį"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti serijas"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti šou"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Peržiūrėti dainą"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti filmą"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti transliaciją"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti video"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Skambina"
+	},
 	"general.chapter": {
 		"description": "",
 		"message": "Skyrius"
@@ -35,6 +119,10 @@
 		"description": "",
 		"message": "Žanras"
 	},
+	"general.inCall": {
+		"description": "",
+		"message": "Pokalbyje..."
+	},
 	"general.incidentHistory": {
 		"description": "A page name of statuspages",
 		"message": "Incidentų istorija"
@@ -50,6 +138,10 @@
 	"general.listeningMusic": {
 		"description": "",
 		"message": "Klausosi muzikos"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Klausosi{0}{1}"
 	},
 	"general.live": {
 		"description": "",
@@ -83,17 +175,49 @@
 		"description": "",
 		"message": "Skaitymas"
 	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Skaito kanale"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Skaito asmeninę žinutę"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Skaito įrašą"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Skaito giją"
+	},
 	"general.readingAbout": {
 		"description": "",
 		"message": "Skaito apie:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Skaito straipsnį"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Skaito straipsnį:"
 	},
 	"general.readingChannel": {
 		"description": "",
 		"message": "Skaito kanale:"
 	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Skaito asmeninę žinutę nuo:"
+	},
 	"general.readingPost": {
 		"description": "",
 		"message": "Skaito pranešimą:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Skaito giją:"
 	},
 	"general.repeat": {
 		"description": "",
@@ -107,25 +231,113 @@
 		"description": "",
 		"message": "Ieškoma"
 	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Ieškoma:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Kažkas ieškoma..."
+	},
 	"general.season": {
 		"description": "",
 		"message": "Sezonas"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Prekių krepšelis"
 	},
 	"general.store": {
 		"description": "",
 		"message": "Parduotuvė"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "Palaikymo puslapis"
+	},
 	"general.terms": {
 		"description": "A page name",
 		"message": "Naudojimosi sąlygos"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Rašo kanale:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Rašo DM'us į:"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "Rašo asmeninėse žinutėse"
 	},
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
 		"message": "Veikimo laiko istorija"
 	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Peržiūri sąrašą"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Peržiūri manga"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Peržiūri narį"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Peržiūri filmą"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Peržiūri puslapį"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Peržiūri grojaraštį"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Peržiūri produktą"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Peržiūri profilį"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Peržiūri seriją"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Peržiūri šou"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Peržiūri giją"
+	},
 	"general.viewAccount": {
 		"description": "",
 		"message": "Peržiūrima savo paskyra"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "Peržiūri incidentą"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Peržiūri vartotoją"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Anime peržiūra:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Peržiūrima kategorija:"
 	},
 	"general.viewChannel": {
 		"description": "",
@@ -142,6 +354,10 @@
 	"general.viewHome": {
 		"description": "",
 		"message": "Pradinio puslapio peržiūra"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "Peržiūri incidentą apie:"
 	},
 	"general.viewList": {
 		"description": "",
@@ -191,6 +407,34 @@
 		"description": "",
 		"message": "Peržiūrimas vartotojas:"
 	},
+	"general.viewing": {
+		"description": "",
+		"message": "Peržiūrirma:"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Peržiūri pageidavimų sąrašą"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "Peržiūrimas pageidavimų sąrašas:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Laukia kol prasidės transliacija"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Laukia kol prasidės transliacija"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Laukia vaizdo įrašo premjeros"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Laukia kol vaizdo įrašas premjeruos"
+	},
 	"general.watching": {
 		"description": "",
 		"message": "Žiūrima:"
@@ -198,6 +442,18 @@
 	"general.watchingLive": {
 		"description": "",
 		"message": "Stebima tiesioginė transliacija"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Žiūri filmą"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Žiūri serijas"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Žiūri serialą"
 	},
 	"general.watchingVid": {
 		"description": "",
@@ -207,8 +463,16 @@
 		"description": "A page name",
 		"message": "Wikipedija"
 	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Pagrindinis Wiki puslapis"
+	},
 	"general.wishlist": {
 		"description": "",
 		"message": "Pageidavimų sąrašas:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Rašo"
 	}
 }

@@ -49,7 +49,7 @@
   },
   "footer.help.troubleshooting": {
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
-    "message": "Řešit Problémy"
+    "message": "Řešení Problémů"
   },
   "footer.language": {
     "description": "You know how to translate that word? I hope you do :D",
@@ -77,6 +77,10 @@
   },
   "footer.supportus.contribute": {
     "description": "Contribute -> redirects to github.com/premid",
+    "message": "Přispět"
+  },
+  "footer.supportus.donate": {
+    "description": "Donate -> redirects to patreon.com/timeraa",
     "message": "Přispět"
   },
   "footer.supportus.heading": {

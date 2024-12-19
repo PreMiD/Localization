@@ -3,6 +3,18 @@
     "description": "as in documents",
     "message": "Документація"
   },
+  "premid.pageAbout": {
+    "description": "A page name",
+    "message": "Про PreMiD"
+  },
+  "premid.pageApi": {
+    "description": "A page name",
+    "message": "API"
+  },
+  "premid.pageApiVersion": {
+    "description": "A page name // {0} will be replaced with the version number.",
+    "message": "Розуміння API v{0}"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Учасники проєкту"
@@ -15,13 +27,57 @@
     "description": "A page name",
     "message": "Домашня сторінка"
   },
+  "premid.pageIframe": {
+    "description": "A page name",
+    "message": "Розуміння iframe"
+  },
+  "premid.pageInstall": {
+    "description": "A page name",
+    "message": "Установлення"
+  },
+  "premid.pageInstallFor": {
+    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
+    "message": "Установлення для {0}"
+  },
+  "premid.pageMetadata": {
+    "description": "A page name",
+    "message": "Налаштування metadata.json"
+  },
+  "premid.pagePresenceClass": {
+    "description": "A page name",
+    "message": "Клас Presence"
+  },
+  "premid.pagePresenceDev": {
+    "description": "A page name",
+    "message": "Розробка Presence"
+  },
+  "premid.pagePresenceGuide": {
+    "description": "A page name",
+    "message": "Вимоги щодо присутності"
+  },
+  "premid.pageSlideshowClass": {
+    "description": "A page name",
+    "message": "Клас слайд-шоу"
+  },
+  "premid.pageStart": {
+    "description": "A page name",
+    "message": "Початок роботи"
+  },
   "premid.pageStore": {
     "description": "A page name",
     "message": "Крамниця"
   },
+  "premid.pageSysReq": {
+    "description": "A page name",
+    "message": "Системні вимоги"
+  },
   "premid.pageTroubleshooting": {
     "description": "A page name",
-    "message": "Вирішення проблем"
+    "message": "Діагностика"
+  },
+  "premid.pageTs": {
+    "description": "A page name",
+    "message": "Налаштування TypeScript"
   },
   "premid.partners": {
     "description": "A page name",

@@ -1,1 +1,50 @@
-{}
+{
+  "kahoot.buttonJoinGame": {
+    "description": "Used as the title for the button in Discord. {0} is the Game ID",
+    "message": "Pripojiť sa k hre: {0}"
+  },
+  "kahoot.correctAnswer": {
+    "description": "Used when the user anwered correct on a question",
+    "message": "Správna odpoveď"
+  },
+  "kahoot.gameCreate": {
+    "description": "Used when a Kahoot Host is creating a Game",
+    "message": "Vytvára hru..."
+  },
+  "kahoot.gameOver": {
+    "description": "Used when the Game is finished",
+    "message": "Koniec hry"
+  },
+  "kahoot.gameStarting": {
+    "description": "Used when a Kahoot Game is starting",
+    "message": "Hra sa začína!"
+  },
+  "kahoot.incorrectAnswer": {
+    "description": "Used when the user answered incorrectly on a question",
+    "message": "Nesprávna odpoveď"
+  },
+  "kahoot.joiningGame": {
+    "description": "Used when a user is joining a Kahoot Game.",
+    "message": "Pripája sa k hre..."
+  },
+  "kahoot.playing": {
+    "description": "Used as the first line when a user is answering a question",
+    "message": "Prehráva sa..."
+  },
+  "kahoot.questionLoading": {
+    "description": "Used when the next question is loading",
+    "message": "Načítava sa ďalšia otázka..."
+  },
+  "kahoot.resultsQuestion": {
+    "description": "Used when a user is looking at the results of the question they just answered",
+    "message": "Pri pohľade na výsledky:"
+  },
+  "kahoot.slideViewing": {
+    "description": "Used when a user is looking at a slide with content in a Kahoot",
+    "message": "Pri pohľade na snímku s obsahom:"
+  },
+  "kahoot.waiting": {
+    "description": "Used when the user is waiting for a Kahoot Game to start",
+    "message": "Čaká sa na spustenie..."
+  }
+}

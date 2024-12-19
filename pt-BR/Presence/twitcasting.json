@@ -7,6 +7,10 @@
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "Lista de seguidores"
   },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "Gerenciando sua stream..."
+  },
   "twitcasting.subs": {
     "description": "",
     "message": "Vendo suas inscrições..."

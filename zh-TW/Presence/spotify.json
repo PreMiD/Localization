@@ -1,4 +1,12 @@
 {
+  "spotify.albumLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "喜愛的專輯"
+  },
+  "spotify.artistsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "他們喜歡的歌手"
+  },
   "spotify.bestPodcasts": {
     "description": "",
     "message": "最好的Podcast"
@@ -6,6 +14,18 @@
   "spotify.browse": {
     "description": "First section of the next 6 strings",
     "message": "遊覽中"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "正在查看音樂排行榜"
+  },
+  "spotify.discover": {
+    "description": "",
+    "message": "正在尋找新歌"
+  },
+  "spotify.download": {
+    "description": "",
+    "message": "正下載 Spotify"
   },
   "spotify.featured": {
     "description": "",
@@ -18,5 +38,21 @@
   "spotify.latest": {
     "description": "",
     "message": "正看最新發佈"
+  },
+  "spotify.madeForYou": {
+    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
+    "message": "為你選出"
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "他們的播放清單"
+  },
+  "spotify.podcastsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "他們喜歡的podcasts"
+  },
+  "spotify.songsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "喜愛的歌"
   }
 }

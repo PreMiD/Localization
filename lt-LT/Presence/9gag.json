@@ -1,4 +1,32 @@
 {
+  "9gag.about": {
+    "description": "",
+    "message": "Skaitoma viskas apie 9GAG"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "Peržiūrima kolekcija:"
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "Peržiūrima, kas tendencinga"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "Peržiūra gag:"
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "Peržiūrima, kas karšta\n"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "Peržiūrimas parduotuvės puslapis"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "Peržiūra žymės:"
+  },
   "9gag.trending": {
     "description": "",
     "message": "Peržiūrima, kas tendencinga"

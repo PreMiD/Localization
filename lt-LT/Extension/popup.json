@@ -3,6 +3,10 @@
 		"description": "Help button (redirects to Wiki/troubleschooting) (located under the 'presences' area in the popup)",
 		"message": "Reikalinga pagalba?"
 	},
+	"popup.buttons.presenceStore": {
+		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Presence parduotuvė"
+	},
 	"popup.category.all": {
 		"description": "Category name shown when you open tags",
 		"message": "Visi"
@@ -47,6 +51,10 @@
 		"description": "Title of the 'general' area of the 'settings' section in the popup",
 		"message": "Bendras"
 	},
+	"popup.headings.presences": {
+		"description": "Title of the 'presences' area of the 'settings' section in the popup",
+		"message": "Būsenos"
+	},
 	"popup.headings.settings": {
 		"description": "Title of the 'settings' section at the navigation in the popup",
 		"message": "Nustatymai"
@@ -75,6 +83,22 @@
 		"description": "Shown in the extension when the application can't connect to Discord",
 		"message": "PreMiD nepavyko prisijungti prie jūsų Discord programos! Ar ji įdiegta ir paleista? *Problemų sprendimas*"
 	},
+	"popup.info.safari.outdatedExtension": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Pasenęs papildinys"
+	},
+	"popup.info.safari.outdatedExtension.message": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Jūsų papildinys yra pasenęs. Prašome jį atsinaujinti, kad gautumėte naujausias funkcijas atsisiųsdami jį iš mūsų svetainės."
+	},
+	"popup.info.safari.urgentUpdate": {
+		"description": "Shown when Extension is outdated. Only for Safari port.",
+		"message": "Skubus atnaujinimas"
+	},
+	"popup.info.safari.urgentUpdate.message": {
+		"description": "Shown when very urgent update has been released to extension. Only for Safari port.",
+		"message": "Mes išleidome skubų atnaujinimą papildiniui. Prašome atnaujinti jį, jog tęstumėte naudotis PreMiD."
+	},
 	"popup.info.unsupportedAppVersion": {
 		"description": "Shown when application is outdated",
 		"message": "Pasenusi programa"
@@ -82,6 +106,22 @@
 	"popup.info.unsupportedAppVersion.message": {
 		"description": "Shown when application is outdated",
 		"message": "Jūsų PreMiD programa yra pasenusi. Atnaujinkite ją, kad galėtumėte toliau naudotis PreMiD."
+	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Plėtinys išjungtas"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "PreMiD plėtinys buvo išjungtas nustatymuose. Įjunkite jį, kad galėtumėte toliau naudoti PreMiD."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Prašome įsitikinti, kad jūsų „Discord“ nustatymuose įjungėte nustatymą „Display current activity as a status message“."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "Prieigai \"PreMiD\" nepavyko rasti būsenos jūsų dabartiniuose skirtukuose. Įsitikinkite, kad esate įdiegę būseną svetainėje, kurioje šiuo metu esate. Jei būseną jau įdiegėte, pabandykite atnaujinti svetainę, kurioje naudojama būsena, ir patikrinkite, ar būsena įjungta nustatymuose."
 	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
@@ -95,13 +135,25 @@
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Informacija"
 	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Diagnostika"
+	},
 	"popup.presences.done": {
 		"description": "Done button",
 		"message": "Baigta"
 	},
+	"popup.presences.load": {
+		"description": "Load Presence button",
+		"message": "Įkelkite būseną"
+	},
 	"popup.presences.manage": {
 		"description": "Button which enables the opportunity to manage installed presences (located at the 'presences' area of the 'settings' section in the popup)",
 		"message": "Valdyti"
+	},
+	"popup.presences.noPresences": {
+		"description": "Warning message when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
+		"message": "Nebuvo pridėta jokių būsenų"
 	},
 	"popup.setting.autoLaunch": {
 		"description": "Enable/Disable auto startup of the application (location: extension popup -> discord icon/profile picture -> 'settings' section)",
@@ -111,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Įjungta"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Kūrėjo Režimas"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Medijos valdymas"
@@ -119,9 +175,93 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Meniu juosta"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Sinchronizuoti kalbą"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Pageidaujama Būsenos kalba"
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Nepavyko gauti naudotojo"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Plėtinio versija: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Programos versija: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Neprisijungta prie \"PreMiD\" programos"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "\"Discord\" vartotojas: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Neprisijungta prie Discord programos"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord Atsietas"
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Susieti Discord"
+	},
+	"popup.information.notYou": {
+		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
+		"message": "Ne jūs?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Nesusieta"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Tavo Discord paskyra nesusieta su PreMiD."
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "Atsijungti"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Kas Naujo 🎉"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Atidaryti pakeitimų sąrašą"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord Atsietas"
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Susieti Discord"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Kita"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Kas vyksta? 🤔"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "Uždaryti"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Jūsų „Discord“ naudotojo vardas (neprivaloma)"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",

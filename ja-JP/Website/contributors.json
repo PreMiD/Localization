@@ -11,6 +11,14 @@
     "description": "Heading for group of users.",
     "message": "スタッフ"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "サポーター"
+  },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "プレゼンス開発者"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "翻訳者"
@@ -19,9 +27,33 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Nitroブースター"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "コミュニティマネージャー"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "モデレーター"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "寄付者"
+  },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "人事"
+  },
+  "contributors.roles.localizationManager": {
+    "description": "'Localization Manager' title for contributors and user pages.",
+    "message": "翻訳マネージャー"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "プロジェクト管理"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "コントリビューター"
   },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
@@ -30,6 +62,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "校正者"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "サポート"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

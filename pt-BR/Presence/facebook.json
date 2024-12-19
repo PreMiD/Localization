@@ -1,7 +1,19 @@
 {
+  "facebook.added": {
+    "description": "",
+    "message": "Adicionado recentemente"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "Navegando Por:"
+  },
   "facebook.call": {
     "description": "",
     "message": "Em uma chamada com:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "Vídeos salvos"
   },
   "facebook.userAbout": {
     "description": "",
@@ -38,6 +50,10 @@
   "facebook.vcall": {
     "description": "",
     "message": "Em uma chamada de video com:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Vendo o tempo de hoje"
   },
   "facebook.writing": {
     "description": "",

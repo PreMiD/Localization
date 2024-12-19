@@ -1,6 +1,46 @@
 {
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "Statusas kurio ieškote neegzistuoja arba yra ištrintas."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "Atsiprašome, šio puslapio neradome."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "Įvyko serverio klaida."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "Eiti į pagrindinį puslapį"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "Detalizuotai"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "Mes negalėjome rasti nurodytojo statuso..."
+  },
   "user.notFound.heading": {
     "description": "Error when user couldn't be found.",
     "message": "To vartotojo nepavyko rasti. Pabandykite įsitikinti"
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "jūsų ieškomas vartotojo ID yra teisingas."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "vartotojas sukūrė pakankamai statusų ir turi „Presence Developer“ vaidmenį mūsų Discord serveryje."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "patikrinkite, ar kiti nepatiria tos pačios problemos mūsų Discord serveryje."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "Jei manote, kad tai buvo klaida, susisiekite su mumis [mūsų Discord serveryje]."
   }
 }

@@ -1,7 +1,99 @@
 {
+	"youtube.ad": {
+		"description": "",
+		"message": "正在看廣告"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "正在瀏覽播放清單"
+	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "正在瀏覽Shorts"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
-		"message": "遊覽中"
+		"message": "正在瀏覽"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "正在瀏覽影片"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "他們的歷史記錄"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "他們的媒體櫃"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "的頻道"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "他們的購買清單"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "閱覽頻道:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "正在檢視他們的檢舉紀錄"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "經過{0}頻道搜尋:"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "創作者專頁"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "頻道分析"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "頻道留言"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "頻道翻譯"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "正在檢視他們的控制主頁"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "編輯影片:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "正在檢視影片的分析:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "正在檢視影片的評論: "
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "正在檢視影片的翻譯: "
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "正在看"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "正在檢視他們的影片"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "他們的訂閱列表"
 	},
 	"youtube.trending": {
 		"description": "",
@@ -10,5 +102,25 @@
 	"youtube.upload": {
 		"description": "",
 		"message": "正在上載影片"
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "正在檢視他們的播放清單"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "正在檢視音訊媒體櫃"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "正在檢視他們的直播控制主頁"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "正在檢視他們的直播活動"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "正在看社群貼文"
 	}
 }

@@ -1,4 +1,8 @@
 {
+  "9gag.about": {
+    "description": "",
+    "message": "Lendo tudo sobre 9GAG"
+  },
   "9gag.collection": {
     "description": "",
     "message": "Vendo a coleção:"
@@ -6,6 +10,10 @@
   "9gag.fresh": {
     "description": "",
     "message": "Vendo as tendências"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "Vendo uma gag:"
   },
   "9gag.hot": {
     "description": "",

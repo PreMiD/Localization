@@ -1,6 +1,54 @@
 {
+  "aliexpress.address": {
+    "description": "",
+    "message": "住所を閲覧中"
+  },
+  "aliexpress.deletedOrders": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "注文の削除"
+  },
+  "aliexpress.feedback": {
+    "description": "",
+    "message": "AliExpressフィードバック"
+  },
+  "aliexpress.helpCenter": {
+    "description": "",
+    "message": "AliExpressヘルプセンター"
+  },
   "aliexpress.message": {
     "description": "Meaning Direct messages",
     "message": "メッセージセンター"
+  },
+  "aliexpress.orders": {
+    "description": "",
+    "message": "注文を閲覧中"
+  },
+  "aliexpress.recentlyViewProducts1": {
+    "description": "Part 1 of 2",
+    "message": "最近閲覧したものを閲覧中"
+  },
+  "aliexpress.recentlyViewProducts2": {
+    "description": "Part 2 of 2",
+    "message": "閲覧した製品"
+  },
+  "aliexpress.sale": {
+    "description": "",
+    "message": "商品を閲覧中"
+  },
+  "aliexpress.sellCenter": {
+    "description": "",
+    "message": "AliExpress販売センター"
+  },
+  "aliexpress.store": {
+    "description": "",
+    "message": "ストアを閲覧中:"
+  },
+  "aliexpress.trade": {
+    "description": "",
+    "message": "AliExpressトレードセンター"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "閲覧中:"
   }
 }

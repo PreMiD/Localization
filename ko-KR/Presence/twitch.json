@@ -3,17 +3,169 @@
     "description": "Page name",
     "message": "접근성"
   },
+  "twitch.achievements": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "도전과제"
+  },
+  "twitch.activity": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "커뮤니티 활동"
+  },
   "twitch.ads": {
     "description": "Page name",
     "message": "광고 선택"
+  },
+  "twitch.affiliate": {
+    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
+    "message": "Twitch 제휴 프로그램"
+  },
+  "twitch.blogArchive": {
+    "description": "{0} will be replaced with the year",
+    "message": "{0} 블로그 아카이브 보기"
+  },
+  "twitch.blogBrowse": {
+    "description": "",
+    "message": "최신 블로그 게시물을 검색하는 중"
+  },
+  "twitch.blogs": {
+    "description": "",
+    "message": "트위치 블로그"
+  },
+  "twitch.brand": {
+    "description": "",
+    "message": "트위치 브랜드에 대한 책을 읽으면서..."
+  },
+  "twitch.brandExpression": {
+    "description": "Page name",
+    "message": "우리의 표현을 표현하는 것"
+  },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "우리의 광기에 대한 방법 가져오기"
+  },
+  "twitch.brandReal": {
+    "description": "Page name",
+    "message": "트위치를 현실화하는 것"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "모든 걸 한데 모아서"
+  },
+  "twitch.brandWatch": {
+    "description": "Watching as in watching a video",
+    "message": "트위치의 브랜드 진화를 지켜보기"
+  },
+  "twitch.camp": {
+    "description": "",
+    "message": "크리에이터 캠프"
+  },
+  "twitch.campBasic": {
+    "description": "Page name",
+    "message": "기본 사항 배우기"
+  },
+  "twitch.campConnect": {
+    "description": "Page name",
+    "message": "연결 및 참여"
+  },
+  "twitch.campLevel": {
+    "description": "Page name",
+    "message": "레벨 업"
+  },
+  "twitch.campLive": {
+    "description": "Page name",
+    "message": "라이브 러닝"
+  },
+  "twitch.campMusic": {
+    "description": "Page name",
+    "message": "뮤직 온 트위치"
+  },
+  "twitch.campReward": {
+    "description": "Page name",
+    "message": "보상을 받으세요."
+  },
+  "twitch.campSetup": {
+    "description": "Page name",
+    "message": "스트림 설정"
+  },
+  "twitch.channelAnaly": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "채널 분석"
+  },
+  "twitch.channelSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "채널 설정"
+  },
+  "twitch.clips": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "클립"
+  },
+  "twitch.colls": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "비디오 컬렉션"
+  },
+  "twitch.dashboard": {
+    "description": "Page name",
+    "message": "크리에이터 대시보드"
+  },
+  "twitch.dashboardManage": {
+    "description": "",
+    "message": "스트림을 관리하는 중"
+  },
+  "twitch.dev": {
+    "description": "Page name",
+    "message": "트위치 개발자들"
+  },
+  "twitch.devDocs": {
+    "description": "Page name",
+    "message": "트위치 개발자 문서"
+  },
+  "twitch.devProduct": {
+    "description": "Page name",
+    "message": "Twitch 개발자 제품"
+  },
+  "twitch.devShowcase": {
+    "description": "Page name",
+    "message": "커뮤니티 성공 사례"
+  },
+  "twitch.devSupport": {
+    "description": "Page name",
+    "message": "유용한 리소스"
   },
   "twitch.downloads": {
     "description": "Page name",
     "message": "다운로드"
   },
+  "twitch.dropsSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "드랍스 설정"
+  },
+  "twitch.esports": {
+    "description": "",
+    "message": "E-스포츠 보는중"
+  },
+  "twitch.extensions": {
+    "description": "",
+    "message": "확장 프로그램 보는 중"
+  },
+  "twitch.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "팔로워 목록"
+  },
   "twitch.guidelines": {
     "description": "Page name",
     "message": "커뮤니티 가이드라인"
+  },
+  "twitch.help": {
+    "description": "Page name",
+    "message": "고객센터"
+  },
+  "twitch.helpTopic": {
+    "description": "",
+    "message": "주제보기 :"
+  },
+  "twitch.helpTopicCatalog": {
+    "description": "",
+    "message": "주제 카탈로그 검색 중 ..."
   },
   "twitch.home": {
     "description": "Page name",
@@ -23,20 +175,88 @@
     "description": "Page name",
     "message": "인재 채용"
   },
+  "twitch.manageRoles": {
+    "description": "",
+    "message": "커뮤니티 역할 관리 중"
+  },
+  "twitch.modStreamer": {
+    "description": "",
+    "message": "스트리머 조정 중:"
+  },
+  "twitch.moderationSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "관리자 설정"
+  },
   "twitch.partners": {
     "description": "Page name",
     "message": "파트너"
+  },
+  "twitch.press": {
+    "description": "Page name",
+    "message": "보도 자료"
+  },
+  "twitch.produce": {
+    "description": "",
+    "message": "비디오 프로듀서에서..."
+  },
+  "twitch.redeem": {
+    "description": "",
+    "message": "코드를 상환하는 중..."
   },
   "twitch.security": {
     "description": "Page name",
     "message": "보안"
   },
+  "twitch.squad": {
+    "description": "",
+    "message": "분대를 지켜보는중..."
+  },
+  "twitch.streamSum": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "스트림 요약"
+  },
+  "twitch.subs": {
+    "description": "",
+    "message": "구독을 보는 중..."
+  },
+  "twitch.tools": {
+    "description": "",
+    "message": "스트리밍 도구 보기"
+  },
   "twitch.turbo": {
     "description": "Page name",
     "message": "터보"
   },
+  "twitch.viewDropsComp": {
+    "description": "",
+    "message": "활성화된 드롭스 캠페인보기 ..."
+  },
+  "twitch.viewDropsInv": {
+    "description": "",
+    "message": "드롭스 인벤토리보기 ..."
+  },
+  "twitch.viewFollow": {
+    "description": "",
+    "message": "내가 팔로우하는 사람보기"
+  },
+  "twitch.viewFriends": {
+    "description": "",
+    "message": "친구를 보는 중..."
+  },
+  "twitch.viewSettings": {
+    "description": "",
+    "message": "설정을 보는 중..."
+  },
+  "twitch.viewTeam": {
+    "description": "",
+    "message": "팀 보기:"
+  },
   "twitch.viewTheir": {
     "description": "Part 1 of the next 10 strings",
     "message": "보는 중"
+  },
+  "twitch.wallet": {
+    "description": "",
+    "message": "지갑 보는중"
   }
 }

@@ -11,21 +11,133 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "לְדַפדֵף"
 	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הקשיבו יחד"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "קרא מאמר"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג אלבום"
+	},
 	"general.buttonViewArticle": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "צפו במאמר"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג אמן"
 	},
 	"general.buttonViewChangelog": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "הצג את יומן השינויים"
 	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג ערוץ"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "צפו בפרק"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "צפה בסרט"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג דף"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג רשימת השמעה"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג פודקאסט"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג פרופיל"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג סדרות"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "צפה במופע"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "הצג שיר"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "צפה בסרט"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "צפה בזרם"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "צפה בווידאו"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "מתקשר"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "פרק"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "מדיניות עוגיות"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "תקליטן"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "עריכה:"
+	},
 	"general.episode": {
 		"description": "",
 		"message": "פרק"
 	},
+	"general.forums": {
+		"description": "",
+		"message": "פורומים"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "ז'אנר"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "בשיחה..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "היסטוריית תקריות"
+	},
 	"general.language": {
 		"description": "For choosing a language",
 		"message": "שפה"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "מאזינים"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "מקשיב למוזיקה"
 	},
 	"general.listeningTo": {
 		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
@@ -35,17 +147,105 @@
 		"description": "",
 		"message": "שידור חי"
 	},
+	"general.manga": {
+		"description": "",
+		"message": "מנגה"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "סחר"
+	},
+	"general.page": {
+		"description": "",
+		"message": "עמוד"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "מושהה"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "מתנגן"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "מדיניות פרטיות"
+	},
 	"general.reading": {
 		"description": "",
 		"message": "קורא"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "קריאה בערוץ"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "קורא DM"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "קורא פוסט"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "קורא שרשור"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "קורא לגבי:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "קורא מאמר"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "קורא כתבה:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "קורא בערוץ:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "קורא פרטי מ:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "קורא פוסט:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "קורא כתבה:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "בלולאה"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "לולאה של כל השירים"
 	},
 	"general.search": {
 		"description": "",
 		"message": "מחפש"
 	},
+	"general.searchFor": {
+		"description": "",
+		"message": "מחפש ל:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "מחפש משהו..."
+	},
 	"general.season": {
 		"description": "",
 		"message": "עונה"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "עגלת קניות"
 	},
 	"general.store": {
 		"description": "",
@@ -55,9 +255,209 @@
 		"description": "A page name",
 		"message": "דף תמיכה"
 	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "תנאי השירות"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "רושם בערוץ:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "מקליד הודעה ישירה ל:"
+	},
 	"general.typeInDM": {
 		"description": "",
 		"message": "הקלדת DMs"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "היסטוריה של Uptime"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "צפייה ברשימה"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "צופה במנגה"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "צפייה חבר"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "צפייה בסרט"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "צפייה בדף"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "צפייה ברשימת השמעה"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "צפייה במוצר"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "צפייה בפרופיל"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "צפייה בסדרה"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "צפייה במופע"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "צופה בשרשור"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "מסתכל בעמוד שלהם"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "צפייה באירוע"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "צפייה במשתמש"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "רואה אנימה:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "רואה קטגוריה:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "צופה ערוץ:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "צופה בפרק:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "מסתכל בג'אנר:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "מסתכל בעמוד הבית"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "צפייה באירוע על:"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "מסתכל רשימה של:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "מסתכל במנגה:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "חבר צפייה:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "מסתכל סרט:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "דף תצוגה:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "מסתכל בפלייליסט:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "מסתכל במוצר:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "מסתכל בפרופיל של:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "מסתכל בסדרה:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "מסתכל במופע:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "מסתכל כתבה:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "מסתכל במשתמש:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "מסתכל:"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "צפייה ברשימת משאלות"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "צופה ברשימת המשאלות של:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "ממתין להפעלה של זרם חי"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "ממתין להפעלה של ההזרמה בשידור חי"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "ממתין להקרנת בכורה של סרטון"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "מחכה שהסרטון יוקרן בבכורה"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "צופה:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "צופה בשידור חי"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "צפייה בסרט"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "צפייה בסדרה"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "צפייה במופע"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "צופה בוידאו"
 	},
 	"general.wiki": {
 		"description": "A page name",
@@ -66,5 +466,13 @@
 	"general.wikiMainPage": {
 		"description": "Displayed when viewing the wiki main page.",
 		"message": "דף ראשי של ויקי"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "רשימת משאלות:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "כתיבה"
 	}
 }

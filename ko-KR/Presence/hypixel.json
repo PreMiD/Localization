@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "DM 보는 중"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "게임 관전 중:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "관리자 목록을 보는 중"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "포럼 보는 중"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "스레드 읽는 중"
+  }
+}

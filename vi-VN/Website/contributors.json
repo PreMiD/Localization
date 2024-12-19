@@ -11,6 +11,14 @@
     "description": "Heading for group of users.",
     "message": "Đội ngũ"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Người hỗ trợ"
+  },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Presence Developers"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Phiên dịch viên"
@@ -22,6 +30,18 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Quản lý cộng đồng"
+  },
+  "contributors.roles.softwareEngineer": {
+    "description": "'Software Engineer' title for contributors and user pages.",
+    "message": "Kĩ sư phần mềm"
+  },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "Nhà phát triển"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderator"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -39,6 +59,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Quản lí dự án"
   },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Contributor"
+  },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
     "message": "Nhà phát triển Presence"
@@ -46,6 +70,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Hiệu đính viên"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Hỗ trợ"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

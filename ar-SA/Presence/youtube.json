@@ -7,9 +7,17 @@
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "يتصفح من خلال قوائم التشغيل"
 	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "تصفح الفيديوهات القصيرة"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "يتصفح"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "يتصفح في فيديوهات {0}"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
@@ -79,6 +87,10 @@
 		"description": "",
 		"message": "يشاهد ترجمات الفيديو:"
 	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "يعرض المحتوي الخاص بهم"
+	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "يشاهد"
@@ -118,5 +130,13 @@
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "يشاهد مشاركات المجتمع"
+	},
+	"youtube.perVideoPrivacy.tooltip.1": {
+		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
+		"message": "تخطي وضع الخصوصية الخاص بك لهذا الفيديو"
+	},
+	"youtube.perVideoPrivacy.tooltip.2": {
+		"description": "Explains that the new button they see on their youtube ui was added by the PreMiD YouTube presence",
+		"message": "هذا جزء من ال Presence الخاص بيوتيوب علي PreMiD"
 	}
 }

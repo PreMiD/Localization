@@ -2,5 +2,9 @@
   "v live.browseThrough": {
     "description": "The first part of the next 6 strings",
     "message": "Prezerá si"
+  },
+  "v live.viewTheir": {
+    "description": "The first part of the next 6 strings",
+    "message": "Prezeranie ich"
   }
 }

@@ -1,4 +1,8 @@
 {
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "indkøbskurv"
+  },
   "amazon.wishlist": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "ønskeliste"

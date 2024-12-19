@@ -27,6 +27,10 @@
 		"description": "Title of the error message (located at the 'credits' tab in the popup)",
 		"message": "Oh nei!"
 	},
+	"popup.credits.error.message": {
+		"description": "Error message when the credits can't be loaded (located at the 'credits' tab in the popup)",
+		"message": "Óvænt villa við vinnslu einingar"
+	},
 	"popup.headings.description": {
 		"description": "Title of the description area in the presence settings view.",
 		"message": "Lýsing"
@@ -54,6 +58,10 @@
 	"popup.info.unsupportedAppVersion": {
 		"description": "Shown when application is outdated",
 		"message": "Úrelt forrit"
+	},
+	"popup.navigation.credits": {
+		"description": "Title of the 'credits' section at the navigation in the popup",
+		"message": "Einingar"
 	},
 	"popup.navigation.settings": {
 		"description": "Title of the 'settings' section at the navigation in the popup",

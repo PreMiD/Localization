@@ -7,17 +7,109 @@
 		"description": "",
 		"message": "Bläddrar..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Bläddra"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Lyssna Tillsammans"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Läs artikel"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa album"
+	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa Anime"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Se Artikel"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa Artist"
+	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa Ändringslogg"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tittar på kanal"
+	},
 	"general.buttonViewEpisode": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Visa Avsnitt"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa filmen"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa sida"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa spellista"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa podcast"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa Profil"
 	},
 	"general.buttonViewSeries": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Visa serier"
 	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa serie"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Visa låt"
+	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Titta på Anime"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Titta på filmen"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Titta på Serien"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Titta på Streamen"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Kolla på videon"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Ringer"
+	},
 	"general.chapter": {
 		"description": "",
 		"message": "Kapitel"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Cookie Policy"
 	},
 	"general.dj": {
 		"description": "",
@@ -38,6 +130,14 @@
 	"general.genre": {
 		"description": "",
 		"message": "Genre"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "I ett samtal..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Incidenthistorik"
 	},
 	"general.language": {
 		"description": "For choosing a language",
@@ -79,32 +179,320 @@
 		"description": "",
 		"message": "Spelar"
 	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Sekretesspolicy"
+	},
 	"general.reading": {
 		"description": "",
 		"message": "Läser"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Läser i en kanal"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Läser ett DM"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Läser ett inlägg"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Läser en tråd"
 	},
 	"general.readingAbout": {
 		"description": "",
 		"message": "Läser om:"
 	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Läser en artikel"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Läser artikel:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Läser i en kanal:"
+	},
 	"general.readingDM": {
 		"description": "",
 		"message": "Läser DMs ifrån:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Läser inlägg:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Läser tråd:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "På loop"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Loopa alla låtar"
 	},
 	"general.search": {
 		"description": "",
 		"message": "Söker"
 	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Söker efter:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Söker efter något..."
+	},
 	"general.season": {
 		"description": "",
 		"message": "Säsong"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Varukorg"
 	},
 	"general.store": {
 		"description": "",
 		"message": "Butik"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "Supportsida"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Användarvillkor"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Skriver i kanal:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Skriver i DMs med:"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "Skriver in DM"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Uppetidshistorik"
+	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "Kollar på anime"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Visar en lista"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Visar en manga"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Visar en medlem"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Visar en film"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Visar en sida"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Visar en spellista"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Visar en produkt"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Visar en profil"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Visar en serie"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Visar en show"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Visar en tråd"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Tittar på deras konto"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "Visar en händelse"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Visar en användare"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Kollar på anime:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Kollar på kategori:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Kollar på kanal:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Tittar på avsnitt:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Kollar på genre:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Tittar på hemsidan"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "Visar en händelse om:"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Tittar på listan av:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Tittar på manga:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Tittar på medlem:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Tittar på film:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Tittar på sida:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Tittar på spellista:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Tittar på produkt:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Tittar på profil av:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Tittar på serie:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Tittar på serie:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Visar tråd:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Visar användare:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "Tittar på:"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Visar en önskelista"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "Visar en önskelista av:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Väntar på att en livestream ska börja"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Väntar på att livestreamen ska börja"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Väntar på en videos premiär"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Väntar på videons premiär"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Tittar på:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "Tittar på anime"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Tittar på en livestream"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Tittar på en film"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Tittar på en serie"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Tittar på en show"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Tittar på en video"
+	},
 	"general.wiki": {
 		"description": "A page name",
 		"message": "Wiki"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Wiki huvudsida"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Önskelista:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Skriver"
 	}
 }

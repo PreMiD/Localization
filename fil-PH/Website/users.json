@@ -1,1 +1,38 @@
-{}
+{
+  "user.geniusPresenceDev.message1": {
+    "description": "'Genuis Presence Developer' tippy description for user pages.",
+    "message": "Matalinong Developer ng Presence"
+  },
+  "user.geniusPresenceDev.message2": {
+    "description": "'Genius Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "Nakagawa ng 100 mga Presence!"
+  },
+  "user.importantPresenceDev.message1": {
+    "description": "'Important Presence Developer' tippy description for user pages.",
+    "message": "Importanteng Developer ng Presence"
+  },
+  "user.importantPresenceDev.message2": {
+    "description": "'Important Presence Developer' title's bottom text which includes the amount of the presences.",
+    "message": "Nakagawa ng {0} mga presence."
+  },
+  "user.presences.contributed": {
+    "description": "Tippy content (mode 2) in user profile.",
+    "message": "I-click dito para mai-show ang mga Presence na nai-contribute ng user na ito kay."
+  },
+  "user.presences.created": {
+    "description": "Tippy content in user profile.",
+    "message": "I-click dito para mai-show ang mga Presence na ginawa ng user na ito."
+  },
+  "user.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for user pages.",
+    "message": "Developer ng Presence"
+  },
+  "user.roles.presenceVerifier": {
+    "description": "'Presence Verifier' title for user pages.",
+    "message": "Taga-Verify ng Presence"
+  },
+  "user.switch.contributed": {
+    "description": "The tippy message to switch between user's presences and presences that user has contributed to.",
+    "message": "Ang user [Mga presence/mga contribution]"
+  }
+}

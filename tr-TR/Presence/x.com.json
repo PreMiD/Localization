@@ -23,8 +23,24 @@
     "description": "",
     "message": "Direkt mesajlarına bakıyor"
   },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Beğendilerine bakıyor:"
+  },
   "x.com.viewList": {
     "description": "",
     "message": "Listeye bakıyor:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Medyasına bakıyor:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Post'larına bakıyor:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "(Yanıtlı) post'larına bakıyor:"
   }
 }

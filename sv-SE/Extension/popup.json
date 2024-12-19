@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "PreMiD programmet är gammalt. Uppdatera för att fortsätta kunna använda PreMiD."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Tillägg inaktiverat"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "PreMiD-tillägget har inaktiverats i inställningarna. Aktivera det för att fortsätta använda PreMiD."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Kontrollera att du har aktiverat inställningen 'Visa aktuell aktivitet som ett statusmeddelande' i dina Discord-inställningar."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD kunde inte hitta en närvaro för dina nuvarande flikar. Se till att du har installerat en närvaro tillägg för webbplatsen du är på. Om du har installerat en närvaro tillägg för webbplatsen, prova att ladda om webbplatsen, och se till att du har aktiverat närvaro tillägget i PreMiD inställningarna."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Beröm"
@@ -118,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Information"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Diagnostik"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Aktiverad"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Utvecklarläge"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Mediakontroller"
@@ -151,24 +175,236 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Ikon i aktivitetsfält"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Synkronisera språk"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Föredraget språk för närvaro"
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Det gick inte att hämta användaren"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Senaste svar"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Föredra App"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Tilläggsversion: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Appversion: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Ej ansluten till PreMiD App"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Discord användare: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Ej ansluten till Discord-appen"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord Ej länkad"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD kräver att ett länkat Discord-konto fungerar korrekt. Vänligen länka ditt Discord-konto för att fortsätta använda PreMiD."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Länka Discord"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Inte du?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Ej länkad"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Ditt Discord-konto är inte länkat till PreMiD."
 	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Logga ut"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Använd Spelstatus"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Nyheter 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Kolla in de senaste coola sakerna!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Öppna ändringslogg"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord Ej länkad"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD kräver att ett länkat Discord-konto fungerar korrekt. Vänligen länka ditt Discord-konto för att fortsätta använda PreMiD."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Länka Discord"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Har du något att säga?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Lämna in feedback"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Rapportera en bugg eller ett problem med en Presence"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Rapportera en bugg eller problem med Tillägget"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Begär en funktion"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Annat"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Feedback"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Vad händer? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Välj vilken typ av feedback du vill lämna"
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Rapportera en bugg eller ett problem med en Presence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Åh nej! 😱 Ledsen att höra att du upplever problem med en Presence.\n\nVåra Presence:er upprätthålls av gemenskapen, så vänligen rapportera eventuella problem du upplever med en Presence på vårt GitHub-repository.\n\nOm du väljer Presence nedan, kommer vi automatiskt att inkludera Presencesens detaljer i ärendemallen."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Stäng"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Skicka"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Rapportera en bugg eller ett problem med Tillägget"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "Åh nej! 😱 Ledsen att höra att du upplever problem med Tillägget.\n\nVänligen fyll i följande formulär för att rapportera eventuella problem du upplever med tillägget."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Beskriv problemet"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Vänligen beskriv problemet du upplever med tillägget så detaljerat som möjligt."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Alla rapporter är anonyma om du inte väljer att lämna dina kontaktuppgifter.\nVi kan komma att kontakta dig för mer information om det behövs, eller för att meddela dig när problemet har lösts."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Din e-postadress (valfritt)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Ditt Discord-användarnamn (valfritt)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Begär en Funktion"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Vi letar alltid efter sätt att förbättra PreMiD och göra det bättre för dig.\n\nVänligen fyll i följande formulär för att begära en funktion som du vill se i PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Beskriv Funktionen"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Vänligen beskriv den funktion du vill se i PreMiD så detaljerat som möjligt."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Alla funktionsförfrågningar är anonyma om du inte väljer att ange dina kontaktuppgifter.\nVi kan nå ut till dig för mer information om det behövs, eller för att meddela dig när funktionen har implementerats."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Annat"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Vänligen fyll i följande formulär för att ge feedback på något annat du vill dela med oss."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Beskriv Feedback"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Beskriv den feedback du vill dela med oss så detaljerat som möjligt."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "All feedback är anonym om du inte väljer att lämna dina kontaktuppgifter.\nVi kan komma att kontakta dig för mer information om det behövs, eller för att meddela dig när feedback har åtgärdats."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Feedback Inskickat"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Tack för din feedback! 🎉\n\nVi uppskattar att du tar dig tid att dela dina tankar med oss. Vi kommer att granska din feedback och återkomma till dig om det behövs."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Åh nej! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Något gick fel när du skickade din feedback. Försök igen senare.\n\nOm problemet kvarstår, vänligen kontakta oss på vår Discord-server."
 	}
 }

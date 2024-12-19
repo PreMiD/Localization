@@ -3,6 +3,10 @@
 		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
 		"message": "Donera"
 	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "Ändringslogg"
@@ -59,13 +63,145 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "Felsökning"
 	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "Har du problem med {0}?"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Tillägg aktiverat"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Internetanslutning"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Ansluten till PreMiD-appen"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Ansluten till Discord-appen"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Discords statusmeddelande aktiverat"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Presence att visa"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "För att använda PreMiD måste du ansluta den till ditt Discord-konto. Klicka helt enkelt på knappen nedan."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD har uppdaterats!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Nyheter 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Funktioner"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Korrigeringar"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Prestanda"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Allmänna ändringar"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Länka ditt Discord-konto"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Från och med version v2.6.0, så kräver PreMiD ett länkat Discord-konto för att fungera korrekt. Vänligen länka ditt Discord-konto för att fortsätta använda PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Länka ditt Discord-konto"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Vad är härnäst?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Vi hoppas att du gillar den nya uppdateringen! Om du har några synpunkter eller förslag, gå gärna med i vår Discord-server och låt oss veta."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Anslut till vår Discordserver!"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Välkommen till PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Låt oss komma igång!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Installera tillägget till PreMiD"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Länka ett Discord-konto"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Se till att du har \"Visa aktuell aktivitet som ett statusmeddelande.\" aktiverat"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Användarinställningar {0} Aktivitetsinställningar {0} Aktivitetsintegritet"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Länka ditt Discord-konto"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Detta gör det möjligt för PreMiD att visa din nuvarande aktivitet som ett statusmeddelande."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord-konto länkat"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Låt oss gå vidare till nästa steg."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Nästa"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Se till att du har \"Visa aktuell aktivitet som ett statusmeddelande.\" aktiverat, annars kommer ingen att se din glänsande nya status."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Aktivera \"Visa aktuell aktivitet som ett statusmeddelande\"."
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Allt klart!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Du är alla klar och redo att gå! Vi hoppas att du gillar att använda PreMiD. Om du har några frågor eller behöver hjälp, gå gärna med på vår Discord-server. Om du älskar PreMiD lika mycket som vi gör, överväg att stödja oss genom att donera, betygsätta förlängningen eller dela den med dina vänner."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",

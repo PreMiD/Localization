@@ -1,11 +1,115 @@
 {
+  "partners.apply.button": {
+    "description": "Button to apply for partner.",
+    "message": "Prijavite se sada!"
+  },
+  "partners.apply.disclaimer": {
+    "description": "Disclaimer located above the apply button.",
+    "message": "Idemo u raj zajedno!"
+  },
+  "partners.apply.error1": {
+    "description": "Error when a field isn't filled.",
+    "message": "Molimo, ispunite sva polja."
+  },
+  "partners.apply.error2": {
+    "description": "Error when description exceeds character limit.",
+    "message": "Opis ne smije imati više od 150 znakova."
+  },
+  "partners.apply.error3": {
+    "description": "Error when image link is entered wrong.",
+    "message": "Molimo Vas da dodate poveznicu (mora početi sa https:// i završiti sa .png)"
+  },
+  "partners.apply.error4": {
+    "description": "Error when already applied.",
+    "message": "Već ste se prijavili za partnera."
+  },
+  "partners.apply.form.button.apply": {
+    "description": "Modal apply button.",
+    "message": "Primjeni"
+  },
+  "partners.apply.form.button.close": {
+    "description": "Modal close button.",
+    "message": "Zatvori"
+  },
+  "partners.apply.form.description": {
+    "description": "Description field.",
+    "message": "Opis: (Najviše 150 znakova)"
+  },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "Opis za istaknute"
+  },
+  "partners.apply.form.imageLink": {
+    "description": "Do not change the sizes.",
+    "message": "Poveznica do slike: (550x300, jedino PNG)"
+  },
+  "partners.apply.form.imageLink.placeholder": {
+    "description": "Image link field's placeholder. Do not change the image URL.",
+    "message": "Ex: https://i.imgur.com/clun1ID.png"
+  },
+  "partners.apply.form.link": {
+    "description": "Link field.",
+    "message": "Poveznica"
+  },
+  "partners.apply.form.link.placeholder": {
+    "description": "Link filed's placeholder.",
+    "message": "Ex: https://premid.app"
+  },
+  "partners.apply.form.name": {
+    "description": "Name filed.",
+    "message": "Ime"
+  },
+  "partners.apply.form.name.placeholder": {
+    "description": "Name field's placeholder.",
+    "message": "Ex: PreMiD"
+  },
+  "partners.apply.jobs": {
+    "description": "Hint located under the button.",
+    "message": "Ako ste rađe zainteresirani za direktan posao u PreMiD-u, onda pogledajte naše **reklame za posao**."
+  },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "Prijavljen kao {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "Niste Vi?"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "Molimo Vas odaberite jedan"
+  },
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "Ostalo"
   },
+  "partners.apply.select.website": {
+    "description": "Select 'Website' category.",
+    "message": "Web stranica"
+  },
+  "partners.apply.success": {
+    "description": "Success message when applying.",
+    "message": "Hvala na prijavi!"
+  },
+  "partners.apply.title": {
+    "description": "Partnership application modal title.",
+    "message": "Prijavi se za partnera"
+  },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Pridruži se obitelji i iskoristi pogodnosti samo za partnere kako bi pokazali koliko imaš swaga."
+  },
+  "partners.header.title": {
+    "description": "Heading for page.",
+    "message": "Partneri"
+  },
   "partners.partner.aniFlix": {
     "description": "Description for AniFlix.",
     "message": "To je kako gledaš anime."
+  },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena of Kings je brza igra sljedeće generacije sa PvP Arenama koja se igra u pregledniku."
   },
   "partners.partner.bitRock": {
     "description": "Description for BitRock.",
@@ -27,6 +131,10 @@
     "description": "Description for Fastly.",
     "message": "Iza najboljih dijelova interneta."
   },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit je vaša internetska glazbena radio stanica stvorena da pušta vaše najbolje hitove 24/7 i da vam prvi otkrije vaše buduće hitove."
+  },
   "partners.partner.packageCloud": {
     "description": "Description for PackageCloud.",
     "message": "Objedinjeno sučelje prilagođeno programerima za sve vaše artefakte."
@@ -43,9 +151,45 @@
     "description": "Description for SimLoveRadio.",
     "message": "SimLiveRadio je najuspješniji info-zabljavilački radio za simulacijske igre u Njemačkoj, Austriji i Švicarskoj!"
   },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Lako prenosite svoj status u stvarnome vremenu svojim korisnicima."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga je Discord Bot koji pokušava pružiti sve značajke koje trebate odjednom!"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio mrežni je radio koji pokreće zajednica i pruža radio zabavu 24/7 bez oglasa, dnevne članke s vijestima i još mnogo toga!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "Najjači i najproširiviji Wiki softver otvorenoga koda."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Pazimo na rasteće zajednice i uzbudljive stvari na internetu. TL;DR već bi trebali koristiti PreMiD i biti spremni da ga proširite još drugim internet frikovima. Prihvaćanje u program je vrlo kvalitativno i razliokvati će se od jednoga kandidata do sljedećeg."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Što tražimo?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "Trenutno prihvaćamo razne vrste truda u naš partnerski program. Bilo tko bi trebao imati priliku da bude primjećen. Twitch strimeri bi trebali imati barem 500 pratitelja i barem 10 trenutnih gledatelja. Morate strimati barem jednom tjednom."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Naš vatrozid"
+  },
+  "partners.requirements.title": {
+    "description": "Heading for the requirements.",
+    "message": "Zahtjevi"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Ovi već pripadaju nama"
   },
   "partners.sponsors.description": {
     "description": "Description for sponsors.",
@@ -54,5 +198,49 @@
   "partners.sponsors.title": {
     "description": "Heading for sponsors.",
     "message": "Sponzori"
+  },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Naš tim će Vam pružiti Presence vašega servisa."
+  },
+  "partners.why.benefit1.title": {
+    "description": "Heading for the first benefit.",
+    "message": "Tvoj besplatni Presence"
+  },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Posebna uloga i odlična čast će ti biti dana u našem Discord serveru."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Postani potvrđen"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Automatski koristi Vaš Presence kada netko posjećuje vašu Stranicu."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Meta-tag integracija"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Odvratno mjesto na našoj partner stranici."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Postani besmrtan"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Istaknut na našim društvenim mrežama."
+  },
+  "partners.why.benefit5.title": {
+    "description": "Heading for the fifth benefit.",
+    "message": "Postani poznat"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "Što kažeš na odlazak u raj rađe nego u pakao?"
   }
 }

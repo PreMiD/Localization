@@ -27,6 +27,10 @@
     "description": "Heading of the language notification when user has different language.",
     "message": "Mes palaikome jūsų kalbą, ar norite pakeisti?"
   },
+  "header.lia": {
+    "description": "Indicates which user is logged in",
+    "message": "Esate prisijungę kaip"
+  },
   "header.loader.phrases": {
     "description": "Randomly appears when website is loading data. [WARNING: Keep the `;` symbol, it's used to separate phrases]",
     "message": "Kepami blynai...;Talpyklų talpinimas...;IP adreso nuskaitymas...;UwU; Pažeidžiamos taisyklės..."
@@ -34,6 +38,18 @@
   "header.login": {
     "description": "Login Button",
     "message": "Prisijungti"
+  },
+  "header.logout": {
+    "description": "Logout button",
+    "message": "Atsijungti"
+  },
+  "header.rab": {
+    "description": "Report a bug button",
+    "message": "Pranešti apie klaidą"
+  },
+  "header.staff": {
+    "description": "Dashboard button",
+    "message": "Prietaisų skydas"
   },
   "header.store": {
     "description": "Store tab",

@@ -1,1 +1,122 @@
-{}
+{
+  "kahoot.buttonJoinGame": {
+    "description": "Used as the title for the button in Discord. {0} is the Game ID",
+    "message": "加入遊戲：{0}"
+  },
+  "kahoot.correctAnswer": {
+    "description": "Used when the user anwered correct on a question",
+    "message": "正確答案"
+  },
+  "kahoot.createHome": {
+    "description": "Used when the user is viewing the create.kahoot.it home page",
+    "message": "查看主頁"
+  },
+  "kahoot.drumRoll": {
+    "description": "Used when a player is waiting to receive their final ranking",
+    "message": "等待最終排名"
+  },
+  "kahoot.feedback": {
+    "description": "Used when a player is providing feedback about the quiz to the host",
+    "message": "提供回饋意見"
+  },
+  "kahoot.firstPlace": {
+    "description": "Used to display who was first place in a game. {0} is a player name",
+    "message": "第一名：{0}"
+  },
+  "kahoot.gameCreate": {
+    "description": "Used when a Kahoot Host is creating a Game",
+    "message": "正在創造一個遊戲..."
+  },
+  "kahoot.gameOver": {
+    "description": "Used when the Game is finished",
+    "message": "遊戲結束"
+  },
+  "kahoot.gameStarting": {
+    "description": "Used when a Kahoot Game is starting",
+    "message": "遊戲開始!"
+  },
+  "kahoot.incorrectAnswer": {
+    "description": "Used when the user answered incorrectly on a question",
+    "message": "答案錯誤"
+  },
+  "kahoot.joiningGame": {
+    "description": "Used when a user is joining a Kahoot Game.",
+    "message": "正在加入遊戲..."
+  },
+  "kahoot.liveCourseActivity": {
+    "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name.",
+    "message": "事件 #{0}：{1}"
+  },
+  "kahoot.loadingPage": {
+    "description": "Used when a page is loading",
+    "message": "正在加載頁面..."
+  },
+  "kahoot.login": {
+    "description": "Used when a user is logging in",
+    "message": "正在登入"
+  },
+  "kahoot.ndPlace": {
+    "description": "Used in the context of 2nd place",
+    "message": "第二名"
+  },
+  "kahoot.of": {
+    "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
+    "message": "{0}/{1}"
+  },
+  "kahoot.onPodium": {
+    "description": "Used in the context of a player/team being withing the top 3",
+    "message": "在頒獎台上"
+  },
+  "kahoot.playing": {
+    "description": "Used as the first line when a user is answering a question",
+    "message": "正在遊玩..."
+  },
+  "kahoot.points": {
+    "description": "Used to display how many points a user has. {0} is the number of points",
+    "message": "積分：{0}"
+  },
+  "kahoot.position": {
+    "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
+    "message": "位置： {0}"
+  },
+  "kahoot.questionLoading": {
+    "description": "Used when the next question is loading",
+    "message": "正在加載下一個問題..."
+  },
+  "kahoot.questionNumber": {
+    "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of",
+    "message": "問題：{0}"
+  },
+  "kahoot.questionShowing": {
+    "description": "Used when the host is showing a question",
+    "message": "顯示問題："
+  },
+  "kahoot.questionsCorrect": {
+    "description": "Used to display how many questions a user got correct",
+    "message": "答對的問題數：{0}"
+  },
+  "kahoot.rdPlace": {
+    "description": "Used in the context of 3rd place",
+    "message": "第三名"
+  },
+  "kahoot.resultsQuestion": {
+    "description": "Used when a user is looking at the results of the question they just answered",
+    "message": "查看結果："
+  },
+  "kahoot.stPlace": {
+    "description": "Used in the context of 1st place",
+    "message": "第一名"
+  },
+  "kahoot.topX": {
+    "description": "Used in the context of Top 5",
+    "message": "前：{0} 名"
+  },
+  "kahoot.waiting": {
+    "description": "Used when the user is waiting for a Kahoot Game to start",
+    "message": "等待開始..."
+  },
+  "kahoot.waitingAnswer": {
+    "description": "Used when a player is waiting for the question results",
+    "message": "正在等待結果..."
+  }
+}

@@ -59,9 +59,13 @@
     "description": "",
     "message": "Переглядає крамницю:"
   },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "Переглядає свої підписки"
+  },
   "amazon.viewTheir": {
     "description": "Part 1 of the next 5 strings",
-    "message": "Переглядає своє"
+    "message": "Переглядає свої"
   },
   "amazon.wishlist": {
     "description": "Part 2 of the string: \"Viewing their\"",

@@ -59,6 +59,10 @@
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "מגיה"
   },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "תמיכה"
+  },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
     "message": "מתרגם"

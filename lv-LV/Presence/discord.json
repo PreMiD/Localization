@@ -1,18 +1,186 @@
 {
+  "discord.blog": {
+    "description": "",
+    "message": "Discord Blog"
+  },
+  "discord.branding": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Zīmola lapa"
+  },
   "discord.browseThrough": {
     "description": "The first part of the next 17 strings",
     "message": "Pārlūko caur"
+  },
+  "discord.buttonInvite": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Skatīt Uzaicinājuma Saiti"
+  },
+  "discord.channelReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Lasīšana kanālā:{0}{1} (Serveris: {2})"
+  },
+  "discord.channelTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Rakstīšana kanālā:{0}{1} (Serveris: {2})"
+  },
+  "discord.college": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Koledžas lapu"
+  },
+  "discord.company": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Par mums lapa"
+  },
+  "discord.devs.appsBrowse": {
+    "description": "",
+    "message": "Pārlūko savas lietotnes"
+  },
+  "discord.devs.appsEdit": {
+    "description": "{0} will be replaced with the name of the app.",
+    "message": "Rediģē lietotni: {0}"
+  },
+  "discord.devs.docs": {
+    "description": "",
+    "message": "Lasa dokumentāciju"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "Izstrādātāju Portāls"
+  },
+  "discord.devs.serversBrowse": {
+    "description": "",
+    "message": "Pārlūko savus serverus"
+  },
+  "discord.devs.serversEdit": {
+    "description": "{0} will be replaced with the name of the server.",
+    "message": "Skatās ieskatu servera: {0}"
+  },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "Pārlūko savas komandas"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "Rediģē komandu: {0}"
+  },
+  "discord.dmGroupReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Lasa DM grupā:{0}{1}"
+  },
+  "discord.dmGroupTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "Raksta DM grupā:{0}{1}"
+  },
+  "discord.dmReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Lasa DM no:{0}{1}"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "Raksta DM:{0}{1}"
+  },
+  "discord.download": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "lejupielādes lapa"
   },
   "discord.friends": {
     "description": "",
     "message": "Skatās savus draugus..."
   },
+  "discord.inspiration": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Iedvesmas lapa"
+  },
+  "discord.invite": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
+    "message": "Skatās uzaicinājuma saiti:{0}{1} (Serveris: {2})"
+  },
+  "discord.inviteServer": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Skatās uzaicinājuma saiti{0}serverī: {1}"
+  },
+  "discord.jobs": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Vakances lapa"
+  },
+  "discord.merch": {
+    "description": "",
+    "message": "Discord Merch"
+  },
   "discord.merch.collection": {
     "description": "",
     "message": "Skatās kolekciju:"
   },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Moderēšanas lapu"
+  },
+  "discord.newsroom": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Ziņas lapu"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "Lasa par Nitro..."
+  },
+  "discord.opensource": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Atvērtā Pirmkoda lapu"
+  },
+  "discord.partner": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Partneru lapu"
+  },
+  "discord.policies": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "politiku"
+  },
+  "discord.rpc": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Rich Presence lapu"
+  },
+  "discord.safety": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Drošības Centrs"
+  },
+  "discord.security": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Drošības lapu"
+  },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "Skatās iestatījumus{0}serverī: {1}"
+  },
   "discord.settings": {
     "description": "",
     "message": "Skatās savus iestatījumus..."
+  },
+  "discord.status": {
+    "description": "",
+    "message": "Discord Status"
+  },
+  "discord.streamkit": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "StreamKit lapu"
+  },
+  "discord.support": {
+    "description": "",
+    "message": "Atbalsta centrs"
+  },
+  "discord.verification": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "Verifikācijas lapu"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "Balss savienota ar:{0}{1} (Serveris: {2})"
+  },
+  "discord.voiceConnectedWith": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
+    "message": "Balss savienota ar:{0}{1}"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "\"Why Discord?\" lapa"
   }
 }

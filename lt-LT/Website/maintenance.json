@@ -7,6 +7,14 @@
     "description": "Discord Server link on maintenance page",
     "message": "Discord Serveris"
   },
+  "maintenance.heading": {
+    "description": "Heading on maintenance page",
+    "message": "Deja, mes patiriame techninių sunkumų. Netrukus grįšime. Atsiprašome už nepatogumus."
+  },
+  "maintenance.heading2": {
+    "description": "Heading on maintenance page",
+    "message": "Prašome grįžti vėliau, jeigu norite gauti daugiau informacijos."
+  },
   "maintenance.message": {
     "description": "Message on maintenance page",
     "message": "Kol mūsų specialieji darbuotojai to neištaisys, apsižvalgykite čia!"

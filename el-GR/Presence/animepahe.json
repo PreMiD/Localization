@@ -1,1 +1,22 @@
-{}
+{
+  "animepahe.latestRelease": {
+    "description": "Recently released content, can be new or old anime, its just new to the site",
+    "message": "Τελευταίες Κυκλοφορίες"
+  },
+  "animepahe.season": {
+    "description": "TV show/series season eg. Season 5 of The Flash",
+    "message": "Σεζόν"
+  },
+  "animepahe.special": {
+    "description": "A type of related content; a special release episode not included in the original release often with differing style",
+    "message": "Σπέσιαλ"
+  },
+  "animepahe.timeSeason": {
+    "description": "Time Season eg. The season is now Winter",
+    "message": "Σεζόν"
+  },
+  "animepahe.view": {
+    "description": "{0} will be replaced by \"Pahe\" or \"AniList\"",
+    "message": "Προβολή στο {0}"
+  }
+}

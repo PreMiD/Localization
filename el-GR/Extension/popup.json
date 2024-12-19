@@ -151,6 +151,10 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Τίτλος Μενού"
 	},
+	"popup.information.notYou": {
+		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
+		"message": "Όχι εσείς;"
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Αποσύνδεση"
@@ -158,6 +162,10 @@
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Άλλα"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "Κλείσιμο"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",

@@ -1,4 +1,16 @@
 {
+  "premid.docs": {
+    "description": "as in documents",
+    "message": "Dokumentaatio"
+  },
+  "premid.pageAbout": {
+    "description": "A page name",
+    "message": "Tietoja PreMiD:istä"
+  },
+  "premid.pageApi": {
+    "description": "A page name",
+    "message": "API"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Osallistujat"
@@ -6,6 +18,22 @@
   "premid.pageDownloads": {
     "description": "A page name",
     "message": "Lataukset"
+  },
+  "premid.pageHome": {
+    "description": "A page name",
+    "message": "Kotisivu"
+  },
+  "premid.pagePresenceClass": {
+    "description": "A page name",
+    "message": "Precence-luokka"
+  },
+  "premid.pagePresenceDev": {
+    "description": "A page name",
+    "message": "Läsnäolon Kehittäminen"
+  },
+  "premid.pageStart": {
+    "description": "A page name",
+    "message": "Alkuun Pääseminen"
   },
   "premid.pageStore": {
     "description": "A page name",
@@ -18,5 +46,13 @@
   "premid.partners": {
     "description": "A page name",
     "message": "Yhteistyökumppanit"
+  },
+  "premid.viewPage": {
+    "description": "",
+    "message": "Katsoo sivua:"
+  },
+  "premid.viewPresence": {
+    "description": "",
+    "message": "Katsoo presenceä:"
   }
 }

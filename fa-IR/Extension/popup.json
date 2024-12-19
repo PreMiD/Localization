@@ -155,6 +155,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "فعال شد"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "حالت توسعه‌دهنده"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "کنترل رسانه ها"
@@ -163,20 +167,136 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "عنوان نوار منو"
 	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "وصل نشده به نرم‌افزار PreMiD"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "ارتباط با دیسکورد قطع شد"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "برنامه PreMiD برای درست کار کردن نیاز به حساب دیسکورد دارد. لطفا حساب دیسکورد خودتان را برای ادامه استفاده از PreMiD لینک کنید."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "لینک کردن دیسکورد"
+	},
+	"popup.information.notYou": {
+		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
+		"message": "شما نیستید؟"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "وصل نشده"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "حساب دیسکورد شما به PreMiD متصل نشده."
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "خروج از حساب"
+	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "استفاده از وضعیت درحال بازی"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "تغییرات جدید 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "یک نگاه به آخرین چیز های جدیدمون بندازید!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "بازکردن لیست کامل تغییرات"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "ارتباط با دیسکورد قطع شد"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "برنامه PreMiD برای درست کار کردن نیاز به حساب دیسکورد دارد. لطفا حساب دیسکورد خودتان را برای ادامه استفاده از PreMiD لینک کنید."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "لینک کردن دیسکورد"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "درخواست یک ویژگی"
 	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "ديگر"
 	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "ﺑﺎﺯﺧﻮﺭﺩ"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "چه اتفاقی دارد رخ میدهد؟ 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "لطفا انتخاب کنید چگونه میخواهید بازخورد خود را ثبت کنید."
+	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "بستن"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "ثبت"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "گزارش یک باگ یا مشکل با Extension"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "اوه نه! 😱 معظرت میخوایم که شما مشکلاتی با Extension دارید.\n\nلطفا فرم زیر را جهت گزارش مشکلات خود با Extension مورد نظرتان پر کنید."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "مشکل را توضیح دهید"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "لطفا مشکلی که با Extension خودتون داشتید رو به‌صورت کامل توضیح دهید."
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "درخواست یک ویژگی"
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "توضیح بدید قابلیت را"
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "ديگر"
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "توضیح بدید بازخوردتان را"
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "بازخورد ارسال شد"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "ممنون بابت نوشتن بازخوردتان! 🎉\n\nما خیلی ممنونیم که شما وقتتون رو برای به اشتراک گزاشتن افکارتون با ما صرف کردید. ما به بازخوردتون نگاه میکنیم و اگه نیاز بود باهاتون ارتباط برقرار میکنیم."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "اوه نه! 😱"
 	}
 }

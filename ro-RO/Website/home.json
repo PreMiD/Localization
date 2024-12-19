@@ -71,6 +71,10 @@
     "description": "Features section subheading",
     "message": "Interfață simplă"
   },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Obține PreMiD"
+  },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "Descărcări"

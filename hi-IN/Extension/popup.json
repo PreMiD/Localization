@@ -107,6 +107,14 @@
 		"description": "Shown when application is outdated",
 		"message": "आपका PreMiD ऐप पुराना है। PreMiD का उपयोग जारी रखने के लिए कृपया इसे अपडेट करें।"
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "एक्सटेंशन निष्क्रिय"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "PreMiD एक्सटेंशन को सेटिंग्स में बंद किया गया है। PreMiD का इस्तेमाल जारी रखने के लिए कृपया सेटिंग्स में उसे सक्रिय करे।"
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "क्रेडिट"

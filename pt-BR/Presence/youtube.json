@@ -7,9 +7,17 @@
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "Navegando por playlists"
 	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "Navegando nos shorts"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Navegando por"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "Navegando por {0} videos"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
@@ -34,6 +42,14 @@
 	"youtube.readingChannel": {
 		"description": "",
 		"message": "Lendo sobre o canal:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Vendo o seu histórico de reportação"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Pesquisando no canal: {0} para:"
 	},
 	"youtube.studio.artistPage": {
 		"description": "Part two of \"Viewing their\"",
@@ -67,6 +83,14 @@
 		"description": "",
 		"message": "Vendo comentários do vídeo:"
 	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Vendo traduções de vídeo:"
+	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "Visualizando seus conteúdos"
+	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Vendo"
@@ -87,6 +111,10 @@
 		"description": "",
 		"message": "Enviando algo..."
 	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Vendo todas as suas listas de reprodução"
+	},
 	"youtube.viewAudioLibrary": {
 		"description": "",
 		"message": "Vendo a biblioteca de áudio"
@@ -102,5 +130,13 @@
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "Vendo postagens da comunidade"
+	},
+	"youtube.perVideoPrivacy.tooltip.1": {
+		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
+		"message": "Sobrescreva seu modo de privacidade para este vídeo"
+	},
+	"youtube.perVideoPrivacy.tooltip.2": {
+		"description": "Explains that the new button they see on their youtube ui was added by the PreMiD YouTube presence",
+		"message": "Isto faz parte do Presence do Premid do YouTube"
 	}
 }

@@ -1,1 +1,50 @@
-{}
+{
+  "google docs.browsingDoc": {
+    "description": "Displayed when the user is browsing their Google Documents",
+    "message": "Bläddrar dokument"
+  },
+  "google docs.browsingForm": {
+    "description": "Displayed when the user is browsing their Google Forms",
+    "message": "Bläddrar formulär"
+  },
+  "google docs.browsingPresentation": {
+    "description": "Displayed when the user is browsing their Google presentation",
+    "message": "Bläddrar presentationer"
+  },
+  "google docs.browsingSheet": {
+    "description": "Displayed when the user is browsing their Google Sheets",
+    "message": "Bläddrar kalkylark"
+  },
+  "google docs.editingDoc": {
+    "description": "Displayed when the user is editing a Google Document",
+    "message": "Redigerar ett dokument"
+  },
+  "google docs.editingForm": {
+    "description": "Displayed when the user is editing a Google Form",
+    "message": "Redigerar ett formulär"
+  },
+  "google docs.editingPresentation": {
+    "description": "Displayed when the user is editing a Google presentation",
+    "message": "Redigerar en presentation"
+  },
+  "google docs.editingSheet": {
+    "description": "Displayed when the user is eiditng a Google Sheet",
+    "message": "Redigerar ett kalkylblad"
+  },
+  "google docs.viewingDoc": {
+    "description": "Displayed when the user is viewing a Google Document",
+    "message": "Tittar på ett dokument"
+  },
+  "google docs.viewingForm": {
+    "description": "Displayed when the user is viewing a Google Form",
+    "message": "Tittar på ett formulär"
+  },
+  "google docs.viewingPresentation": {
+    "description": "Displayed when the user is viewing a Google presentation",
+    "message": "Tittar på en presentation"
+  },
+  "google docs.viewingSheet": {
+    "description": "Displayed when the user is viewing a Google Sheet",
+    "message": "Tittar på ett kalkylblad"
+  }
+}

@@ -59,6 +59,10 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "Fejlfinding"
 	},
+	"tab.updated.changeTypes.features": {
+		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
+		"message": "Funktioner"
+	},
 	"tab.installed.donate": {
 		"description": "Donate button text",
 		"message": "Doner"

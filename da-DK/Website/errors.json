@@ -1,1 +1,46 @@
-{}
+{
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "Du leder efter en ikke-eksisterende eller slettet tilstedeværelse."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "Beklager, vi kunne ikke finde den side."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "Der er opstået en intern serverfejl."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "Tilbage til startsiden"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "Detaljer"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "Vi kunne ikke finde den tilstedeværelse..."
+  },
+  "user.notFound.heading": {
+    "description": "Error when user couldn't be found.",
+    "message": "Denne bruger kunne ikke findes. Prøv at sikre dig"
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "at det bruger-id, du leder efter, er korrekt."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "at brugeren har oprettet nok tilstedeværelser og har rollen som tilstedeværelsesudvikler i vores Discord-server."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "hvis andre oplever det samme problem på vores Discord-server."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "Hvis du mener, at dette var en fejl, bedes du kontakte os på [vores Discord-server]."
+  }
+}

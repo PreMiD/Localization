@@ -31,6 +31,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ndeleng Episode"
 	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ndeleng Film"
+	},
 	"general.buttonViewPage": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ndeleng Halaman"
@@ -63,6 +67,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ndeleng Video"
 	},
+	"general.calling": {
+		"description": "",
+		"message": "Memanggil"
+	},
 	"general.chapter": {
 		"description": "",
 		"message": "Bab"
@@ -74,6 +82,10 @@
 	"general.dj": {
 		"description": "",
 		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Mengedit:"
 	},
 	"general.episode": {
 		"description": "",
@@ -98,6 +110,10 @@
 	"general.language": {
 		"description": "For choosing a language",
 		"message": "Basa"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Pendengar"
 	},
 	"general.listeningMusic": {
 		"description": "",

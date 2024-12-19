@@ -39,6 +39,10 @@
 		"description": "Skip button on the ads section",
 		"message": "Praleisti"
 	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "Praleisti vis tiek"
+	},
 	"downloads.error.login": {
 		"description": "Error message if the user is not logged in.",
 		"message": "Prašome prisijungti norint pamatysi šiuos atsisiuntimus."
@@ -139,13 +143,25 @@
 		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
 		"message": "{0} Šiai operacinei sistemai nėra diegimo programos. Tai reiškia, kad jai nėra taikoma jokia profesionali parama."
 	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Dabartinė šios platformos versija yra {0} (ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms)."
+	},
 	"downloads.warning.differentVersion2": {
 		"description": "Tippy message of the version number when user is on Linux.",
 		"message": "Ši versija yra skirta „Linux“ ir netaikoma kitoms sistemoms. Pagrindinė programos versija yra {0}"
 	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "Jūs turite įsidiegti **šį** papildinį norint įsidiegti PreMiD iš Chrome internetinės parduotuvės."
+	},
 	"downloads.warning.title": {
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "Įspėjimas"
+	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "„PreMiD“ nėra prieinama mobiliesiems įrenginiams. Kad įdiegtumėte „PreMiD“, naudokite darbalaukio naršyklę."
 	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
@@ -154,5 +170,81 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "Slėpti atsisiuntimus"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "Didelės naujienos!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "Mes visiškai pašalinome programą!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "Dabar jums tereikia naršyklės plėtinio – jokių papildomų atsisiuntimų nereikia."
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "Vieno paspaudimo sąranka"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "Nereikia programos"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "Tiesiog veikia™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "Programa pašalinta versijoje v2.6.0, kad palengvintumėte jūsų gyvenimą. ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "Gaukite „PreMiD“ savo naršyklei"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "Netrukus"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "Beta versijos programa"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "Mėgstate išbandyti naujus dalykus? Prisijunkite prie mūsų „Discord“ ir naudokite /beta, kad gautumėte ankstyvą prieigą!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "Alfa versijos prieiga"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "Palaikykite mus per „GitHub“ arba „Patreon“, kad gautumėte naujausias funkcijas!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "Reikia pagalbos? Prisijunkite prie mūsų"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "„Discord“"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "palaikymui!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "Mėgstate „PreMiD“?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "Apsvarstykite galimybę mus palaikyti arba palikti atsiliepimą, mums tai reiškia pasaulį!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "Vertinti mus"
 	}
 }

@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "ブックマーク"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "探索"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "通知"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "ツイートを閲覧中"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "設定を変更中"
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "DMを閲覧中"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "いいねした人を閲覧中:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "リストを閲覧中:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "次のメディアを閲覧中:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "次のツイートを閲覧中:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "ツイート（返信つき）を閲覧中:"
   }
 }

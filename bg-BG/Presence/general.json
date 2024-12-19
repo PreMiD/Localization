@@ -31,6 +31,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Преглед на артиста"
 	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Преглед на промените"
+	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Преглед на канала"

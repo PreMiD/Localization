@@ -7,6 +7,10 @@
 		"description": "",
 		"message": "Дивиться..."
 	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Слухати разом"
+	},
 	"general.buttonReadArticle": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Прочитати статтю"
@@ -19,9 +23,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Переглянути виконавця"
 	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Переглядати канал"
+	},
 	"general.buttonViewEpisode": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Дивитися серію"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Дивитися фільм"
 	},
 	"general.buttonViewPage": {
 		"description": "Used as the title for the button in Discord.",
@@ -31,6 +43,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Переглянути список відтворення"
 	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Переглядати подкаст"
+	},
 	"general.buttonViewProfile": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Переглянути профіль"
@@ -39,6 +55,14 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Дивитися серіал"
 	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Переглядати пісню"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Дивитися фільм"
+	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Дивитися трансляцію"
@@ -46,6 +70,10 @@
 	"general.buttonWatchVideo": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Дивитися відео"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Дзвонить"
 	},
 	"general.chapter": {
 		"description": "",
@@ -75,6 +103,14 @@
 		"description": "",
 		"message": "Жанр"
 	},
+	"general.inCall": {
+		"description": "",
+		"message": "У розмові..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Історія інцидентів"
+	},
 	"general.language": {
 		"description": "For choosing a language",
 		"message": "Мова"
@@ -86,6 +122,10 @@
 	"general.listeningMusic": {
 		"description": "",
 		"message": "Слухає музику"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Слухає {0}{1}"
 	},
 	"general.live": {
 		"description": "",
@@ -163,6 +203,10 @@
 		"description": "",
 		"message": "Шукає що-небудь..."
 	},
+	"general.season": {
+		"description": "",
+		"message": "Сезон"
+	},
 	"general.shopCart": {
 		"description": "",
 		"message": "Кошик замовлень"
@@ -182,6 +226,10 @@
 	"general.typeDM": {
 		"description": "",
 		"message": "Друкує в ПП до "
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Історія безвідмовної роботи"
 	},
 	"general.viewAccount": {
 		"description": "",

@@ -3,6 +3,10 @@
 		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
 		"message": "التبرع"
 	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "نسخة{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "سجل التغييرات"
@@ -59,13 +63,145 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "استكشاف الأخطاء وإصلاحها\n \n "
 	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "هل تواجه مشاكل مع {0}؟"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "الامتداد مفعل"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "اتصال الإنترنت"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "متصل مع تطبيق PreMiD"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "متصل مع تطبيق Discord"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "تم تفعيل امكانية الحالة علي Discord"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "النشاط المرغوب عرضه"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "لاستخدام PreMiD تحتاج إلى توصيله لحساب Discord الخاص بك. ببساطة اضغط علي الزر بالأسفل."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "تم تحديث PreMiD!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "التجديدات"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "الميزات"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "الإصلاحات"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "الأداء"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "تغييرات عامة"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "اربط حساب Discord الخاص بك"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "بداية من الإصدار نسخة 2.6.0، يتطلب PreMid حساب Discord مربوط لكي يعمل بشكل صحيح. الرجاء ربط حساب Discord الخاص بك للاستمرار في استخدام PreMiD."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "اربط حساب Discord الخاص بك"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "ما الخطوات التالية؟"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "نأمل أن تستمتع بالتحديث الجديد! إذا كان لديك أي تعليقات أو اقتراحات، لا تتردد في الانضمام إلى قناة ال Discord الخاصة بنا وإبلاغنا."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "انضم الي قناة ال Discord الخاصة بنا"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "مرحبا بك في PreMid!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "هيا بنا نبدأ!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "ثبت امتداد PreMid"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "اربط حساب Discord"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "تأكد ان اعداد \"إظهار النشاط الحالي كحالة Discord\" مفعل"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "اعدادات المستخدم {0} اعدادات النشاط {0} خصوصية النشاط"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "اربط حساب Discord الخاص بك"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "هذا يسمح لـ PreMiD بعرض النشاط الحالي كحالة Discord."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "حساب Discord مرتبط"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "لننتقل إلى الخطوة التالية."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "التالي"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "تأكد ان اعداد \"إظهار النشاط الحالي كحالة Discord\" مفعل. وألا لن يري احد وضعك الجديد المبرق."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "\"إظهار النشاط الحالي كحالة Discord\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "انتهينا!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "أنت الأن جاهز للانطلاق! نأمل أن تستمتع باستخدام PreMiD. إذا كان لديك أي أسئلة أو تحتاج إلى مساعدة، لا تتردد في الانضمام إلى قناة ال Discord الخاصة بنا. إذا كنت تحب PreMid بقدر حبنا له، فكر في دعمنا بالتبرعات، أو تقييم الامتداد، أو مشاركته مع أصدقائك."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",

@@ -1,1 +1,358 @@
-{}
+{
+	"general.anime": {
+		"description": "",
+		"message": "Anime"
+	},
+	"general.browsing": {
+		"description": "",
+		"message": "Nagba-browse..."
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Makinig kasama nila"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Article"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Album"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Artist"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Channel"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Panoorin ang Episode"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Movie"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Page"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Playlist"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Podcast"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Profile"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Series"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Tingnan ang Kanta"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Panoorin ang Movie"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Panoorin ang Stream"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Panoorin ang Video"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Nagko-call"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Chapter"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Cookie Policy"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Nag-e-edit:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Episode"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Mga forum"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Genre"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "Sa isang call..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Incident history"
+	},
+	"general.language": {
+		"description": "For choosing a language",
+		"message": "Lengguahe"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Mga listener"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Nakikinig sa music"
+	},
+	"general.live": {
+		"description": "",
+		"message": "Live"
+	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Merch"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Page"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Naka-pause"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Nagpe-play"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Privacy Policy"
+	},
+	"general.reading": {
+		"description": "",
+		"message": "Nagbabasa"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Nagbabasa about sa:"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Nagbabasa ng article:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Nagbabasa sa channel:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Nagbabasa ng mga DM galing kay:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Nagbabasa ng post:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Nagbabasa ng thread:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "On loop"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Nilo-loop lahat ng mga kanta"
+	},
+	"general.search": {
+		"description": "",
+		"message": "Nagse-search"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Nagse-search para sa:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Nagse-search up para sa isang bagay..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "Season"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Shopping cart"
+	},
+	"general.store": {
+		"description": "",
+		"message": "Tindahan"
+	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Mga Tuntunin sa mga Serbisyo"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Nagta-type sa channel:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Nagta-type sa mga DM kay:"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Uptime history"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Tinitignan ang account niya"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Tumitingin ng anime:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Tumitingin ng category:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Tumitingin ng channel:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Tumitingin ng episode:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Tumitingin ng genre:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Tumitingin sa home page"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Tumitingin ng listahan ng:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Tumitingin ng manga:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Tumitingin ng member:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Tumitingin ng movie:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Tumitingin ng page:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Tumitingin ng playlist:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Tumitingin ng product:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Tumitingin ng profile ng:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Tumitingin ng series:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Tumitingin ng show:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Tumitingin ng thread:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Tumitingin ng user:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "Tumitingin:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Nanonood ng isang livestream para mag-start"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Nanonood ng livestream para mag-start"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Naghihintay para sa isang video para i-premiere"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Naghihintay para sa video para i-premiere"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Nanoood:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Nanoood ng livestream"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Nanonood ng movie"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Nanonood ng series"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Nanonood ng show"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Nanonood ng video"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Wishlist:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Nagsusulat"
+	}
+}

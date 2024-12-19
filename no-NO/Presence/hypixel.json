@@ -1,4 +1,12 @@
 {
+  "hypixel.dm": {
+    "description": "",
+    "message": "Ser på deres direktemeldinger"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Ser på spill:"
+  },
   "hypixel.staff": {
     "description": "",
     "message": "Ser på liste over ansatte"

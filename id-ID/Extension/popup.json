@@ -107,6 +107,22 @@
 		"description": "Shown when application is outdated",
 		"message": "Aplikasi PreMiD kamu telah usang. Mohon melakukan pembaruan untuk lanjut menggunakan PreMiD."
 	},
+	"popup.info.extensionDisabled": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Ekstensi dinonaktifkan"
+	},
+	"popup.info.extensionDisabled.message": {
+		"description": "Shown when the extension has been disabled in the settings",
+		"message": "Ekstensi PreMiD telah dinonaktifkan di pengaturan. Aktifkan kembali untuk melanjutkan menggunakan PreMiD."
+	},
+	"popup.info.discordStatusSetting.message": {
+		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
+		"message": "Pastikan Anda telah mengaktifkan pengaturan 'Tampilkan aktivitas saat ini sebagai pesan status' di pengaturan Discord Anda."
+	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "PreMiD tidak dapat menemukan presence untuk tab yang Anda sedang buka. Pastikan Anda telah menginstal presence untuk situs web yang sedang Anda gunakan. Jika Anda sudah menginstal presence, coba muat ulang situs web tersebut dan pastikan presence tersebut telah diaktifkan di pengaturan."
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "Kredit"
@@ -118,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "Informasi"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "Diagnostik"
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -143,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Aktif"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Mode Pengembang"
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Kontrol Media"
@@ -151,24 +175,236 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Title Menubar"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Sinkronkan Bahasa"
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "Bahasa Presence Diutamakan"
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "Gagal mendapatkan pengguna"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "Denyutan"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Preferensikan Aplikasi"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "Versi ekstensi: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "Versi aplikasi: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "Tidak disambung ke Aplikasi PreMiD"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Pengguna Discord: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "Tidak disambung ke Aplikasi Discord"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord Tidak Terhubung"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD memerlukan akun Discord yang terhubung agar dapat berfungsi dengan baik. Silakan hubungkan akun Discord Anda untuk melanjutkan penggunaan PreMiD."
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "Hubungkan Discord"
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "Bukan kamu?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "Tidak terhubung"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "Akun Discord Anda tidak terhubung ke PreMiD."
 	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "Keluar"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "Guna Status Bermain"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "Apa yang Baru 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "Lihatlah barang keren terbaru!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "Buka Log Perubahan"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord Tidak Terhubung"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD memerlukan akun Discord yang terhubung agar dapat berfungsi dengan baik. Silakan hubungkan akun Discord Anda untuk melanjutkan penggunaan PreMiD."
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "Hubungkan Discord"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "Ada perkara mau disampaikan?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "Kirim umpan balik"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "Laporkan Bug atau Masalah dengan Presence"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "Laporkan Bug atau Masalah dengan Ekstensi"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "Ajukan Fitur"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Lainnya"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "Umpan Balik"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "Apa yang terjadi? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "Silakan pilih jenis umpan balik yang Anda ingin kirimkan."
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "Laporkan Bug atau Masalah dengan Presence"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "Waduh! 😱 Maaf mendengar bahwa Anda mengalami masalah dengan Presence.\n\nPresence kami dikelola oleh komunitas, jadi harap laporkan masalah yang Anda alami dengan Presence di repositori GitHub kami.\n\nJika Anda memilih Presence di bawah, kami akan secara otomatis menyertakan rincian Presence dalam template masalah."
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "Tutup"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "Kirim"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "Laporkan Bug atau Masalah dengan Ekstensi"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "Waduh! 😱 Maaf mendengar bahwa Anda mengalami masalah dengan Ekstensi.\n\nMohon isi formulir berikut untuk melaporkan masalah yang Anda alami dengan Ekstensi."
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "Jelaskan Masalahnya"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "Silakan jelaskan masalah yang Anda alami dengan Ekstensi seboleh-bolehnya secara terperinci."
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "Semua laporan bersifat anonim kecuali Anda memilih untuk memberikan informasi kontak Anda.\nKami mungkin menghubungi Anda untuk informasi lebih lanjut jika diperlukan, atau untuk memberitahukan Anda ketika masalah telah diselesaikan."
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "Alamat Email Anda (Opsional)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Nama Pengguna Discord Anda (Opsional)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "Ajukan Fitur"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "Kami selalu mencari cara untuk meningkatkan PreMiD dan membuatnya lebih baik untuk Anda.\n\nSilakan isi formulir berikut untuk mengajukan fitur yang ingin Anda lihat di PreMiD."
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "Jelaskan Fiturnya"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "Silakan jelaskan ciri yang Anda ingin lihat di PreMiD seboleh-bolehnya secara terperinci."
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "Semua permintaan fitur bersifat anonim kecuali Anda memilih untuk memberikan informasi kontak Anda.\nKami mungkin menghubungi Anda untuk informasi lebih lanjut jika diperlukan, atau untuk memberitahukan Anda ketika fitur tersebut telah diterapkan."
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "Lainnya"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "Silakan isi formulir berikut untuk memberikan umpan balik tentang hal lain yang ingin Anda bagikan dengan kami."
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "Jelaskan Umpan Baliknya"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "Silakan jelaskan umpan balik yang Anda ingin bagikan dengan kami seboleh-bolehnya secara terperinci."
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "Semua umpan balik bersifat anonim kecuali Anda memilih untuk memberikan informasi kontak Anda.\nKami mungkin menghubungi Anda untuk informasi lebih lanjut jika diperlukan, atau untuk memberitahukan Anda ketika umpan balik tersebut telah ditangani."
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "Umpan Balik Dikirim"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "Terima kasih telah mengirimkan umpan balik Anda! 🎉\n\nKami menghargai Anda meluangkan waktu untuk berbagi pemikiran dengan kami. Kami akan meninjau umpan balik Anda dan menghubungi Anda jika diperlukan."
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "Waduh! 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "Terjadi kesalahan saat mengirimkan umpan balik Anda. Silakan coba lagi nanti.\n\nJika masalah ini berlanjut, silakan hubungi kami di server Discord kami."
 	}
 }

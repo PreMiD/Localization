@@ -3,17 +3,33 @@
     "description": "Displayed when the user is browsing their Google Documents",
     "message": "Dokumentumokat böngészik"
   },
+  "google docs.browsingForm": {
+    "description": "Displayed when the user is browsing their Google Forms",
+    "message": "Űrlapjait nézi"
+  },
   "google docs.browsingPresentation": {
     "description": "Displayed when the user is browsing their Google presentation",
     "message": "Prezentációkat böngészik"
+  },
+  "google docs.browsingSheet": {
+    "description": "Displayed when the user is browsing their Google Sheets",
+    "message": "Táblázatait nézi"
   },
   "google docs.editingDoc": {
     "description": "Displayed when the user is editing a Google Document",
     "message": "Dokumentumot szerkeszt"
   },
+  "google docs.editingForm": {
+    "description": "Displayed when the user is editing a Google Form",
+    "message": "Űrlapot szerkeszt"
+  },
   "google docs.editingPresentation": {
     "description": "Displayed when the user is editing a Google presentation",
     "message": "Prezentációt szerkeszt"
+  },
+  "google docs.editingSheet": {
+    "description": "Displayed when the user is eiditng a Google Sheet",
+    "message": "Táblázatot szerkeszt"
   },
   "google docs.viewingDoc": {
     "description": "Displayed when the user is viewing a Google Document",

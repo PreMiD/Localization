@@ -159,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "Ostrzeżenie"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "PreMiD nie jest dostępny dla urządzeń mobilnych. Użyj przeglądarki na komputerze aby zainstalować PreMiD."
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "Pokaż pliki do pobrania"
@@ -166,5 +170,81 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "Ukryj pliki do pobrania"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "Wielkie wieści!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "Usunęliśmy aplikację całkowicie!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "Teraz potrzebujesz tylko rozszerzenia przeglądarki - nie są potrzebne żadne dodatkowe rzeczy do pobrania."
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "Konfiguracja za jednym kliknięciem"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "Aplikacja nie jest potrzebna"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "Po prostu działa™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "Aplikacja została usunięta w wersji 2.6.0, aby ułatwić Ci życie ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "Dodaj PreMiD do swojej przeglądarki"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "Już wkrótce"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "Program beta"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "Lubisz próbować nowych rzeczy? Dołącz do naszego Discorda i użyj /beta aby uzyskać wczesny dostęp!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "Dostęp do wersji Alpha"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "Wesprzyj nas na GitHub lub Patreon, aby uzyskać najnowsze funkcje!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "Potrzebujesz pomocy? Dołącz do naszego"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Serwera Discord"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "aby uzyskać wsparcie!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "Kochasz PreMiD?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "Rozważ wspieranie nas lub pozostawienie recenzji - wiele to dla nas znaczy!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "Oceń nas"
 	}
 }

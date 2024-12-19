@@ -23,6 +23,10 @@
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
     "message": "Μου αρέσει"
   },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Αυτό το Presence υποστηρίζει περισσότερα URL από τα παρακάτω μέσω της χρήσης του RegExp"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "Υποστηριζόμενα URL"

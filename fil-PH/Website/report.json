@@ -1,1 +1,58 @@
-{}
+{
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "Mga Active Bug"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "Pumili ng iyong Browser at Version - Pwede mong makuha ang version sa pag-visit sa about:support sa Firefox o sa chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "{count}/3 ang mga natitirang Report"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "I-report"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "Mag-provide ng isang link sa isang live example o isang unambiguous set of steps para lumitaw ang bug na ito."
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "Kailangan pa ng maraming information"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Kailangan pang ma-verify ang Discord account"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "Ang pagre-report ng mga bug ay para sa mga bug sa loob ng site ng PreMiD at sa PreMiD Discord Server. Ang mga bug para sa isang presence ay dapat nire-report sa creator ng presence. I-report lang ang mga bug sa English."
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "Pumili ng iyong Operating System at Version"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "Mag-provide ng isang clear at coincise na description na kung anong bug iyon."
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "Na-Submit na ang Bug"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "I-Report ang Isang Bug"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "Masyado nang marami kang mga active report. Mag-wait na ma-review ang mga na-submit mong mga report. Ang mga report ay natse-check kada weekly basis, be patient."
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "Masyado nang marami kang mga active report."
+  }
+}

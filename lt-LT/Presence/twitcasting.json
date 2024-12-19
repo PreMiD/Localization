@@ -1,4 +1,16 @@
 {
+  "twitcasting.viewTheir": {
+    "description": "Part 1 of the next string",
+    "message": "Peržiūrimi"
+  },
+  "twitcasting.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Sekėjų sąrašas"
+  },
+  "twitcasting.dashboardManage": {
+    "description": "",
+    "message": "Tvarko savo transliacija..."
+  },
   "twitcasting.subs": {
     "description": "",
     "message": "Peržiūri savo prenumeratas..."

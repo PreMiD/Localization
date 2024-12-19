@@ -159,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "Cảnh báo"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "PreMiD is not available for mobile devices. Please use a desktop browser to install PreMiD."
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "Hiển thị mục tải"
@@ -166,5 +170,81 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "Ẩn mục tải"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "Tin cực lớn!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "Chúng tôi đã thành công việc loại bỏ ứng dụng!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "Giờ bạn chỉ cần sử dụng tiện ích trên trình duyệt - không cần tải xuống cái gì."
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "Một click để cài đặt"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "Không cần ứng dụng"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "Chỉ cần hoạt động™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "Ứng dụng đã được gỡ bỏ tại phiên bản 2.6.0 để làm cho cuộc sống của bạn dễ dàng hơn ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "Thêm PreMiD vào trình duyệt của bạn"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "Sắp có"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "Chương trình Beta"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "Thích trải nghiệm tính năng mới? Tham gia Discord của chúng tôi và sử dụng /beta để nhận quyền truy cập sớm!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "Truy cập sớm"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "Hãy giúp đỡ chúng tôi tại GitHub hoặc Patreon để nhận được những tính năng tiên tiến nhất!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "Cần giúp đỡ? Tham gia"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Discord"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "để được hỗ trợ!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "Yêu thích PreMiD?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "Hãy cân nhắc giúp đỡ chúng tôi hoặc để lại đánh giá - điều đó giúp ích cho chúng tôi rất nhiều!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "Đánh giá chúng tôi"
 	}
 }

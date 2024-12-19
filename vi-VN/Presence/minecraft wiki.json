@@ -1,4 +1,36 @@
 {
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Đang thay đổi cài đặt bảo vệ của:"
+  },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Đang thay đổi:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Đang xem những đóng góp của:"
+  },
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Đang xem lịch sử:"
+  },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Đang xem cài đặt bảo vệ của:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Đang xem những thay đổi gần đây:"
+  },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Đang xem nguồn của:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
+    "message": "Đang xem danh sách của họ:"
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "Đang tải lên..."

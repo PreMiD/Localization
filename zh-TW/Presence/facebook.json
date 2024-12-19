@@ -1,1 +1,34 @@
-{}
+{
+  "facebook.added": {
+    "description": "",
+    "message": "最近新增"
+  },
+  "facebook.browse": {
+    "description": "",
+    "message": "遊覽中:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "通話中:"
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "儲存影片"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "正在閲讀用戶資訊:"
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "某個人... (用戶隱形)"
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "視訊通話中:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "正在查看今天天氣"
+  }
+}

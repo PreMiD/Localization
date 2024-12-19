@@ -159,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "taiga là một Discord Bot sẽ cung cấp tất cả các tính năng mà bạn có thể cần!"
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio là một đài phát thanh trực tuyến do cộng đồng cung cấp, cung cấp chương trình giải trí trên đài không có quảng cáo 24/7, các bài báo hàng ngày và hơn thế nữa!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "Phần mềm Wiki mã nguồn mở và có thể dễ dàng mở rộng."

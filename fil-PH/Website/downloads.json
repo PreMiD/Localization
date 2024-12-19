@@ -1,1 +1,170 @@
-{}
+{
+	"downloads.adsbox.disableAdblock": {
+		"description": "Message next to pepe.",
+		"message": "Pakiusap i-disable ang adblock mo"
+	},
+	"downloads.adsbox.thankyou.message": {
+		"description": "Message of the advertisement section box.",
+		"message": "Gumagamit kami ng mga ads para masuportahan ang aming team at ma-maintain ang aming mga server para ma-offer ka namin ng best user experience!"
+	},
+	"downloads.adsbox.thankyou.title": {
+		"description": "Title of the advertisement section box.",
+		"message": "Salamat!"
+	},
+	"downloads.appdownloading.header": {
+		"description": "Header above application download buttons.",
+		"message": "Application"
+	},
+	"downloads.button.back": {
+		"description": "Back button on the ads section",
+		"message": "Bumalik"
+	},
+	"downloads.button.cancel": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "I-cancle"
+	},
+	"downloads.button.done": {
+		"description": "Button on the page when trying to download with adblocker on.",
+		"message": "Tapos na"
+	},
+	"downloads.button.login": {
+		"description": "Login button on the downloads page.",
+		"message": "Mag-login"
+	},
+	"downloads.button.okay": {
+		"description": "Button on the modal of Opera/Edge browsers.",
+		"message": "Okay"
+	},
+	"downloads.button.skip": {
+		"description": "Skip button on the ads section",
+		"message": "I-skip"
+	},
+	"downloads.button.skipanyway": {
+		"description": "Skip Anyway button on the ads page.",
+		"message": "I-skip Parin"
+	},
+	"downloads.error.login": {
+		"description": "Error message if the user is not logged in.",
+		"message": "Pakiusap mag-login para makita itong mga download."
+	},
+	"downloads.error.noaccess.description": {
+		"description": "More info if the user doesn't alpha/beta access.",
+		"message": "Pwede kang mag-join **dito** sa aming beta program ng libre. Dalian mo! Meron nalang kaming {0} maraming natitirang slots na available"
+	},
+	"downloads.error.noaccess.title": {
+		"description": "Error message if the user doesn't alpha/beta access.",
+		"message": "Nako po, parang wala kang access sa alpha/beta :("
+	},
+	"downloads.extdownloading.header": {
+		"description": "Header above extension download buttons.",
+		"message": "Extension"
+	},
+	"downloads.header.subtitle": {
+		"description": "Subtitle for header",
+		"message": "Gamitin na ngayon ang PreMiD at ipagmayabang sa mga kaibigan mo ano ang ginagawa mo, malay mo may mahanap ka na parehas ang interest."
+	},
+	"downloads.header.title": {
+		"description": "Title",
+		"message": "Oras na para ipagmayabang."
+	},
+	"downloads.instructions.footer": {
+		"description": "{0} will be replaced with footer.link",
+		"message": "May mga isyu parin? {0}"
+	},
+	"downloads.instructions.footer.link": {
+		"description": "Link to our discord",
+		"message": "Nandito kami para tumulong!"
+	},
+	"downloads.instructions.heading": {
+		"description": "Displayed at Downloads page above steps",
+		"message": "Magsimula"
+	},
+	"downloads.instructions.step_1": {
+		"description": "Heading for installing the application",
+		"message": "I-download ang PreMiD"
+	},
+	"downloads.instructions.step_2": {
+		"description": "Heading for installing the application",
+		"message": "I-install and aming application"
+	},
+	"downloads.instructions.step_3": {
+		"description": "Heading for installing the application",
+		"message": "I-add ang aming Extension sa iyong browser"
+	},
+	"downloads.instructions.step_4": {
+		"description": "I think you get what this is...",
+		"message": "I-reload and site na ito and i-check kung and extension ay naka-connect"
+	},
+	"downloads.latest.header": {
+		"description": "Header above alpha/beta download buttons.",
+		"message": "Mga maagang release"
+	},
+	"downloads.mobile.errorMessage": {
+		"description": "Downloads page warning when user is on mobile.",
+		"message": "Pakiusap maging aware na ay hindi supportado ang PreMiD sa mobile phones."
+	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "Ipakita ang mga mga maagang release"
+	},
+	"downloads.showbeta.small": {
+		"description": "Small text under the show beta title.",
+		"message": "(hindi na kailangan kung nandito ka lang para i-download ang normal na application)"
+	},
+	"downloads.skipanyway.message1": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Ayoko sumuporta."
+	},
+	"downloads.skipanyway.message2": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Sigurado ka?"
+	},
+	"downloads.skipanyway.message3": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Talaga?"
+	},
+	"downloads.skipanyway.message4": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "P-pakiusap pa-support :("
+	},
+	"downloads.skipanyway.message5": {
+		"description": "Skip anyway messages (changes everytime you click it).",
+		"message": "Kailangan kita :<"
+	},
+	"downloads.skipanyway.message6": {
+		"description": "Last message of the skip anyway messages (changes everytime you click it).",
+		"message": "Okay, okay..."
+	},
+	"downloads.tooltips.os_not_supported.part1": {
+		"description": "First part of the message.",
+		"message": "Babala:"
+	},
+	"downloads.tooltips.os_not_supported.part2": {
+		"description": "Next part of the tooltip message. {0} are replaced with `downloads.tooltips.os_not_supported.part1`",
+		"message": "{0} Walang installer dito para sa operating system na ito. Ibig sabihin ay walang propesyonal support para dito."
+	},
+	"downloads.warning.differentVersion": {
+		"description": "Tippy message of the Linux card.",
+		"message": "Ang current version ng platform na ito ay nasa {0} (ang version na ito ay specific sa Linux at hindi ito naa-apply sa ibang platforms)."
+	},
+	"downloads.warning.differentVersion2": {
+		"description": "Tippy message of the version number when user is on Linux.",
+		"message": "Ang version na ito ay specific sa Linux, at hindi ito naa-apply sa ibang mga system. Ang main version ng Application ay nasa {0}"
+	},
+	"downloads.warning.message.opera": {
+		"description": "Warning modal message when an Opera user clicks on Opera (extension) download. '**this**' will be replaced with link to the Opera's extension store. Keep the *.",
+		"message": "Kailangan mong i-install **itong** extension para ma-install ang PreMiD galing sa Chrome Webstore."
+	},
+	"downloads.warning.title": {
+		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
+		"message": "Babala"
+	},
+	"downloads.mobile.showDownloads": {
+		"description": "Button text to show downloads section on mobile.",
+		"message": "Ipakita ang mga Download"
+	},
+	"downloads.mobile.hideDownloads": {
+		"description": "Button text to hide downloads section on mobile.",
+		"message": "Itago ang mga Download"
+	}
+}

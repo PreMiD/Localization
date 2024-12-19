@@ -151,6 +151,10 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "Titel Menubar"
 	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "Log ud"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "Andet"

@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "サーバーを見る"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "マントを見ています"
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "プロフィールの登録方法を見ています"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "プロフィール情報を編集しています"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "サーバーを見ています"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "新しいスキンを見ています"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "ランダムなスキンを見ています"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "{0} のタグ付きスキンを見ています"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "タグ付きスキンを見ています"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "トップスキンを見ています"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "トレンドスキンを見ています"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "今後の名前を見ています"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "マントを閲覧中:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "プロフィール絵文字を見ています"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "自分のフレンドを見ています"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "サーバーを閲覧中:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "スキンを見ています"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "自分のスキンを見ています"
+  }
+}

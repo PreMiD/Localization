@@ -7,28 +7,460 @@
 		"description": "",
 		"message": "Prehľadáva..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prehliadať"
+	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Počúvajte spolu"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prečítajte si článok"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobraziť album"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobraziť článok"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobraziť interpreta"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Sledovanie kanálu"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Pozrieť si epizódu"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Sledovanie filmu"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobraziť stránku"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobraziť zoznam skladieb"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobraziť podcast"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prezrieť profil"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobraziť Seriál"
+	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Prezerať seriál"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Zobraziť skladbu"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Pozerať film"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Sledovať stream"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Sledovať Video"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Telefonuje"
+	},
+	"general.chapter": {
+		"description": "",
+		"message": "Kapitola"
+	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Zásady súborov cookies"
+	},
+	"general.dj": {
+		"description": "",
+		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Upravuje:"
+	},
+	"general.episode": {
+		"description": "",
+		"message": "Epizóda"
+	},
+	"general.forums": {
+		"description": "",
+		"message": "Fóra"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Žáner"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "V hovore..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "História nehôd"
+	},
 	"general.language": {
 		"description": "For choosing a language",
 		"message": "Jazyk"
+	},
+	"general.listeners": {
+		"description": "",
+		"message": "Poslucháči"
+	},
+	"general.listeningMusic": {
+		"description": "",
+		"message": "Počúva hudbu"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Počúva {0}{1}"
 	},
 	"general.live": {
 		"description": "",
 		"message": "Naživo"
 	},
+	"general.manga": {
+		"description": "",
+		"message": "Manga"
+	},
+	"general.merch": {
+		"description": "",
+		"message": "Tovar"
+	},
+	"general.page": {
+		"description": "",
+		"message": "Stránka"
+	},
+	"general.paused": {
+		"description": "",
+		"message": "Pozastavené"
+	},
+	"general.playing": {
+		"description": "",
+		"message": "Práve hrá"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Zásady ochrany osobných údajov"
+	},
 	"general.reading": {
 		"description": "",
 		"message": "Číta"
+	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Číta si v kanáli"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Číta si súkromné správy"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Číta si príspevok"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Číta si vlákno"
+	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Číta si o:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Číta si článok"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Číta si článok:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Číta si v kanáli:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Číta si súkromné správy od:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Číta si príspevok:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Číta si vlákno:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "Opakovanie"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Opakuje všetky pesničky"
 	},
 	"general.search": {
 		"description": "",
 		"message": "Hľadá"
 	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Vyhľadáva si:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Vyhľadáva niečo..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "Sezóna"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Nákupný košík"
+	},
 	"general.store": {
 		"description": "",
 		"message": "Obchod"
 	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Podmienky služieb"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Píše v kanáli:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Píše spravu užívateľovi:"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "Píše v súkromných správach"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "História prevádzkyschopnosti"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Prezerá si list"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Prezerá si mangu"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Prezerá si používateľa"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Prezerá si film"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Prezerá si stránku"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Prezerá si playlist"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Prezerá si produkt"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Prezerá si profil"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Prezerá si seriál"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Prezerá si show"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Prezerá si vlákno"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Prezerá si svoj účet"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "Prezerá si incident"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Prezerá si profil užívateľa"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Prezerá si anime:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Prezerá si kategóriu:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Prezerá si kanál:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Prezerá si epizódu:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Prezerá si žáner:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Prezerá si domácu stránku"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "Prezerá si incident o:"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Prezerá si list užívateľa:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Prezerá si mangu:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Prezerá si užívateľa:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Prezerá si film:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Prezerá stránku:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Prezerá si playlist:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Prezerá si produkt:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Prezerá si profil užívateľa:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Prezerá si seriál:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Prezerá show:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Prezerá si vlákno:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Prezerá užívateľa:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "Prezerá si:"
+	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Prezerá si wishlist"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "Prezerá si wishlist užívateľa:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Čaká na začiatok vysielania"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Čaká na začiatok vysielania"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Čaká na premiéru videa"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Čaká na premiéru videa"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Pozerá:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Pozerá živé vysielanie"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Pozerá film"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Pozerá seriál"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Pozerá show"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Pozerá video"
+	},
 	"general.wiki": {
 		"description": "A page name",
 		"message": "Wiki"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Zoznam prianí:"
+	},
+	"general.writing": {
+		"description": "",
+		"message": "Písanie"
 	}
 }

@@ -1,10 +1,150 @@
 {
+  "discord.blog": {
+    "description": "",
+    "message": "Discord 部落格"
+  },
   "discord.browseThrough": {
     "description": "The first part of the next 17 strings",
     "message": "遊覽中"
   },
+  "discord.buttonInvite": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "查看邀請連結"
+  },
+  "discord.channelReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "在 {0}{1} 閲讀中 (所在伺服器: {2})"
+  },
+  "discord.channelTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "在 {0}{1} 輸入中 (所在伺服器: {2})"
+  },
+  "discord.company": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "關於"
+  },
+  "discord.devs.appsEdit": {
+    "description": "{0} will be replaced with the name of the app.",
+    "message": "編輯應用程式: {0}"
+  },
+  "discord.devs.docs": {
+    "description": "",
+    "message": "閱讀文檔"
+  },
+  "discord.devs.portal": {
+    "description": "",
+    "message": "開發人員入口"
+  },
+  "discord.devs.serversEdit": {
+    "description": "{0} will be replaced with the name of the server.",
+    "message": "正在檢視 {0} 的洞察報告"
+  },
+  "discord.devs.teamsEdit": {
+    "description": "{0} will be replaced with the name of the team.",
+    "message": "編輯團隊: {0}"
+  },
+  "discord.dmGroupTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "正在私訊 {0}{1}"
+  },
+  "discord.dmReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "正在閱讀來自 {0}{1} 的私訊"
+  },
+  "discord.dmTyping": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user.",
+    "message": "正在私訊 {0}{1}"
+  },
+  "discord.download": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "下載頁面"
+  },
+  "discord.friends": {
+    "description": "",
+    "message": "正在檢視他們的朋友..."
+  },
+  "discord.invite": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
+    "message": "正在檢視邀請連結 {1}{0}(伺服器: {2})"
+  },
+  "discord.inviteServer": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "正在檢視 {1}{0}的邀請連結"
+  },
+  "discord.jobs": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "工作頁面"
+  },
+  "discord.merch": {
+    "description": "",
+    "message": "Discord 商品"
+  },
   "discord.merch.collection": {
     "description": "",
     "message": "正在檢視收藏:"
+  },
+  "discord.newsroom": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "新聞發佈室頁面"
+  },
+  "discord.nitro": {
+    "description": "",
+    "message": "閱讀有關Nitro的內容..."
+  },
+  "discord.opensource": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "開源程式碼頁面"
+  },
+  "discord.partner": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "合作夥伴"
+  },
+  "discord.policies": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "政策"
+  },
+  "discord.safety": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "安全中心"
+  },
+  "discord.security": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "安全性頁面"
+  },
+  "discord.serverSettings": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the server.",
+    "message": "正在檢視 {1}{0}的伺服器設定"
+  },
+  "discord.settings": {
+    "description": "",
+    "message": "正在檢視他們的設定..."
+  },
+  "discord.status": {
+    "description": "",
+    "message": "Discord 狀態"
+  },
+  "discord.streamkit": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "StreamKit 頁面"
+  },
+  "discord.support": {
+    "description": "",
+    "message": "幫助中心"
+  },
+  "discord.verification": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "驗證頁面"
+  },
+  "discord.voiceConnectedTo": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
+    "message": "語音已連線 {0}{1} (所在伺服器: {2})"
+  },
+  "discord.voiceConnectedWith": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the user or group.",
+    "message": "語音已連線 {0}{1}"
+  },
+  "discord.why": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "\"Why Discord?\" 頁面"
   }
 }

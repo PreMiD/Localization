@@ -1,1 +1,18 @@
-{}
+{
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "Skatās dziesmu teksts:"
+  },
+  "genius.viewAlbum": {
+    "description": "Album of a song",
+    "message": "Skatās albumu:"
+  },
+  "genius.viewHome": {
+    "description": "",
+    "message": "Skatās mājaslapu"
+  },
+  "genius.viewLyrics": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Skatīt dziesmu teksts"
+  }
+}

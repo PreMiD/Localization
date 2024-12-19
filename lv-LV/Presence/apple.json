@@ -1,4 +1,64 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "Savienojas..."
+  },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "Skatās lietotni"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "Skatās Izstrādātāju"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "Skatās Notikumu"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "Skatās {0}"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "Skatāt Produktu"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "Skatās {0} profilu"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "Skatās Pakalpojumu"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "Skatās {0} Studio"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "Skatās Tags"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Skatās Pavedienu"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "Skatās {0}"
+  },
+  "apple.chooseLang": {
+    "description": "Choosing the language of the website",
+    "message": "Izvēlas valodu..."
+  },
+  "apple.comparing": {
+    "description": "e.g. \"Comparing: Apple Watch\"",
+    "message": "Salīdzina:"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "Sazināšanās ar atbalsta dienestu"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "Dokumentācija"
@@ -11,8 +71,124 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "Spēles"
   },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "Ziņas un Atjauninājumi"
+  },
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "iPhone un iPad lietotnes"
+  },
+  "apple.devVidTopic": {
+    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
+    "message": "Pārlūko video tēmu"
+  },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "Video"
+  },
+  "apple.healthRecords": {
+    "description": "Health records of a person",
+    "message": "Veselības ieraksti"
+  },
+  "apple.healthcare": {
+    "description": "The organized provision of medical care to individuals or a community",
+    "message": "Healthcare"
+  },
+  "apple.iCloudCalendar": {
+    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Kalendārs"
+  },
+  "apple.iCloudContacts": {
+    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Kontakti"
+  },
+  "apple.iCloudMail": {
+    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Pasts"
+  },
+  "apple.iCloudNotes": {
+    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Piezīmes"
+  },
+  "apple.iCloudPhotos": {
+    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Bildes"
+  },
+  "apple.iCloudReminders": {
+    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Atgādinājumi"
+  },
   "apple.other": {
     "description": "Other pages not added to the code",
     "message": "Cits"
+  },
+  "apple.overview": {
+    "description": "Overview of e.g. all pages of a category",
+    "message": "Pārskats"
+  },
+  "apple.productsPlatform": {
+    "description": "Products/platforms for companies",
+    "message": "Produkti un Platforma"
+  },
+  "apple.purchasingAdvice": {
+    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
+    "message": "Iepirkuma konsultācijas"
+  },
+  "apple.shopAccessories": {
+    "description": "Accessories for Apple products (e.g iPhone case)",
+    "message": "Apple Aksesuāri"
+  },
+  "apple.shopBag": {
+    "description": "Shopping cart",
+    "message": "Veikalu Grozs"
+  },
+  "apple.shopBagSummary": {
+    "description": "The total price of the items in your bag (shopping cart)",
+    "message": "Kopā: {0}"
+  },
+  "apple.shopBands": {
+    "description": "Bands (Bracelets) for the Apple Watch",
+    "message": "Apple Watch siksniņas"
+  },
+  "apple.shopFavorites": {
+    "description": "Favorite products",
+    "message": "Iecienītākie"
+  },
+  "apple.shopGiftCards": {
+    "description": "Gift cards for e.g. the App Store",
+    "message": "Dāvanu kartes"
+  },
+  "apple.shopRefurbished": {
+    "description": "Used Apple products at a lower price",
+    "message": "Sertificēta Atjaunota"
+  },
+  "apple.shopStudio": {
+    "description": "Choose your own design components for a product",
+    "message": "Apple Watch Studio"
+  },
+  "apple.storeFinder": {
+    "description": "Tool used to find the nearest store",
+    "message": "Veikalu meklētājs"
+  },
+  "apple.supplierResp": {
+    "description": "Information on human rights, health, safety, education, etc. of employees",
+    "message": "Piegādātāju Atbildība"
+  },
+  "apple.support": {
+    "description": "Support for products, services/apps from Apple, etc.",
+    "message": "Apple atbalsta dienests"
+  },
+  "apple.supportArticle": {
+    "description": "Support article",
+    "message": "Apple atbalsta dienests raksts"
+  },
+  "apple.viewEvent": {
+    "description": "Viewing an event (e.g. September event)",
+    "message": "Skatās Pasākumu"
+  },
+  "apple.viewService": {
+    "description": "e.g. \"Viewing Service: Fitness+\"",
+    "message": "Skatās Pakalpojumu:"
   }
 }

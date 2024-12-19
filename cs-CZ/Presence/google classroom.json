@@ -1,1 +1,42 @@
-{}
+{
+  "google classroom.assignment": {
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class",
+    "message": "Prohlíží přílohu v:"
+  },
+  "google classroom.assignmentPrivate": {
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "Prohlíží přílohu"
+  },
+  "google classroom.calendar": {
+    "description": "Displayed when the user viewing their calendar",
+    "message": "Zobrazování kalendáře"
+  },
+  "google classroom.class": {
+    "description": "Displayed when a user is viewing a class",
+    "message": "Prohlíží seznam"
+  },
+  "google classroom.classmembers": {
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class",
+    "message": "Prohlíží seznam od:"
+  },
+  "google classroom.classmembersPrivate": {
+    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "Prohlíží seznam spolužáků"
+  },
+  "google classroom.classwork": {
+    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class",
+    "message": "Prohlíží úkoly od:"
+  },
+  "google classroom.classworkPrivate": {
+    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "Prohlíží úkoly"
+  },
+  "google classroom.settings": {
+    "description": "Displayed when a user is viewing their Google Classroom settings",
+    "message": "Konfigurovat nastavení"
+  },
+  "google classroom.todo": {
+    "description": "Displayed when the user is viewing their to-do list",
+    "message": "Zobrazování to-do listu"
+  }
+}

@@ -11,6 +11,14 @@
     "description": "Heading for group of users.",
     "message": "Equipe"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Apoiadores"
+  },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Desenvolvedores de Presence"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Tradutores"
@@ -22,6 +30,18 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Gerente da comunidade"
+  },
+  "contributors.roles.softwareEngineer": {
+    "description": "'Software Engineer' title for contributors and user pages.",
+    "message": "Engenheiro de Software"
+  },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "Desenvolvedor"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderador"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -35,13 +55,25 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Gerente de tradução"
   },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Gerência de Projeto"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Colaborador"
+  },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Desenvolvedor de Presences"
+    "message": "Desenvolvedor de Atividades"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Revisor"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Suporte"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

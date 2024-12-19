@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "Prezerá si ich DM"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Prezerá si hru:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Prezerá si zoznam zamestnancov"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Prezerá si ich sledované fóra"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Prezerá si ich sledované vlákna"
+  }
+}

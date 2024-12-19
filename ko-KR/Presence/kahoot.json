@@ -7,9 +7,29 @@
     "description": "Used when the user anwered correct on a question",
     "message": "정답"
   },
+  "kahoot.createHome": {
+    "description": "Used when the user is viewing the create.kahoot.it home page",
+    "message": "홈페이지 보는 중"
+  },
+  "kahoot.discover": {
+    "description": "Used when the user is viewing the discover page",
+    "message": "찾기 페이지 보는 중"
+  },
   "kahoot.drumRoll": {
     "description": "Used when a player is waiting to receive their final ranking",
     "message": "최종 순위를 기다리는 중..."
+  },
+  "kahoot.editingCourse": {
+    "description": "Used when the user is editing a course. The name of the course will be displayed below.",
+    "message": "코스 편집 중:"
+  },
+  "kahoot.editingKahoot": {
+    "description": "Used when the user is editing a Kahoot. The name of the Kahoot will be displayed below.",
+    "message": "Kahoot 편집 중:"
+  },
+  "kahoot.feedback": {
+    "description": "Used when a player is providing feedback about the quiz to the host",
+    "message": "피드백 제공 중"
   },
   "kahoot.firstPlace": {
     "description": "Used to display who was first place in a game. {0} is a player name",
@@ -39,6 +59,10 @@
     "description": "Used when a user is joining a Kahoot Game.",
     "message": "게임 참여 중..."
   },
+  "kahoot.kahootDetails": {
+    "description": "Used when the user is viewing the details of a Kahoot. The name of the Kahoot will be displayed below.",
+    "message": "Kahoot의 세부 사항 보는 중:"
+  },
   "kahoot.kahootProfile": {
     "description": "Used when the user is viewing the profile of a Kahoot user or group. The name of the Kahoot user/group will be displayed below.",
     "message": "Kahoot 프로필 보는 중:"
@@ -47,9 +71,25 @@
     "description": "Used when the user is conducting a live course. A live course is a collection of activities that users interact with in real time.",
     "message": "라이브 코스 진행 중"
   },
+  "kahoot.liveCourseActivity": {
+    "description": "Used to display the activity being conducted. {0} is the activity number and {1} is the activity name.",
+    "message": "이벤트 #{0}: {1}"
+  },
   "kahoot.loadingPage": {
     "description": "Used when a page is loading",
     "message": "페이지 불러오는 중..."
+  },
+  "kahoot.login": {
+    "description": "Used when a user is logging in",
+    "message": "로그인 중"
+  },
+  "kahoot.myCourses": {
+    "description": "Used when the user is viewing their own courses. A course is a collection of Kahoots and other activities.",
+    "message": "코스들 보는 중"
+  },
+  "kahoot.myKahoots": {
+    "description": "Used when the user is viewing their own kahoots",
+    "message": "Kahoot들 보는 중"
   },
   "kahoot.ndPlace": {
     "description": "Used in the context of 2nd place",
@@ -75,6 +115,10 @@
     "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
     "message": "순위: {0}"
   },
+  "kahoot.previewingKahoot": {
+    "description": "Used when the user is previewing a Kahoot. The name of the Kahoot will be displayed below.",
+    "message": "Kahoot 미리 보는 중:"
+  },
   "kahoot.questionLoading": {
     "description": "Used when the next question is loading",
     "message": "다음 질문 불러오는 중..."
@@ -99,20 +143,44 @@
     "description": "Used when a user is looking at the results of the question they just answered",
     "message": "결과 확인 중:"
   },
+  "kahoot.searchKahoots": {
+    "description": "Used when the user is searching for Kahoots. The search query will be displayed below.",
+    "message": "Kahoot에서 검색 중:"
+  },
   "kahoot.slideShowing": {
     "description": "Used when the host is showing a slide from a Kahoot with content instead of a quiz",
     "message": "콘텐츠 슬라이드 표시 중"
+  },
+  "kahoot.slideViewing": {
+    "description": "Used when a user is looking at a slide with content in a Kahoot",
+    "message": "콘텐츠 슬라이드 확인 중"
   },
   "kahoot.stPlace": {
     "description": "Used in the context of 1st place",
     "message": "1등"
   },
+  "kahoot.teamTalk": {
+    "description": "Used when a player is talking to their team during team talk time",
+    "message": "팀과 논의 중"
+  },
   "kahoot.topX": {
     "description": "Used in the context of Top 5",
     "message": "{0}등"
   },
+  "kahoot.userReports": {
+    "description": "Used when the user is viewing their own game reports",
+    "message": "게임 신고 보는 중"
+  },
+  "kahoot.viewingCourse": {
+    "description": "Used when the user is viewing a course. The name of the course will be displayed below.",
+    "message": "코스 보는 중:"
+  },
   "kahoot.waiting": {
     "description": "Used when the user is waiting for a Kahoot Game to start",
     "message": "시작 대기 중..."
+  },
+  "kahoot.waitingAnswer": {
+    "description": "Used when a player is waiting for the question results",
+    "message": "결과를 기다리는 중..."
   }
 }

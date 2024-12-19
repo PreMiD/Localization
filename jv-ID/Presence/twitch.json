@@ -39,9 +39,17 @@
     "description": "Page name",
     "message": "Maksimalkan ekspresi"
   },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "Nggawe metode kegilaan (tercinta) kita"
+  },
   "twitch.brandReal": {
     "description": "Page name",
     "message": "Jaga Twitch tetap nyata"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "Nggawe kabeh"
   },
   "twitch.brandWatch": {
     "description": "Watching as in watching a video",

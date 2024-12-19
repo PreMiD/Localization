@@ -139,6 +139,10 @@
     "description": "Description for PackageCloud.",
     "message": "Propojené, vývojářům otevřené rozhraní pro všechny vaše výtvory."
   },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix je největším serverem souvisejícím s Netflixem Discord serverem. Diskutujte zde o svých oblíbených seriálech nebo filmech s podobně smýšlejícími lidmi."
+  },
   "partners.partner.reyfm": {
     "description": "Description for REYFM.",
     "message": "REYFM Tě nechá poslouchat více než 15 hudebních streamů zdarma - nepřetržitě. S nejlepší a nejnovější hudbou jen pro Tebe!"
@@ -154,6 +158,10 @@
   "partners.partner.taigaBot": {
     "description": "Description for taigabot.",
     "message": "taiga je Discord Bot, který se snaží nabídnou všechny funkce, které byste mohli využít, najednou!"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio je komunitní online rádio, které poskytuje nepřetržitou rozhlasovou zábavu bez reklam, denní zpravodajské články a mnoho dalšího!"
   },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",

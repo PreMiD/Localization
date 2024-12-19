@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "Pregledava njihov DM"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Gleda igru:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Gleda listu osoblja"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Gleda njihove praćene forume"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Gleda njihove praćene teme"
+  }
+}

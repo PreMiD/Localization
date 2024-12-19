@@ -1,1 +1,18 @@
-{}
+{
+  "netflix.latest": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "正在瀏覽Netflix{0}最新熱門影片"
+  },
+  "netflix.profile": {
+    "description": "",
+    "message": "正在管理他們的使用者"
+  },
+  "netflix.referral": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "獲取他們{0}推薦的鏈接"
+  },
+  "netflix.viewList": {
+    "description": "List as in their saved series/movies.",
+    "message": "正在查看他們的片單"
+  }
+}

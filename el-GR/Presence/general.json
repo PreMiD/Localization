@@ -7,13 +7,89 @@
 		"description": "",
 		"message": "Αναζήτηση..."
 	},
+	"general.buttonListenAlong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ακούστε Μαζί"
+	},
+	"general.buttonReadArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Διαβάστε άρθρο"
+	},
+	"general.buttonViewAlbum": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή άλμπουμ"
+	},
+	"general.buttonViewArtist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή Καλλιτέχνη"
+	},
+	"general.buttonViewChannel": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή καναλιού"
+	},
+	"general.buttonViewEpisode": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Παρακολουθήστε Επεισόδιο"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή Ταινίας"
+	},
+	"general.buttonViewPage": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή Σελίδας"
+	},
+	"general.buttonViewPlaylist": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή Λίστας αναπαραγωγής"
+	},
+	"general.buttonViewPodcast": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή Εκπομπής Podcast"
+	},
+	"general.buttonViewProfile": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Εμφάνιση προφίλ"
+	},
+	"general.buttonViewSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή Σειράς"
+	},
+	"general.buttonViewSong": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Προβολή Τραγουδιού"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Παρακολουθήστε Ταινία"
+	},
+	"general.buttonWatchStream": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Παρακολούθηση Ζωντανής Μετάδοσης"
+	},
+	"general.buttonWatchVideo": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Παρακολουθήστε Βίντεο"
+	},
+	"general.calling": {
+		"description": "",
+		"message": "Καλεί"
+	},
 	"general.chapter": {
 		"description": "",
 		"message": "Κεφάλαιο"
 	},
+	"general.cookie": {
+		"description": "A page name",
+		"message": "Πολιτική των Cookies"
+	},
 	"general.dj": {
 		"description": "",
 		"message": "DJ"
+	},
+	"general.editing": {
+		"description": "",
+		"message": "Επεξεργασία:"
 	},
 	"general.episode": {
 		"description": "",
@@ -22,6 +98,18 @@
 	"general.forums": {
 		"description": "",
 		"message": "Φόρουμ"
+	},
+	"general.genre": {
+		"description": "",
+		"message": "Είδος"
+	},
+	"general.inCall": {
+		"description": "",
+		"message": "Σε κλήση..."
+	},
+	"general.incidentHistory": {
+		"description": "A page name of statuspages",
+		"message": "Ιστορία περιστατικού"
 	},
 	"general.language": {
 		"description": "For choosing a language",
@@ -34,6 +122,10 @@
 	"general.listeningMusic": {
 		"description": "",
 		"message": "Ακρόαση μουσικής"
+	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Ακούγοντας{0}{1}"
 	},
 	"general.live": {
 		"description": "",
@@ -51,25 +143,221 @@
 		"description": "",
 		"message": "Σελίδα"
 	},
+	"general.paused": {
+		"description": "",
+		"message": "Παύση"
+	},
 	"general.playing": {
 		"description": "",
 		"message": "Παίζοντας"
+	},
+	"general.privacy": {
+		"description": "A page name",
+		"message": "Πολιτική Απορρήτου"
 	},
 	"general.reading": {
 		"description": "",
 		"message": "Ανάγνωση"
 	},
+	"general.readingAbout": {
+		"description": "",
+		"message": "Διαβάζει για:"
+	},
+	"general.readingArticle": {
+		"description": "",
+		"message": "Διαβάζει άρθρο:"
+	},
+	"general.readingChannel": {
+		"description": "",
+		"message": "Διαβάζει σε κανάλι:"
+	},
+	"general.readingDM": {
+		"description": "",
+		"message": "Διαβάσει τα μηνύματα απο:"
+	},
+	"general.readingPost": {
+		"description": "",
+		"message": "Διαβάζει δημοσίευση:"
+	},
+	"general.readingThread": {
+		"description": "",
+		"message": "Διαβάζει άρθρο:"
+	},
+	"general.repeat": {
+		"description": "",
+		"message": "Σε επανάληψη"
+	},
+	"general.repeatAll": {
+		"description": "",
+		"message": "Επανάληψη όλων των τραγουδιών"
+	},
 	"general.search": {
 		"description": "",
 		"message": "Αναζήτηση"
+	},
+	"general.searchFor": {
+		"description": "",
+		"message": "Ψάχνει για:"
+	},
+	"general.searchSomething": {
+		"description": "",
+		"message": "Ψάχνει κάτι..."
+	},
+	"general.season": {
+		"description": "",
+		"message": "Κύκλος"
+	},
+	"general.shopCart": {
+		"description": "",
+		"message": "Καλάθι αγορών"
 	},
 	"general.store": {
 		"description": "",
 		"message": "Κατάστημα"
 	},
+	"general.terms": {
+		"description": "A page name",
+		"message": "Όροι Παροχής Υπηρεσιών"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "Γράφει σε κανάλι:"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "Γράφει στα μηνύματα:"
+	},
+	"general.uptimeHistory": {
+		"description": "A page name of statuspages",
+		"message": "Ιστορικό αναβαθμίσεων"
+	},
+	"general.viewAccount": {
+		"description": "",
+		"message": "Βλέπει τον λογαριασμό του/της"
+	},
+	"general.viewAnime": {
+		"description": "",
+		"message": "Βλέπει άνιμε:"
+	},
+	"general.viewCategory": {
+		"description": "",
+		"message": "Προβάλει την κατηγορία:"
+	},
+	"general.viewChannel": {
+		"description": "",
+		"message": "Προβάλει το κανάλι:"
+	},
+	"general.viewEpisode": {
+		"description": "",
+		"message": "Βλέπει το επεισόδιο:"
+	},
+	"general.viewGenre": {
+		"description": "",
+		"message": "Προβάλει την κατηγορία:"
+	},
+	"general.viewHome": {
+		"description": "",
+		"message": "Προβάλει την αρχική σελίδα"
+	},
+	"general.viewList": {
+		"description": "",
+		"message": "Προβάλει την λίστα από:"
+	},
+	"general.viewManga": {
+		"description": "",
+		"message": "Βλέπει μάνγκα:"
+	},
+	"general.viewMember": {
+		"description": "",
+		"message": "Προβάλει μέλος:"
+	},
+	"general.viewMovie": {
+		"description": "",
+		"message": "Βλέπει την ταινία:"
+	},
+	"general.viewPage": {
+		"description": "",
+		"message": "Προβάλει την σελίδα:"
+	},
+	"general.viewPlaylist": {
+		"description": "",
+		"message": "Προβάλει την λίστα αναπαραγωγής:"
+	},
+	"general.viewProduct": {
+		"description": "",
+		"message": "Προβάλει το προϊόν:"
+	},
+	"general.viewProfile": {
+		"description": "",
+		"message": "Προβάλει το προφίλ:"
+	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Βλέπει την σειρά:"
+	},
+	"general.viewShow": {
+		"description": "",
+		"message": "Βλέπει σόου:"
+	},
+	"general.viewThread": {
+		"description": "",
+		"message": "Διαβάζει άρθρο:"
+	},
+	"general.viewUser": {
+		"description": "",
+		"message": "Προβάλει μέλος:"
+	},
+	"general.viewing": {
+		"description": "",
+		"message": "Προβάλει:"
+	},
+	"general.waitingLive": {
+		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
+		"message": "Περιμένει για μια ζωντανή μετάδοση να αρχίσει"
+	},
+	"general.waitingLiveThe": {
+		"description": "\"the\" livestream, as in the livestream title is specified)",
+		"message": "Περιμένει για την ζωντανή μετάδοση να αρχίσει"
+	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Περιμένει για την πρεμιέρα ενός βίντεο"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Περιμένει για την πρεμιέρα του βίντεο"
+	},
+	"general.watching": {
+		"description": "",
+		"message": "Παρακολουθεί:"
+	},
+	"general.watchingLive": {
+		"description": "",
+		"message": "Παρακολουθεί μια ζωντανή μετάδοση"
+	},
+	"general.watchingMovie": {
+		"description": "",
+		"message": "Παρακολουθεί μια ταινία"
+	},
+	"general.watchingSeries": {
+		"description": "",
+		"message": "Παρακολουθεί μια σειρά"
+	},
+	"general.watchingShow": {
+		"description": "",
+		"message": "Παρακολουθεί ένα σόου"
+	},
+	"general.watchingVid": {
+		"description": "",
+		"message": "Παρακολουθεί ένα βίντεο"
+	},
 	"general.wiki": {
 		"description": "A page name",
 		"message": "Wiki"
+	},
+	"general.wishlist": {
+		"description": "",
+		"message": "Λίστα επιθυμιών:"
 	},
 	"general.writing": {
 		"description": "",

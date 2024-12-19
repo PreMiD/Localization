@@ -59,6 +59,10 @@
     "description": "Displayed when the user is modifying their inbox settings",
     "message": "Configurează setările Inbox"
   },
+  "gmail.labelSettings": {
+    "description": "Displayed when the user is modifying their labels",
+    "message": "Configurează setările Etichetelor"
+  },
   "gmail.lookingForEmail": {
     "description": "Displayed when the user is searching for an email",
     "message": "Căutarea unui email"

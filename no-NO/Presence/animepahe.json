@@ -7,8 +7,16 @@
     "description": "TV show/series season eg. Season 5 of The Flash",
     "message": "Sesong"
   },
+  "animepahe.special": {
+    "description": "A type of related content; a special release episode not included in the original release often with differing style",
+    "message": "Spesial"
+  },
   "animepahe.timeSeason": {
     "description": "Time Season eg. The season is now Winter",
     "message": "Sesong"
+  },
+  "animepahe.view": {
+    "description": "{0} will be replaced by \"Pahe\" or \"AniList\"",
+    "message": "Se på {0}"
   }
 }

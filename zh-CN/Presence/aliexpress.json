@@ -1,1 +1,10 @@
-{}
+{
+  "aliexpress.message": {
+    "description": "Meaning Direct messages",
+    "message": "消息中心"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "查看他们的"
+  }
+}

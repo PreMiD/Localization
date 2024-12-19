@@ -1,6 +1,42 @@
 {
+  "x.bookmarks": {
+    "description": "",
+    "message": "बुकमार्क्स"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "खोजिये"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "सूचनाएँ"
+  },
+  "x.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "का ट्वीट पढ़ना:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "कुछ सेटिंग बदली जा रही हैं..."
+  },
   "x.viewDms": {
     "description": "",
     "message": "Their डीएम देखना"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "द्वारा पसंद किया गया देखना:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "देखने की सूची:"
+  },
+  "x.viewPosts": {
+    "description": "",
+    "message": "के ट्वीट देखना:"
+  },
+  "x.viewPostsWithReplies": {
+    "description": "",
+    "message": "इनके ट्वीट देखना (जवाबों के साथ):"
   }
 }

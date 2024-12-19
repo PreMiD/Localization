@@ -23,6 +23,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ver álbum"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Procurando Anime"
+	},
 	"general.buttonViewArticle": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ver artigo"
@@ -31,6 +35,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ver Artista"
 	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver registro de alterações"
+	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ver canal"
@@ -38,6 +46,10 @@
 	"general.buttonViewEpisode": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Assistir episódio"
+	},
+	"general.buttonViewMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Assistir filme"
 	},
 	"general.buttonViewPage": {
 		"description": "Used as the title for the button in Discord.",
@@ -67,9 +79,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Visualizar música"
 	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Assistindo Anime"
+	},
 	"general.buttonWatchMovie": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Assistir filme"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Assistindo Série"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
@@ -131,6 +151,10 @@
 		"description": "",
 		"message": "Ouvindo música"
 	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "Ouvindo{0}{1}"
+	},
 	"general.live": {
 		"description": "",
 		"message": "Ao vivo"
@@ -163,9 +187,29 @@
 		"description": "",
 		"message": "Lendo"
 	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "Lendo um canal"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "Lendo uma DM"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "Lendo uma postagem"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "Lendo um tópico"
+	},
 	"general.readingAbout": {
 		"description": "",
 		"message": "Lendo sobre:"
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "Lendo um artigo"
 	},
 	"general.readingArticle": {
 		"description": "",
@@ -219,6 +263,10 @@
 		"description": "",
 		"message": "Loja"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "Página de suporte"
+	},
 	"general.terms": {
 		"description": "A page name",
 		"message": "Termos de Serviço"
@@ -231,13 +279,73 @@
 		"description": "",
 		"message": "Escrevendo uma mensagem para:"
 	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "Escrevendo uma mensagem direta para"
+	},
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
 		"message": "Histórico de atividade"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "Vendo um anime"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "Vendo a lista"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "Vendo um mangá"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "Vendo um usuário"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "Assistindo um filme"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "Lendo uma página"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "Vendo uma playlist"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "Visualizando um produto"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "Vendo um perfil"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "Assistindo uma série"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "Assistindo um show"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Lendo um tópico"
+	},
 	"general.viewAccount": {
 		"description": "",
 		"message": "Vendo a sua conta"
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "Vendo um status"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "Vendo um usuário"
 	},
 	"general.viewAnime": {
 		"description": "",
@@ -262,6 +370,10 @@
 	"general.viewHome": {
 		"description": "",
 		"message": "Vendo página inicial"
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "Vendo um status sobre:"
 	},
 	"general.viewList": {
 		"description": "",
@@ -295,6 +407,10 @@
 		"description": "",
 		"message": "Vendo o perfil de:"
 	},
+	"general.viewSeries": {
+		"description": "",
+		"message": "Vendo séries:"
+	},
 	"general.viewShow": {
 		"description": "",
 		"message": "Vendo série:"
@@ -311,6 +427,14 @@
 		"description": "",
 		"message": "Vendo:"
 	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "Vendo a lista de desejo"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "Vendo a lista de desejo de:"
+	},
 	"general.waitingLive": {
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
 		"message": "Aguardando o início de uma transmissão ao vivo"
@@ -319,9 +443,21 @@
 		"description": "\"the\" livestream, as in the livestream title is specified)",
 		"message": "Aguardando o início da transmissão ao vivo"
 	},
+	"general.waitingVid": {
+		"description": "For privacy reasons (\"A\" video, as in not specified)",
+		"message": "Aguardando a estreia de um vídeo"
+	},
+	"general.waitingVidThe": {
+		"description": "\"the\" video, as in the video title is specified)",
+		"message": "Aguardando a estreia do vídeo"
+	},
 	"general.watching": {
 		"description": "",
 		"message": "Assistindo:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "Assistindo um anime"
 	},
 	"general.watchingLive": {
 		"description": "",
@@ -346,6 +482,10 @@
 	"general.wiki": {
 		"description": "A page name",
 		"message": "Wiki"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Página principal da Wiki"
 	},
 	"general.wishlist": {
 		"description": "",

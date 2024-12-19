@@ -43,6 +43,10 @@
     "description": "Skins is how you appear in the game.",
     "message": "درحال مشاهده اسکین های محبوب"
   },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "درحال مشاهده نام هایی که قابل استفاده خواهند بود"
+  },
   "namemc.viewCape": {
     "description": "",
     "message": "درحال مشاهده شنل:"

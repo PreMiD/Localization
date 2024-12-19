@@ -11,6 +11,10 @@
     "description": "A page name",
     "message": "API"
   },
+  "premid.pageApiVersion": {
+    "description": "A page name // {0} will be replaced with the version number.",
+    "message": "Entendendo a API v{0}"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Contribuidores"
@@ -23,9 +27,21 @@
     "description": "A page name",
     "message": "Página inicial"
   },
+  "premid.pageIframe": {
+    "description": "A page name",
+    "message": "Entendendo o iframe"
+  },
   "premid.pageInstall": {
     "description": "A page name",
     "message": "Instalação"
+  },
+  "premid.pageInstallFor": {
+    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
+    "message": "Assistente de instalação para {0}"
+  },
+  "premid.pageMetadata": {
+    "description": "A page name",
+    "message": "Configurando metadata.json"
   },
   "premid.pagePresenceClass": {
     "description": "A page name",
@@ -38,6 +54,10 @@
   "premid.pagePresenceGuide": {
     "description": "A page name",
     "message": "Diretrizes de Presences"
+  },
+  "premid.pageSlideshowClass": {
+    "description": "A page name",
+    "message": "Classe de Slideshow"
   },
   "premid.pageStart": {
     "description": "A page name",
@@ -54,6 +74,10 @@
   "premid.pageTroubleshooting": {
     "description": "A page name",
     "message": "Solução de problemas"
+  },
+  "premid.pageTs": {
+    "description": "A page name",
+    "message": "Configurando TypeScript"
   },
   "premid.partners": {
     "description": "A page name",

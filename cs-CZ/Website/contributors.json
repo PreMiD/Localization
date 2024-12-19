@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "Jadro týmu"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Podporovatelé"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Překladatelé"
@@ -19,13 +23,33 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Booster"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Komunitní Manažer"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderátor"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Dárce"
   },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Lidské zdroje"
+  },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Správce Lokalizace"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Řízení Projektu"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Přispěvatel"
   },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
@@ -34,6 +58,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korektor"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Podpora"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

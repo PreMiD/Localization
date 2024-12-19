@@ -19,6 +19,10 @@
     "description": "",
     "message": "تغییر دادن یک سری تنظیمات..."
   },
+  "x.com.viewDms": {
+    "description": "",
+    "message": "مشاهده DM هایشان"
+  },
   "x.com.viewLiked": {
     "description": "",
     "message": "مشاهده لایک ها توسط:"

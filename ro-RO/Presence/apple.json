@@ -11,13 +11,25 @@
     "description": "View the developer of an app",
     "message": "Vedeți Dezvoltator"
   },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "Vezi evenimentul"
+  },
   "apple.btnViewOS": {
     "description": "e.g. \"View iOS 15\"",
     "message": "Vezi {0}"
   },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "Vezi produsul"
+  },
   "apple.btnViewProfile": {
     "description": "View a forum profile of a user",
     "message": "Vedeți Profilul lui {0}"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "Vezi serviciul"
   },
   "apple.btnViewStudio": {
     "description": "e.g. \"View Apple Watch Studio\"",
@@ -83,6 +95,10 @@
     "description": "New iOS, iPadOS etc. releases",
     "message": "Lansări"
   },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "Resurse"
+  },
   "apple.devSubmit": {
     "description": "Submit iOS and iPadOS apps to the App Store",
     "message": "Cum să trimiteți aplicațiile"
@@ -91,9 +107,21 @@
     "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
     "message": "Răsfoirea subiectului video"
   },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "Videoclipuri"
+  },
   "apple.forumCreateThread": {
     "description": "Creating a forum thread",
     "message": "Crearea subiectului"
+  },
+  "apple.forumPreferences": {
+    "description": "Profile settings/preferences, e.g. change username",
+    "message": "Preferinţe"
+  },
+  "apple.forumRegister": {
+    "description": "Register a new account (alternative translation: registering)",
+    "message": "Înregistrare"
   },
   "apple.forumTags": {
     "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",

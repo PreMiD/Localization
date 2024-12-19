@@ -1,1 +1,22 @@
-{}
+{
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "浏览中"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "正在查看歌曲排行榜"
+  },
+  "spotify.download": {
+    "description": "",
+    "message": "正在下载 Spotify"
+  },
+  "spotify.featured": {
+    "description": "",
+    "message": "精选歌曲"
+  },
+  "spotify.madeForYou": {
+    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
+    "message": "“为你推荐”"
+  }
+}

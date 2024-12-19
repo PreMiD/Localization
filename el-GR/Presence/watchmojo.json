@@ -1,1 +1,18 @@
-{}
+{
+  "watchmojo.buttonPlayTrivia": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Παίξε Trivia"
+  },
+  "watchmojo.playingTrivia": {
+    "description": "For privacy mode, \"a\" as in unspecified.",
+    "message": "Παίζοντας ένα παιχνίδι Trivia"
+  },
+  "watchmojo.trivia": {
+    "description": "{0} will be replaced with the name of the Trivia game",
+    "message": "Παίζοντας Trivia: {0}"
+  },
+  "watchmojo.triviaGame": {
+    "description": "The round and score of the Trivia game the user is playing.",
+    "message": "Γύρος {0} από {1} (Βαθμολογία: {2}/{3})"
+  }
+}

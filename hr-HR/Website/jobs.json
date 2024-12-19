@@ -1,6 +1,110 @@
 {
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "Stupite u kontakt s ljudima iza PreMid-a."
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "Upoznajte nas"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "Pogledajte u naš Razvoj i Marketing."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "Sneak Peeks"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "Visoka Discord odobrenja i šarena uloga."
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "Čast"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "S Vašim doprinosom je moguće voditi ovaj projekt."
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "Podržite PreMiD"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "Uzmite si vremena. Ovo je volonterski posao."
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "Pauza"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "Isprobajte nove značajke prije svih ostalih."
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "Rani pristup"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "Vrhunske koristi"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "Već ste se prijavili!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "Za zapošljavanje morate biti u našem Discord serveru. Inače Vas nećemo moći kontaktirati ako ćete biti odabrani!"
+  },
   "jobs.guild.required": {
     "description": "Title of the modal the user will see if it's not in Discord server.",
     "message": "Pridružite se našem Discord-u"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "Jeste li spremni pomoći najvećem Rich-Presence programu?"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "Radite za PreMid"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "Otkažite"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "Pridružiti se"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "Slijedeće"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "Molimo popunite sva polja."
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "PreMiD je projekt otvorenog izvora, znači da smo neprofitni tim, svaka donacija ili patreon novac se vraća u proizvod. Zamolbom za poslovnu poziciju u PreMid-u priznajete da volontirate u timu, nećete biti plaćeni za svoj posao."
+  },
+  "jobs.modal.step": {
+    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
+    "message": "Korak {0} od 2"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "Zamolba za {0}"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "Otvorenja za posao"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "Hvala na prijavi!"
   }
 }

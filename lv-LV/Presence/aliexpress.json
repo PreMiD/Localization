@@ -1,1 +1,66 @@
-{}
+{
+  "aliexpress.address": {
+    "description": "",
+    "message": "Skatās savu adresi"
+  },
+  "aliexpress.coupons": {
+    "description": "",
+    "message": "Skatās savus kuponus"
+  },
+  "aliexpress.deletedOrders": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "dzēstos pasūtījumus"
+  },
+  "aliexpress.feedback": {
+    "description": "",
+    "message": "AliExpress Atsauksmes"
+  },
+  "aliexpress.helpCenter": {
+    "description": "",
+    "message": "AliExpress Palīdzības Centrs"
+  },
+  "aliexpress.message": {
+    "description": "Meaning Direct messages",
+    "message": "Ziņu centrs"
+  },
+  "aliexpress.orders": {
+    "description": "",
+    "message": "Skatās savus pasūtījumus"
+  },
+  "aliexpress.recentlyViewProducts1": {
+    "description": "Part 1 of 2",
+    "message": "Skatās nesen"
+  },
+  "aliexpress.recentlyViewProducts2": {
+    "description": "Part 2 of 2",
+    "message": "skatītos produktus"
+  },
+  "aliexpress.refunds": {
+    "description": "Part 2 of \"Viewing their\"",
+    "message": "Atmaksas & Strīdus"
+  },
+  "aliexpress.sale": {
+    "description": "",
+    "message": "Pārlūko izpārdošanu"
+  },
+  "aliexpress.sellCenter": {
+    "description": "",
+    "message": "AliExpress Pārdošanas Centrs"
+  },
+  "aliexpress.store": {
+    "description": "",
+    "message": "Skatās veikalu:"
+  },
+  "aliexpress.theirAli": {
+    "description": "",
+    "message": "Skatās savu AliExpress"
+  },
+  "aliexpress.trade": {
+    "description": "",
+    "message": "AliExpress Tirdzniecības Centrs"
+  },
+  "aliexpress.viewTheir": {
+    "description": "Part 1 ",
+    "message": "Skatās sava"
+  }
+}

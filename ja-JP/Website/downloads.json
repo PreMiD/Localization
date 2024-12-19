@@ -103,6 +103,10 @@
 		"description": "Downloads page warning when user is on mobile.",
 		"message": "PreMiDはスマートフォンには対応していません。"
 	},
+	"downloads.showbeta.message": {
+		"description": "",
+		"message": "ベータ版を表示"
+	},
 	"downloads.showbeta.small": {
 		"description": "Small text under the show beta title.",
 		"message": "（通常版をダウンロードするために、ここにいる必要はありません。）"

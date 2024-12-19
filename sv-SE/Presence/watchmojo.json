@@ -1,1 +1,18 @@
-{}
+{
+  "watchmojo.buttonPlayTrivia": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Spela Trivia"
+  },
+  "watchmojo.playingTrivia": {
+    "description": "For privacy mode, \"a\" as in unspecified.",
+    "message": "Spelar ett Trivia spel"
+  },
+  "watchmojo.trivia": {
+    "description": "{0} will be replaced with the name of the Trivia game",
+    "message": "Spelar Trivia: {0}"
+  },
+  "watchmojo.triviaGame": {
+    "description": "The round and score of the Trivia game the user is playing.",
+    "message": "Runda {0} av {1} (Poäng: {2}/{3})"
+  }
+}

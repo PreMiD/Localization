@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "正在檢視他們的私訊"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "正在檢視遊戲: "
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "正在檢視工作人員列表"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "正在檢視已看過的論壇"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "正在檢視已看過的貼文"
+  }
+}

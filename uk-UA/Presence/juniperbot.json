@@ -1,1 +1,42 @@
-{}
+{
+  "juniperbot.commands": {
+    "description": "Page with the list of bot's commands",
+    "message": "Переглядає список команд"
+  },
+  "juniperbot.cookies": {
+    "description": "Reading about the site's cookies",
+    "message": "Читає про cookie-файли сайту"
+  },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "Читає інформацію про плани пожертви"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "Переглядає таблицю лідерів серверу:"
+  },
+  "juniperbot.mainpage": {
+    "description": "Home page of the site",
+    "message": "Головна сторінка"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "У панелі керування"
+  },
+  "juniperbot.serverdashname": {
+    "description": "Guild name",
+    "message": "Гільдія: {0}"
+  },
+  "juniperbot.servers": {
+    "description": "Server selection page",
+    "message": "Обирає сервер"
+  },
+  "juniperbot.stats": {
+    "description": "Page with bot's statistics",
+    "message": "Переглядає статистику бота"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "Налаштовує картку рангу"
+  }
+}

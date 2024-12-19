@@ -3,6 +3,18 @@
     "description": "as in documents",
     "message": "Dokumentacija"
   },
+  "premid.pageAbout": {
+    "description": "A page name",
+    "message": "Apie PreMiD"
+  },
+  "premid.pageApi": {
+    "description": "A page name",
+    "message": "API"
+  },
+  "premid.pageApiVersion": {
+    "description": "A page name // {0} will be replaced with the version number.",
+    "message": "Suprasti v{0} API"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "Pagalbininkai"
@@ -15,13 +27,57 @@
     "description": "A page name",
     "message": "Pagrindinis puslapis"
   },
+  "premid.pageIframe": {
+    "description": "A page name",
+    "message": "Suprasti iframe"
+  },
+  "premid.pageInstall": {
+    "description": "A page name",
+    "message": "Instaliacija"
+  },
+  "premid.pageInstallFor": {
+    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
+    "message": "Diegimas {0}"
+  },
+  "premid.pageMetadata": {
+    "description": "A page name",
+    "message": "Konfigūruojamas metadata.json"
+  },
+  "premid.pagePresenceClass": {
+    "description": "A page name",
+    "message": "Presence klasė"
+  },
+  "premid.pagePresenceDev": {
+    "description": "A page name",
+    "message": "Statusų kūrimas"
+  },
+  "premid.pagePresenceGuide": {
+    "description": "A page name",
+    "message": "Presence Gairės"
+  },
+  "premid.pageSlideshowClass": {
+    "description": "A page name",
+    "message": "Skaidrių demonstravimo klasė"
+  },
+  "premid.pageStart": {
+    "description": "A page name",
+    "message": "Pradžia"
+  },
   "premid.pageStore": {
     "description": "A page name",
     "message": "Parduotuvė"
   },
+  "premid.pageSysReq": {
+    "description": "A page name",
+    "message": "Sistemos reikalavimai"
+  },
   "premid.pageTroubleshooting": {
     "description": "A page name",
     "message": "Nesklandumų sprendimas"
+  },
+  "premid.pageTs": {
+    "description": "A page name",
+    "message": "Konfigūruojamas TypeScript"
   },
   "premid.partners": {
     "description": "A page name",
@@ -30,5 +86,9 @@
   "premid.viewPage": {
     "description": "",
     "message": "Peržiūri puslapį:"
+  },
+  "premid.viewPresence": {
+    "description": "",
+    "message": "Peržiūri presence:"
   }
 }

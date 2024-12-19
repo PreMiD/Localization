@@ -1,1 +1,58 @@
-{}
+{
+  "report.activebugs": {
+    "description": "Lists users active bugs",
+    "message": "有効なバグ"
+  },
+  "report.browser": {
+    "description": "Select Box for the user to select their browser",
+    "message": "バグが発生したブラウザとブラウザのバージョンを選択してください\nバージョンは以下のページで確認できます:\nFirefoxの場合: about:support\nChromeの場合: chrome://help"
+  },
+  "report.bugcount": {
+    "description": "Amount of bug reports user can send",
+    "message": "残りの報告できる回数:{count} /3"
+  },
+  "report.button": {
+    "description": "Button to send the information inputed.",
+    "message": "報告"
+  },
+  "report.description": {
+    "description": "Text for the user to write information about the bug.",
+    "message": "このバグを再現するため明確な手順へのリンクを提供してください。"
+  },
+  "report.error": {
+    "description": "User needs to input more notification",
+    "message": "追加情報が必要です"
+  },
+  "report.error.unauth": {
+    "description": "Users Discord not verified",
+    "message": "Discordアカウントの認証が必要です"
+  },
+  "report.info": {
+    "description": "Tells the user about submitting a bug",
+    "message": "バグの報告は、PreMiDサイト内かPreMiD Discordサーバー内のバグを対象としています。\nプレゼンスのバグは、プレゼンスの製作者に報告してください。\nバグは英語でのみ報告してください。"
+  },
+  "report.os": {
+    "description": "Select Box for the user to select their operating system",
+    "message": "OSとバージョンを選択してください"
+  },
+  "report.overview": {
+    "description": "Text for the user to write a brief of the bug information.",
+    "message": "どのようなバグであるかを明確かつ簡潔に説明してください。"
+  },
+  "report.success": {
+    "description": "Success notification",
+    "message": "バグが提出されました"
+  },
+  "report.title": {
+    "description": "Text to indicate the page.",
+    "message": "バグを報告する"
+  },
+  "report.toomany": {
+    "description": "User has too many active reports",
+    "message": "有効な報告が多すぎます。提出した報告が確認されるのを待ちましょう。報告は毎週チェックされます。"
+  },
+  "report.toomany.alert": {
+    "description": "User has too many active reports",
+    "message": "有効な報告が多すぎます"
+  }
+}

@@ -1,1 +1,46 @@
-{}
+{
+  "x.bookmarks": {
+    "description": "",
+    "message": "Žymės"
+  },
+  "x.explore": {
+    "description": "",
+    "message": "Naršyti"
+  },
+  "x.notifs": {
+    "description": "",
+    "message": "Pranešimai"
+  },
+  "x.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Peržiūri pranešimus asmens:"
+  },
+  "x.settings": {
+    "description": "",
+    "message": "Keičia šiek tiek nustatymų..."
+  },
+  "x.viewDms": {
+    "description": "",
+    "message": "Peržiūrimi jų DM'ai"
+  },
+  "x.viewLiked": {
+    "description": "",
+    "message": "Peržiūri kas patiko asmeniui:"
+  },
+  "x.viewList": {
+    "description": "",
+    "message": "Peržiūri sąrašą:"
+  },
+  "x.viewMedia": {
+    "description": "",
+    "message": "Peržiūri media asmens:"
+  },
+  "x.viewPosts": {
+    "description": "",
+    "message": "Peržiūri pranešimus asmens:"
+  },
+  "x.viewPostsWithReplies": {
+    "description": "",
+    "message": "Peržiūri pranešimus (su atsakais) asmens:"
+  }
+}

@@ -63,8 +63,16 @@
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Ypatybės"
 	},
+	"tab.installed.next": {
+		"description": "Next button text",
+		"message": "Tęsti"
+	},
+	"tab.installed.close": {
+		"description": "Close button text",
+		"message": "Uždaryti"
+	},
 	"tab.installed.donate": {
 		"description": "Donate button text",
-		"message": "Paaukoti"
+		"message": "Paremti"
 	}
 }

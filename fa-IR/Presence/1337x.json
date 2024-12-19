@@ -1,1 +1,78 @@
-{}
+{
+  "1337x.about": {
+    "description": "",
+    "message": "خواندن درباره 1337x"
+  },
+  "1337x.animeTorrents": {
+    "description": "",
+    "message": "در حال تماشای انیمه های Torrent"
+  },
+  "1337x.appTorrents": {
+    "description": "",
+    "message": "در حال تماشای برنامه های Torrent"
+  },
+  "1337x.docTorrents": {
+    "description": "",
+    "message": "در حال تماشای مستند Torrent"
+  },
+  "1337x.gamesTorrents": {
+    "description": "",
+    "message": "در حال تماشای بازی های Torrent"
+  },
+  "1337x.latestEpisode": {
+    "description": "",
+    "message": "نگاه کردن به آخرین قسمت"
+  },
+  "1337x.movieLibrary": {
+    "description": "",
+    "message": "نگاه کردن به کتابخانه فیلم"
+  },
+  "1337x.moviesTorrents": {
+    "description": "",
+    "message": "در حال تماشای ویدیوهای Torrent"
+  },
+  "1337x.musicTorrents": {
+    "description": "",
+    "message": "در حال تماشای موزیک های Torrent"
+  },
+  "1337x.otherTorrents": {
+    "description": "",
+    "message": "در حال تماشای بقیه Torrent"
+  },
+  "1337x.rules": {
+    "description": "",
+    "message": "خواندن قوانین"
+  },
+  "1337x.seriesLibrary": {
+    "description": "",
+    "message": "نگاه کردن به سری کتابخانه"
+  },
+  "1337x.top": {
+    "description": "",
+    "message": "نگاه کردن به 100 تای برتر"
+  },
+  "1337x.trending": {
+    "description": "",
+    "message": "مشاهده چیز های بروز"
+  },
+  "1337x.tvTorrents": {
+    "description": "",
+    "message": "در حال تماشای تلویزیون Torrent"
+  },
+  "1337x.upload": {
+    "description": "",
+    "message": "آپلود کردن چیزی..."
+  },
+  "1337x.viewTorrent": {
+    "description": "",
+    "message": "در حال تماشای Torrent:"
+  },
+  "1337x.writing": {
+    "description": "",
+    "message": "نوشتن به 1337x"
+  },
+  "1337x.xxxTorrents": {
+    "description": "XXX as in NSFW",
+    "message": "در حال تماشای Torrent XXX"
+  }
+}

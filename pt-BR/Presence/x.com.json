@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Favoritos"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Explorar"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Notificações"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Lendo post de:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Alterando algumas configurações..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Vendo as suas mensagens diretas"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Vendo curtidas por:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Vendo lista:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Vendo mídias de:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Vendo posts de:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Vendo posts (com respostas) de:"
   }
 }

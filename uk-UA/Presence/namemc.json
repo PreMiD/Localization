@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Перегляд серверу"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "Переглядає основи:"
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "Переглядає Як Отримати Доступ До Вашого Профілю"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Редагує дані профілю{0}"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "Переглядає сервери"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Перегляд нових скінів"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Перегляд випадкових скінів"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "Перегляд скінів з {0} теґом"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Перегляд відмічених скінів"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Перегляд топ скінів"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Перегляд популярних скінів"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "Перегляд майбутніх назв"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "Переглядає основи:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "Переглядає свої емодзі у профілі"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "Перегляд своїх друзів"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "Переглядає сервер:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Перегляд скіну"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "Переглядає свої скіни"
+  }
+}

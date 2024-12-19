@@ -1,4 +1,20 @@
 {
+  "premid.docs": {
+    "description": "as in documents",
+    "message": "מסמכים"
+  },
+  "premid.pageAbout": {
+    "description": "A page name",
+    "message": "קצת מידע על PreMiD"
+  },
+  "premid.pageApi": {
+    "description": "A page name",
+    "message": "API"
+  },
+  "premid.pageApiVersion": {
+    "description": "A page name // {0} will be replaced with the version number.",
+    "message": "הבנת ה-v{0} API"
+  },
   "premid.pageContributors": {
     "description": "A page name",
     "message": "תורמים"
@@ -7,16 +23,72 @@
     "description": "A page name",
     "message": "הורדות"
   },
+  "premid.pageHome": {
+    "description": "A page name",
+    "message": "דף הבית"
+  },
+  "premid.pageIframe": {
+    "description": "A page name",
+    "message": "הבנת iframe"
+  },
+  "premid.pageInstall": {
+    "description": "A page name",
+    "message": "התקנה"
+  },
+  "premid.pageInstallFor": {
+    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
+    "message": "התקנה עבור {0}"
+  },
+  "premid.pageMetadata": {
+    "description": "A page name",
+    "message": "הגדרת metadata.json"
+  },
+  "premid.pagePresenceClass": {
+    "description": "A page name",
+    "message": "בכיתה Presence"
+  },
+  "premid.pagePresenceDev": {
+    "description": "A page name",
+    "message": "פיתוח תוסף"
+  },
+  "premid.pagePresenceGuide": {
+    "description": "A page name",
+    "message": "הנחיות נוכחות"
+  },
+  "premid.pageSlideshowClass": {
+    "description": "A page name",
+    "message": "בכיתה Slideshow"
+  },
+  "premid.pageStart": {
+    "description": "A page name",
+    "message": "הכנה להתחיל"
+  },
   "premid.pageStore": {
     "description": "A page name",
     "message": "חנות"
+  },
+  "premid.pageSysReq": {
+    "description": "A page name",
+    "message": "דרישות מערכת"
   },
   "premid.pageTroubleshooting": {
     "description": "A page name",
     "message": "פתרון תקלות"
   },
+  "premid.pageTs": {
+    "description": "A page name",
+    "message": "הגדרת TypeScript"
+  },
   "premid.partners": {
     "description": "A page name",
     "message": "שותפים"
+  },
+  "premid.viewPage": {
+    "description": "",
+    "message": "צפייה בדף:"
+  },
+  "premid.viewPresence": {
+    "description": "",
+    "message": "צפייה בנוכחות:"
   }
 }

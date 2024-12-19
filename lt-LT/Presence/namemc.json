@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "Žiūri serverį"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "Peržiūri apsiaustus "
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "Peržiūri, kaip pareikšti teises į savo profilį"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Keičia savo {0} profilio info"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "Peržiūri serverius"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Peržiūri naujus skin'us"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Peržiūri atsitiktinius skin'us"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "Peržiūri skin'us su {0}žyme "
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Peržiūri pažymėtus skin'us"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Peržiūri ,,TOP\" skin'us "
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Peržiūri Tendencingus skin'us"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "Peržiūri būsimus slapyvardžius"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "Peržiūri apsiaustą:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "Peržiūri savo profilio jaustukus"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "Peržiūri savo draugus"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "Peržiūri serverį:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Peržiūri skin'ą "
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "Peržiūri savo skin'us"
+  }
+}

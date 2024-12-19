@@ -23,6 +23,10 @@
     "description": "One of the strings from the Information section. [on webite -> Likes: (56)]",
     "message": "Sviđa mi se"
   },
+  "presence.sections.information.moreurls": {
+    "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
+    "message": "Ova prisutnost podržava više URL-ova nego što je navedeno u nastavku korištenjem RegExp-a. Zadržite pokazivač miša da biste vidjeli uzorak"
+  },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
     "message": "Podržani URL-ovi"

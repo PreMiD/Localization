@@ -1,1 +1,110 @@
-{}
+{
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "צור קשר עם האנשים שמאחורי PreMiD."
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "פגוש אותנו"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "יש להסתכל לתוך הפיתוח והשיווק שלנו."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "הצצות חטופות"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "גישות דיסקורד עוצמתיים ורול צבעוני."
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "כבוד"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "עם התרומה שלך אפשר לנהל את הפרויקט הזה."
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "תמיכה ב-PreMiD"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "קח את הזמן שלך. זו עבודה התנדבותית."
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "פסק זמן"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "בדוק תכונות חדשות לפני כל אחד אחר."
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "גישה מוקדמת"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "הטבות ברמה גבוהה"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "כבר הגשת בקשה בעבר!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "בשביל להרשם אתה חייב להיות בשרת הדיסקורד שלנו. אחרת לא נוכל להיות איך בקשר אם נבחרת!"
+  },
+  "jobs.guild.required": {
+    "description": "Title of the modal the user will see if it's not in Discord server.",
+    "message": "הצטרף/י ל-Discord שלנו"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "האם אתה מוכן לעזור לנו עם תוכנית ה Rich-Presence?"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "עבוד בשביל PreMiD"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "ביטול"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "הצטרף"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "הבא"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "בבקשה השלם את כל השדות"
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "PreMiD הוא פרויקט קוד פתוח, כלומר אנחנו צוות ללא כוונת רווח, כל תרומה או כסף patreon חוזר לתוך המוצר. על ידי הגשת מועמדות למשרת משרה ב- PreMiD אתה מכיר בכך שאתה מתנדב בצוות, לא תקבל תשלום עבור עבודתך."
+  },
+  "jobs.modal.step": {
+    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
+    "message": "צעד {0} מתוך 2"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "החל עבור {0}"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "משרות פנויות"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "תודה שהגשת בקשה!"
+  }
+}

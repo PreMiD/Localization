@@ -9,23 +9,39 @@
   },
   "home.examples.status.live": {
     "description": "Discord Rich Presence -> small image text;",
-    "message": "Tiesiogiai"
+    "message": "Gyvai"
   },
   "home.examples.status.playing": {
     "description": "Discord Rich Presence -> small image text;",
-    "message": "Atkūrimas"
+    "message": "Grojimas atgal"
   },
   "home.examples.timestamp": {
     "description": "Discord Rich Presence -> time left; {0} will be replaced with the current timestamp -> is a variable",
     "message": "Liko {0}"
   },
+  "home.examples.timestamp2": {
+    "description": "Discord Rich Presence -> time elapsed; {0} will be replaced with the current timestamp -> is a variable",
+    "message": "{0} praleista"
+  },
   "home.features.heading": {
     "description": "Features section",
     "message": "Jums patiks šios funkcijos!"
   },
+  "home.features.presencesystem.button": {
+    "description": "Features section button",
+    "message": "Apsižvalgykite parduotuvėje"
+  },
+  "home.features.presencesystem.description": {
+    "description": "Features section description",
+    "message": "Mes sukūrėme savo plėtinį taip, kad galėtumėte pridėti ir naudoti kitų sukurtus dalyvius bei valdyti juos mūsų plėtinyje!"
+  },
   "home.features.presencesystem.heading": {
     "description": "Features section subheading",
     "message": "Raskite ** savo ** statusą"
+  },
+  "home.features.quickSupport.button": {
+    "description": "Features section button",
+    "message": "Prisijunkite prie mūsų,, Discord\""
   },
   "home.features.quickSupport.description": {
     "description": "Features section description",
@@ -54,6 +70,10 @@
   "home.features.simpleInterface.heading": {
     "description": "Features section subheading",
     "message": "Paprasta vartotojo sąsaja"
+  },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Gauti „PreMiD“"
   },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",

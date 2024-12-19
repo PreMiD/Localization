@@ -1,1 +1,6 @@
-{}
+{
+  "x.viewDms": {
+    "description": "",
+    "message": "צופה ב-DM שלהם"
+  }
+}

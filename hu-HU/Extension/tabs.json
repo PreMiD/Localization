@@ -3,6 +3,10 @@
 		"description": "Donate button of the tab which opens when you install PreMiD for the first time",
 		"message": "Támogatás"
 	},
+	"version": {
+		"description": "{0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Version text of the extension/app",
+		"message": "v{0}"
+	},
 	"tab.button.changelog": {
 		"description": "Changelog button (opens changelog) of the tab which opens when you install PreMiD for the first time",
 		"message": "Módosítási napló"
@@ -59,13 +63,137 @@
 		"description": "Title of the tab which opens when you click on the troubleshooting button",
 		"message": "Hibaelhárítás"
 	},
+	"tab.troubleshooting.subHeading": {
+		"description": "Subtitle of the tab which opens when you click on the troubleshooting button, {0} will be replaced with 'PreMiD' -> {0} is a variable and should not be translated",
+		"message": "Van valami probléma a(z) {0}?"
+	},
+	"tab.troubleshooting.checks.extensionEnabled": {
+		"description": "Check 1 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Bővítmény bekapcsolva"
+	},
+	"tab.troubleshooting.checks.internetConnection": {
+		"description": "Check 2 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Internetkapcsolat"
+	},
+	"tab.troubleshooting.checks.appConnection": {
+		"description": "Check 3 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "PreMiD alkalmazással csatlakozva"
+	},
+	"tab.troubleshooting.checks.discordConnection": {
+		"description": "Check 4 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Discord alkalmazással csatlakozva"
+	},
+	"tab.troubleshooting.checks.discordStatus": {
+		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
+		"message": "Discord státusz üzenet bekapcsolva"
+	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Állapot kijelzése"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "Ahhoz hogy a PreMiD alkalmazásd használd, csatlakoztatnod kell a Discord fiókodat. Szimplán kattints a lenti gombra."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD frissítve!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Újdonságok 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Funkciók"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Hibajavítások"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Teljesítmény"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Általános Változtatások"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Discord fiók csatlakoztatása"
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Discord fiók csatlakoztatása"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Mi következik?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Reméljük hogy élvezed az új frissitést! Ha van akarmi visszajelzésed vagy javaslatod, csatlakozz nyugodtan a Discord szerverünkhöz és tudasd velünk."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Csatlakozz Discord szerverünkhöz"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Üdvözöl a PreMiD!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Vágjunk bele!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "Telepítsd a PreMiD bővítményét"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Köss hozzá egy Discord fiókot"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Győződj meg róla hogy a \"Jelenlegi aktivitás mutatása státusz üzenetként.\" be van kapcsolva"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Felhasználó beállítások {0} Aktivitás beállítások {0} Aktivitás Biztonság"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Kössd hozzá a Discord fiókodat"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Ez engedi a PreMid-nek hogy kijelezze a jelenlegi aktivitásodat státusz üzenetként."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord fiók csatlakoztatva"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Menjünk a következő lépésre."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Következő"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Győződj meg róla hogy a \"Jelenlegi aktivitás mutatása státusz üzenetként\" be van kapcsolva, különdben senki nem fogja látni a fényes új státuszod."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "\"Jelenlegi aktivitás mutatása státusz üzenetként.\" bekapcsolása"
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Minden kész!"
 	},
 	"tab.installed.close": {
 		"description": "Close button text",

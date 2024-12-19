@@ -63,9 +63,17 @@
     "description": "Page name",
     "message": "Nedlastinger"
   },
+  "twitch.esports": {
+    "description": "",
+    "message": "Ser på e-sport..."
+  },
   "twitch.help": {
     "description": "Page name",
     "message": "Hjelpesenter"
+  },
+  "twitch.helpTopic": {
+    "description": "",
+    "message": "Ser på tema:"
   },
   "twitch.home": {
     "description": "Page name",
@@ -87,16 +95,36 @@
     "description": "Page name",
     "message": "Sikkerhet"
   },
+  "twitch.subs": {
+    "description": "",
+    "message": "Ser på deres abonnementer..."
+  },
   "twitch.turbo": {
     "description": "Page name",
     "message": "Turbo"
+  },
+  "twitch.viewDropsInv": {
+    "description": "",
+    "message": "Ser på deres droppinventar..."
   },
   "twitch.viewFollow": {
     "description": "",
     "message": "Ser på folk jeg følger..."
   },
+  "twitch.viewFriends": {
+    "description": "",
+    "message": "Ser på deres venner..."
+  },
+  "twitch.viewSettings": {
+    "description": "",
+    "message": "Ser på deres innstillinger..."
+  },
   "twitch.viewTeam": {
     "description": "",
     "message": "Ser på lag:"
+  },
+  "twitch.viewTheir": {
+    "description": "Part 1 of the next 10 strings",
+    "message": "Ser på deres"
   }
 }

@@ -1,18 +1,110 @@
 {
+  "footer.copyright.line1": {
+    "description": "Names shouldn't be translated; Footer copyright text line 1; {0} will be replaced with a year, {1} will be replaced with 'Timeraa & Fruxh' -> are variables",
+    "message": "{0} od {1}"
+  },
+  "footer.copyright.line2": {
+    "description": "Names shouldn't be translated; Footer copyright text line 2; {0} will be replaced with 'Voknehzyr' -> is a variable",
+    "message": "Stranicu održava {0}"
+  },
+  "footer.developers.documentation": {
+    "description": "Documentation -> redirects to docs.premid.app",
+    "message": "Dokumentacija"
+  },
+  "footer.developers.heading": {
+    "description": "Developer section",
+    "message": "Razvojni Programeri"
+  },
+  "footer.developers.richpresence": {
+    "description": "Rich Presence -> redirects to discord.com/rich-presence",
+    "message": "Rich Presence"
+  },
+  "footer.followUs.heading": {
+    "description": "Follow Us section",
+    "message": "Pratite Nas"
+  },
+  "footer.help.getsupport": {
+    "description": "Get Support -> redirects to Discord invite",
+    "message": "Potraži pomoć"
+  },
+  "footer.help.heading": {
+    "description": "Help section",
+    "message": "Pomoć"
+  },
   "footer.help.information": {
     "description": "Information section",
     "message": "Informacije"
   },
+  "footer.help.information.cookies": {
+    "description": "meant to be 'Cookie Policy'",
+    "message": "Kolačići"
+  },
+  "footer.help.information.privacy": {
+    "description": "meant to be 'Privacy Policy'",
+    "message": "Privatnost"
+  },
+  "footer.help.information.terms": {
+    "description": "meant to be 'Terms of Service'",
+    "message": "Uvjeti"
+  },
   "footer.help.troubleshooting": {
     "description": "Troubleshooting -> redirects to wiki.premid.app/troubleshooting",
-    "message": "Rješavanje problema"
+    "message": "Troubleshooting"
+  },
+  "footer.language": {
+    "description": "You know how to translate that word? I hope you do :D",
+    "message": "Jezik"
+  },
+  "footer.more.heading": {
+    "description": "More section",
+    "message": "Više"
+  },
+  "footer.more.status": {
+    "description": "Status -> redirects to status.premid.app",
+    "message": "Stanje"
   },
   "footer.more.wiki": {
     "description": "Wiki -> redirects to wiki.premid.app",
-    "message": "Dokumentacija"
+    "message": "Wiki"
+  },
+  "footer.partners.heading": {
+    "description": "Partner section",
+    "message": "Partneri"
+  },
+  "footer.partners.more": {
+    "description": "Button next to all listed partners on the footer.",
+    "message": "Kliknite ovdje da biste vidjeli ostale partnere i sponzore."
+  },
+  "footer.supportus.contribute": {
+    "description": "Contribute -> redirects to github.com/premid",
+    "message": "Pridonesite"
   },
   "footer.supportus.donate": {
     "description": "Donate -> redirects to patreon.com/timeraa",
     "message": "Donirajte"
+  },
+  "footer.supportus.heading": {
+    "description": "Support us section",
+    "message": "Podržite nas"
+  },
+  "footer.supportus.jobs": {
+    "description": "Work for us! -> redirects to /jobs page",
+    "message": "Radi s nama!"
+  },
+  "footer.supportus.translate": {
+    "description": "Translate -> redirects to locilazation page",
+    "message": "Prevedi"
+  },
+  "footer.usercount.button": {
+    "description": "Install button under the promotional message",
+    "message": "Instaliraj"
+  },
+  "footer.usercount.heading": {
+    "description": "Promotional heading",
+    "message": "Spremni za PreMid?"
+  },
+  "footer.usercount.message": {
+    "description": "Promotional message; {0} will be replaced with the usercount of Chrome -> is a variable",
+    "message": "Pridruži se još {0} korisnika!"
   }
 }

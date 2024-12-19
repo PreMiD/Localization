@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "瀏覽伺服器"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "正在瀏覽披風"
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "瀏覽如何連結帳號"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "編輯他們的{0}帳戶內容"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "瀏覽伺服器"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "瀏覽新的皮膚"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "瀏覽隨機皮膚"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "瀏覽帶有 {0} 標籤的皮膚"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "瀏覽帶有標籤的皮膚"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "瀏覽最高使用皮膚"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "瀏覽熱門皮膚"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "瀏覽即將推出的名字"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "瀏覽披風:"
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "瀏覽他們的表情符號"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "瀏覽他們的好友"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "瀏覽伺服器:"
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "正在瀏覽一個皮膚"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "瀏覽他們的皮膚"
+  }
+}

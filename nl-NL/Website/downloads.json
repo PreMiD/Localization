@@ -183,12 +183,68 @@
 		"description": "Second line explaining the simplified installation process.",
 		"message": "Nu heb je alleen de browserextensie nodig, geen extra downloads nodig."
 	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "Één-Klik Installatie"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "Geen App Nodig"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "Werkt Gewoon™"
+	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
 		"message": "Applicatie verwijderd in v2.6.0 om je leven gemakkelijker te maken ✨"
 	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "Verkrijg PreMiD voor je browser"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "Binnenkort Beschikbaar"
+	},
 	"downloads.notice.beta.title": {
 		"description": "Title for the beta program section.",
 		"message": "Betaprogramma"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "Vind je het leuk om nieuwe dingen te proberen? Sluit je aan bij onze Discord en gebruik /beta om vervroegt toegang te krijgen!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "Alpha toegang"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "Ondersteun ons op GitHub of Patreon om de functies te krijgen!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "Hulp nodig? Word lid van onze"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Discord"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "voor ondersteuning!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "Houd je van PreMiD?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "Overweeg ons te steunen of een beoordeling achter te laten, het betekent de wereld voor ons!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "Beoordeel ons"
 	}
 }

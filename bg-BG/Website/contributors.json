@@ -15,6 +15,10 @@
     "description": "Heading for group of users.",
     "message": "Поддръжници"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Presence Разработчици"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Преводачи"
@@ -53,7 +57,7 @@
   },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Presence разработчик"
+    "message": "Presence Разработчик"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",

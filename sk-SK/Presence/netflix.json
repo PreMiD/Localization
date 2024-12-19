@@ -1,1 +1,18 @@
-{}
+{
+  "netflix.latest": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Pozerajú, čo je nové a{0}obľúbené na Netflixe"
+  },
+  "netflix.profile": {
+    "description": "",
+    "message": "Spravujú si ich profil"
+  },
+  "netflix.referral": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "Dostávajú jeich{0}odporúčací odkaz"
+  },
+  "netflix.viewList": {
+    "description": "List as in their saved series/movies.",
+    "message": "Pozerá ich zoznam"
+  }
+}

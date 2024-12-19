@@ -1,1 +1,74 @@
-{}
+{
+  "amazon.address": {
+    "description": "",
+    "message": "Tumitingin ng kanyang mga address"
+  },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "Tumitingin ng kanyang mga adpref"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "Tumitingin ng kanyang balance"
+  },
+  "amazon.cart": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "shopping cart"
+  },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "Tumitingin ng kanyang mga category"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "mga giftcard"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "Tumitingin ng kanyang history"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "mga order detail"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "order history"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "Tumitingin ng kanyang mga payment methods"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "Tumitingin ng kanyang mga pet"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "Tumitingin ng Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "Tumitingin ng Prime Video:"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "Tumitingin ng recommended"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "Tumitingin ng store:"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "Tumitingin ng kanyang mga subscription"
+  },
+  "amazon.viewTheir": {
+    "description": "Part 1 of the next 5 strings",
+    "message": "Tumitingin ng kanyang"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "wishlist"
+  }
+}

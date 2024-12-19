@@ -1,1 +1,110 @@
-{}
+{
+  "jobs.benefit1.description": {
+    "description": "Benefit card description.",
+    "message": "Makisama sa mga tao sa likod ng PreMiD."
+  },
+  "jobs.benefit1.title": {
+    "description": "Benefit card title.",
+    "message": "Makipag-meet sa'min"
+  },
+  "jobs.benefit2.description": {
+    "description": "Benefit card description.",
+    "message": "Tignan ang aming Development at Marketing."
+  },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "Mga Sneak Peak"
+  },
+  "jobs.benefit3.description": {
+    "description": "Benefit card description.",
+    "message": "Mga powerful Discord permissions at isang colorful role."
+  },
+  "jobs.benefit3.title": {
+    "description": "Benefit card title.",
+    "message": "Honor"
+  },
+  "jobs.benefit4.description": {
+    "description": "Benefit card description.",
+    "message": "Sa iyong contribution ito ay posible ang pagtakbo sa project na ito."
+  },
+  "jobs.benefit4.title": {
+    "description": "Benefit card title.",
+    "message": "Suportahan ang PreMiD"
+  },
+  "jobs.benefit5.description": {
+    "description": "Benefit card description.",
+    "message": "Huwag kang magmadali. Ito'y trabahong pang-voluntary."
+  },
+  "jobs.benefit5.title": {
+    "description": "Benefit card title.",
+    "message": "Time-out"
+  },
+  "jobs.benefit6.description": {
+    "description": "Benefit card description.",
+    "message": "Mag-test ng mga bagong feature bago ang mga iba."
+  },
+  "jobs.benefit6.title": {
+    "description": "Benefit card title.",
+    "message": "Maagang pag-Access"
+  },
+  "jobs.benefits.title": {
+    "description": "Text before the benefits cards.",
+    "message": "Mga High-End Benefit"
+  },
+  "jobs.errors.alreadyApplied": {
+    "description": "Notification when you applied already.",
+    "message": "Nakapag-apply ka na dati pa!"
+  },
+  "jobs.guild.explanation": {
+    "description": "Explanation why users should be in Discord server to perform job application.",
+    "message": "Para makapag-apply kailangan mong sumali sa aming Discord server. Kung hindi, hindi ka namin mako-contact kung mapipili ka!"
+  },
+  "jobs.guild.required": {
+    "description": "Title of the modal the user will see if it's not in Discord server.",
+    "message": "Sumali sa aming Discord"
+  },
+  "jobs.header.description": {
+    "description": "The second part of the jobs page.",
+    "message": "Handa ka na bang tumulong sa pinakamalaking Rich-Presence program?"
+  },
+  "jobs.header.title": {
+    "description": "First part of the jobs page.",
+    "message": "Magtrabaho para kay PreMiD"
+  },
+  "jobs.modal.buttons.cancel": {
+    "description": "Cancel, button in the modal.",
+    "message": "I-cancle"
+  },
+  "jobs.modal.buttons.join": {
+    "description": "Join Discord button in the modal.",
+    "message": "Sumali"
+  },
+  "jobs.modal.buttons.next": {
+    "description": "Next button in the modal.",
+    "message": "Susunod"
+  },
+  "jobs.modal.error": {
+    "description": "Error when user did not fill all the fields.",
+    "message": "Pakiusap kumpletuhin ang lahat ng mga nasa field"
+  },
+  "jobs.modal.notice": {
+    "description": "Notice for applicants.",
+    "message": "Ang PreMiD ay isang open-source na project, ibig sabihin ay kami ay non-profit na team, kada donasyon o patreon money ay naibabalik sa product. Sa pamamagitan ng pag-apply para sa job position sa PreMiD ikaw ay kinikilala na ikaw ay nagbo-volunteer sa team, hindi ka mababayaran para sa iyong trabaho."
+  },
+  "jobs.modal.step": {
+    "description": "Step indicator of the modal. {0} will be replaced with the current page .",
+    "message": "Step {0} ng 2"
+  },
+  "jobs.modal.title": {
+    "description": "Jobs apply modal title, {0} will be replaced with the job name.",
+    "message": "Mag-apply bilang {0}"
+  },
+  "jobs.openings.title": {
+    "description": "Text before the available job positions cards.",
+    "message": "Job Openings"
+  },
+  "jobs.success.applied": {
+    "description": "Notification when applying.",
+    "message": "Maraming salamat sa pag-apply!"
+  }
+}

@@ -1,1 +1,14 @@
-{}
+{
+  "9gag.about": {
+    "description": "",
+    "message": "Διαβάζοντας τα πάντα για το 9GAG"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "Προβάλει ετικέτας:"
+  },
+  "9gag.trending": {
+    "description": "",
+    "message": "Προβάλει τι είναι δημοφιλές"
+  }
+}

@@ -35,6 +35,14 @@
     "description": "Skins is how you appear in the game.",
     "message": "Vizualizarea skinurilor etichetate"
   },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Vizualizarea skinurilor de top"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "Vizualizarea skinurilor în tendințe"
+  },
   "namemc.upcomingNames": {
     "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
     "message": "Vizualizarea numelor viitoare"

@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Záložky"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Prozkoumat"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Oznámení"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Čtení postu:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Mění nějaké nastavení..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Prohlížení jejich přímých zpráv"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Prohlíží lajky uživatele:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Prohlíží seznam:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Prohlíží média uživatele:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Prohlíží posty uživatele:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Prohlíží posty (s odpověďmi) uživatele:"
   }
 }

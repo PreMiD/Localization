@@ -7,6 +7,10 @@
     "description": "Error message when no size selected",
     "message": "Nincs termék amit a kosárba lehet rakni"
   },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "**Válaszd ki a méreted**"
+  },
   "merch.help": {
     "description": "Link to customer support, {0}{1} is the replacement for the link",
     "message": "Problémád akadt az oldalunkkal vagy egy rendeléssel? Vedd fel a kapcsolatot az {0}ügyfél szolgálatunkkal{1}"
@@ -14,5 +18,9 @@
   "merch.item.added": {
     "description": "{0} replaced with product name",
     "message": "{0} hozzáadva a kosárhoz"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "Üdvözlet a hivatalos **PreMiD* áruk boltban!"
   }
 }

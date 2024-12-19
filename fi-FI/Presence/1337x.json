@@ -1,4 +1,8 @@
 {
+  "1337x.about": {
+    "description": "",
+    "message": "Lukee tietoa 1337x"
+  },
   "1337x.animeTorrents": {
     "description": "",
     "message": "Katselee Anime Torrenteja"
@@ -7,8 +11,36 @@
     "description": "",
     "message": "Katselee sovellus Torrenteja"
   },
+  "1337x.docTorrents": {
+    "description": "",
+    "message": "Dokumenttien katselu"
+  },
+  "1337x.latestEpisode": {
+    "description": "",
+    "message": "Uusimpien jaksojen katselu"
+  },
+  "1337x.movieLibrary": {
+    "description": "",
+    "message": "Tarkastelee elokuva kirjastoa"
+  },
   "1337x.seriesLibrary": {
     "description": "",
     "message": "Tarkastelee elokuva kirjastoa"
+  },
+  "1337x.top": {
+    "description": "",
+    "message": "Katsoa top 100"
+  },
+  "1337x.trending": {
+    "description": "",
+    "message": "Katselee trendaavia videoita"
+  },
+  "1337x.upload": {
+    "description": "",
+    "message": "Lataa jotakin..."
+  },
+  "1337x.viewTorrent": {
+    "description": "",
+    "message": "Katsoo kauppaa:"
   }
 }

@@ -1,1 +1,58 @@
-{}
+{
+  "spotify.albumLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "אלבומים שהם אוהבים"
+  },
+  "spotify.artistsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "אמנים שהם אוהבים"
+  },
+  "spotify.bestPodcasts": {
+    "description": "",
+    "message": "הפודקאסטים הכי טובים"
+  },
+  "spotify.browse": {
+    "description": "First section of the next 6 strings",
+    "message": "גלישה דרך"
+  },
+  "spotify.charts": {
+    "description": "",
+    "message": "צפייה בתרשימים"
+  },
+  "spotify.discover": {
+    "description": "",
+    "message": "גילוי שירים חדשים"
+  },
+  "spotify.download": {
+    "description": "",
+    "message": "הורד ספוטיפי"
+  },
+  "spotify.featured": {
+    "description": "",
+    "message": "שירים מומלצים"
+  },
+  "spotify.genres": {
+    "description": "",
+    "message": "חפש בין ג'אנרים"
+  },
+  "spotify.latest": {
+    "description": "",
+    "message": "צפייה במהדורות האחרונות"
+  },
+  "spotify.madeForYou": {
+    "description": "\"Browsing through\" + this (Recommend by spotify is what it means)",
+    "message": "\"נוצר עבורך\""
+  },
+  "spotify.playlists": {
+    "description": "\"Browsing through\" + this",
+    "message": "הפלייליסטים שלהם"
+  },
+  "spotify.podcastsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "פודקאסטים שהם אוהבים"
+  },
+  "spotify.songsLike": {
+    "description": "\"Browsing through\" + this",
+    "message": "שירים שהם אוהבים"
+  }
+}

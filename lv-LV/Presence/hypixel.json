@@ -1,1 +1,22 @@
-{}
+{
+  "hypixel.dm": {
+    "description": "",
+    "message": "Skatās DMs"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "Skatās spēli:"
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "Skatās personāla sarakstu"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "Skatās piesekotajiem forumiem"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "Skatās piesekotajiem pavedieniem"
+  }
+}

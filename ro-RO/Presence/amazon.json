@@ -3,6 +3,10 @@
     "description": "",
     "message": "Vizualizarea Propiei Adrese"
   },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "Vizualizarea prefecților lor"
+  },
   "amazon.balance": {
     "description": "",
     "message": "Vizualizează Balanța Propie"

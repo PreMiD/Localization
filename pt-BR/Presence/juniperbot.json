@@ -3,9 +3,25 @@
     "description": "Page with the list of bot's commands",
     "message": "Olhando a lista de comandos"
   },
+  "juniperbot.cookies": {
+    "description": "Reading about the site's cookies",
+    "message": "Lendo sobre os cookies do site"
+  },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "Lendo informações sobre os planos de doação"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "Olhando o ranking de servidores:"
+  },
   "juniperbot.mainpage": {
     "description": "Home page of the site",
     "message": "Página principal"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "No painel"
   },
   "juniperbot.serverdashname": {
     "description": "Guild name",
@@ -18,5 +34,9 @@
   "juniperbot.stats": {
     "description": "Page with bot's statistics",
     "message": "Vendo as estatísticas do bot"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "Personalizando o cartão de ranking"
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+  "pinterest.board": {
+    "description": "",
+    "message": "Προβολή πινάκων:"
+  },
+  "pinterest.follow": {
+    "description": "",
+    "message": "Προβολή των ακόλουθων τους"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "Επεξεργασία της αρχικής τους σελίδας"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "Προβολή ενός pin"
+  }
+}

@@ -11,6 +11,14 @@
     "description": "Heading for group of users.",
     "message": "Osoblje"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "Pristaše"
+  },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Razvojni programeri prisutnosti"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Prevoditelji"
@@ -19,17 +27,45 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "Booster"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "Upravitelj zajednice"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "Moderator"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "Donator"
+  },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "Ljudski resursi"
   },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Upravitelj lokalizacija"
   },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "Upravljanje projektima"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "Suradnik"
+  },
+  "contributors.roles.presenceDeveloper": {
+    "description": "'Presence Developer' title for contributors and user pages.",
+    "message": "Programer Statusa"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korektor"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "Podrška"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

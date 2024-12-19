@@ -1,1 +1,142 @@
-{}
+{
+	"youtube.ad": {
+		"description": "",
+		"message": "Pašlaik skatās reklāmu"
+	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Pārlūko atskaņošanas saraksti"
+	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "Pārlūko īsu videoklipu"
+	},
+	"youtube.browsingThrough": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Pārlūko"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "Pārlūko video caur {0}"
+	},
+	"youtube.browsingVideos": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Pārlūko video"
+	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "savu vēsturi"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "savu bibliotēku"
+	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "kanāls:"
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "savus pirkumus"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Lasa par kanālu:"
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "Skatās savu pārskata vēsturi"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "Meklē caur kanālu: {0}"
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "artista lapu"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanāla analītiku"
+	},
+	"youtube.studio.channelComments": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanāla komentārus"
+	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "kanāla tulkojumus"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "Skatās savu Infopaneli"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "Rediģē video:"
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "Skatās videoklipa analītiku:"
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "Skatās videoklipa komentārus:"
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "Skatās videoklipa tulkojumus:"
+	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "Skatās savu saturu"
+	},
+	"youtube.studio.viewTheir": {
+		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
+		"message": "Skatās savu"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "Skatās savus videoklipus"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "savus abonementus"
+	},
+	"youtube.trending": {
+		"description": "",
+		"message": "Skatās, kas ir tendencēs"
+	},
+	"youtube.upload": {
+		"description": "",
+		"message": "Kaut ko augšupielādē..."
+	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "Skatās visus savus atskaņošanas sarakstus"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "Skatās savu audio bibliotēku"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "Skatās savu tiešraides infopaneli"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "Skatās savus tiešraides notikumus"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Skatās kopienu ziņas"
+	},
+	"youtube.perVideoPrivacy.tooltip.1": {
+		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
+		"message": "Pārraksta jūsu konfidencialitātes režīmu šim video"
+	},
+	"youtube.perVideoPrivacy.tooltip.2": {
+		"description": "Explains that the new button they see on their youtube ui was added by the PreMiD YouTube presence",
+		"message": "Šī ir daļa no PreMiD YouTube presence"
+	}
+}

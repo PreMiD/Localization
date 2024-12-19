@@ -159,6 +159,10 @@
     "description": "Description for taigabot.",
     "message": "taiga je Discord Bot, ktorý sa snaží ponúknuť všetky funkcie, ktoré môžete potrebovať naraz!"
   },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio je komunitou riedené online rádio, poskytujúce 24/7 zábavu bez reklám, denné spravodajské články a oveľa viac!"
+  },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",
     "message": "Najvýkonnejší a rozšíriteľný open source softvér Wiki."

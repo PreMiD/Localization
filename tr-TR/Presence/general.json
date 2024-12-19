@@ -263,6 +263,10 @@
 		"description": "",
 		"message": "Şu kişiye mesaj yazıyor:"
 	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "DM'de yazışıyor"
+	},
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
 		"message": "Çalışma süres geçmişi"
@@ -306,6 +310,10 @@
 	"general.viewAShow": {
 		"description": "",
 		"message": "Bir şovu görüntülüyor"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "Bir konuya bakıyor"
 	},
 	"general.viewAccount": {
 		"description": "",

@@ -11,6 +11,10 @@
     "description": "Benefit card description.",
     "message": "Confira nosso desenvolvimento e marketing."
   },
+  "jobs.benefit2.title": {
+    "description": "Benefit card title.",
+    "message": "Testador Beta"
+  },
   "jobs.benefit3.description": {
     "description": "Benefit card description.",
     "message": "Permissões poderosas no Discord e um cargo colorido."

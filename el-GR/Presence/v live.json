@@ -2,5 +2,21 @@
   "v live.browseThrough": {
     "description": "The first part of the next 6 strings",
     "message": "Περιήγηση μέσα"
+  },
+  "v live.ofChannel": {
+    "description": "{0} will be replaced with the channel name // This is the second part of the next 5 strings",
+    "message": "από το κανάλι {0}"
+  },
+  "v live.profile": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "σελίδα προφίλ"
+  },
+  "v live.viewTheir": {
+    "description": "The first part of the next 6 strings",
+    "message": "Προβάλει τους"
+  },
+  "v live.watched": {
+    "description": "The second part of the \"Viewing their\" string",
+    "message": "βίντεο ποθ είδατε"
   }
 }

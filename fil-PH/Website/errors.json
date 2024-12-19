@@ -1,1 +1,46 @@
-{}
+{
+  "error.code.4": {
+    "description": "Error (4) message",
+    "message": "May tinitignan ka para sa hindi nag-i-exist o na-delete na Presence."
+  },
+  "error.code.404": {
+    "description": "Error (404) message",
+    "message": "Sorry, hindi namin mahanap ang page na iyon."
+  },
+  "error.code.500": {
+    "description": "Error (500) message",
+    "message": "Nangyari ang Internal Server error."
+  },
+  "error.page.button": {
+    "description": "Button on the error page",
+    "message": "Bumalik sa homepage"
+  },
+  "error.page.details": {
+    "description": "'Details' text on error page container",
+    "message": "Mga detail"
+  },
+  "store.search.notFound": {
+    "description": "Search result text when nothing's found",
+    "message": "Hindi namin mahanap ang Presence na iyon..."
+  },
+  "user.notFound.heading": {
+    "description": "Error when user couldn't be found.",
+    "message": "Ang user ay hindi mahanap. Subukan mo para ma-sure"
+  },
+  "user.notFound.message1": {
+    "description": "Check user ID message.",
+    "message": "iyang ID ng isang User na hinahanap mo para dyan ay tama."
+  },
+  "user.notFound.message2": {
+    "description": "Check the presence amount of the developer created message.",
+    "message": "iyang isang user ay may nagawa ng sapat na mga Presence at may isang Presence Developer role na sa aming Discord server."
+  },
+  "user.notFound.message3": {
+    "description": "Check if the error is also happening to others message.",
+    "message": "kung ang iba ay nakaka-experience na ng parehas na isyu sa aming Discord server."
+  },
+  "user.notFound.message4": {
+    "description": "Bottom line for the error page. Do not edit brackets.",
+    "message": "Kung ang pinaniniwalaan mo ito ay isang mistake, pakiusap i-contact kami sa [aming Discord server]."
+  }
+}

@@ -1,1 +1,50 @@
-{}
+{
+  "google docs.browsingDoc": {
+    "description": "Displayed when the user is browsing their Google Documents",
+    "message": "正在瀏覽文件"
+  },
+  "google docs.browsingForm": {
+    "description": "Displayed when the user is browsing their Google Forms",
+    "message": "正在瀏覽表單"
+  },
+  "google docs.browsingPresentation": {
+    "description": "Displayed when the user is browsing their Google presentation",
+    "message": "正在瀏覽演講"
+  },
+  "google docs.browsingSheet": {
+    "description": "Displayed when the user is browsing their Google Sheets",
+    "message": "正在瀏覽試算表"
+  },
+  "google docs.editingDoc": {
+    "description": "Displayed when the user is editing a Google Document",
+    "message": "正在編輯文件"
+  },
+  "google docs.editingForm": {
+    "description": "Displayed when the user is editing a Google Form",
+    "message": "正在編輯表單"
+  },
+  "google docs.editingPresentation": {
+    "description": "Displayed when the user is editing a Google presentation",
+    "message": "正在編輯演講"
+  },
+  "google docs.editingSheet": {
+    "description": "Displayed when the user is eiditng a Google Sheet",
+    "message": "正在編輯試算表"
+  },
+  "google docs.viewingDoc": {
+    "description": "Displayed when the user is viewing a Google Document",
+    "message": "正在查看文件"
+  },
+  "google docs.viewingForm": {
+    "description": "Displayed when the user is viewing a Google Form",
+    "message": "正在檢視表單"
+  },
+  "google docs.viewingPresentation": {
+    "description": "Displayed when the user is viewing a Google presentation",
+    "message": "正在檢視演講"
+  },
+  "google docs.viewingSheet": {
+    "description": "Displayed when the user is viewing a Google Sheet",
+    "message": "正在檢視試算表"
+  }
+}

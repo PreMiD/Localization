@@ -159,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "هشدار"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "PreMiD برای دستگاه های موبایلی درسترس نیست. لطفا از یک مرورگر دسکتاپ برای نصب PreMiD استفاده کنید."
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "نشان دادن دانلود ها"
@@ -166,5 +170,81 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "مخفی کردن دانلود ها"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "خبرای بزرگ!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "ما برنامه را از بیخ و بن حذف کردیم!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "حالا شما فقط به افزونه مرورگر نیازدارید - بدون نیاز به دانلود اضافه."
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "راه‌اندازی سریع"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "بدون نیاز به هیچ برنامه‌ای"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "فقط جواب میده™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "برنامه در نسخه 2.6.0 حذف شد تا زندگی برای شما آسان تر شود ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "PreMiD را برای مرورگر خود دانلود کنید"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "بزودی"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "برنامه بتا"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "از چیزای جدیدمون خوشتون اومده؟ به سرور دیسکوردمون ملحق بشید و از دستور beta/ استفاده کنید تا به ویژگی های جدید از قبل دسترسی داشته باشید!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "دسترسی آلفا"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "از ما در GitHub یا Patreon حمایت کنید تا جدیدترین تکنولوژی هامون منتشر بشوند!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "کمک نیاز دارید؟ به ما ملحق شوید در"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "دیسکورد"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "برای پشتیبانی بیشتر!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "از PreMiD خوشتون اومده؟"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "میتونید با نظر دادن یا حمایت به ما کمک کنید - اینکار ها یک دنیا برایمان باارزش هستند!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "به ما نظر بدهید"
 	}
 }

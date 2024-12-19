@@ -7,12 +7,68 @@
     "description": "",
     "message": "يشاهد الأوشحة"
   },
+  "namemc.claim": {
+    "description": "",
+    "message": "عرض كيفية الحصول على ملفك الشخصي"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "تعديل معلومات الملف الشخصي الخاص بهم{0}"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "عرض الخوادم"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "عرض المظاهر الجديدة"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "عرض المظاهر العشوائية"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "عرض المظاهر مع {0} علامة"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "عرض المظاهر المعلمة"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "عرض أعلى المظاهر"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "عرض المظاهر المتداخلة"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "عرض الأسماء الواردة"
+  },
   "namemc.viewCape": {
     "description": "",
     "message": "يشاهد الوشاح:"
   },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "عرض الرموز التعبيرية الخاصة به"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "يشاهد إصدقائه"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "عرض الخادم:"
+  },
   "namemc.viewSkin": {
     "description": "Skins is how you appear in the game.",
     "message": "يشاهد سكن"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "عرض الجلود"
   }
 }

@@ -1,1 +1,18 @@
-{}
+{
+  "gmail.accountSetting": {
+    "description": "Displayed when the user is modifying their account's settings",
+    "message": "Spravuje nastavenia účtov a importu"
+  },
+  "gmail.addonsSettings": {
+    "description": "Displayed when the user is modifying their add-ons",
+    "message": "Spravuje doplnky"
+  },
+  "gmail.advancedSettings": {
+    "description": "Displayed when the user is modifying their advanced settings",
+    "message": "Spravuje rozšírené nastavenia"
+  },
+  "gmail.themesSettings": {
+    "description": "Displayed when the user is modifying their theme in the settings",
+    "message": "Vyberá si tému"
+  }
+}

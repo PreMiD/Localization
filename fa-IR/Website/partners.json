@@ -67,6 +67,18 @@
     "description": "Hint located under the button.",
     "message": "اگر شما به کارکردن مستقیم برای PreMiD علاقه مند شدید، یک نگاهی هم به **تبلیفات شغلی** ما بیاندازید."
   },
+  "partners.apply.loggedUser": {
+    "description": "{0} will be replaced with user account.",
+    "message": "وارد شده به عنوان {0}"
+  },
+  "partners.apply.notYou": {
+    "description": "Account switcher on the modal, just like Discord's!",
+    "message": "شما نیستید؟"
+  },
+  "partners.apply.select.default": {
+    "description": "Select default placeholder.",
+    "message": "لطفا یکی را انتخاب کنید"
+  },
   "partners.apply.select.other": {
     "description": "Select 'Other' category.",
     "message": "ديگر"
@@ -119,9 +131,17 @@
     "description": "Description for Fastly.",
     "message": "پشت بهترین های دنیای وب."
   },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit یک ایستگاه رادیویی است که ساخته شده تا بهترین ضرب ها را در 24/7 برای شما پخش کند و اینکه برای شما بهترین ضرب های آینده را در اولین فرصت فراهم کند."
+  },
   "partners.partner.packageCloud": {
     "description": "Description for PackageCloud.",
     "message": "ظاهر یکپارچه و توسعه پذیر برای تمامی آثار شما."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix بزرگ‌ترین سرور دیسکورد دنیاست که درباره نتفلیکس توسعه یافته. درباره سریال ها یا فیلم های محبوب خود با افراد دیگر هم نظر خود گفتگو کنید."
   },
   "partners.partner.reyfm": {
     "description": "Description for REYFM.",
@@ -138,6 +158,10 @@
   "partners.partner.taigaBot": {
     "description": "Description for taigabot.",
     "message": "taiga ربات دیسکورد است که تلاش می کند به شما همه ویژگی هایی را که لازم دارید در یک جا داشته باشید!"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio یک رادیوی آنلاین قدرت گرفته از انجمن خود می باشد که به شما 24/7 ساعت هر روز رادیویی بدون تبلیغ با کلی سرگرمی، اخبار روزانه، مقاله های جدید و بسیاری از چیز های دیگر، ارائه می دهد!"
   },
   "partners.partner.wikijs": {
     "description": "Description for WikiJS.",

@@ -3,6 +3,10 @@
     "description": "Used as the title for the button in Discord.",
     "message": "Main Trivia"
   },
+  "watchmojo.playingTrivia": {
+    "description": "For privacy mode, \"a\" as in unspecified.",
+    "message": "Main Trivia"
+  },
   "watchmojo.trivia": {
     "description": "{0} will be replaced with the name of the Trivia game",
     "message": "Main Trivia: {0}"

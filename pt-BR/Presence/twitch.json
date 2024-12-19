@@ -15,6 +15,18 @@
     "description": "Page name",
     "message": "Preferências de anúncios"
   },
+  "twitch.affiliate": {
+    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
+    "message": "Programa de afiliados da Twitch"
+  },
+  "twitch.blogArchive": {
+    "description": "{0} will be replaced with the year",
+    "message": "Vendo o arquivo do blog de {0}"
+  },
+  "twitch.blogBrowse": {
+    "description": "",
+    "message": "Navegando pelos últimos posts do blog..."
+  },
   "twitch.blogs": {
     "description": "",
     "message": "Blogs da Twitch"
@@ -22,6 +34,46 @@
   "twitch.brand": {
     "description": "",
     "message": "Lendo sobre a Twitch..."
+  },
+  "twitch.brandExpression": {
+    "description": "Page name",
+    "message": "Maximizando nossa expressão"
+  },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "Trazendo um método para nossa (amada) loucura"
+  },
+  "twitch.brandReal": {
+    "description": "Page name",
+    "message": "Mantendo a Twitch real"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "Trazendo tudo junto"
+  },
+  "twitch.brandWatch": {
+    "description": "Watching as in watching a video",
+    "message": "Assistindo a evolução da Twitch"
+  },
+  "twitch.camp": {
+    "description": "",
+    "message": "Escola de criadores"
+  },
+  "twitch.campBasic": {
+    "description": "Page name",
+    "message": "Aprenda o básico"
+  },
+  "twitch.campConnect": {
+    "description": "Page name",
+    "message": "Conecte-se e envolva-se"
+  },
+  "twitch.campLevel": {
+    "description": "Page name",
+    "message": "Subiu de nível"
+  },
+  "twitch.campLive": {
+    "description": "Page name",
+    "message": "Aprendizagem ao vivo"
   },
   "twitch.campMusic": {
     "description": "Page name",
@@ -31,6 +83,14 @@
     "description": "Page name",
     "message": "Seja recompensado"
   },
+  "twitch.campSetup": {
+    "description": "Page name",
+    "message": "Configurando sua stream"
+  },
+  "twitch.channelAnaly": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Estatísticas do canal"
+  },
   "twitch.channelSettings": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "Configurações do canal"
@@ -39,13 +99,25 @@
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "Clipes"
   },
+  "twitch.colls": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "Coleções de vídeos"
+  },
   "twitch.dashboard": {
     "description": "Page name",
     "message": "Painel de controle do criador"
   },
+  "twitch.dashboardManage": {
+    "description": "",
+    "message": "Gerenciando sua stream..."
+  },
   "twitch.dev": {
     "description": "Page name",
     "message": "Desenvolvedores da Twitch"
+  },
+  "twitch.devDocs": {
+    "description": "Page name",
+    "message": "Documentação do Desenvolvedor da Twitch"
   },
   "twitch.devProduct": {
     "description": "Page name",
@@ -67,6 +139,10 @@
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "Configurações de drops"
   },
+  "twitch.esports": {
+    "description": "",
+    "message": "Vendo esports..."
+  },
   "twitch.extensions": {
     "description": "",
     "message": "Vendo as extensões"
@@ -87,6 +163,10 @@
     "description": "",
     "message": "Vendo o tópico:"
   },
+  "twitch.helpTopicCatalog": {
+    "description": "",
+    "message": "Navegando pelo catálogo de tópicos..."
+  },
   "twitch.home": {
     "description": "Page name",
     "message": "Página inicial"
@@ -94,6 +174,14 @@
   "twitch.jobs": {
     "description": "Page name",
     "message": "Empregos"
+  },
+  "twitch.manageRoles": {
+    "description": "",
+    "message": "Gerenciando as regras da sua comunidade..."
+  },
+  "twitch.modStreamer": {
+    "description": "",
+    "message": "Moderando streamer:"
   },
   "twitch.moderationSettings": {
     "description": "Part 2 of the string: \"Viewing their\"",
@@ -119,6 +207,10 @@
     "description": "Page name",
     "message": "Segurança"
   },
+  "twitch.squad": {
+    "description": "",
+    "message": "Assistindo Esquadrão..."
+  },
   "twitch.streamSum": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "Resumo da stream"
@@ -135,6 +227,14 @@
     "description": "Page name",
     "message": "Turbo"
   },
+  "twitch.viewDropsComp": {
+    "description": "",
+    "message": "Vendo as campanhas de Drops ativas..."
+  },
+  "twitch.viewDropsInv": {
+    "description": "",
+    "message": "Vendo seus Drops do inventário..."
+  },
   "twitch.viewFollow": {
     "description": "",
     "message": "Vendo as pessoas que sigo..."
@@ -146,6 +246,10 @@
   "twitch.viewSettings": {
     "description": "",
     "message": "Vendo suas configurações..."
+  },
+  "twitch.viewTeam": {
+    "description": "",
+    "message": "Vendo time:"
   },
   "twitch.viewTheir": {
     "description": "Part 1 of the next 10 strings",

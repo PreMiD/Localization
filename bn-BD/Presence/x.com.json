@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "বুকমার্কগুলো"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "এক্সপ্লোর করুন"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "বিজ্ঞপ্তিসমূহ"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "পড়ছে যার টুইট:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "কিছু সেটিংস চেঞ্জ করছে..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "দেখছে তার ব্যক্তিগত মেসেজগুলো"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "দেখছে পছন্দ করেছেন:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "দেখছে তালিকাগুলো:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "দেখছে মিডিয়া:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "দেখছে টুইটগুলো:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "দেখছে টুইটগুলো (রিপ্লাই এর সঙ্গে):"
   }
 }

@@ -1,4 +1,52 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "Připojování..."
+  },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "Zobrazit aplikaci"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "Zobrazit vývojáře"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "Zobrazit udalost"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "Zobrazit {0}"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "Zobrazit produkt"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "Zobrazit profil uživatele {0}"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "Zobrazit službu"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "Zobrazit {0} Studio"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "Zobrazit štítky"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Zobrazit vlákno"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "Zobrazit {0}"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "Dokumentace"
@@ -11,8 +59,92 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "Hry"
   },
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "Novinky"
+  },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "Novinky a Změny"
+  },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "Vydání"
+  },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "Zdroje"
+  },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "Videa"
+  },
+  "apple.forumPreferences": {
+    "description": "Profile settings/preferences, e.g. change username",
+    "message": "Nastavení"
+  },
+  "apple.forumRegister": {
+    "description": "Register a new account (alternative translation: registering)",
+    "message": "Zaregistrovat se"
+  },
+  "apple.forumTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "Značky fóra"
+  },
+  "apple.iCloudCalendar": {
+    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Kalendář"
+  },
+  "apple.iCloudContacts": {
+    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Kontakty"
+  },
+  "apple.iCloudKeynoteWait": {
+    "description": "Before the keynote begins, you'll be in the waiting room",
+    "message": "Čekárna"
+  },
+  "apple.iCloudMail": {
+    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Mail"
+  },
+  "apple.iCloudNotes": {
+    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Poznámky"
+  },
+  "apple.iCloudPagesCreate": {
+    "description": "Creating a new Pages document",
+    "message": "Vytváření..."
+  },
+  "apple.iCloudPhotos": {
+    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Fotky"
+  },
+  "apple.iCloudReminders": {
+    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "Připomínky"
+  },
   "apple.other": {
     "description": "Other pages not added to the code",
     "message": "Ostatní"
+  },
+  "apple.overview": {
+    "description": "Overview of e.g. all pages of a category",
+    "message": "Přehled"
+  },
+  "apple.shopBag": {
+    "description": "Shopping cart",
+    "message": "Nákupní košík"
+  },
+  "apple.shopBagSummary": {
+    "description": "The total price of the items in your bag (shopping cart)",
+    "message": "Celkem: {0}"
+  },
+  "apple.shopFavorites": {
+    "description": "Favorite products",
+    "message": "Oblíbené"
+  },
+  "apple.shopGiftCards": {
+    "description": "Gift cards for e.g. the App Store",
+    "message": "Dárkové karty"
   }
 }

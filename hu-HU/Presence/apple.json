@@ -15,6 +15,10 @@
     "description": "Button text",
     "message": "Esemény megtekintése"
   },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "{0} nézegetése"
+  },
   "apple.btnViewProduct": {
     "description": "Button text",
     "message": "Termék megtekintése"
@@ -22,6 +26,10 @@
   "apple.btnViewService": {
     "description": "Button text",
     "message": "Szolgáltatás megtekintése"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "{0} nézegetése"
   },
   "apple.chooseLang": {
     "description": "Choosing the language of the website",

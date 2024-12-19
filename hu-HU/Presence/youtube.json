@@ -3,9 +3,21 @@
 		"description": "",
 		"message": "Jelenleg egy reklámot néz"
 	},
+	"youtube.browsingPlaylists": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Böngészés lejátszási listák között"
+	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "Shortok böngészése"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Böngészi a(z)"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "{0} közötti videók böngészése"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
@@ -19,9 +31,17 @@
 		"description": "Part two of \"Browsing through\"",
 		"message": "könyvtárját"
 	},
+	"youtube.ofChannel": {
+		"description": "Second part of multiple strings",
+		"message": "Csatorna:"
+	},
 	"youtube.purchases": {
 		"description": "Part two of \"Browsing through\"",
 		"message": "vásárlásait"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "Csatorna névjegyének olvasása:"
 	},
 	"youtube.reportHistory": {
 		"description": "",
@@ -63,6 +83,10 @@
 		"description": "",
 		"message": "E videó fordításait nézi:"
 	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "A tartalmuk nézegetése"
+	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "Nézi a(z)"
@@ -98,5 +122,9 @@
 	"youtube.viewLiveEvents": {
 		"description": "",
 		"message": "Élő eseményeit nézi"
+	},
+	"youtube.viewingCommunityPost": {
+		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
+		"message": "Böngészés közösségi bejegyzések között"
 	}
 }

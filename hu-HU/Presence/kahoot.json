@@ -39,6 +39,14 @@
     "description": "Used in the context of 2nd place",
     "message": "2. hely"
   },
+  "kahoot.of": {
+    "description": "Used in the context of questions (i.e 1 of 3). {0} is the current question and {1} is the total amount of questions",
+    "message": "{0}. a {1}-ból/ből"
+  },
+  "kahoot.onPodium": {
+    "description": "Used in the context of a player/team being withing the top 3",
+    "message": "Dobogón"
+  },
   "kahoot.playing": {
     "description": "Used as the first line when a user is answering a question",
     "message": "Játszik..."
@@ -46,6 +54,14 @@
   "kahoot.points": {
     "description": "Used to display how many points a user has. {0} is the number of points",
     "message": "Pontok: {0}"
+  },
+  "kahoot.position": {
+    "description": "Used to display the position (ranking) of a player. For example, \"Position: 2\"",
+    "message": "Helyezés: {0}"
+  },
+  "kahoot.questionLoading": {
+    "description": "Used when the next question is loading",
+    "message": "Következő kérdés töltődik..."
   },
   "kahoot.questionNumber": {
     "description": "Used to show what question is currently showing (both host and user). {0} will be replaced with the string kahoot.of",
@@ -59,6 +75,10 @@
     "description": "Used in the context of 3rd place",
     "message": "3. hely"
   },
+  "kahoot.resultsQuestion": {
+    "description": "Used when a user is looking at the results of the question they just answered",
+    "message": "Eredményeket nézi:"
+  },
   "kahoot.stPlace": {
     "description": "Used in the context of 1st place",
     "message": "1. hely"
@@ -66,5 +86,9 @@
   "kahoot.topX": {
     "description": "Used in the context of Top 5",
     "message": "Top {0}"
+  },
+  "kahoot.waiting": {
+    "description": "Used when the user is waiting for a Kahoot Game to start",
+    "message": "Várakozás a kezdésig..."
   }
 }

@@ -1,1 +1,30 @@
-{}
+{
+  "merch.cart": {
+    "description": "Add product to cart",
+    "message": "הוסף לעגלת הקניות"
+  },
+  "merch.error.noitem": {
+    "description": "Error message when no size selected",
+    "message": "אין פריט להוסיף לעגלה שלך"
+  },
+  "merch.fit": {
+    "description": "Product sizes",
+    "message": "**בחר את ההתאמה שלך**"
+  },
+  "merch.help": {
+    "description": "Link to customer support, {0}{1} is the replacement for the link",
+    "message": "חווה בעיות עם החנות שלנו או הזמנה? צור קשר עם תמיכת הלקוחות שלנו{0} {1}"
+  },
+  "merch.item.added": {
+    "description": "{0} replaced with product name",
+    "message": "{0} שנוספו לעגלה שלך"
+  },
+  "merch.swag": {
+    "description": "Subtitle for store",
+    "message": "מצא את ה**Swag** שלך"
+  },
+  "merch.title": {
+    "description": "Merch store title",
+    "message": "ברוכים הבאים לחנות הסחורה הרשמית של **PreMiD**!"
+  }
+}
