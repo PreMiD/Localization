@@ -15,13 +15,45 @@
     "description": "Page name",
     "message": "Možnosti pro reklamu"
   },
+  "twitch.affiliate": {
+    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
+    "message": "Twitch partnerský program"
+  },
+  "twitch.blogArchive": {
+    "description": "{0} will be replaced with the year",
+    "message": "Zobrazení {0} archivu blogu"
+  },
+  "twitch.blogBrowse": {
+    "description": "",
+    "message": "Prohlížení nejnovějších příspěvků na blogu..."
+  },
+  "twitch.blogs": {
+    "description": "",
+    "message": "Twitch blog"
+  },
   "twitch.brand": {
     "description": "",
     "message": "Čte si Značce Twitch..."
   },
+  "twitch.brandExpression": {
+    "description": "Page name",
+    "message": "Zvyšování našeho dosahu"
+  },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "Bringing method to our (beloved) madness"
+  },
   "twitch.brandReal": {
     "description": "Page name",
     "message": "Keeping Twitch real"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "Vše dohromady"
+  },
+  "twitch.brandWatch": {
+    "description": "Watching as in watching a video",
+    "message": "Sledování vývoje značky Twitch"
   },
   "twitch.camp": {
     "description": "",
@@ -79,6 +111,26 @@
     "description": "",
     "message": "Spravuje svůj stream..."
   },
+  "twitch.dev": {
+    "description": "Page name",
+    "message": "Vývojáři Twitche"
+  },
+  "twitch.devDocs": {
+    "description": "Page name",
+    "message": "Dokumentace pro vývojáře"
+  },
+  "twitch.devProduct": {
+    "description": "Page name",
+    "message": "Vývojářské produkty Twitche"
+  },
+  "twitch.devShowcase": {
+    "description": "Page name",
+    "message": "Úspěšné příběhy z komunity"
+  },
+  "twitch.devSupport": {
+    "description": "Page name",
+    "message": "Užitečné zdroje informací"
+  },
   "twitch.downloads": {
     "description": "Page name",
     "message": "Stáhnout"
@@ -102,6 +154,18 @@
   "twitch.guidelines": {
     "description": "Page name",
     "message": "Pokyny pro komunitu"
+  },
+  "twitch.help": {
+    "description": "Page name",
+    "message": "Centrum podpory"
+  },
+  "twitch.helpTopic": {
+    "description": "",
+    "message": "Prohlíží téma:"
+  },
+  "twitch.helpTopicCatalog": {
+    "description": "",
+    "message": "Procházení tématem..."
   },
   "twitch.home": {
     "description": "Page name",
