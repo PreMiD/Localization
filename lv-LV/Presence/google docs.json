@@ -1,1 +1,50 @@
-{}
+{
+  "google docs.browsingDoc": {
+    "description": "Displayed when the user is browsing their Google Documents",
+    "message": "Pārlūko dokumentus"
+  },
+  "google docs.browsingForm": {
+    "description": "Displayed when the user is browsing their Google Forms",
+    "message": "Pārlūko veidlapus"
+  },
+  "google docs.browsingPresentation": {
+    "description": "Displayed when the user is browsing their Google presentation",
+    "message": "Pārlūko prezentācijas"
+  },
+  "google docs.browsingSheet": {
+    "description": "Displayed when the user is browsing their Google Sheets",
+    "message": "Pārlūko izklājlapas"
+  },
+  "google docs.editingDoc": {
+    "description": "Displayed when the user is editing a Google Document",
+    "message": "Rediģē dokumentu"
+  },
+  "google docs.editingForm": {
+    "description": "Displayed when the user is editing a Google Form",
+    "message": "Rediģē veidlapu"
+  },
+  "google docs.editingPresentation": {
+    "description": "Displayed when the user is editing a Google presentation",
+    "message": "Rediģē prezentāciju"
+  },
+  "google docs.editingSheet": {
+    "description": "Displayed when the user is eiditng a Google Sheet",
+    "message": "Rediģē izklājlapu"
+  },
+  "google docs.viewingDoc": {
+    "description": "Displayed when the user is viewing a Google Document",
+    "message": "Skatās dokumentu"
+  },
+  "google docs.viewingForm": {
+    "description": "Displayed when the user is viewing a Google Form",
+    "message": "Skatās veidlapu"
+  },
+  "google docs.viewingPresentation": {
+    "description": "Displayed when the user is viewing a Google presentation",
+    "message": "Skatās prezentāciju"
+  },
+  "google docs.viewingSheet": {
+    "description": "Displayed when the user is viewing a Google Sheet",
+    "message": "Skatās izklājlapas"
+  }
+}
