@@ -3,6 +3,10 @@
     "description": "",
     "message": "Nedávno přidané"
   },
+  "facebook.browse": {
+    "description": "",
+    "message": "Prohlíží:"
+  },
   "facebook.call": {
     "description": "",
     "message": "Při hovoru s:"
@@ -11,12 +15,48 @@
     "description": "",
     "message": "Uložená videa"
   },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "Čtení o uživateli:"
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "Zobrazování komunity uživatelů:"
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "Prohlížení přátel uživatele:"
+  },
   "facebook.userHidden": {
     "description": "Shows when you dont want to show who you are calling/texting.",
     "message": "někdo... (Uživatel skrytý)"
   },
+  "facebook.userPics": {
+    "description": "",
+    "message": "Zobrazování fotografií podle uživatele:"
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "Zobrazení příspěvků uživatele:"
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "Prohlížení obchodu uživatele:"
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "Zobrazení videa uživatelem:"
+  },
   "facebook.vcall": {
     "description": "",
     "message": "Při videohovoru s:"
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "Zobrazování počasí"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "Vytvoření zprávy"
   }
 }
