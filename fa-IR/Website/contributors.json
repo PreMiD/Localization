@@ -11,6 +11,10 @@
     "description": "Heading for group of users.",
     "message": "کارکنان"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "پشتیبانان"
+  },
   "contributors.headings.presenceDevelopers": {
     "description": "Heading for group of users.",
     "message": "توسعه دهندگان Presence"
@@ -22,6 +26,14 @@
   "contributors.roles.booster": {
     "description": "'Booster' title for contributors page and user pages.",
     "message": "تقویت کنندگان"
+  },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "مدیر انجمن"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "ناظر"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
@@ -39,6 +51,10 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "مدیریت پروژه"
   },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "مشارکت کنندگان"
+  },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
     "message": "توسعه دهنده Presence"
@@ -46,6 +62,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "ویراستار"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "پشتیبانی"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
