@@ -1,1 +1,22 @@
-{}
+{
+	"popup.headings.description": {
+		"description": "Title of the description area in the presence settings view.",
+		"message": "Description"
+	},
+	"popup.navigation.information": {
+		"description": "Title of the 'information' section at the navigation in the popup",
+		"message": "Impormasyon"
+	},
+	"popup.information.notYou": {
+		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
+		"message": "Hindi ikaw?"
+	},
+	"popup.logout": {
+		"description": "Button to unlink the current Discord account",
+		"message": "I-logout"
+	},
+	"popup.feedback.close": {
+		"description": "Close button on the feedback popup",
+		"message": "Isara"
+	}
+}
