@@ -1,1 +1,78 @@
-{}
+{
+  "1337x.about": {
+    "description": "",
+    "message": "1337x에 대해 읽는중"
+  },
+  "1337x.animeTorrents": {
+    "description": "",
+    "message": "애니 토렌트 보는 중"
+  },
+  "1337x.appTorrents": {
+    "description": "",
+    "message": "앱 토렌트 보는 중"
+  },
+  "1337x.docTorrents": {
+    "description": "",
+    "message": "다큐멘터리 토렌트 보는 중"
+  },
+  "1337x.gamesTorrents": {
+    "description": "",
+    "message": "게임 토렌트 보는 중"
+  },
+  "1337x.latestEpisode": {
+    "description": "",
+    "message": "최신 에피소드 보는 중"
+  },
+  "1337x.movieLibrary": {
+    "description": "",
+    "message": "동영상 라이브러리 보는중"
+  },
+  "1337x.moviesTorrents": {
+    "description": "",
+    "message": "영화 토렌트 보는 중"
+  },
+  "1337x.musicTorrents": {
+    "description": "",
+    "message": "음악 토렌트 보는 중"
+  },
+  "1337x.otherTorrents": {
+    "description": "",
+    "message": "기타 토렌트 보는 중"
+  },
+  "1337x.rules": {
+    "description": "",
+    "message": "규칙 읽는 중"
+  },
+  "1337x.seriesLibrary": {
+    "description": "",
+    "message": "시리즈 라이브러리 보는 중"
+  },
+  "1337x.top": {
+    "description": "",
+    "message": "Top 100 보는 중"
+  },
+  "1337x.trending": {
+    "description": "",
+    "message": "무엇이 유행인지 보는 중"
+  },
+  "1337x.tvTorrents": {
+    "description": "",
+    "message": "TV 토렌트 보는 중"
+  },
+  "1337x.upload": {
+    "description": "",
+    "message": "무언가를 업로드 중..."
+  },
+  "1337x.viewTorrent": {
+    "description": "",
+    "message": "토렌트 보는 중:"
+  },
+  "1337x.writing": {
+    "description": "",
+    "message": "1337x에 쓰는 중"
+  },
+  "1337x.xxxTorrents": {
+    "description": "XXX as in NSFW",
+    "message": "XXX 토렌트 보는 중"
+  }
+}
