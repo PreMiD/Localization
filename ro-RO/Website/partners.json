@@ -95,6 +95,10 @@
     "description": "Partnership application modal title.",
     "message": "Aplică pentru partener"
   },
+  "partners.header.description": {
+    "description": "Description for page.",
+    "message": "Alăturați-vă familiei și obțineți câteva beneficii numai pentru parteneri pentru a arăta cât de mult aveți."
+  },
   "partners.header.title": {
     "description": "Heading for page.",
     "message": "Parteneri"
@@ -103,20 +107,140 @@
     "description": "Description for AniFlix.",
     "message": "Așa te uiți la animație."
   },
+  "partners.partner.arenaOfKings": {
+    "description": "Description for Arena of Kings.",
+    "message": "Arena Kings este un joc PvP Arena Jocul PvP cu ritmul următor, jucat în browser."
+  },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "Un instrument puternic și ușor de utilizat pentru crearea instalatorului de platforme încrucișate."
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "Localizare agilă pentru companii de tehnologie."
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "Începe să-ți creezi propria comunitate cu templateurile noastre minunate. Construiește-ți propriul regat."
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Un zeiță care se joacă ca Discord Bot!"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "În spatele celui mai bun web."
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit este postul tău de radio online creat pentru a reda cele mai bune rezultate 24/7 și pentru a te face să descoperi mai întâi succesele tale viitoare."
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "O interfață unificată, prietenoasă pentru toate artefactele tale."
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix este cel mai mare server Discord legat de Netflix. Discutați despre serialele sau filmele dvs. preferate cu oameni care au aceleași idei aici."
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM hai să asculți gratuit peste 15 fluxuri de muzică - non-stop. Cu cele mai bune și mai recente muzică doar pentru tine!"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio este cel mai de succes radio de infotainment pentru jocuri de simulare în Germania, Austria și Elveția!"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "Comunicați cu ușurință în timp real utilizatorilor dvs."
+  },
+  "partners.partner.taigaBot": {
+    "description": "Description for taigabot.",
+    "message": "taiga este un robot Discord care încearcă să ofere toate funcțiile de care ai nevoie în același timp!"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "Radio UpBeat este un radio on-line susținut de comunitate, care oferă distracție zilnică, articole de știri și multe altele 24/7, fără anunțuri!"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "Cel mai puternic și extensibil program Wiki cu sursă deschisă."
+  },
+  "partners.requirements.first.description": {
+    "description": "Description for the first requirement.",
+    "message": "Menţinem vigilenţă faţă de comunităţile în creştere şi faţă de lucrurile interesante din jurul internetului. TL;DR ar trebui să utilizați deja PreMiD și să fiți gata să-l răspândiți în și mai multe freak-uri pe internet. Acceptarea programului este extrem de calitativă și va varia de la un candidat la altul."
+  },
+  "partners.requirements.first.title": {
+    "description": "Heading for the first requirement.",
+    "message": "Ce căutaţi?"
+  },
+  "partners.requirements.second.description": {
+    "description": "Description for the second requirement.",
+    "message": "În prezent acceptăm diferite tipuri de efort în programul nostru de parteneriat. Oricine ar trebui să aibă șansa de a fi observat. Posterele de pe Twitch ar trebui să aibă cel puțin 500 de urmăritori și cel puțin 10 telespectatori concomitenți. Trebuie să faceți streaming cel puțin o dată pe săptămână."
+  },
+  "partners.requirements.second.title": {
+    "description": "Heading for the second requirement.",
+    "message": "Firewall-ul nostru"
+  },
   "partners.requirements.title": {
     "description": "Heading for the requirements.",
     "message": "Cerințe"
+  },
+  "partners.slideshow.description": {
+    "description": "Description for slideshow.",
+    "message": "Acestea ne aparțin deja"
+  },
+  "partners.sponsors.description": {
+    "description": "Description for sponsors.",
+    "message": "PreMiD nu ar fi posibil, fără aceşti oameni uimitori."
   },
   "partners.sponsors.title": {
     "description": "Heading for sponsors.",
     "message": "Sponsori"
   },
+  "partners.why.benefit1.description": {
+    "description": "Description for the first benefit.",
+    "message": "Echipa noastră vă va oferi o prezență a serviciului dvs."
+  },
   "partners.why.benefit1.title": {
     "description": "Heading for the first benefit.",
     "message": "Prezența ta liberă"
   },
+  "partners.why.benefit2.description": {
+    "description": "Description for the second benefit.",
+    "message": "Un rol special și o mare onoare îți vor fi oferite pe serverul nostru de Discord."
+  },
+  "partners.why.benefit2.title": {
+    "description": "Heading for the second benefit.",
+    "message": "Deveniţi verificat"
+  },
+  "partners.why.benefit3.description": {
+    "description": "Description for the third benefit.",
+    "message": "Utilizează în mod automat prezența ta atunci când cineva îți vizitează site-ul."
+  },
+  "partners.why.benefit3.title": {
+    "description": "Heading for the third benefit.",
+    "message": "Integrare meta-tag"
+  },
+  "partners.why.benefit4.description": {
+    "description": "Description for the fourth benefit.",
+    "message": "Un loc urât pe pagina noastră parteneră."
+  },
+  "partners.why.benefit4.title": {
+    "description": "Heading for the fourth benefit.",
+    "message": "Deveniți nemortalizat"
+  },
+  "partners.why.benefit5.description": {
+    "description": "Description for the fifth benefit.",
+    "message": "Recomandat pe social media."
+  },
   "partners.why.benefit5.title": {
     "description": "Heading for the fifth benefit.",
     "message": "Fii faimos"
+  },
+  "partners.why.title": {
+    "description": "Heading for benefits.",
+    "message": "Ce zici de a merge la cer în loc de iad?"
   }
 }
