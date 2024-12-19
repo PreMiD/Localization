@@ -87,13 +87,121 @@
 		"description": "Check 5 of the tab which opens when you click on the troubleshooting button, in front of the text will be a question mark (?) since we can't check this",
 		"message": "Discord statusnachrichten aktiviert"
 	},
+	"tab.troubleshooting.checks.presenceToDisplay": {
+		"description": "Check 6 of the tab which opens when you click on the troubleshooting button, in front of the text will be a checkbox (✓) or a cross (✗) depending on the result",
+		"message": "Präsenz zur Anzeige"
+	},
+	"tab.installed.connectToDiscord": {
+		"description": "Information text to tell users to connect to Discord",
+		"message": "Um PreMiD nutzen zu können, musst du es mit deinem Discord Account verknüpfen. Klicke einfach auf den Button unten."
+	},
+	"tab.updated.header": {
+		"description": "Header of the tab which opens when PreMiD was updated",
+		"message": "PreMiD wurde aktualisiert!"
+	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Was ist neu 🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "Funktionen"
 	},
+	"tab.updated.changeTypes.fixes": {
+		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
+		"message": "Fehlerbehebungen"
+	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "Leistung"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "Generelle Änderungen"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "Verknüpfe deinen Discord Account"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "Ab Version v2.6.0 benötigt PreMiD ein verknüpftes Discord-Konto, um richtig zu funktionieren. Bitte verknüpfe dein Discord-Konto, um PreMiD weiter nutzen zu können."
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "Verknüpfe deinen Discord Account"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "Was kommt als Nächstes?"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Wir hoffen, dass dir das neue Update gefällt! Wenn du Feedback oder Vorschläge hast, kannst du unserem Discord-Server beitreten und es uns mitteilen."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Tritt unserem Discord Server bei"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "Willkommen bei PreMid!"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "Lass uns loslegen!"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "PreMiDs Erweiterung installieren"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "Verknüpfe einen Discord Account"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "Vergewissere dich, dass du \"Aktuelle Aktivität als Statusmeldung anzeigen\" aktiviert hast"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Benutzereinstellungen {0} Aktivitätseinstellungen {0} Aktivität Privatsphäre"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "Verknüpfe deinen Discord Account"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "Damit kann PreMiD deine aktuelle Aktivität als Statusmeldung anzeigen."
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord Account verbunden"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "Lass uns zum nächsten Schritt übergehen."
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "Weiter"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "Vergewissere dich, dass du \"Aktuelle Aktivität als Statusmeldung anzeigen\" aktiviert hast, sonst sieht niemand deinen neuen Status."
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "Aktiviere \"Aktuelle Aktivität als Statusnachricht anzeigen.\""
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "Alles erledigt!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "Du bist fertig und kannst loslegen! Wir wünschen dir viel Spaß mit PreMiD. Wenn du Fragen hast oder Hilfe brauchst, kannst du unserem Discord-Server beitreten. Wenn dir PreMiD genauso gut gefällt wie uns, kannst du uns unterstützen, indem du spendest, die Erweiterung bewertest oder sie mit deinen Freunden teilst."
 	},
 	"tab.installed.close": {
 		"description": "Close button text",
