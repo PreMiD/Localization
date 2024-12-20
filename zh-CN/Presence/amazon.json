@@ -1,10 +1,74 @@
 {
+  "amazon.address": {
+    "description": "",
+    "message": "查看他们的地址"
+  },
+  "amazon.adprefs": {
+    "description": "",
+    "message": "查看他们的广告偏好"
+  },
+  "amazon.balance": {
+    "description": "",
+    "message": "查看他们的余额"
+  },
   "amazon.cart": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "购物车"
   },
+  "amazon.catergoriesAll": {
+    "description": "",
+    "message": "查看所有类别"
+  },
+  "amazon.giftcards": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "礼品卡"
+  },
+  "amazon.history": {
+    "description": "",
+    "message": "查看他们的历史记录"
+  },
+  "amazon.orderDetails": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "订单详情"
+  },
+  "amazon.orderHistory": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "订单历史"
+  },
+  "amazon.payment": {
+    "description": "",
+    "message": "查看付款方式"
+  },
+  "amazon.pets": {
+    "description": "",
+    "message": "查看他们的宠物"
+  },
+  "amazon.prime": {
+    "description": "",
+    "message": "查看 Amazon Prime"
+  },
+  "amazon.primeVid": {
+    "description": "",
+    "message": "查看 Prime Video"
+  },
+  "amazon.recommended": {
+    "description": "",
+    "message": "查看推荐内容"
+  },
+  "amazon.store": {
+    "description": "",
+    "message": "查看店铺"
+  },
+  "amazon.subscriptions": {
+    "description": "",
+    "message": "查看他们的订阅"
+  },
   "amazon.viewTheir": {
     "description": "Part 1 of the next 5 strings",
     "message": "查看他们的"
+  },
+  "amazon.wishlist": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "愿望清单"
   }
 }
