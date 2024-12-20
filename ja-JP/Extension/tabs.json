@@ -171,6 +171,10 @@
 		"description": "Prompt to link Discord account",
 		"message": "Discordと接続する"
 	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "この機能により、PreMiDは現在のアクティビティをステータスメッセージとして表示することができます。"
+	},
 	"tab.installed.discordAccountLinked": {
 		"description": "Confirmation of Discord account linked",
 		"message": "Discordアカウントと接続されました。"
@@ -182,6 +186,10 @@
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "次へ"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "「現在のアクティビティをステータスメッセージに表示する」が有効になっていることを確認してください。\nこれを有効にしないと、誰もあなたのステータスを見ることができません。"
 	},
 	"tab.installed.enableActivityStatusPrompt": {
 		"description": "Prompt to enable activity status",
