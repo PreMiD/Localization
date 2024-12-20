@@ -87,6 +87,14 @@
 		"description": "Subtitle of the tab which opens when PreMiD was updated",
 		"message": "Kas toliau?"
 	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "Tikimės, kad jums patiks šis naujas atnaujinimas! Jei turite atsiliepimų ar pasiūlymų, drąsiai prisijunkite prie mūsų Discord serverio ir praneškite mums."
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "Prisijunkite prie mūsų Discord serverio"
+	},
 	"tab.installed.linkDiscord": {
 		"description": "Instruction to link Discord account",
 		"message": "Susiekite Discord paskyrą"
@@ -94,6 +102,10 @@
 	"tab.installed.enableActivityStatus": {
 		"description": "Instruction to enable activity status",
 		"message": "Įsitikinkite, kad jūs turite \"Display current activity as a status message.\" įjungtą"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "Vartotojo nustatymai {0} Veiklos nustatymai {0} Veiklos privatumas"
 	},
 	"tab.installed.linkDiscordAccount": {
 		"description": "Prompt to link Discord account",
