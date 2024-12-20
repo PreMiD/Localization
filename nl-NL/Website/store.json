@@ -69,7 +69,7 @@
   },
   "store.category.videos": {
     "description": "Category at the top",
-    "message": "Video's & streaming"
+    "message": "Video's & Streaming"
   },
   "store.filters.added": {
     "description": "Store filter to display/not display already installed presences.",
