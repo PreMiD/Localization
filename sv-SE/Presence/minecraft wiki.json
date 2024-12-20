@@ -1,4 +1,36 @@
 {
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Ändra skyddsinställningarna för:"
+  },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Flyttar:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Visar bidrag av:"
+  },
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Visar historik:"
+  },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Visar skyddsinställningar av:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Visar senaste ändringarna"
+  },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Visar källa av:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
+    "message": "Visar deras bevakningslista"
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "Laddar upp något..."
