@@ -121,7 +121,7 @@
 	},
 	"popup.info.presenceNotSetMessage.message": {
 		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
-		"message": "PreMiD가 현재 페이지에 대한 Presence를 찾을 수 없어요. 현재 접속 중인 페이지에 대응하는 Presence를 설치했는지 확인해 주세요. Presence를 설치했다면, 페이지에 대응하는 Presence를 다시 불러와 주시고 설정에서 Presence를 활성화했는지 확인해 주세요."
+		"message": "현재 페이지에 대한 상태를 찾을 수 없어요. 현재 접속 중인 페이지에 대응하는 상태를 설치했는지 확인해 주세요. 이미 설치되어 있다면 페이지에 대응하는 상태를 다시 불러와 주시고 설정에서 상태를 활성화했는지 확인해 주세요."
 	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
@@ -281,7 +281,7 @@
 	},
 	"popup.feedback.presence": {
 		"description": "Title of the presence option in the feedback type selection box",
-		"message": "Presence의 버그 혹은 문제 신고"
+		"message": "상태의 버그 혹은 문제 신고"
 	},
 	"popup.feedback.extension": {
 		"description": "Title of the extension option in the feedback type selection box",
