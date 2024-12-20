@@ -111,9 +111,97 @@
 		"description": "Title of the 'fixes' section of the tab which opens when PreMiD was updated",
 		"message": "修复"
 	},
+	"tab.updated.changeTypes.performance": {
+		"description": "Title of the 'performance' section of the tab which opens when PreMiD was updated",
+		"message": "性能"
+	},
+	"tab.updated.changeTypes.chores": {
+		"description": "Title of the 'changes' section of the tab which opens when PreMiD was updated",
+		"message": "常规更改"
+	},
+	"tab.updated.linkYourDiscordAccount": {
+		"description": "Button to link your Discord account",
+		"message": "链接您的Discord账户"
+	},
+	"tab.updated.linkYourDiscordAccountDescription": {
+		"description": "Description of the button to link your Discord account",
+		"message": "从 v2.6.0 版本开始，PreMiD需要一个关联的Discord账户才能正常工作。请链接您的Discord账户以继续使用PreMiD。"
+	},
+	"tab.updated.linkYourDiscordAccountButton": {
+		"description": "Button to link your Discord account",
+		"message": "链接您的Discord账户"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "下一步"
+	},
+	"tab.updated.whatsNextDescription": {
+		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
+		"message": "我们希望您喜欢新的更新！如果您有任何反馈或建议，请随时加入我们的Discord服务器并告知我们。"
+	},
+	"tab.updated.whatsNextJoinDiscordButton": {
+		"description": "Button to join the Discord server",
+		"message": "加入我们的Discord服务器"
+	},
+	"tab.installed.welcome": {
+		"description": "Welcome message",
+		"message": "欢迎使用PreMiD ！"
+	},
+	"tab.installed.getStarted": {
+		"description": "Get started message",
+		"message": "让我们开始吧！"
+	},
+	"tab.installed.installExtension": {
+		"description": "Instruction to install extension",
+		"message": "安装PreMiD的扩展"
+	},
+	"tab.installed.linkDiscord": {
+		"description": "Instruction to link Discord account",
+		"message": "链接Discord帐户"
+	},
+	"tab.installed.enableActivityStatus": {
+		"description": "Instruction to enable activity status",
+		"message": "确保您已启用“将当前活动显示为状态消息”选项"
+	},
+	"tab.installed.activitySettingsPath": {
+		"description": "Path to activity settings ({0} will be replaced with an arrow)",
+		"message": "用户设置 {0} 活动设置 {0} 活动隐私"
+	},
+	"tab.installed.linkDiscordAccount": {
+		"description": "Prompt to link Discord account",
+		"message": "链接您的Discord账户"
+	},
+	"tab.installed.linkDiscordAccountDescription": {
+		"description": "Description of the prompt to link Discord account",
+		"message": "这允许PreMiD将您当前的活动显示为状态消息。"
+	},
+	"tab.installed.discordAccountLinked": {
+		"description": "Confirmation of Discord account linked",
+		"message": "Discord帐户已链接"
+	},
+	"tab.installed.nextStep": {
+		"description": "Prompt to move to the next step",
+		"message": "让我们继续下一步"
+	},
 	"tab.installed.next": {
 		"description": "Next button text",
 		"message": "继续"
+	},
+	"tab.installed.enableActivityStatusDescription": {
+		"description": "Description of the prompt to enable activity status",
+		"message": "确保您已启用“将当前活动显示为状态消息”选项，否则没人会看到您炫新的状态。"
+	},
+	"tab.installed.enableActivityStatusPrompt": {
+		"description": "Prompt to enable activity status",
+		"message": "启用“将当前活动显示为状态消息”。"
+	},
+	"tab.installed.allDone": {
+		"description": "Confirmation of completion",
+		"message": "全部完成!"
+	},
+	"tab.installed.setupComplete": {
+		"description": "Setup complete message",
+		"message": "一切设置完毕，准备好开始使用了！我们希望您喜欢使用PreMiD。如果您有任何问题或需要帮助，请随时加入我们的Discord服务器。如果您像我们一样喜欢PreMiD，可以通过捐赠、评价扩展或与朋友分享来支持我们。"
 	},
 	"tab.installed.close": {
 		"description": "Close button text",

@@ -7,6 +7,10 @@
 		"description": "",
 		"message": "浏览中..."
 	},
+	"general.buttonBrowse": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "浏览"
+	},
 	"general.buttonListenAlong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "独自收听"
@@ -19,9 +23,21 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "浏览相册"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "View Anime"
+	},
+	"general.buttonViewArticle": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "查看文章"
+	},
 	"general.buttonViewArtist": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "浏览艺人"
+	},
+	"general.buttonViewChangelog": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "查看更新日志"
 	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
@@ -55,9 +71,25 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "查看系列"
 	},
+	"general.buttonViewShow": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "查看节目"
+	},
 	"general.buttonViewSong": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "浏览歌曲"
+	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "观看动漫"
+	},
+	"general.buttonWatchMovie": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "观看电影"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "观看剧集"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
@@ -119,6 +151,10 @@
 		"description": "",
 		"message": "正在听音乐"
 	},
+	"general.listeningTo": {
+		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
+		"message": "正在听 {0}{1}"
+	},
 	"general.live": {
 		"description": "",
 		"message": "直播"
@@ -151,9 +187,29 @@
 		"description": "",
 		"message": "阅读中"
 	},
+	"general.readingAChannel": {
+		"description": "",
+		"message": "在频道中阅读"
+	},
+	"general.readingADM": {
+		"description": "",
+		"message": "阅读私信"
+	},
+	"general.readingAPost": {
+		"description": "",
+		"message": "阅读帖子"
+	},
+	"general.readingAThread": {
+		"description": "",
+		"message": "阅读线程"
+	},
 	"general.readingAbout": {
 		"description": "",
 		"message": "正在阅读："
+	},
+	"general.readingAnArticle": {
+		"description": "",
+		"message": "阅读文章"
 	},
 	"general.readingArticle": {
 		"description": "",
@@ -195,6 +251,10 @@
 		"description": "",
 		"message": "正在搜索个东西..."
 	},
+	"general.season": {
+		"description": "",
+		"message": "季节/季"
+	},
 	"general.shopCart": {
 		"description": "",
 		"message": "购物车"
@@ -203,17 +263,89 @@
 		"description": "",
 		"message": "Presence 市场"
 	},
+	"general.support": {
+		"description": "A page name",
+		"message": "支持页面"
+	},
 	"general.terms": {
 		"description": "A page name",
 		"message": "服务条款"
+	},
+	"general.typeChannel": {
+		"description": "",
+		"message": "在频道中打字"
+	},
+	"general.typeDM": {
+		"description": "",
+		"message": "正在私信给"
+	},
+	"general.typeInDM": {
+		"description": "",
+		"message": "正在私信中"
 	},
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
 		"message": "运行历史"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "查看动漫"
+	},
+	"general.viewAList": {
+		"description": "",
+		"message": "查看列表"
+	},
+	"general.viewAManga": {
+		"description": "",
+		"message": "查看漫画"
+	},
+	"general.viewAMember": {
+		"description": "",
+		"message": "查看成员"
+	},
+	"general.viewAMovie": {
+		"description": "",
+		"message": "查看电影"
+	},
+	"general.viewAPage": {
+		"description": "",
+		"message": "查看页面"
+	},
+	"general.viewAPlaylist": {
+		"description": "",
+		"message": "查看播放列表"
+	},
+	"general.viewAProduct": {
+		"description": "",
+		"message": "查看产品"
+	},
+	"general.viewAProfile": {
+		"description": "",
+		"message": "查看个人资料"
+	},
+	"general.viewASeries": {
+		"description": "",
+		"message": "查看剧集"
+	},
+	"general.viewAShow": {
+		"description": "",
+		"message": "查看节目"
+	},
+	"general.viewAThread": {
+		"description": "",
+		"message": "查看线程"
+	},
 	"general.viewAccount": {
 		"description": "",
 		"message": "正在浏览他们的账户："
+	},
+	"general.viewAnIncident": {
+		"description": "A page name of statuspages",
+		"message": "查看事件"
+	},
+	"general.viewAnUser": {
+		"description": "",
+		"message": "查看用户"
 	},
 	"general.viewAnime": {
 		"description": "",
@@ -238,6 +370,10 @@
 	"general.viewHome": {
 		"description": "",
 		"message": "正在浏览主页："
+	},
+	"general.viewIncident": {
+		"description": "A page name of statuspages",
+		"message": "查看相关事件"
 	},
 	"general.viewList": {
 		"description": "",
@@ -291,6 +427,14 @@
 		"description": "",
 		"message": "正在浏览："
 	},
+	"general.viewingAWishlist": {
+		"description": "",
+		"message": "查看愿望清单"
+	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "查看以下的愿望清单"
+	},
 	"general.waitingLive": {
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
 		"message": "正在等候直播开始"
@@ -310,6 +454,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "正在观看："
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "观看动漫"
 	},
 	"general.watchingLive": {
 		"description": "",
@@ -334,6 +482,10 @@
 	"general.wiki": {
 		"description": "A page name",
 		"message": "维基"
+	},
+	"general.wikiMainPage": {
+		"description": "Displayed when viewing the wiki main page.",
+		"message": "Wiki 首页"
 	},
 	"general.wishlist": {
 		"description": "",

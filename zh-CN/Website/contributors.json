@@ -11,6 +11,14 @@
     "description": "Heading for group of users.",
     "message": "工作人员"
   },
+  "contributors.headings.supporters": {
+    "description": "Heading for group of users.",
+    "message": "支持者"
+  },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "状态开发者"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "翻译人员"
@@ -19,13 +27,41 @@
     "description": "'Booster' title for contributors page and user pages.",
     "message": "助力者"
   },
+  "contributors.roles.communityManager": {
+    "description": "'Community Manager' title for contributors and user pages.",
+    "message": "社区经理"
+  },
+  "contributors.roles.softwareEngineer": {
+    "description": "'Software Engineer' title for contributors and user pages.",
+    "message": "软件工程师"
+  },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "开发者"
+  },
+  "contributors.roles.moderator": {
+    "description": "'Moderator' title for contributors and user pages.",
+    "message": "版主"
+  },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
     "message": "捐助者"
   },
+  "contributors.roles.humanResources": {
+    "description": "'Human Resources' title for contributors and user pages.",
+    "message": "人力资源"
+  },
   "contributors.roles.localizationManager": {
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "本地化管理员"
+  },
+  "contributors.roles.projectManagement": {
+    "description": "'Project Management' title for contributors and user pages.",
+    "message": "项目管理"
+  },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "贡献者"
   },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
@@ -34,6 +70,10 @@
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "校对"
+  },
+  "contributors.roles.support": {
+    "description": "'Support' title for contributors and user pages.",
+    "message": "支持"
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",

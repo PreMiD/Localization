@@ -173,7 +173,7 @@
 	},
 	"downloads.notice.header.title": {
 		"description": "Main announcement title in the downloads page.",
-		"message": "¡Buenas noticias! "
+		"message": "¡Buenas noticias!"
 	},
 	"downloads.notice.header.removal": {
 		"description": "First line of the announcement about app removal.",

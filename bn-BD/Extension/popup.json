@@ -119,6 +119,10 @@
 		"description": "Shown on the troubleshooting page when the user might have to change their Discord status setting",
 		"message": "দয়া করে নিশ্চিত করুন যে আপনি আপনার ডিস্করড সেটিংস-এ 'Display current activity as a status message' অপশনটি চালু করেছেন।"
 	},
+	"popup.info.presenceNotSetMessage.message": {
+		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
+		"message": "প্রিমিড আপনার বর্তমান ট্যাবগুলির জন্য কোনো প্রেজেন্স খুঁজে পায়নি। দয়া করে নিশ্চিত করুন যে আপনি বর্তমানে যে ওয়েবসাইটে আছেন তার জন্য একটি প্রেজেন্স ইনস্টল করেছেন। যদি আপনি প্রেজেন্স ইনস্টল করে থাকেন, তবে ওয়েবসাইটটি রিলোড করার চেষ্টা করুন এবং নিশ্চিত করুন যে সেটিংস-এ প্রেজেন্স চালু করেছেন।"
+	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
 		"message": "কৃতিত্ব"
@@ -130,6 +134,10 @@
 	"popup.navigation.information": {
 		"description": "Title of the 'information' section at the navigation in the popup",
 		"message": "তথ্য"
+	},
+	"popup.navigation.diagnostics": {
+		"description": "Title of the 'diagnostics' section at the navigation in the popup",
+		"message": "ডায়াগনস্টিক "
 	},
 	"popup.presences.done": {
 		"description": "Done button",
@@ -155,6 +163,10 @@
 		"description": "Enable/Disable PreMiD (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "অ্যাক্টিভ"
 	},
+	"popup.setting.developerMode": {
+		"description": "Enable/Disable developer mode (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "ডেভেলপের মোড "
+	},
 	"popup.setting.mediaControl": {
 		"description": "Enable/Disable media keys (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "মিডিয়া কন্ট্রোলগুলো"
@@ -163,25 +175,201 @@
 		"description": "Enable/Disable the indicator in the menu bar (location: extension popup -> discord icon/profile picture -> 'settings' section)",
 		"message": "টাইটেল মেনুবার"
 	},
+	"popup.setting.syncLanguage": {
+		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "সিঙ্ক ল্যাংগুএজ "
+	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "পছন্দসই প্রেজেন্স ভাষা "
+	},
+	"popup.setting.failedToFetchUser": {
+		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
+		"message": "ইউসার চিহ্নিত করতে ব্যর্থ হয়েছে।"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "হার্টবিট "
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "পছন্দসই এপ "
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "এক্সটেনশন ভার্সন: {0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "এপ ভার্সন: {0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "প্রিমিড অ্যাপের সাথে সংযুক্ত নয়।"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "ডিস্করড ইউজার: {0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "ডিস্করড অ্যাপের সাথে সংযুক্ত নয়।"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "ডিস্করড সংযুক্ত নয়।"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "প্রিমিড সঠিকভাবে কাজ করার জন্য একটি সংযুক্ত ডিস্করড অ্যাকাউন্ট প্রয়োজন। দয়া করে আপনার ডিস্করড অ্যাকাউন্ট সংযুক্ত করুন প্রিমিড ব্যবহার চালিয়ে যেতে।"
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "লিংক দিস্করড "
+	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "তুমি না?"
+	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "নট লিঙ্কেড "
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "আপনার দিস্করড অ্যাকাউন্টটি প্রিমিড এর সাথে সংযুক্ত নয়।"
 	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "লগআউট"
 	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "প্লেয়িং স্ট্যাটাস  ব্যবহার করুন।"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "নতুন কী 🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "সর্বশেষ মজাদার জিনিসগুলো দেখুন!"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "চেঞ্জলগ খুলুন"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "দিস্করড আনলিঙ্কেড "
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "প্রিমিড সঠিকভাবে কাজ করতে একটি সংযুক্ত দিস্করড অ্যাকাউন্ট প্রয়োজন। দয়া করে আপনার দিস্করড অ্যাকাউন্টটি সংযুক্ত করুন প্রিমিড ব্যবহার চালিয়ে যেতে।"
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "লিংক দিস্করড "
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "কিছু বলতে চান?"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "কিছু প্রতিক্রিয়া জমা দিন"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "একটি প্রেজেন্স সাথে বাগ বা সমস্যা রিপোর্ট করুন"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "এক্সটেনশনের সাথে বাগ বা সমস্যা রিপোর্ট করুন"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "একটি ফিচার অনুরোধ করুন"
+	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "অন্যান্য"
+	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "প্রতিক্রিয়া"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "কি ঘটছে? 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "দয়া করে আপনি যে ধরণের প্রতিক্রিয়া জমা দিতে চান তা নির্বাচন করুন"
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "একটি প্রেজেন্স সাথে বাগ বা সমস্যা রিপোর্ট করুন"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "ওহ না! 😱 দুঃখিত যে আপনি একটি প্রেজেন্স এর সাথে সমস্যা পাচ্ছেন।\n\nআমাদের উপস্থিতিগুলি কমিউনিটি দ্বারা রক্ষণাবেক্ষিত হয়, তাই যে কোনো সমস্যা যা আপনি উপস্থিতির সাথে সম্মুখীন হচ্ছেন তা আমাদের গিটহাব রিপোজিটরিতে রিপোর্ট করুন।\n\nযদি আপনি নীচের উপস্থিতিটি নির্বাচন করেন, তবে আমরা স্বয়ংক্রিয়ভাবে প্রেজেন্স বিস্তারিত তথ্য সমস্যা টেমপ্লেটে অন্তর্ভুক্ত করব।"
 	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "বন্ধ করো"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "জমা দিন"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "এক্সটেনশনের সাথে বাগ বা সমস্যা রিপোর্ট করুন"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "ওহ না! 😱 দুঃখিত যে আপনি এক্সটেনশনের সাথে সমস্যা পাচ্ছেন।\n\nদয়া করে নিম্নলিখিত ফর্মটি পূর্ণ করুন যাতে আপনি এক্সটেনশনের সাথে সম্মুখীন হওয়া যেকোনো সমস্যার রিপোর্ট করতে পারেন।"
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "সমস্যাটি বর্ণনা করুন"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "দয়া করে এক্সটেনশনের সাথে আপনি যে সমস্যাটি সম্মুখীন হচ্ছেন তা যতটা সম্ভব বিস্তারিতভাবে বর্ণনা করুন।"
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "সব রিপোর্ট গোপনীয়। আপনি যদি আপনার যোগাযোগের তথ্য প্রদান না করেন। \nপ্রয়োজনে, আমরা আপনার কাছে আরও তথ্য চেয়ে যোগাযোগ করতে পারি, অথবা সমস্যাটি সমাধান হলে আপনাকে জানাতে পারি।"
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "আপনার ইমেইল ঠিকানা (ঐচ্ছিক)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "আপনার দিস্করড ব্যবহারকারী নাম (ঐচ্ছিক)"
+	},
 	"popup.feedback.feature.header": {
 		"description": "The title of the feature feedback page",
 		"message": "একটি ফিচার অনুরোধ করুন"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "আমরা সবসময় প্রিমিড কে উন্নত করার উপায় খুঁজছি এবং আপনার জন্য এটিকে আরও ভালো করতে চাই। \n\nদয়া করে নিচের ফর্মটি পূর্ণ করুন যাতে আপনি প্রিমিড এ যে ফিচারটি দেখতে চান তা অনুরোধ করতে পারেন।"
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "ফিচারটি বর্ণনা করুন"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "দয়া করে যতটা সম্ভব বিস্তারিতভাবে বর্ণনা করুন যে ফিচারটি আপনি প্রিমিড-এ দেখতে চান।"
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "সব ফিচার অনুরোধ গোপনীয়, আপনি যদি আপনার যোগাযোগের তথ্য প্রদান না করেন।\nপ্রয়োজনে, আমরা আপনার কাছে আরও তথ্য চেয়ে যোগাযোগ করতে পারি, অথবা যখন ফিচারটি বাস্তবায়িত হবে তখন আপনাকে জানাতে পারি।"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",

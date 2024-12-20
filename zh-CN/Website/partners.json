@@ -111,9 +111,61 @@
     "description": "Description for Arena of Kings.",
     "message": "Arena of Kings 是在浏览器中游玩的一种快节奏的 PvP 竞技游戏。"
   },
+  "partners.partner.bitRock": {
+    "description": "Description for BitRock.",
+    "message": "一个功能强大且易于使用的跨平台安装程序创建工具"
+  },
+  "partners.partner.crowdin": {
+    "description": "Description for Crowdin.",
+    "message": "面向科技公司的敏捷本地化解决方案"
+  },
+  "partners.partner.discordTemplates": {
+    "description": "Description for DiscordTemplates.",
+    "message": "使用我们出色的模板开始创建您自己的社区。打造属于您的王国。"
+  },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "一位以有趣的Discord机器人身份活跃的女神！"
+  },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "在互联网最前沿背后"
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "OnlyHit是您的在线音乐广播电台，全天候 24/7 播放您的最佳热门歌曲，并让您率先发现未来的热门曲目。"
+  },
+  "partners.partner.packageCloud": {
+    "description": "Description for PackageCloud.",
+    "message": "一个统一的、开发者友好的界面，用于管理您所有的工件"
+  },
+  "partners.partner.rNetflix": {
+    "description": "Description for r/Netflix.",
+    "message": "r/Netflix是最大的与Netflix相关的Discord服务器。在这里与志同道合的人讨论您最喜欢的剧集或电影。"
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFM让您免费收听15条以上的音乐流 - 不间断播放。为您提供最棒、最新的音乐！"
+  },
+  "partners.partner.simLiveRadio": {
+    "description": "Description for SimLoveRadio.",
+    "message": "SimLiveRadio是德国、奥地利和瑞士最成功的模拟游戏资讯娱乐电台！"
+  },
+  "partners.partner.statusPage": {
+    "description": "Description for StatusPage.",
+    "message": "轻松地将实时状态传达给您的用户。"
+  },
   "partners.partner.taigaBot": {
     "description": "Description for taigabot.",
-    "message": "Taiga 是一个 Discord 机器人，一次性提供您可能需要的所有功能！"
+    "message": "taiga是一个Discord机器人，旨在一次性提供您可能需要的所有功能！"
+  },
+  "partners.partner.upBeat": {
+    "description": "Description for UpBeatRadio.",
+    "message": "UpBeat Radio是一个由社区驱动的在线电台，提供全天候 24/7 无广告的电台娱乐、每日新闻文章以及更多内容！"
+  },
+  "partners.partner.wikijs": {
+    "description": "Description for WikiJS.",
+    "message": "最强大且可扩展的开源 Wiki 软件。"
   },
   "partners.requirements.first.description": {
     "description": "Description for the first requirement.",

@@ -1,7 +1,7 @@
 {
   "twitcasting.viewTheir": {
     "description": "Part 1 of the next string",
-    "message": "กําลังดูไฟล์"
+    "message": "กําลังดู"
   },
   "twitcasting.followList": {
     "description": "Part 2 of the string: \"Viewing their\"",
@@ -17,7 +17,7 @@
   },
   "twitcasting.browsingVideos": {
     "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "การเรียกดูผ่านวิดีโอ"
+    "message": "กำลังค้นวิดีโอ"
   },
   "twitcasting.ofChannel": {
     "description": "Second part of previous string",

@@ -13,7 +13,7 @@
   },
   "x.com.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "กำลังอ่านทวิต:"
+    "message": "กำลังอ่านโพสต์ของ:"
   },
   "x.com.settings": {
     "description": "",
@@ -21,7 +21,7 @@
   },
   "x.com.viewDms": {
     "description": "",
-    "message": "กำลังดู DMs ของพวกเขา"
+    "message": "กำลังดูข้อความส่วนตัวของตัวเอง"
   },
   "x.com.viewLiked": {
     "description": "",
@@ -37,10 +37,10 @@
   },
   "x.com.viewPosts": {
     "description": "",
-    "message": "กำลังดูทวีตของ:"
+    "message": "กำลังดูโพสต์ของ:"
   },
   "x.com.viewPostsWithReplies": {
     "description": "",
-    "message": "กำลังดูทวีต (และการตอบกลับ) ของ:"
+    "message": "กำลังดูโพสต์ (และการตอบกลับ) ของ:"
   }
 }

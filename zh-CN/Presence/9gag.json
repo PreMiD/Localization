@@ -1,4 +1,32 @@
 {
+  "9gag.about": {
+    "description": "",
+    "message": "阅读关于 9GAG 的所有内容"
+  },
+  "9gag.collection": {
+    "description": "",
+    "message": "查看收藏："
+  },
+  "9gag.fresh": {
+    "description": "",
+    "message": "查看最新内容"
+  },
+  "9gag.gag": {
+    "description": "",
+    "message": "查看笑话："
+  },
+  "9gag.hot": {
+    "description": "",
+    "message": "查看热门内容"
+  },
+  "9gag.store": {
+    "description": "",
+    "message": "查看商店页面"
+  },
+  "9gag.tag": {
+    "description": "",
+    "message": "查看标签："
+  },
   "9gag.trending": {
     "description": "",
     "message": "查看热门内容"
