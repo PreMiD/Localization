@@ -33,7 +33,7 @@
   },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
-    "message": "Envoi de quelque chose en cours..."
+    "message": "Met en ligne quelque chose..."
   },
   "minecraft wiki.login": {
     "description": "Used when a user is logging in",

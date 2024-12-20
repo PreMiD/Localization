@@ -1,4 +1,44 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "Prisijungiama..."
+  },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "Peržiūrėti programą"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "Peržiūrėti kūrėją"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "Peržiūrėti įvykį"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "Peržiūrėti {0}"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "Peržiūrėti produktą"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "Peržiūrėti {0} profilį"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "Peržiūrėti servisą"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "Peržiūrėti žymeklius"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "Peržiūrėti {0}"
+  },
   "apple.chooseLang": {
     "description": "Choosing the language of the website",
     "message": "Renkasi kalbą..."
@@ -23,6 +63,10 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "Žaidimai"
   },
+  "apple.devSubmit": {
+    "description": "Submit iOS and iPadOS apps to the App Store",
+    "message": "Kaip pateikti aplikacija"
+  },
   "apple.healthRecords": {
     "description": "Health records of a person",
     "message": "Sveikatos įrašai"
@@ -30,6 +74,10 @@
   "apple.healthcare": {
     "description": "The organized provision of medical care to individuals or a community",
     "message": "Sveikatos priežiūra"
+  },
+  "apple.iCloudKeynoteWait": {
+    "description": "Before the keynote begins, you'll be in the waiting room",
+    "message": "Laukimo kambarys"
   },
   "apple.other": {
     "description": "Other pages not added to the code",

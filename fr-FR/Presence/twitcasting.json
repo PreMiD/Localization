@@ -17,7 +17,7 @@
   },
   "twitcasting.browsingVideos": {
     "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
-    "message": "Recherche une vidéo"
+    "message": "Navigue à travers les vidéos"
   },
   "twitcasting.ofChannel": {
     "description": "Second part of previous string",

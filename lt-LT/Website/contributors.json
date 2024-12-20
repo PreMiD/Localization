@@ -69,7 +69,7 @@
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
-    "message": "Taisytojas"
+    "message": "Korektorius"
   },
   "contributors.roles.support": {
     "description": "'Support' title for contributors and user pages.",
@@ -77,6 +77,6 @@
   },
   "contributors.roles.translator": {
     "description": "'Translator' title for contributors page.",
-    "message": "Vertėjai"
+    "message": "Vertėjas"
   }
 }
