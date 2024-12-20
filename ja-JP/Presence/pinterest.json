@@ -1,1 +1,18 @@
-{}
+{
+  "pinterest.board": {
+    "description": "",
+    "message": "ボードを閲覧中"
+  },
+  "pinterest.follow": {
+    "description": "",
+    "message": "フォローページを閲覧中"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "ホームページを編集中"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "ピンを閲覧中"
+  }
+}

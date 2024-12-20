@@ -71,6 +71,10 @@
     "description": "Features section subheading",
     "message": "シンプルな見た目"
   },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "PreMiDを入手"
+  },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "ダウンロードする"
