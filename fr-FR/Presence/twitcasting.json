@@ -1,15 +1,15 @@
 {
   "twitcasting.viewTheir": {
     "description": "Part 1 of the next string",
-    "message": "En train de regarder leur"
+    "message": "Regarde sa"
   },
   "twitcasting.followList": {
     "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Liste des abonnés"
+    "message": "Liste d'abonnés"
   },
   "twitcasting.dashboardManage": {
     "description": "",
-    "message": "Gère leur stream..."
+    "message": "Gère son stream..."
   },
   "twitcasting.subs": {
     "description": "",
@@ -21,6 +21,6 @@
   },
   "twitcasting.ofChannel": {
     "description": "Second part of previous string",
-    "message": "de la chaîne:"
+    "message": "de la chaîne :"
   }
 }
