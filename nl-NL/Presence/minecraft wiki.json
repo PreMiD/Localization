@@ -37,7 +37,7 @@
   },
   "minecraft wiki.login": {
     "description": "Used when a user is logging in",
-    "message": "Logt in"
+    "message": "Aan het inloggen"
   },
   "minecraft wiki.btnViewThread": {
     "description": "View a forum thread",
