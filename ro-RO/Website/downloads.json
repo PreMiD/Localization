@@ -181,7 +181,7 @@
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "Acum ai nevoie doar de extensia browser-ului - nu sunt necesare descărcări suplimentare."
+		"message": "Acum ai nevoie doar de extensia browserului - nu sunt necesare descărcări suplimentare."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
@@ -189,11 +189,11 @@
 	},
 	"downloads.notice.features.noApp": {
 		"description": "Feature tag highlighting no app requirement.",
-		"message": "Nicio aplicație nu este necesară"
+		"message": "Nu este necesară nicio aplicație"
 	},
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
-		"message": "Funcționează"
+		"message": "Funcționează direct"
 	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
@@ -201,7 +201,7 @@
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
-		"message": "Obține PreMiD pentru browser-ul tău"
+		"message": "Obține PreMiD pentru browserul tău"
 	},
 	"downloads.notice.browsers.comingSoon": {
 		"description": "Label shown on unavailable browser options.",
@@ -225,7 +225,7 @@
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
-		"message": "Ai nevoie de ajutor? Alătură-te"
+		"message": "Ai nevoie de ajutor? Alătură-te pe"
 	},
 	"downloads.notice.support.discord": {
 		"description": "Discord link text in support section.",
