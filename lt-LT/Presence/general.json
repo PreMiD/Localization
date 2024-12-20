@@ -23,6 +23,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Peržiūrėti albumą"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Matyti Anime"
+	},
 	"general.buttonViewArticle": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Rodyti straipsnį"
@@ -75,9 +79,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Peržiūrėti dainą"
 	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti Anime"
+	},
 	"general.buttonWatchMovie": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Žiūrėti filmą"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Žiūrėti serijas"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
