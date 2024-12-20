@@ -179,28 +179,232 @@
 		"description": "Enable/Disable syncing the language of the extension with the language of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
 		"message": "同步语言"
 	},
+	"popup.setting.preferredPresenceLanguage": {
+		"description": "When the 'Sync Language' setting is disabled, it will show a selector where you can select a language that will be preferred for the languages of presences (location: extension popup -> discord icon/profile picture -> 'language' section)",
+		"message": "首选在线状态语言"
+	},
 	"popup.setting.failedToFetchUser": {
 		"description": "Shown when the user is logged in but we could not get their profile data (location: extension popup -> discord icon/profile picture)",
 		"message": "获取用户失败"
+	},
+	"popup.setting.heartbeat": {
+		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
+		"message": "心跳"
+	},
+	"popup.setting.preferApp": {
+		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "首选应用程序"
+	},
+	"popup.information.extensionVersion": {
+		"description": "Shows the version of the extension (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: Extension version: 2.5.0",
+		"message": "扩展版本：{0}"
+	},
+	"popup.information.appVersion": {
+		"description": "Shows the version of the app (located at the 'information' tab in the popup); {0} will be replaced with for example '2.5.0' -> {0} is a variable and should not be translated; Example: App version: 2.5.0",
+		"message": "应用程序版本：{0}"
+	},
+	"popup.information.appNotFound": {
+		"description": "Shows that no connection was able to be made to the PreMiD app (located at the 'information' tab in the popup)",
+		"message": "未连接到PreMiD应用程序"
+	},
+	"popup.information.discordUser": {
+		"description": "Shows Discord user PreMiD is connected to (located at the 'information' tab in the popup); {0} will be replaced the username of the Discord account -> {0} is a variable and should not be translated; Example: Discord user: Bas950",
+		"message": "Discord用户：{0}"
+	},
+	"popup.information.discordNotFound": {
+		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
+		"message": "未连接到Discord应用程序"
+	},
+	"popup.notConnectedBanner.heading": {
+		"description": "Title of the error banner when no discord connection is found",
+		"message": "Discord未链接"
+	},
+	"popup.notConnectedBanner.description": {
+		"description": "Description of the error banner when no discord connection is found",
+		"message": "PreMiD需要链接Discord帐户才能正常工作。请链接您的Discord帐户以继续使用 PreMiD。"
+	},
+	"popup.notConnectedBanner.button": {
+		"description": "Button to the Discord connection page",
+		"message": "链接Discord"
 	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
 		"message": "不是你？"
 	},
+	"popup.informationIcon.notLinked.heading": {
+		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
+		"message": "未链接"
+	},
+	"popup.informationIcon.notLinked.description": {
+		"description": "Exclamation mark icon next user avatar, description of the error message when no discord connection is found",
+		"message": "您的Discord帐户未链接到PreMiD"
+	},
 	"popup.logout": {
 		"description": "Button to unlink the current Discord account",
 		"message": "登出"
+	},
+	"popup.setting.usePlayingStatus": {
+		"description": "Enable/Disable the use of the 'Playing' status in Discord (location: extension popup -> discord icon/profile picture -> 'settings' section)",
+		"message": "使用“正在游玩”状态"
+	},
+	"popup.whatsNew.heading": {
+		"description": "Title of the 'What's new' section at the navigation in the popup",
+		"message": "有什么新鲜事🎉"
+	},
+	"popup.whatsNew.description": {
+		"description": "Description of the 'What's new' section at the navigation in the popup",
+		"message": "查看最新的酷玩意儿！"
+	},
+	"popup.whatsNew.button": {
+		"description": "Button to open the 'What's new' page",
+		"message": "打开更新日志"
+	},
+	"popup.discordUnlinked.title": {
+		"description": "Title of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "Discord未链接"
+	},
+	"popup.discordUnlinked.description": {
+		"description": "Description of the 'Discord Unlinked' section at the navigation in the popup",
+		"message": "PreMiD需要链接Discord帐户才能正常工作。请链接您的Discord帐户以继续使用 PreMiD。"
+	},
+	"popup.discordUnlinked.button": {
+		"description": "Button to link the Discord account",
+		"message": "链接Discord"
+	},
+	"popup.navigation.feedback": {
+		"description": "Text on the information tab in the popup to give feedback",
+		"message": "您有话想说吗？"
+	},
+	"popup.navigation.feedbackLink": {
+		"description": "Link to the feedback page",
+		"message": "提交一些反馈"
+	},
+	"popup.feedback.presence": {
+		"description": "Title of the presence option in the feedback type selection box",
+		"message": "报告存在的错误或问题"
+	},
+	"popup.feedback.extension": {
+		"description": "Title of the extension option in the feedback type selection box",
+		"message": "报告扩展存在的错误或问题"
+	},
+	"popup.feedback.feature": {
+		"description": "Title of the feature option in the feedback type selection box",
+		"message": "请求功能"
 	},
 	"popup.feedback.other": {
 		"description": "Title of the other option in the feedback type selection box",
 		"message": "其他"
 	},
+	"popup.feedback.title": {
+		"description": "Title of the feedback popup",
+		"message": "反馈"
+	},
+	"popup.feedback.select.header": {
+		"description": "On the feedback type select page the header text",
+		"message": "发生什么事了？ 🤔"
+	},
+	"popup.feedback.select.description": {
+		"description": "On the feedback type select page the description text",
+		"message": "请选择您要提交的反馈类型"
+	},
+	"popup.feedback.presence.header": {
+		"description": "The title of the presence feedback page",
+		"message": "报告存在的错误或问题"
+	},
+	"popup.feedback.presence.description": {
+		"description": "The description of the presence feedback page",
+		"message": "哦，不！ 😱 得知您在状态方面遇到问题，我们深感抱歉。\n\n我们的状态由社区维护，因此请在我们的GitHub上报告您在状态中遇到的任何问题。\n\n如果您选择下面的状态，我们会自动在问题模板中包含该状态的详细信息。"
+	},
 	"popup.feedback.close": {
 		"description": "Close button on the feedback popup",
 		"message": "关闭"
 	},
+	"popup.feedback.submit": {
+		"description": "Submit button on the feedback popup",
+		"message": "提交"
+	},
+	"popup.feedback.extension.header": {
+		"description": "The title of the extension feedback page",
+		"message": "报告扩展存在的错误或问题"
+	},
+	"popup.feedback.extension.description": {
+		"description": "The description of the extension feedback page",
+		"message": "哦，不！ 😱 得知您在使用扩展时遇到问题，我们深感抱歉。\n\n请填写以下表格来报告您在使用扩展时遇到的任何问题。"
+	},
+	"popup.feedback.extension.describe": {
+		"description": "The title of the input field to describe the issue on the extension feedback page",
+		"message": "描述问题"
+	},
+	"popup.feedback.extension.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
+		"message": "请尽可能详细地描述您在使用扩展时遇到的问题。"
+	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "除非您选择提供联系信息，否则所有报告都是匿名的。\n如果需要，我们可能会与您联系以获取更多信息，或者在问题解决后通知您。"
+	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "您的电子邮件地址(可选)"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "您的Discord用户名(可选)"
+	},
+	"popup.feedback.feature.header": {
+		"description": "The title of the feature feedback page",
+		"message": "请求功能"
+	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "我们一直在寻找改进PreMiD并使其更好地为您服务的方法。\n\n请填写以下表格来请求您希望在PreMiD中看到的功能。"
+	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "描述功能"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "请尽可能详细地描述您希望在PreMiD中看到的功能。"
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "所有功能请求均为匿名，除非您选择提供您的联系方式。\n如果需要，我们可能会联系您以获取更多信息，或者在该功能实现后通知您。"
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "其他"
+	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "请填写以下表单，向我们提供您希望分享的其他反馈"
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "描述反馈"
+	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "请尽可能详细地描述您想与我们分享的反馈"
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "所有功能请求均为匿名，除非您选择提供您的联系方式。\n如果需要，我们可能会联系您以获取更多信息，或者在该功能实现后通知您。"
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "反馈已提交"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "感谢您提交反馈！ 🎉\n\n我们感谢您花时间与我们分享您的想法。我们将审核您的反馈并在需要时回复您。"
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "哦，不！ 😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "提交反馈时出现问题，请稍后重试。\n\n如果问题仍然存在，请通过我们的Discord服务器与我们联系。"
 	}
 }
