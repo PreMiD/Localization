@@ -213,15 +213,15 @@
 	},
 	"downloads.notice.beta.description": {
 		"description": "Description of how to join the beta program.",
-		"message": "Vind je het leuk om nieuwe dingen te proberen? Sluit je aan bij onze Discord en gebruik /beta om vervroegt toegang te krijgen!"
+		"message": "Vind je het leuk om nieuwe dingen te proberen? Word lid van onze Discord-server en gebruik /beta om vroege toegang te krijgen!"
 	},
 	"downloads.notice.alpha.title": {
 		"description": "Title for the alpha access section.",
-		"message": "Alpha toegang"
+		"message": "Alpha Toegang"
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
-		"message": "Ondersteun ons op GitHub of Patreon om de functies te krijgen!"
+		"message": "Steun ons op GitHub of Patreon om de allernieuwste functies te krijgen!"
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
