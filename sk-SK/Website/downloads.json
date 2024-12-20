@@ -181,7 +181,7 @@
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "Teraz potrebuješ len rozšírenie prehliadača – nepotrebuješ žiadne ďalšie sťahovania."
+		"message": "Teraz potrebuješ len prehliadačove rozšírenie – nepotrebuješ žiadne ďalšie sťahovanie."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
@@ -189,7 +189,7 @@
 	},
 	"downloads.notice.features.noApp": {
 		"description": "Feature tag highlighting no app requirement.",
-		"message": "Žiadna aplikácia nie je potrebná"
+		"message": "Nie je potrebná žiadna aplikácia"
 	},
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
@@ -225,7 +225,7 @@
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
-		"message": "Potrebujete pomoc? Pripoj sa k nášmu"
+		"message": "Potrebuješ pomoc? Pripoj sa k nášmu"
 	},
 	"downloads.notice.support.discord": {
 		"description": "Discord link text in support section.",
@@ -237,11 +237,11 @@
 	},
 	"downloads.notice.appreciation.title": {
 		"description": "Title for the appreciation section.",
-		"message": "Milujete PreMiD?"
+		"message": "Miluješ PreMiD?"
 	},
 	"downloads.notice.appreciation.description": {
 		"description": "Description in the appreciation section.",
-		"message": "Zvážte možnosť podporiť nás alebo zanechať recenziu - znamená to pre nás veľa!"
+		"message": "Zváž možnosť podporiť nás alebo zanechaj recenziu - znamená to pre nás veľa!"
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
