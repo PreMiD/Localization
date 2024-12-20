@@ -71,6 +71,10 @@
     "description": "Features section subheading",
     "message": "Jednoduché užívateľské rozhranie"
   },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Získaj PreMiD"
+  },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "Stiahnuť "
