@@ -189,7 +189,7 @@
 	},
 	"popup.setting.heartbeat": {
 		"description": "Enable/Disable sending heartbeats to PreMiD (Anonymized diagonistic data about what version you are using of PreMiD etc.) (location: extension popup -> discord icon/profile picture -> 'Diagnostics' section)",
-		"message": "ハートビート"
+		"message": "診断情報の送信"
 	},
 	"popup.setting.preferApp": {
 		"description": "Enable/Disable the use of the app instead of the extension (location: extension popup -> discord icon/profile picture -> 'settings' section)",
@@ -229,7 +229,7 @@
 	},
 	"popup.information.notYou": {
 		"description": "Is shown next to popup.information.discordUser, is a link to unlink the current Discord account",
-		"message": "別人ですか？"
+		"message": "アカウントが違いますか？"
 	},
 	"popup.informationIcon.notLinked.heading": {
 		"description": "Exclamation mark icon next user avatar, title of the error message when no discord connection is found",
@@ -301,7 +301,7 @@
 	},
 	"popup.feedback.select.header": {
 		"description": "On the feedback type select page the header text",
-		"message": "何か問題が起きましたか？🤔"
+		"message": "問題が起きましたか？🤔"
 	},
 	"popup.feedback.select.description": {
 		"description": "On the feedback type select page the description text",
@@ -339,6 +339,10 @@
 		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
 		"message": "拡張機能で発生している問題を、できるだけ詳しく記入してください。"
 	},
+	"popup.feedback.extension.privacy": {
+		"description": "The privacy notice on the extension feedback page",
+		"message": "すべての報告は、連絡先情報を記載しない限り匿名で送信されます。\nまた、詳しい情報をお聞きしたり、問題が解決したことをお知らせするために、ご連絡させていただく場合があります。"
+	},
 	"popup.feedback.email": {
 		"description": "The placeholder for the email input field",
 		"message": "メールアドレス（任意）"
@@ -351,20 +355,56 @@
 		"description": "The title of the feature feedback page",
 		"message": "新機能をリクエスト"
 	},
+	"popup.feedback.feature.description": {
+		"description": "The description of the feature feedback page",
+		"message": "私たちはPreMiDを常に改善し、より良くするために励んでいます。\n\nPreMiDに欲しい機能がある場合は以下のフォームにてお知らせください。"
+	},
 	"popup.feedback.feature.describe": {
 		"description": "The title of the input field to describe the issue on the feature feedback page",
 		"message": "機能を説明してください"
+	},
+	"popup.feedback.feature.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the feature feedback page",
+		"message": "PreMiDに欲しい機能をできるだけ詳しく記入してください。"
+	},
+	"popup.feedback.feature.privacy": {
+		"description": "The privacy notice on the feature feedback page",
+		"message": "すべてのリクエストは、連絡先情報を記載しない限り匿名で送信されます。\nまた、詳しい情報をお聞きしたり、機能が実装されたことをお知らせするために、ご連絡させていただく場合があります。"
 	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "その他"
 	},
+	"popup.feedback.other.description": {
+		"description": "The description of the other feedback page",
+		"message": "その他、ご意見・ご感想などありましたら以下のフォームにご記入ください。"
+	},
 	"popup.feedback.other.describe": {
 		"description": "The title of the input field to describe the issue on the other feedback page",
 		"message": "フィードバックを説明してください"
 	},
+	"popup.feedback.other.placeholder": {
+		"description": "The placeholder of the input field to describe the issue on the other feedback page",
+		"message": "ご意見・ご感想についてできるだけ詳しくご記入ください。"
+	},
+	"popup.feedback.other.privacy": {
+		"description": "The privacy notice on the other feedback page",
+		"message": "すべてのご意見・ご感想は、連絡先情報を記載しない限り匿名で送信されます。\nまた、詳しい情報をお聞きしたり、いただいたご意見について解決されたことをお知らせするために、ご連絡させていただく場合があります。"
+	},
+	"popup.feedback.submitted.header": {
+		"description": "The title of the submitted feedback page",
+		"message": "送信されました！"
+	},
+	"popup.feedback.submitted.description": {
+		"description": "The description of the submitted feedback page",
+		"message": "フィードバックを送信していただきありがとうございます！🎉\n\n貴重なお時間をいただき感謝申し上げます。フィードバックを確認し、必要に応じてご連絡いたします。"
+	},
 	"popup.feedback.error.header": {
 		"description": "The title of the error feedback page",
 		"message": "ああ！😱"
+	},
+	"popup.feedback.error.description": {
+		"description": "The description of the error feedback page",
+		"message": "フィードバックの送信中に問題が発生しました。時間をあけてもう一度お試しください。\n\n問題が解決しない場合は、Discordサーバーまでご連絡ください。"
 	}
 }
