@@ -287,6 +287,10 @@
 		"description": "A page name of statuspages",
 		"message": "Veikimo laiko istorija"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "Mato anime"
+	},
 	"general.viewAList": {
 		"description": "",
 		"message": "Peržiūri sąrašą"
@@ -450,6 +454,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "Žiūrima:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "Žiūri anime"
 	},
 	"general.watchingLive": {
 		"description": "",
