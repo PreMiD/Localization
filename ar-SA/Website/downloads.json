@@ -194,5 +194,57 @@
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
 		"message": "يعمل وحسب™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "تمت إزالة التطبيق من بعد النسخة 2.6.0 لجعل حياتك أسهل ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "احصل على PreMiD للمتصفح"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "متاح قريبا"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "البرنامج التجريبي - Beta"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "هل تحب محاولة أشياء جديدة؟ انضم إلى قناة Discord واستخدم الأمر beta/ للحصول على صلاحيات التجربة الباكرة!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "البرنامج التجريبي اكثر - Alpha"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "ادعمنا علي منصة GitHub او Patreon للحصول علي احدث الاضافات!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "هل تحتاج إلى المساعدة؟ انضم إلي قناة ال"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Discord"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "للدعم!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "تحب PreMid؟"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "فكر في دعمنا أو تقييمنا - يعني دعمك لنا العالم!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "قيمنا"
 	}
 }
