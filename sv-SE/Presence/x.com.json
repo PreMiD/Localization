@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "Bokmärken"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "Utforska"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "Notifikationer"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "Läser inlägg från:"
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "Ändrar några inställningar..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "Visar deras DMs"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "Visar gillat av:"
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "Visar lista:"
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "Visar media av:"
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "Visar inlägg från:"
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "Visar inlägg (med svar) av:"
   }
 }

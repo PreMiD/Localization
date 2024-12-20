@@ -339,12 +339,32 @@
 		"description": "The placeholder of the input field to describe the issue on the extension feedback page",
 		"message": "拡張機能で発生している問題を、できるだけ詳しく記入してください。"
 	},
+	"popup.feedback.email": {
+		"description": "The placeholder for the email input field",
+		"message": "メールアドレス（任意）"
+	},
+	"popup.feedback.discord": {
+		"description": "The placeholder for the discord input field",
+		"message": "Discordユーザー名（任意）"
+	},
 	"popup.feedback.feature.header": {
 		"description": "The title of the feature feedback page",
 		"message": "新機能をリクエスト"
 	},
+	"popup.feedback.feature.describe": {
+		"description": "The title of the input field to describe the issue on the feature feedback page",
+		"message": "機能を説明してください"
+	},
 	"popup.feedback.other.header": {
 		"description": "The title of the other feedback page",
 		"message": "その他"
+	},
+	"popup.feedback.other.describe": {
+		"description": "The title of the input field to describe the issue on the other feedback page",
+		"message": "フィードバックを説明してください"
+	},
+	"popup.feedback.error.header": {
+		"description": "The title of the error feedback page",
+		"message": "ああ！😱"
 	}
 }
