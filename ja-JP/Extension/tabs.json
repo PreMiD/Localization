@@ -99,6 +99,10 @@
 		"description": "Header of the tab which opens when PreMiD was updated",
 		"message": "PreMiDが更新されました！"
 	},
+	"tab.updated.whatsNew": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "最新情報🎉"
+	},
 	"tab.updated.changeTypes.features": {
 		"description": "Title of the 'features' section of the tab which opens when PreMiD was updated",
 		"message": "機能を見る"
@@ -126,6 +130,10 @@
 	"tab.updated.linkYourDiscordAccountButton": {
 		"description": "Button to link your Discord account",
 		"message": "Discordと接続する"
+	},
+	"tab.updated.whatsNext": {
+		"description": "Subtitle of the tab which opens when PreMiD was updated",
+		"message": "次は何をする？"
 	},
 	"tab.updated.whatsNextDescription": {
 		"description": "Description of the subtitle of the tab which opens when PreMiD was updated",
