@@ -1,1 +1,74 @@
-{}
+{
+  "namemc.buttonViewServer": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "查看服务器"
+  },
+  "namemc.capes": {
+    "description": "",
+    "message": "查看披风"
+  },
+  "namemc.claim": {
+    "description": "",
+    "message": "查看如何领取您的个人资料"
+  },
+  "namemc.profileEdit": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "编辑他们的 {0} 个人资料信息"
+  },
+  "namemc.servers": {
+    "description": "",
+    "message": "查看服务器"
+  },
+  "namemc.skinsNew": {
+    "description": "Skins is how you appear in the game.",
+    "message": "查看新皮肤"
+  },
+  "namemc.skinsRandom": {
+    "description": "Skins is how you appear in the game.",
+    "message": "查看随机皮肤"
+  },
+  "namemc.skinsTag": {
+    "description": "Skins is how you appear in the game. {0} will be replaced with the name of the tag.",
+    "message": "查看带有 {0} 标签的皮肤"
+  },
+  "namemc.skinsTagged": {
+    "description": "Skins is how you appear in the game.",
+    "message": "查看已标记的皮肤"
+  },
+  "namemc.skinsTop": {
+    "description": "Skins is how you appear in the game.",
+    "message": "查看顶级皮肤"
+  },
+  "namemc.skinsTrending": {
+    "description": "Skins is how you appear in the game.",
+    "message": "查看热门皮肤"
+  },
+  "namemc.upcomingNames": {
+    "description": "Names are Minecraft Usernames. Upcoming as in they are getting unlocked.",
+    "message": "查看即将使用的名称"
+  },
+  "namemc.viewCape": {
+    "description": "",
+    "message": "查看披风："
+  },
+  "namemc.viewEmojis": {
+    "description": "You can have an emoji next to your name, you select it here.",
+    "message": "查看他们的个人表情符号"
+  },
+  "namemc.viewFriends": {
+    "description": "",
+    "message": "查看他们的好友"
+  },
+  "namemc.viewServer": {
+    "description": "",
+    "message": "查看服务器："
+  },
+  "namemc.viewSkin": {
+    "description": "Skins is how you appear in the game.",
+    "message": "查看一个皮肤"
+  },
+  "namemc.viewSkins": {
+    "description": "",
+    "message": "查看他们的皮肤"
+  }
+}
