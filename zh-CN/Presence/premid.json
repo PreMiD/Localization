@@ -35,6 +35,10 @@
     "description": "A page name",
     "message": "安装"
   },
+  "premid.pageInstallFor": {
+    "description": "A page name // {0} will be replaced with Windows, Linux, Chrome etc.",
+    "message": "为 {0} 安装"
+  },
   "premid.pageMetadata": {
     "description": "A page name",
     "message": "正在配置 metadata.json"
@@ -46,6 +50,14 @@
   "premid.pagePresenceDev": {
     "description": "A page name",
     "message": "Presence 开发"
+  },
+  "premid.pagePresenceGuide": {
+    "description": "A page name",
+    "message": "状态指南"
+  },
+  "premid.pageSlideshowClass": {
+    "description": "A page name",
+    "message": "幻灯片课程"
   },
   "premid.pageStart": {
     "description": "A page name",
