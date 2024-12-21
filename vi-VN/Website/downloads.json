@@ -161,7 +161,7 @@
 	},
 	"downloads.mobile.notAvailable": {
 		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
-		"message": "PreMiD is not available for mobile devices. Please use a desktop browser to install PreMiD."
+		"message": "PreMiD hiện tại không khả dụng trên thiết bị di động. Vui lòng sử dụng trình duyệt máy tính để cài đặt PreMiD."
 	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
