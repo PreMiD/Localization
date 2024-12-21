@@ -1,1 +1,122 @@
-{}
+{
+  "gmail.accountSetting": {
+    "description": "Displayed when the user is modifying their account's settings",
+    "message": "配置账户和导入设置"
+  },
+  "gmail.addonsSettings": {
+    "description": "Displayed when the user is modifying their add-ons",
+    "message": "配置附加组件"
+  },
+  "gmail.advancedSettings": {
+    "description": "Displayed when the user is modifying their advanced settings",
+    "message": "配置高级设置"
+  },
+  "gmail.categoryForum": {
+    "description": "Displayed when viewing emails in the forums category.",
+    "message": "查看论坛类别"
+  },
+  "gmail.categoryPrimary": {
+    "description": "Displayed when viewing emails in the primary category.",
+    "message": "查看主要类别"
+  },
+  "gmail.categoryPromotions": {
+    "description": "Displayed when viewing emails in the promotions category.",
+    "message": "查看促销类别"
+  },
+  "gmail.categorySocial": {
+    "description": "Displayed when viewing emails in the social category.",
+    "message": "查看社交类别"
+  },
+  "gmail.categoryUpdates": {
+    "description": "Displayed when viewing emails in the updates category.",
+    "message": "查看更新类别"
+  },
+  "gmail.chatSettings": {
+    "description": "Displayed when the user is modifying their chat settings",
+    "message": "配置聊天和会议设置"
+  },
+  "gmail.composingEmail": {
+    "description": "Displayed when the user is composing an email",
+    "message": "撰写电子邮件"
+  },
+  "gmail.filterSettings": {
+    "description": "Displayed when the user is modifying their filters and blocked addresses",
+    "message": "配置过滤器和屏蔽地址"
+  },
+  "gmail.fwdAndPOPSettings": {
+    "description": "Displayed when the user is modifying their forwarding, POP and IMAP settings",
+    "message": "配置转发和 POP/IMAP 设置"
+  },
+  "gmail.generalSettings": {
+    "description": "Displayed when the user is modifying their settings",
+    "message": "配置常规设置"
+  },
+  "gmail.inLabel": {
+    "description": "Displayed when a user is browsing emails in a certain label. The name of the label will appear below.",
+    "message": "查看标签"
+  },
+  "gmail.inboxSettings": {
+    "description": "Displayed when the user is modifying their inbox settings",
+    "message": "配置收件箱设置"
+  },
+  "gmail.labelSettings": {
+    "description": "Displayed when the user is modifying their labels",
+    "message": "配置标签设置"
+  },
+  "gmail.lookingForEmail": {
+    "description": "Displayed when the user is searching for an email",
+    "message": "查找电子邮件"
+  },
+  "gmail.offlineSettings": {
+    "description": "Displayed when the user is modifying their offline settings",
+    "message": "配置离线设置"
+  },
+  "gmail.themesSettings": {
+    "description": "Displayed when the user is modifying their theme in the settings",
+    "message": "选择主题"
+  },
+  "gmail.viewingAllEmails": {
+    "description": "Displayed when the user is viewing all their emails",
+    "message": "查看所有电子邮件"
+  },
+  "gmail.viewingChats": {
+    "description": "Displayed when the user is viewing their chats",
+    "message": "查看聊天记录"
+  },
+  "gmail.viewingDrafts": {
+    "description": "Displayed when the user is viewing their drafts",
+    "message": "查看草稿"
+  },
+  "gmail.viewingEmail": {
+    "description": "Displayed when the user is viewing an email",
+    "message": "查看电子邮件"
+  },
+  "gmail.viewingImportantEmails": {
+    "description": "Displayed when the user is viewing emails marked as important",
+    "message": "查看重要电子邮件"
+  },
+  "gmail.viewingScheduled": {
+    "description": "Displayed when the user is viewing their scheduled emails",
+    "message": "查看计划发送的电子邮件"
+  },
+  "gmail.viewingSentEmails": {
+    "description": "Displayed when the user is viewing the emails they have sent",
+    "message": "查看已发送的电子邮件"
+  },
+  "gmail.viewingSnoozedEmails": {
+    "description": "Displayed when the user is viewing their snoozed emails",
+    "message": "查看延迟发送的电子邮件"
+  },
+  "gmail.viewingSpam": {
+    "description": "Displayed when the user is viewing their spam",
+    "message": "查看垃圾邮件"
+  },
+  "gmail.viewingStarredEmails": {
+    "description": "Displayed when the user is viewing emails marked with a star",
+    "message": "查看加星标的电子邮件"
+  },
+  "gmail.viewingTrash": {
+    "description": "Displayed when the user is viewing their trash",
+    "message": "查看回收站"
+  }
+}
