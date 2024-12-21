@@ -71,6 +71,10 @@
     "description": "Features section subheading",
     "message": "সহজ সরল ইউজার ইন্টারফেস"
   },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "প্রিমিড ডাউনলোড করুন"
+  },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "ডাউনলোড"
