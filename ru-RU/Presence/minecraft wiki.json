@@ -45,6 +45,6 @@
   },
   "minecraft wiki.settings": {
     "description": "Displayed when a user is viewing their Minecraft Wiki settings",
-    "message": "Настройка настроек"
+    "message": "Настраивает параметры"
   }
 }
