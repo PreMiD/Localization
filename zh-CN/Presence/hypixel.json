@@ -2,5 +2,21 @@
   "hypixel.dm": {
     "description": "",
     "message": "查看私信中"
+  },
+  "hypixel.game": {
+    "description": "",
+    "message": "查看游戏："
+  },
+  "hypixel.staff": {
+    "description": "",
+    "message": "查看工作人员列表"
+  },
+  "hypixel.watchForums": {
+    "description": "Forum categories they get notifications from",
+    "message": "查看他们关注的论坛"
+  },
+  "hypixel.watchThreads": {
+    "description": "Articles they get notifications from",
+    "message": "查看他们关注的帖子"
   }
 }

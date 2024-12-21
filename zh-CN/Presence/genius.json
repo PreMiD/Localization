@@ -1,1 +1,18 @@
-{}
+{
+  "genius.lyrics": {
+    "description": "Song name will be listed after the \":\"",
+    "message": "查看歌词："
+  },
+  "genius.viewAlbum": {
+    "description": "Album of a song",
+    "message": "查看专辑："
+  },
+  "genius.viewHome": {
+    "description": "",
+    "message": "查看主页"
+  },
+  "genius.viewLyrics": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "查看歌词"
+  }
+}

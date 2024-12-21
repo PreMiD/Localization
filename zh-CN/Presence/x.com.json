@@ -1,6 +1,46 @@
 {
+  "x.com.bookmarks": {
+    "description": "",
+    "message": "书签"
+  },
+  "x.com.explore": {
+    "description": "",
+    "message": "探索"
+  },
+  "x.com.notifs": {
+    "description": "",
+    "message": "通知"
+  },
+  "x.com.readPost": {
+    "description": "after the \":\" it will say the username",
+    "message": "阅读帖子："
+  },
+  "x.com.settings": {
+    "description": "",
+    "message": "更改一些设置..."
+  },
   "x.com.viewDms": {
     "description": "",
     "message": "查看私信中"
+  },
+  "x.com.viewLiked": {
+    "description": "",
+    "message": "查看被点赞的人："
+  },
+  "x.com.viewList": {
+    "description": "",
+    "message": "查看列表："
+  },
+  "x.com.viewMedia": {
+    "description": "",
+    "message": "查看媒体："
+  },
+  "x.com.viewPosts": {
+    "description": "",
+    "message": "查看帖子："
+  },
+  "x.com.viewPostsWithReplies": {
+    "description": "",
+    "message": "查看帖子（带回复）："
   }
 }

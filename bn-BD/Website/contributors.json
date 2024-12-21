@@ -15,6 +15,10 @@
     "description": "Heading for group of users.",
     "message": "সাপোর্টার"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "প্রেসেন্স ডেভেলপাররা "
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "অনুবাদকগণ"
@@ -26,6 +30,14 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "কমিউনিটি ম্যানেজার"
+  },
+  "contributors.roles.softwareEngineer": {
+    "description": "'Software Engineer' title for contributors and user pages.",
+    "message": "সফটওয়্যার ইঞ্জিনিয়ার"
+  },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "ডেভেলপার"
   },
   "contributors.roles.moderator": {
     "description": "'Moderator' title for contributors and user pages.",
@@ -47,9 +59,13 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "প্রজেক্ট ম্যানেজমেন্ট"
   },
+  "contributors.roles.contributor": {
+    "description": "'Contributor' title for contributors and user pages.",
+    "message": "অংশগ্রহণকারী"
+  },
   "contributors.roles.presenceDeveloper": {
     "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Presence ডেভেলপার"
+    "message": "প্রেসেন্স ডেভেলপার"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",

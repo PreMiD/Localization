@@ -1,1 +1,18 @@
-{}
+{
+  "pinterest.board": {
+    "description": "",
+    "message": "查看看板"
+  },
+  "pinterest.follow": {
+    "description": "",
+    "message": "查看他们的关注列表"
+  },
+  "pinterest.home": {
+    "description": "",
+    "message": "编辑他们的主页"
+  },
+  "pinterest.pin": {
+    "description": "",
+    "message": "查看一个 Pin"
+  }
+}

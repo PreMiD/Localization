@@ -1,18 +1,262 @@
 {
+  "twitch.access": {
+    "description": "Page name",
+    "message": "辅助功能"
+  },
+  "twitch.achievements": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "成就"
+  },
+  "twitch.activity": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "社区活动"
+  },
+  "twitch.ads": {
+    "description": "Page name",
+    "message": "广告选择"
+  },
+  "twitch.affiliate": {
+    "description": "Page name. Visit https://affiliate.twitch.tv/ and select your language for an accurate translation.",
+    "message": "Twitch 合作计划"
+  },
+  "twitch.blogArchive": {
+    "description": "{0} will be replaced with the year",
+    "message": "查看 {0} 博客存档"
+  },
+  "twitch.blogBrowse": {
+    "description": "",
+    "message": "浏览最新的博客文章..."
+  },
+  "twitch.blogs": {
+    "description": "",
+    "message": "Twitch 博客"
+  },
+  "twitch.brand": {
+    "description": "",
+    "message": "阅读关于 Twitch 品牌的信息..."
+  },
+  "twitch.brandExpression": {
+    "description": "Page name",
+    "message": "最大化我们的表达"
+  },
+  "twitch.brandMadness": {
+    "description": "Page name",
+    "message": "为我们（可爱的）混乱带来方法"
+  },
+  "twitch.brandReal": {
+    "description": "Page name",
+    "message": "保持 Twitch 的真实性"
+  },
+  "twitch.brandTogether": {
+    "description": "Page name",
+    "message": "将一切结合在一起"
+  },
+  "twitch.brandWatch": {
+    "description": "Watching as in watching a video",
+    "message": "观看 Twitch 品牌的演变"
+  },
+  "twitch.camp": {
+    "description": "",
+    "message": "创作者营地"
+  },
+  "twitch.campBasic": {
+    "description": "Page name",
+    "message": "学习基础知识"
+  },
+  "twitch.campConnect": {
+    "description": "Page name",
+    "message": "连接与互动"
+  },
+  "twitch.campLevel": {
+    "description": "Page name",
+    "message": "提升等级"
+  },
+  "twitch.campLive": {
+    "description": "Page name",
+    "message": "实时学习"
+  },
+  "twitch.campMusic": {
+    "description": "Page name",
+    "message": "Twitch 上的音乐"
+  },
+  "twitch.campReward": {
+    "description": "Page name",
+    "message": "获得奖励"
+  },
+  "twitch.campSetup": {
+    "description": "Page name",
+    "message": "设置您的直播"
+  },
+  "twitch.channelAnaly": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "频道分析"
+  },
+  "twitch.channelSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "频道设置"
+  },
+  "twitch.clips": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "剪辑"
+  },
+  "twitch.colls": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "视频收藏"
+  },
+  "twitch.dashboard": {
+    "description": "Page name",
+    "message": "创作者控制面板"
+  },
+  "twitch.dashboardManage": {
+    "description": "",
+    "message": "管理他们的直播..."
+  },
+  "twitch.dev": {
+    "description": "Page name",
+    "message": "Twitch 开发者"
+  },
+  "twitch.devDocs": {
+    "description": "Page name",
+    "message": "Twitch 开发者文档"
+  },
+  "twitch.devProduct": {
+    "description": "Page name",
+    "message": "Twitch 开发者产品"
+  },
+  "twitch.devShowcase": {
+    "description": "Page name",
+    "message": "社区中的成功故事"
+  },
+  "twitch.devSupport": {
+    "description": "Page name",
+    "message": "有用的资源"
+  },
   "twitch.downloads": {
     "description": "Page name",
     "message": "下载"
+  },
+  "twitch.dropsSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "掉落物设置"
+  },
+  "twitch.esports": {
+    "description": "",
+    "message": "查看电竞..."
+  },
+  "twitch.extensions": {
+    "description": "",
+    "message": "查看扩展功能"
+  },
+  "twitch.followList": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "关注者列表"
+  },
+  "twitch.guidelines": {
+    "description": "Page name",
+    "message": "社区准则"
+  },
+  "twitch.help": {
+    "description": "Page name",
+    "message": "帮助中心"
+  },
+  "twitch.helpTopic": {
+    "description": "",
+    "message": "查看主题："
+  },
+  "twitch.helpTopicCatalog": {
+    "description": "",
+    "message": "浏览主题目录..."
   },
   "twitch.home": {
     "description": "Page name",
     "message": "首页"
   },
+  "twitch.jobs": {
+    "description": "Page name",
+    "message": "工作机会"
+  },
+  "twitch.manageRoles": {
+    "description": "",
+    "message": "管理他们的社区角色..."
+  },
+  "twitch.modStreamer": {
+    "description": "",
+    "message": "管理主播："
+  },
+  "twitch.moderationSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "管理设置"
+  },
   "twitch.partners": {
     "description": "Page name",
     "message": "合作伙伴"
   },
+  "twitch.press": {
+    "description": "Page name",
+    "message": "新闻中心"
+  },
+  "twitch.produce": {
+    "description": "",
+    "message": "在视频制作工具中..."
+  },
+  "twitch.redeem": {
+    "description": "",
+    "message": "兑换代码..."
+  },
+  "twitch.security": {
+    "description": "Page name",
+    "message": "安全"
+  },
+  "twitch.squad": {
+    "description": "",
+    "message": "观看小队..."
+  },
+  "twitch.streamSum": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "流媒体摘要"
+  },
+  "twitch.subs": {
+    "description": "",
+    "message": "查看他们的订阅..."
+  },
+  "twitch.tools": {
+    "description": "",
+    "message": "查看流媒体工具"
+  },
+  "twitch.turbo": {
+    "description": "Page name",
+    "message": "Turbo"
+  },
+  "twitch.viewDropsComp": {
+    "description": "",
+    "message": "查看活跃的掉落活动..."
+  },
+  "twitch.viewDropsInv": {
+    "description": "",
+    "message": "查看他们的掉落物库存..."
+  },
+  "twitch.viewFollow": {
+    "description": "",
+    "message": "查看我关注的人..."
+  },
+  "twitch.viewFriends": {
+    "description": "",
+    "message": "查看他们的好友..."
+  },
+  "twitch.viewSettings": {
+    "description": "",
+    "message": "查看他们的设置..."
+  },
+  "twitch.viewTeam": {
+    "description": "",
+    "message": "查看团队："
+  },
   "twitch.viewTheir": {
     "description": "Part 1 of the next 10 strings",
     "message": "查看他们的"
+  },
+  "twitch.wallet": {
+    "description": "",
+    "message": "查看钱包..."
   }
 }

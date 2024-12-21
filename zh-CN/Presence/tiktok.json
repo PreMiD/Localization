@@ -1,6 +1,26 @@
 {
+  "tiktok.browseThrough": {
+    "description": "",
+    "message": "浏览 TikTok"
+  },
   "tiktok.buttonViewTikTok": {
     "description": "Used as the title for the button in Discord.",
-    "message": "正在看抖音"
+    "message": "正在看 TikTok"
+  },
+  "tiktok.exploringWithTag": {
+    "description": "",
+    "message": "使用标签探索 TikTok："
+  },
+  "tiktok.following": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "查看他们的 {0} 关注页面"
+  },
+  "tiktok.forYou": {
+    "description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line.",
+    "message": "查看他们的 {0} 推荐页面"
+  },
+  "tiktok.viewing": {
+    "description": "Name of the user will be after the \":\"",
+    "message": "查看某人的 TikTok："
   }
 }

@@ -7,25 +7,101 @@
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "正在浏览播放列表"
 	},
+	"youtube.browsingShorts": {
+		"description": "",
+		"message": "浏览短视频"
+	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "浏览中"
+	},
+	"youtube.browsingTypeVideos": {
+		"description": "The topic in those gray chips on the youtube home page",
+		"message": "浏览 {0} 视频"
 	},
 	"youtube.browsingVideos": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "正在浏览视频"
 	},
+	"youtube.history": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "他们的历史记录"
+	},
+	"youtube.library": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "他们的库"
+	},
 	"youtube.ofChannel": {
 		"description": "Second part of multiple strings",
 		"message": "频道："
+	},
+	"youtube.purchases": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "他们的购买记录"
+	},
+	"youtube.readingChannel": {
+		"description": "",
+		"message": "阅读关于频道的信息："
+	},
+	"youtube.reportHistory": {
+		"description": "",
+		"message": "查看他们的举报历史"
+	},
+	"youtube.searchChannel": {
+		"description": "{0} will be replaced with the channel name",
+		"message": "在频道 {0} 中搜索："
+	},
+	"youtube.studio.artistPage": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "艺术家页面"
+	},
+	"youtube.studio.channelAnalytics": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "频道分析"
 	},
 	"youtube.studio.channelComments": {
 		"description": "Part two of \"Viewing their\"",
 		"message": "频道评论"
 	},
+	"youtube.studio.channelTranslations": {
+		"description": "Part two of \"Viewing their\"",
+		"message": "频道翻译"
+	},
+	"youtube.studio.dashboard": {
+		"description": "",
+		"message": "查看他们的仪表板"
+	},
+	"youtube.studio.editVideo": {
+		"description": "",
+		"message": "编辑视频："
+	},
+	"youtube.studio.videoAnalytics": {
+		"description": "",
+		"message": "查看视频分析："
+	},
+	"youtube.studio.videoComments": {
+		"description": "",
+		"message": "查看视频评论："
+	},
+	"youtube.studio.videoTranslations": {
+		"description": "",
+		"message": "查看视频翻译："
+	},
+	"youtube.studio.viewContent": {
+		"description": "",
+		"message": "查看他们的内容"
+	},
 	"youtube.studio.viewTheir": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
 		"message": "查看他们的"
+	},
+	"youtube.studio.viewVideos": {
+		"description": "",
+		"message": "查看他们的视频"
+	},
+	"youtube.subscriptions": {
+		"description": "Part two of \"Browsing through\"",
+		"message": "他们的订阅"
 	},
 	"youtube.trending": {
 		"description": "",
@@ -35,8 +111,32 @@
 		"description": "",
 		"message": "正在上传一些东西..."
 	},
+	"youtube.viewAllPlaylist": {
+		"description": "",
+		"message": "查看他们所有的播放列表"
+	},
+	"youtube.viewAudioLibrary": {
+		"description": "",
+		"message": "查看音频库"
+	},
+	"youtube.viewLiveDashboard": {
+		"description": "",
+		"message": "查看他们的直播仪表板"
+	},
+	"youtube.viewLiveEvents": {
+		"description": "",
+		"message": "查看他们的直播活动"
+	},
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "查看社区帖子"
+	},
+	"youtube.perVideoPrivacy.tooltip.1": {
+		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
+		"message": "覆盖此视频的隐私模式"
+	},
+	"youtube.perVideoPrivacy.tooltip.2": {
+		"description": "Explains that the new button they see on their youtube ui was added by the PreMiD YouTube presence",
+		"message": "这是 PreMiD YouTube 状态的一部分"
 	}
 }

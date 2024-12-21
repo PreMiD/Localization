@@ -1,1 +1,6 @@
-{}
+{
+  "skribbl.io.buttonJoinGame": {
+    "description": "Used as the title for the button in Discord.",
+    "message": "加入游戏"
+  }
+}
