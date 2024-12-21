@@ -161,7 +161,7 @@
 	},
 	"downloads.mobile.notAvailable": {
 		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
-		"message": "PreMiD hiện tại không khả dụng trên thiết bị di động. Vui lòng sử dụng trình duyệt máy tính để cài đặt PreMiD."
+		"message": "PreMiD không khả dụng trên thiết bị di động. Vui lòng sử dụng trình duyệt máy tính để cài đặt PreMiD."
 	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
@@ -177,15 +177,15 @@
 	},
 	"downloads.notice.header.removal": {
 		"description": "First line of the announcement about app removal.",
-		"message": "Chúng tôi đã thành công việc loại bỏ ứng dụng!"
+		"message": "Chúng tôi đã loại bỏ ứng dụng máy tính!"
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "Giờ bạn chỉ cần sử dụng tiện ích trên trình duyệt - không cần tải xuống cái gì."
+		"message": "Giờ bạn chỉ cần sử dụng tiện ích trên trình duyệt - không cần tải xuống thêm."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
-		"message": "Một click để cài đặt"
+		"message": "Một nhấp để cài đặt"
 	},
 	"downloads.notice.features.noApp": {
 		"description": "Feature tag highlighting no app requirement.",
@@ -193,11 +193,11 @@
 	},
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
-		"message": "Chỉ cần hoạt động™"
+		"message": "Chỉ hoạt động™"
 	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
-		"message": "Ứng dụng đã được gỡ bỏ tại phiên bản 2.6.0 để làm cho cuộc sống của bạn dễ dàng hơn ✨"
+		"message": "Ứng dụng máy tính đã được gỡ bỏ tại phiên bản 2.6.0 để làm cho cuộc sống của bạn dễ dàng hơn ✨"
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
@@ -221,7 +221,7 @@
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
-		"message": "Hãy giúp đỡ chúng tôi tại GitHub hoặc Patreon để nhận được những tính năng tiên tiến nhất!"
+		"message": "Hãy hỗ trợ chúng tôi tại GitHub hoặc Patreon để nhận được những tính năng tiên tiến nhất!"
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
@@ -241,7 +241,7 @@
 	},
 	"downloads.notice.appreciation.description": {
 		"description": "Description in the appreciation section.",
-		"message": "Hãy cân nhắc giúp đỡ chúng tôi hoặc để lại đánh giá - điều đó giúp ích cho chúng tôi rất nhiều!"
+		"message": "Hãy cân nhắc hỗ trợ chúng tôi hoặc để lại đánh giá - điều đó giúp ích cho chúng tôi rất nhiều!"
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
