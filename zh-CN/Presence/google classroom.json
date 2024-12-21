@@ -1,1 +1,42 @@
-{}
+{
+  "google classroom.assignment": {
+    "description": "Displayed when the user is viewing an assignment. Following this line, it will display the name of their class",
+    "message": "查看作业于："
+  },
+  "google classroom.assignmentPrivate": {
+    "description": "Displayed when the user is viewing an assignment and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "查看作业"
+  },
+  "google classroom.calendar": {
+    "description": "Displayed when the user viewing their calendar",
+    "message": "查看他们的日历"
+  },
+  "google classroom.class": {
+    "description": "Displayed when a user is viewing a class",
+    "message": "查看课程"
+  },
+  "google classroom.classmembers": {
+    "description": "Displayed when a user is viewing class members. Following this line, it will display the name of their class",
+    "message": "查看以下的课程成员："
+  },
+  "google classroom.classmembersPrivate": {
+    "description": "Displayed when the user is viewing their class' members and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "查看课程成员"
+  },
+  "google classroom.classwork": {
+    "description": "Displayed when a user is viewing classwork. Following this line, it will display the name of their class",
+    "message": "查看以下的课程作业："
+  },
+  "google classroom.classworkPrivate": {
+    "description": "Displayed when the user is viewing their classwork and their privacy mode is on (privacy mode is a setting within the presence to hide the class name which could be sensitive)",
+    "message": "查看课程作业"
+  },
+  "google classroom.settings": {
+    "description": "Displayed when a user is viewing their Google Classroom settings",
+    "message": "配置设置"
+  },
+  "google classroom.todo": {
+    "description": "Displayed when the user is viewing their to-do list",
+    "message": "查看他们的待办事项列表"
+  }
+}
