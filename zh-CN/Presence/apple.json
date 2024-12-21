@@ -1,4 +1,68 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "正在连接..."
+  },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "查看应用"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "查看开发者"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "查看活动"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "查看 {0}"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "查看产品"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "查看 {0} 的资料"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "查看服务"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "查看 {0} 工作室"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "查看标签"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "查看线程"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "查看 {0}"
+  },
+  "apple.chooseLang": {
+    "description": "Choosing the language of the website",
+    "message": "选择语言..."
+  },
+  "apple.comparing": {
+    "description": "e.g. \"Comparing: Apple Watch\"",
+    "message": "比较中"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "联系支持"
+  },
+  "apple.devDistribution": {
+    "description": "Distribute software to the App Store",
+    "message": "分发软件"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "帮助文档"
@@ -11,8 +75,172 @@
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "游戏"
   },
+  "apple.devHIG": {
+    "description": "Guidelines for designing apps for the various Apple operating systems",
+    "message": "人机界面指南"
+  },
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "有什么新内容"
+  },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "新闻和更新"
+  },
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "iPhone 和 iPad 应用"
+  },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "发布"
+  },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "资源"
+  },
+  "apple.devSubmit": {
+    "description": "Submit iOS and iPadOS apps to the App Store",
+    "message": "如何提交应用"
+  },
+  "apple.devVidTopic": {
+    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
+    "message": "浏览视频主题"
+  },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "视频"
+  },
+  "apple.forumCreateThread": {
+    "description": "Creating a forum thread",
+    "message": "创建线程"
+  },
+  "apple.forumPreferences": {
+    "description": "Profile settings/preferences, e.g. change username",
+    "message": "偏好设置"
+  },
+  "apple.forumRegister": {
+    "description": "Register a new account (alternative translation: registering)",
+    "message": "注册"
+  },
+  "apple.forumTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "论坛标签"
+  },
+  "apple.healthRecords": {
+    "description": "Health records of a person",
+    "message": "健康记录"
+  },
+  "apple.healthcare": {
+    "description": "The organized provision of medical care to individuals or a community",
+    "message": "医疗保健"
+  },
+  "apple.iCloudCalendar": {
+    "description": "iCloud calendar - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "日历"
+  },
+  "apple.iCloudContacts": {
+    "description": "iCloud contacts - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "联系人"
+  },
+  "apple.iCloudKeynoteWait": {
+    "description": "Before the keynote begins, you'll be in the waiting room",
+    "message": "等候室"
+  },
+  "apple.iCloudMail": {
+    "description": "iCloud mail service - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "邮件"
+  },
+  "apple.iCloudNotes": {
+    "description": "iCloud notes - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "备注"
+  },
+  "apple.iCloudPagesCreate": {
+    "description": "Creating a new Pages document",
+    "message": "正在创建..."
+  },
+  "apple.iCloudPhotos": {
+    "description": "iCloud photos - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "照片"
+  },
+  "apple.iCloudReminders": {
+    "description": "iCloud reminders - This is an official app made by Apple and the translation should be the one used by them",
+    "message": "提醒事项"
+  },
   "apple.other": {
     "description": "Other pages not added to the code",
     "message": "其他"
+  },
+  "apple.overview": {
+    "description": "Overview of e.g. all pages of a category",
+    "message": "概述"
+  },
+  "apple.productsPlatform": {
+    "description": "Products/platforms for companies",
+    "message": "产品和平台"
+  },
+  "apple.purchasingAdvice": {
+    "description": "Purchasing advice for e.g. what iPhone is the best for me?",
+    "message": "购买建议"
+  },
+  "apple.shopAccessories": {
+    "description": "Accessories for Apple products (e.g iPhone case)",
+    "message": "苹果配件"
+  },
+  "apple.shopBag": {
+    "description": "Shopping cart",
+    "message": "购物袋"
+  },
+  "apple.shopBagSummary": {
+    "description": "The total price of the items in your bag (shopping cart)",
+    "message": "总计：{0}"
+  },
+  "apple.shopBands": {
+    "description": "Bands (Bracelets) for the Apple Watch",
+    "message": "Apple Watch 表带"
+  },
+  "apple.shopFavorites": {
+    "description": "Favorite products",
+    "message": "收藏夹"
+  },
+  "apple.shopGiftCards": {
+    "description": "Gift cards for e.g. the App Store",
+    "message": "礼品卡"
+  },
+  "apple.shopPlanVisit": {
+    "description": "Plan your visit to the Apple Store",
+    "message": "计划您的访问"
+  },
+  "apple.shopRefurbished": {
+    "description": "Used Apple products at a lower price",
+    "message": "认证翻新产品"
+  },
+  "apple.shopStudio": {
+    "description": "Choose your own design components for a product",
+    "message": "Apple Watch 工作室"
+  },
+  "apple.storeFinder": {
+    "description": "Tool used to find the nearest store",
+    "message": "商店查找器"
+  },
+  "apple.supplierResp": {
+    "description": "Information on human rights, health, safety, education, etc. of employees",
+    "message": "供应商责任"
+  },
+  "apple.support": {
+    "description": "Support for products, services/apps from Apple, etc.",
+    "message": "Apple 支持"
+  },
+  "apple.supportArticle": {
+    "description": "Support article",
+    "message": "Apple 支持文章"
+  },
+  "apple.viewEvent": {
+    "description": "Viewing an event (e.g. September event)",
+    "message": "查看活动"
+  },
+  "apple.viewService": {
+    "description": "e.g. \"Viewing Service: Fitness+\"",
+    "message": "查看服务"
   }
 }
