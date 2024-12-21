@@ -1,1 +1,42 @@
-{}
+{
+  "juniperbot.commands": {
+    "description": "Page with the list of bot's commands",
+    "message": "查看命令列表"
+  },
+  "juniperbot.cookies": {
+    "description": "Reading about the site's cookies",
+    "message": "阅读关于网站 Cookie 的信息"
+  },
+  "juniperbot.donate": {
+    "description": "Page with information about donation plans",
+    "message": "阅读关于捐赠计划的信息"
+  },
+  "juniperbot.leaderboard": {
+    "description": "Guild leaderboard page",
+    "message": "查看服务器排行榜："
+  },
+  "juniperbot.mainpage": {
+    "description": "Home page of the site",
+    "message": "主页面"
+  },
+  "juniperbot.serverdash": {
+    "description": "Server configuration page",
+    "message": "在仪表板中"
+  },
+  "juniperbot.serverdashname": {
+    "description": "Guild name",
+    "message": "公会：{0}"
+  },
+  "juniperbot.servers": {
+    "description": "Server selection page",
+    "message": "选择服务器"
+  },
+  "juniperbot.stats": {
+    "description": "Page with bot's statistics",
+    "message": "查看机器人统计信息"
+  },
+  "juniperbot.usercard": {
+    "description": "Rating card customization page",
+    "message": "自定义排名卡"
+  }
+}
