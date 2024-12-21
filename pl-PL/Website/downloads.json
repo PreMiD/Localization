@@ -161,7 +161,7 @@
 	},
 	"downloads.mobile.notAvailable": {
 		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
-		"message": "PreMiD nie jest dostępny dla urządzeń mobilnych. Użyj przeglądarki na komputerze aby zainstalować PreMiD."
+		"message": "PreMiD nie jest dostępny dla urządzeń mobilnych. Użyj przeglądarki na komputerze, aby zainstalować PreMiD."
 	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
