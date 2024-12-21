@@ -1,7 +1,7 @@
 {
 	"osu!ppy.beatmapListing": {
 		"description": "Displayed when viewing all beatmaps.",
-		"message": "Đang Xem danh sách beatmap"
+		"message": "Đang xem danh sách beatmap"
 	},
 	"osu!ppy.beatmapLooking": {
 		"description": "Displayed when looking at a beatmap.",
@@ -29,7 +29,7 @@
 	},
 	"osu!ppy.performanceRankings": {
 		"description": "Displayed when viewing the performance rankings.",
-		"message": "Xếp hạng hệ thống"
+		"message": "Xếp hạng thành tích"
 	},
 	"osu!ppy.scoreRankings": {
 		"description": "{0} = gamemode. E.g. Score Rankings [osu!]",
