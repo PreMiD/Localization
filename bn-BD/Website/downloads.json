@@ -159,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "সতর্কতা"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "প্রিমিড মোবাইল ডিভাইসের জন্য উপলব্ধ নয়। প্রিমিড ইনস্টল করার জন্য দয়া করে একটি ডেস্কটপ ব্রাউজার ব্যবহার করুন।"
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "ডাউনলোডগুলো দেখাও"
@@ -166,5 +170,81 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "ডাউনলোডগুলো হাইড করাও"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "বড় খবর!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "আমরা অ্যাপ্লিকেশনটি সম্পূর্ণভাবে সরিয়ে ফেলেছি!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "এখন শুধুমাত্র ব্রাউজার এক্সটেনশনই প্রয়োজন – কোনো অতিরিক্ত ডাউনলোডের দরকার নেই।"
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "এক-ক্লিক সেটআপ"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "অ্যাপের প্রয়োজন নেই"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "কেবল কাজ করবে™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "আপনার জীবন সহজ করতে v2.6.0-এ অ্যাপ্লিকেশন সরিয়ে ফেলা হয়েছে ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "আপনার ব্রাউজারের জন্য প্রিমিড ডাউনলোড করুন।"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "শীঘ্রই আসছে"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "বেটা প্রোগ্রাম"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "নতুন কিছু ট্রাই করতে ভালোবাসেন? আমাদের দিস্করড-এ যোগ দিন এবং /beta ব্যবহার করে আগেই অ্যাক্সেস পান!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "আলফা অ্যাক্সেস"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "গিটহাব বা পেটরিওন-এ আমাদের সমর্থন করুন এবং উপভোগ করুন সবার আগে নতুন ফিচারগুলো!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "সহায়তার প্রয়োজন? আমাদের সাথে যোগ দিন"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "ডিস্করড-এ "
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "সহায়তার জন্য"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "প্রিমিড ভালোবাসেন?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "আমাদের সমর্থন করার কথা ভাবুন বা একটি রিভিউ দিন - এটি আমাদের জন্য অনেক গুরুত্বপূর্ণ!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "আমাদের রিভিউ দিন"
 	}
 }
