@@ -1,6 +1,62 @@
 {
+  "facebook.added": {
+    "description": "",
+    "message": "最近添加"
+  },
   "facebook.browse": {
     "description": "",
     "message": "浏览中:"
+  },
+  "facebook.call": {
+    "description": "",
+    "message": "通话中，与："
+  },
+  "facebook.savedVids": {
+    "description": "",
+    "message": "保存的视频"
+  },
+  "facebook.userAbout": {
+    "description": "",
+    "message": "阅读关于用户的信息："
+  },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "查看用户的社区："
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "查看用户的好友："
+  },
+  "facebook.userHidden": {
+    "description": "Shows when you dont want to show who you are calling/texting.",
+    "message": "某人……（用户隐藏）"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "查看用户的照片："
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "查看用户的帖子："
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "查看用户的商店："
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "查看用户的视频："
+  },
+  "facebook.vcall": {
+    "description": "",
+    "message": "视频通话中，与："
+  },
+  "facebook.weather": {
+    "description": "",
+    "message": "查看今天的天气"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "撰写消息"
   }
 }
