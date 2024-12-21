@@ -33,11 +33,11 @@
   },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
-    "message": "Что-то загружается..."
+    "message": "Что-то загружает..."
   },
   "minecraft wiki.login": {
     "description": "Used when a user is logging in",
-    "message": "Вход в систему"
+    "message": "Авторизуется"
   },
   "minecraft wiki.btnViewThread": {
     "description": "View a forum thread",
