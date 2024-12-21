@@ -1,4 +1,68 @@
 {
+  "apple.appStoreCon": {
+    "description": "Connecting to the App Store",
+    "message": "সংযোগ হচ্ছে..."
+  },
+  "apple.btnViewApp": {
+    "description": "e.g. \"View App\"",
+    "message": "অ্যাপ দেখুন"
+  },
+  "apple.btnViewDeveloper": {
+    "description": "View the developer of an app",
+    "message": "ডেভেলপার দেখুন"
+  },
+  "apple.btnViewEvent": {
+    "description": "Button text",
+    "message": "ইভেন্ট দেখুন"
+  },
+  "apple.btnViewOS": {
+    "description": "e.g. \"View iOS 15\"",
+    "message": "দেখুন {0}"
+  },
+  "apple.btnViewProduct": {
+    "description": "Button text",
+    "message": "পণ্য দেখুন"
+  },
+  "apple.btnViewProfile": {
+    "description": "View a forum profile of a user",
+    "message": "{0}-এর প্রোফাইল দেখুন"
+  },
+  "apple.btnViewService": {
+    "description": "Button text",
+    "message": "সেবা দেখুন"
+  },
+  "apple.btnViewStudio": {
+    "description": "e.g. \"View Apple Watch Studio\"",
+    "message": "{0} স্টুডিও দেখুন"
+  },
+  "apple.btnViewTags": {
+    "description": "Forum tags (e.g. 3D Graphics, Accessibility ...)",
+    "message": "ট্যাগ দেখুন"
+  },
+  "apple.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "থ্রেড দেখুন"
+  },
+  "apple.btnViewWWDC": {
+    "description": "e.g.: \"View WWDC21\"",
+    "message": "{0} দেখুন"
+  },
+  "apple.chooseLang": {
+    "description": "Choosing the language of the website",
+    "message": "ভাষা নির্বাচন হচ্ছে..."
+  },
+  "apple.comparing": {
+    "description": "e.g. \"Comparing: Apple Watch\"",
+    "message": "তুলনা করা হচ্ছে:"
+  },
+  "apple.contact": {
+    "description": "Contact support",
+    "message": "সহায়তার সাথে যোগাযোগ করা হচ্ছে"
+  },
+  "apple.devDistribution": {
+    "description": "Distribute software to the App Store",
+    "message": "সফটওয়্যার বিতরণ করা"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "ডকুমেন্টেশন"
@@ -10,6 +74,46 @@
   "apple.devGames": {
     "description": "Apps classified under the \"Games\" category on the App Store",
     "message": "গেমস"
+  },
+  "apple.devHIG": {
+    "description": "Guidelines for designing apps for the various Apple operating systems",
+    "message": "মানব ইন্টারফেস নির্দেশিকা"
+  },
+  "apple.devNew": {
+    "description": "List of updates",
+    "message": "নতুন কি"
+  },
+  "apple.devNews": {
+    "description": "News and updates (that matter) for developers",
+    "message": "সংবাদ এবং হালনাগাদ"
+  },
+  "apple.devPhonePad": {
+    "description": "iPhone and iPad apps on Apple Silicon Macs (without rewriting of the app etc.)",
+    "message": "আইফন এবং আইপ্যাড  অ্যাপস"
+  },
+  "apple.devReleases": {
+    "description": "New iOS, iPadOS etc. releases",
+    "message": "রিলিসেস"
+  },
+  "apple.devResources": {
+    "description": "Apple Design Resources",
+    "message": "রিসউরসেস "
+  },
+  "apple.devSubmit": {
+    "description": "Submit iOS and iPadOS apps to the App Store",
+    "message": "অ্যাপস কীভাবে জমা দেবেন"
+  },
+  "apple.devVidTopic": {
+    "description": "Topics of the videos (e.g. Developer Tools, Maps & Location, Special Events, etc.)",
+    "message": "ভিডিও টপিক ব্রাউজিং"
+  },
+  "apple.devVideos": {
+    "description": "E.g. WWDC videos, old Keynotes, etc.",
+    "message": "ভিডিওগুলি"
+  },
+  "apple.forumCreateThread": {
+    "description": "Creating a forum thread",
+    "message": "থ্রেড তৈরি করা হচ্ছে "
   },
   "apple.other": {
     "description": "Other pages not added to the code",

@@ -229,7 +229,7 @@
 	},
 	"downloads.notice.support.discord": {
 		"description": "Discord link text in support section.",
-		"message": "Discord"
+		"message": "Discordu"
 	},
 	"downloads.notice.support.forSupport": {
 		"description": "End of the support section text.",
@@ -241,7 +241,7 @@
 	},
 	"downloads.notice.appreciation.description": {
 		"description": "Description in the appreciation section.",
-		"message": "Zváž možnosť podporiť nás alebo zanechaj recenziu - znamená to pre nás veľa!"
+		"message": "Zvážte možnosť podporiť nás alebo zanechať recenziu - znamená to pre nás veľa!"
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",

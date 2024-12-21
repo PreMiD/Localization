@@ -3,6 +3,10 @@
     "description": "When uploading a file to the wiki",
     "message": "কিছু একটা আপলোড করছে..."
   },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "থ্রেড দেখুন"
+  },
   "minecraft wiki.settings": {
     "description": "Displayed when a user is viewing their Minecraft Wiki settings",
     "message": "সেটিংস চেঞ্জ করছে"
