@@ -13,7 +13,7 @@
   },
   "x.com.readPost": {
     "description": "after the \":\" it will say the username",
-    "message": "Đang đọc post của:"
+    "message": "Đang đọc bài viết của:"
   },
   "x.com.settings": {
     "description": "",
@@ -37,10 +37,10 @@
   },
   "x.com.viewPosts": {
     "description": "",
-    "message": "Đang xem post của:"
+    "message": "Đang xem bài viết của:"
   },
   "x.com.viewPostsWithReplies": {
     "description": "",
-    "message": "Đang xem post (với trả lời) của:"
+    "message": "Đang xem bài viết (với trả lời) của:"
   }
 }
