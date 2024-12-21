@@ -153,7 +153,7 @@
 	},
 	"general.listeningTo": {
 		"description": "{0} will be replaced with a new line, but if you leave it out, the string will be in just 1 line. {1} will be replaced with a song name, podcast name etc.",
-		"message": "Đang nghe {0}{1}"
+		"message": "Đang nghe{0}{1}"
 	},
 	"general.live": {
 		"description": "",
@@ -193,7 +193,7 @@
 	},
 	"general.readingADM": {
 		"description": "",
-		"message": "Đang đọc một tin nhắn trực tiếp"
+		"message": "Đang đọc tin nhắn riêng"
 	},
 	"general.readingAPost": {
 		"description": "",
@@ -281,7 +281,7 @@
 	},
 	"general.typeInDM": {
 		"description": "",
-		"message": "Đang nhập trong tin nhắn trực tiếp"
+		"message": "Đang nhập trong tin nhắn riêng"
 	},
 	"general.uptimeHistory": {
 		"description": "A page name of statuspages",
@@ -313,7 +313,7 @@
 	},
 	"general.viewAPlaylist": {
 		"description": "",
-		"message": "Đang xem danh sách"
+		"message": "Đang xem danh sách phát"
 	},
 	"general.viewAProduct": {
 		"description": "",
