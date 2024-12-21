@@ -1,11 +1,35 @@
 {
+  "minecraft wiki.changeProtection": {
+    "description": "Displayed when changing protection settings for a wiki page.",
+    "message": "Keičia apsaugos parametrus:"
+  },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Perkelia:"
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "Peržiūri įnašus:"
+  },
   "minecraft wiki.viewHistory": {
     "description": "Displayed when viewing the history of a wiki page.",
     "message": "Peržiūri istoriją:"
   },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Peržiūri apsaugos parametrus:"
+  },
   "minecraft wiki.viewRecentChanges": {
     "description": "Displayed when viewing recent changes.",
     "message": "Peržiūri naujausius pakeitimus"
+  },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Peržiūri šaltinį:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
+    "message": "Peržiūri savo stebimų sąrašą"
   },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
@@ -14,6 +38,10 @@
   "minecraft wiki.login": {
     "description": "Used when a user is logging in",
     "message": "Prisijungia"
+  },
+  "minecraft wiki.btnViewThread": {
+    "description": "View a forum thread",
+    "message": "Peržiūrėti giją"
   },
   "minecraft wiki.settings": {
     "description": "Displayed when a user is viewing their Minecraft Wiki settings",
