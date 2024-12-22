@@ -198,5 +198,53 @@
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
 		"message": "편의를 위해 v2.6.0부터 애플리케이션을 없앴습니다 ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "브라우저에 PreMiD를 추가하세요"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "출시 예정"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "베타 프로그램"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "새로운 것을 시도하는 게 좋으신가요? 저희 Discord에 들어와 /beta를 사용해 얼리 액세스를 받으세요!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "알파 액세스"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "첨단 기능일 이용해 보려면 GitHub나 Patreon에서 저희를 후원해 주세요!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "도움이 필요하시면 저희의"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Discord"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "에 참가해 지원을 받으세요!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "PreMID가 좋으신가요?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "저희를 응원해 주시거나 리뷰를 남겨주시면 저희에게는 큰 힘이 됩니다!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "리뷰 작성"
 	}
 }
