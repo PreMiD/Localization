@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD adalah sarana sing gampang lan bisa diatur sing ngijini sampeyan nunjuake apa sing sampeyan lakoni ing web lan Discord now playing status.\n\nContone, nalika sampeyan nonton video ing YouTube, ekstensi kita njupuk kabeh informasi sing dibutuhake saka halaman kasebut lan dikirim menyang app, setelah iku bakal ngganti status Discord sampeyan.\n\nPreMiD ndhukung luwih saka 500 situs web lan isih berkembang, amarga komunitas sing kuwat nambahake Presence anyar saben dina.\n\nKanggo nggunakake PreMiD, sampeyan kudu nambah ekstensi iki lan nginstal app PreMiD sing ditemokake ing situs web kita. Alasane amarga Discord Rich Presence SDK kerja cara kaya ngono.\n\n{0} Situs Web Kita\n{1}\n\n{3} Discord server kita\n{4}\n\n{5} Ngatasi masalah\n{6}\n\n{7} Organisasi GitHub Kita\n{8}\n\n{9} Donasi\n{10}\n\nYen sampeyan seneng PreMiD, mangga wenehi review, bagikan karo kanca-kancamu, utawa donasi."
+    "message": "PreMiD adalah sarana sing gampang lan bisa diatur sing ngijini sampeyan nunjuake apa sing sampeyan lakoni ing web lan Discord now playing status.\n\nContone, nalika sampeyan nonton video ing YouTube, ekstensi kita njupuk kabeh informasi sing dibutuhake saka halaman kasebut lan dikirim menyang app, setelah iku bakal ngganti status Discord sampeyan.\n\nPreMiD ndhukung luwih saka 500 situs web lan isih berkembang, amarga komunitas sing kuwat nambahake Presence anyar saben dina.\n\nKanggo nggunakake PreMiD, sampeyan kudu nambah ekstensi iki lan nginstal app PreMiD sing ditemokake ing situs web kita. Alasane amarga Discord Rich Presence SDK kerja cara kaya ngono.\n\n{0} Situs Web Kita\n{1}\n\n{3} Discord server kita\n{4}\n\n{5} Ngatasi masalah\n{6}\n\n{7} Organisasi GitHub Kita\n{8}\n\n{9} Donasi\n{10}\n\nYen sampeyan seneng PreMiD, mangga wenehi review, bagikan karo kanca-kancamu, utawa donasi.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Rich Presence Sampeyan kanggo Layanan Web!"
+    "message": "Rich Presence Sampeyan kanggo Layanan Web!",
+    "description": "Short description in extension store"
   }
 }
