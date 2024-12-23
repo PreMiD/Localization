@@ -23,6 +23,14 @@
     "description": "Displayed when viewing recent changes.",
     "message": "Visualizzando modifiche recenti"
   },
+  "minecraft wiki.viewSourceOf": {
+    "description": "Displayed when viewing the source of a wiki page.",
+    "message": "Visualizzando le fonti di:"
+  },
+  "minecraft wiki.viewWatchlist": {
+    "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
+    "message": "Visualizzando la loro watchlist"
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "Caricando qualcosa..."
