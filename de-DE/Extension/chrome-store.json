@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD ist ein simples, konfigurierbares Programm, dass es dir erlaubt, auf Discord als Spieleaktivität anzuzeigen, was du grade im Web treibst.\n\nAls Beispiel, schaust du grade ein YouTube Video, holt sich die Erweiterung alle erforderlichen Infos von der Seite und gibt sie der App weiter, welche dann deinen Status auf deinem Discord Profil setzt.\nPreMiD unterstützt mehr als 500 Webseiten und es werden immer mehr, dank der starken Community, welche immer mehr Presences hinzufügt und das jeden Tag.\n\nUm PreMiD nutzen zu können, musst du die Browsererweiterung und die offizielle PreMiD App installieren, welche du auf unserer Seite finden kannst. Dies ist aufgrund von Einschränkungen in der Weise, wie die Discord Rich Presence SDK funktioniert.\n\n{0} Unsere Webseite\n{1}\n\n{3} Unser Discord Server\n{4}\n\n{5} Fehlerbehebung\n{6}\n\n{7} Unsere GitHub Organisation\n{8}\n\n{9} Spenden\n{10}\n\nWenn du PreMiD liebst, hinterlass uns doch gerne eine Bewertung, teile es mit deinen Freunden oder Spende einen Betrag."
+    "message": "PreMiD ist ein simples, konfigurierbares Programm, dass es dir erlaubt, auf Discord als Spieleaktivität anzuzeigen, was du grade im Web treibst.\n\nAls Beispiel, schaust du grade ein YouTube Video, holt sich die Erweiterung alle erforderlichen Infos von der Seite und gibt sie der App weiter, welche dann deinen Status auf deinem Discord Profil setzt.\nPreMiD unterstützt mehr als 500 Webseiten und es werden immer mehr, dank der starken Community, welche immer mehr Presences hinzufügt und das jeden Tag.\n\nUm PreMiD nutzen zu können, musst du die Browsererweiterung und die offizielle PreMiD App installieren, welche du auf unserer Seite finden kannst. Dies ist aufgrund von Einschränkungen in der Weise, wie die Discord Rich Presence SDK funktioniert.\n\n{0} Unsere Webseite\n{1}\n\n{3} Unser Discord Server\n{4}\n\n{5} Fehlerbehebung\n{6}\n\n{7} Unsere GitHub Organisation\n{8}\n\n{9} Spenden\n{10}\n\nWenn du PreMiD liebst, hinterlass uns doch gerne eine Bewertung, teile es mit deinen Freunden oder Spende einen Betrag.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Deine Rich Presence für Webdienste!"
+    "message": "Deine Rich Presence für Webdienste!",
+    "description": "Short description in extension store"
   }
 }
