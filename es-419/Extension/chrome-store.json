@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD es una herramienta simple y configurable que te permite mostrar lo que estás haciendo en tu navegador en Discord.\n\nPor ejemplo, cuando empiezas a ver un video en YouTube, nuestra extensión agarra toda la información necesaria de la página y la envía a la aplicación, la cual la envía a tu perfil de Discord.\n\nPreMiD soporta más de 500 sitios web y sigue creciendo gracias a su gran comunidad que agrega nuevas presences todos los días.\n\nPara usar PreMiD necesitas agregar esta extensión e instalar la aplicación oficial de PreMiD que puedes encontrar en nuestro sitio web. Esto es debido a las limitaciones de como las Rich Presence de Discord funcionan.\n\n{0} Nuestro sitio web\n{1}\n\n{3} Nuestro servidor de Discord\n{4}\n\n{5} Solución de problemas\n{6}\n\n{7} Nuestro proyecto en GitHub\n{8}\n\n{9} Donar\n{10}\n\nSi te gusta PreMiD, por favor deja una review, compártelo con tus amigos o dona."
+    "message": "PreMiD es una herramienta simple y configurable que te permite mostrar lo que estás haciendo en tu navegador en Discord.\n\nPor ejemplo, cuando empiezas a ver un video en YouTube, nuestra extensión agarra toda la información necesaria de la página y la envía a la aplicación, la cual la envía a tu perfil de Discord.\n\nPreMiD soporta más de 500 sitios web y sigue creciendo gracias a su gran comunidad que agrega nuevas presences todos los días.\n\nPara usar PreMiD necesitas agregar esta extensión e instalar la aplicación oficial de PreMiD que puedes encontrar en nuestro sitio web. Esto es debido a las limitaciones de como las Rich Presence de Discord funcionan.\n\n{0} Nuestro sitio web\n{1}\n\n{3} Nuestro servidor de Discord\n{4}\n\n{5} Solución de problemas\n{6}\n\n{7} Nuestro proyecto en GitHub\n{8}\n\n{9} Donar\n{10}\n\nSi te gusta PreMiD, por favor deja una review, compártelo con tus amigos o dona.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "¡Tu Presence Enriquecida para sitios web!"
+    "message": "¡Tu Presence Enriquecida para sitios web!",
+    "description": "Short description in extension store"
   }
 }
