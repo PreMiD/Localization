@@ -181,7 +181,7 @@
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "브라우저 확장이 필요합니다. 추가적 다운로드는 필요하지 않습니다."
+		"message": "브라우저의 확장 프로그램만이 필요합니다. 추가적 다운로드는 필요하지 않습니다."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
