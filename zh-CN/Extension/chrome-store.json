@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD 是一个简单、可配置的扩展程序，可以让你在 Discord 游戏动态 上显示你的网页状态。\n\n例如，当你开始观看视频时，该扩展程序将从页面中获取所有所需的信息，并将其发送到我们的应用程序，以在你的 Discord 个人资料中设置游戏状态。\n\nPreMiD 支持 500 多个网站，并且由于其强大的社区这个数字仍在不断增长。\n\n由于受到 Discord 的 Rich Presence SDK 的制约，要使用PreMiD，你需要添加此扩展并安装我们网站上的官方PreMiD应用程序\n\n{0} 官方网站\n{1}\n\n{3} Discord 服务器\n{4}\n\n{5} 疑难解答\n{6}\n\n{7} Github 组织\n{8}\n\n{9} Donate\n{10}\n\n如果您喜欢PreMiD，请留下您的评论，分享给您的朋友或赞助我们。"
+    "message": "PreMiD 是一个简单、可配置的扩展程序，可以让你在 Discord 游戏动态 上显示你的网页状态。\n\n例如，当你开始观看视频时，该扩展程序将从页面中获取所有所需的信息，并将其发送到我们的应用程序，以在你的 Discord 个人资料中设置游戏状态。\n\nPreMiD 支持 500 多个网站，并且由于其强大的社区这个数字仍在不断增长。\n\n由于受到 Discord 的 Rich Presence SDK 的制约，要使用PreMiD，你需要添加此扩展并安装我们网站上的官方PreMiD应用程序\n\n{0} 官方网站\n{1}\n\n{3} Discord 服务器\n{4}\n\n{5} 疑难解答\n{6}\n\n{7} Github 组织\n{8}\n\n{9} Donate\n{10}\n\n如果您喜欢PreMiD，请留下您的评论，分享给您的朋友或赞助我们。",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "为网页服务添加 Rich Presence 状态显示！"
+    "message": "为网页服务添加 Rich Presence 状态显示！",
+    "description": "Short description in extension store"
   }
 }
