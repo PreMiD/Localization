@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "Is fóntais shimplí, chumraithe é PreMiD a ligeann duit a thaispeáint cad atá á dhéanamh agat ar an ngréasán i do stádas imeartha Discord anois.\n\nMar shampla, nuair a thosaíonn tú ag féachaint ar fhíseán ar YouTube, glacann ár síneadh an fhaisnéis uile a theastaíonn ón leathanach agus cuireann sé chuig ár bhfeidhmchlár é, a leagann an stádas ar do phróifíl Discord ansin.\n\nTacaíonn PreMiD le níos mó ná 500 suíomh Gréasáin agus tá sé fós ag dul a bhuíochas dá phobal láidir a chuireann Láithreachtaí nua leis gach lá.\n\nChun PreMiD a úsáid, ní mór duit an síneadh seo a chur leis agus an feidhmchlár PreMiD oifigiúil atá le fáil ar ár suíomh Gréasáin a shuiteáil. Tá sé seo mar gheall ar shrianta sa chaoi a n-oibríonn SDK Discord’s Rich Presence\n\n{0} Ár Suíomh Gréasáin\n{1}\n\n{3} Ár Freastalaí Discord\n{4}\n\n{5} Fabhtcheartú\n{6}\n\n{7} Ár n-eagraíocht GitHub\n{8}\n\n{9} Deonaigh\n{10}\n\nMás breá leat PreMiD, fág léirmheas, déan é a roinnt le do chairde, nó deonaigh."
+    "message": "Is fóntais shimplí, chumraithe é PreMiD a ligeann duit a thaispeáint cad atá á dhéanamh agat ar an ngréasán i do stádas imeartha Discord anois.\n\nMar shampla, nuair a thosaíonn tú ag féachaint ar fhíseán ar YouTube, glacann ár síneadh an fhaisnéis uile a theastaíonn ón leathanach agus cuireann sé chuig ár bhfeidhmchlár é, a leagann an stádas ar do phróifíl Discord ansin.\n\nTacaíonn PreMiD le níos mó ná 500 suíomh Gréasáin agus tá sé fós ag dul a bhuíochas dá phobal láidir a chuireann Láithreachtaí nua leis gach lá.\n\nChun PreMiD a úsáid, ní mór duit an síneadh seo a chur leis agus an feidhmchlár PreMiD oifigiúil atá le fáil ar ár suíomh Gréasáin a shuiteáil. Tá sé seo mar gheall ar shrianta sa chaoi a n-oibríonn SDK Discord’s Rich Presence\n\n{0} Ár Suíomh Gréasáin\n{1}\n\n{3} Ár Freastalaí Discord\n{4}\n\n{5} Fabhtcheartú\n{6}\n\n{7} Ár n-eagraíocht GitHub\n{8}\n\n{9} Deonaigh\n{10}\n\nMás breá leat PreMiD, fág léirmheas, déan é a roinnt le do chairde, nó deonaigh.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Do láithreacht shaibhir do sheirbhísí gréasáin!"
+    "message": "Do láithreacht shaibhir do sheirbhísí gréasáin!",
+    "description": "Short description in extension store"
   }
 }
