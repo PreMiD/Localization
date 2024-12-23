@@ -27,6 +27,10 @@
     "description": "",
     "message": "Visualizzando i mi piace di:"
   },
+  "x.viewList": {
+    "description": "",
+    "message": "Visualizzando lista:"
+  },
   "x.viewMedia": {
     "description": "",
     "message": "Visualizzando i media di:"
