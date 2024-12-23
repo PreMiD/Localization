@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD er einfalt, stillanlegt tól sem gerir þér kleift að sýna hvað þú ert að gera á vefnum í Discord-stöðunni sem þú spilar núna.\n\nTil dæmis, þegar þú byrjar að horfa á myndband á YouTube, grípur viðbótin okkar allar nauðsynlegar upplýsingar af síðunni og sendir þær í forritið okkar, sem síðan stillir stöðuna á Discord prófílnum þínum.\n\nPreMiD styður meira en 500 vefsíður og er enn í gangi þökk sé sterku samfélagi sínu sem bætir við nýjum viðverum á hverjum degi.\n\nTil að nota PreMiD þarftu að bæta við þessari viðbót og setja upp opinbera PreMiD forritið sem er að finna á vefsíðunni okkar. Þetta er vegna takmarkana á því hvernig Rich Presence SDK hjá Discord virkar.\n\n{0} Vefsíðan okkar\n{1}\n\n{3} Discord server-inn okkar\n{4}\n\n{5} Bilanagreining\n{6}\n\n{7} GitHub prófíllinn okkar\n{8}\n\n{9} Styrktu\n{10}\n\nEf þér líkar við PreMiD, vinsamlegast skildu eftir umsögn, deildu því með vinum þínum eða styrktu okkur."
+    "message": "PreMiD er einfalt, stillanlegt tól sem gerir þér kleift að sýna hvað þú ert að gera á vefnum í Discord-stöðunni sem þú spilar núna.\n\nTil dæmis, þegar þú byrjar að horfa á myndband á YouTube, grípur viðbótin okkar allar nauðsynlegar upplýsingar af síðunni og sendir þær í forritið okkar, sem síðan stillir stöðuna á Discord prófílnum þínum.\n\nPreMiD styður meira en 500 vefsíður og er enn í gangi þökk sé sterku samfélagi sínu sem bætir við nýjum viðverum á hverjum degi.\n\nTil að nota PreMiD þarftu að bæta við þessari viðbót og setja upp opinbera PreMiD forritið sem er að finna á vefsíðunni okkar. Þetta er vegna takmarkana á því hvernig Rich Presence SDK hjá Discord virkar.\n\n{0} Vefsíðan okkar\n{1}\n\n{3} Discord server-inn okkar\n{4}\n\n{5} Bilanagreining\n{6}\n\n{7} GitHub prófíllinn okkar\n{8}\n\n{9} Styrktu\n{10}\n\nEf þér líkar við PreMiD, vinsamlegast skildu eftir umsögn, deildu því með vinum þínum eða styrktu okkur.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Rich Presence þitt fyrir vefsíður!"
+    "message": "Rich Presence þitt fyrir vefsíður!",
+    "description": "Short description in extension store"
   }
 }
