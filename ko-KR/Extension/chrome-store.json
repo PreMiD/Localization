@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD는 내가 웹에서 무엇을 하고 있는지 Discord의 게임 하는 중 상태에서 보여주게 해주는 간단하고, 구성 가능한 유틸리티 프로그램이에요.\n\n예를 들어, YouTube 동영상을 시청하기 시작하면 저희 확장 프로그램이 페이지에서 필요한 모든 정보를 수집하고 앱으로 보낸 후, Discord 프로필 상태를 설정해요.\n\nPremid는 웹사이트 500개 이상을 지원하고 매일 신규 Presence를 추가하는 강력한 커뮤니티 덕분에 여전히 운영되고 있어요.\n\nPreMiD를 사용하려면, 이 확장 프로그램을 추가하고 저희 사이트에 있는 공식 PreMiD 앱을 설치해야 해요. 이러한 까닭은 Discord의 Rich Presence SDK의 작동 방식에 제약이 있기 때문이에요.\n\n{0} 저희의 웹사이트\n{1}\n\n{3} Discord 서버\n{4}\n\n{5} 문제 해결하기\n{6}\n\n{7} GitHub organization\n{8}\n\n{9} 후원\n{10}\n\nPremid가 마음에 드신다면, 리뷰를 남겨주시거나, 친구 분께 공유해 주시거나, 후원해 주세요."
+    "message": "PreMiD는 내가 웹에서 무엇을 하고 있는지 Discord의 게임 하는 중 상태에서 보여주게 해주는 간단하고, 구성 가능한 유틸리티 프로그램이에요.\n\n예를 들어, YouTube 동영상을 시청하기 시작하면 저희 확장 프로그램이 페이지에서 필요한 모든 정보를 수집하고 앱으로 보낸 후, Discord 프로필 상태를 설정해요.\n\nPremid는 웹사이트 500개 이상을 지원하고 매일 신규 Presence를 추가하는 강력한 커뮤니티 덕분에 여전히 운영되고 있어요.\n\nPreMiD를 사용하려면, 이 확장 프로그램을 추가하고 저희 사이트에 있는 공식 PreMiD 앱을 설치해야 해요. 이러한 까닭은 Discord의 Rich Presence SDK의 작동 방식에 제약이 있기 때문이에요.\n\n{0} 저희의 웹사이트\n{1}\n\n{3} Discord 서버\n{4}\n\n{5} 문제 해결하기\n{6}\n\n{7} GitHub organization\n{8}\n\n{9} 후원\n{10}\n\nPremid가 마음에 드신다면, 리뷰를 남겨주시거나, 친구 분께 공유해 주시거나, 후원해 주세요.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "웹 서비스에서의 나만의 Rich Presence!"
+    "message": "웹 서비스에서의 나만의 Rich Presence!",
+    "description": "Short description in extension store"
   }
 }
