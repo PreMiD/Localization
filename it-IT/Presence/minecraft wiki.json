@@ -3,9 +3,25 @@
     "description": "Displayed when changing protection settings for a wiki page.",
     "message": "Modifica delle impostazioni di protezione per:"
   },
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "Spostando:"
+  },
   "minecraft wiki.viewContributionsOf": {
     "description": "Displayed when viewing the contributions from a user.",
     "message": "Visualizzando i contributi di:"
+  },
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "Visualizzando cronologia:"
+  },
+  "minecraft wiki.viewProtection": {
+    "description": "Displayed when viewing the protection settings of a wiki page.",
+    "message": "Visualizzando le impostazioni di protezione di:"
+  },
+  "minecraft wiki.viewRecentChanges": {
+    "description": "Displayed when viewing recent changes.",
+    "message": "Visualizzando modifiche recenti"
   },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
