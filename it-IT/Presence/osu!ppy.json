@@ -1,4 +1,28 @@
 {
+	"osu!ppy.beatmapListing": {
+		"description": "Displayed when viewing all beatmaps.",
+		"message": "Visualizzando liste di beatmap"
+	},
+	"osu!ppy.beatmapLooking": {
+		"description": "Displayed when looking at a beatmap.",
+		"message": "Guardando il beatmap"
+	},
+	"osu!ppy.beatmapPacks": {
+		"description": "Displayed when viewing all beatmap packs.",
+		"message": "Visualizzando pacchetti di beatmap"
+	},
+	"osu!ppy.beatmapRankings": {
+		"description": "Displayed when viewing Kudosu Rankings.",
+		"message": "Visualizzando le classifiche di kudosu"
+	},
+	"osu!ppy.buttonViewBeatmap": {
+		"description": "Displayed for a button to redirect to the beatmap page.",
+		"message": "Vedi Beatmap"
+	},
+	"osu!ppy.countryRankings": {
+		"description": "Country rankings {0} = gamemode. E.g. Country Rankings [osu!]",
+		"message": "Classifiche dei paesi [{0}]"
+	},
 	"osu!ppy.for": {
 		"description": "{0} = country/for All, {1} = gamemode. E.g. Performance Rankings (for All) [osu!]",
 		"message": "(per {0}) [{1}]"
@@ -10,6 +34,10 @@
 	"osu!ppy.scoreRankings": {
 		"description": "{0} = gamemode. E.g. Score Rankings [osu!]",
 		"message": "Classifica dei punteggi [{0}]"
+	},
+	"osu!ppy.spotlights": {
+		"description": "{0} = gamemode, {1} = All/Friends. E.g. The osu! Spotlights (All)",
+		"message": "Gli spotlight di {0} ({1})"
 	},
 	"osu!ppy.support": {
 		"description": "Displayed when viewing the support page.",
