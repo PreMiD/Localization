@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD on yksinkertainen ja helposti muokattava apuohjelma, jonka avulla voit näyttää Discordin pelitilassa, mitä teet verkossa.\n\nEsimerkiksi katsoessasi YouTube-videota laajennuksemme nappaa kaikki tarvittavat tiedot nettisivulta ja lähettää ne sovelluksellemme, joka taas asettaa sen Discord-profiilisi tilaan.\n\nPreMiD tukee yli 500 nettisivua ja laajenee edelleen kiitos vahvan yhteisön, joka lisää uusia presencejä joka päivä.\n\nKäyttääksesi PreMiDiä sinun tulee asentaa tämä laajennus sekä virallinen PreMiD-sovellus joka löytyy nettisivuiltamme. Tämä johtuu Discordin Rich Presencen toimintaan liittyvistä rajoituksista.\n\n{0} Nettisivumme\n{1}\n\n{3} Discord-palvelimemme\n{4}\n\n{5} Vianetsintä\n{6}\n\n{7} Github\n{8}\n\n{9} Lahjoita\n{10}\n\nJos pidät PreMiDistä, jätäthän arvostelun ja kerrot siitä kaikille kavereillesi, tai lahjoita."
+    "message": "PreMiD on yksinkertainen ja helposti muokattava apuohjelma, jonka avulla voit näyttää Discordin pelitilassa, mitä teet verkossa.\n\nEsimerkiksi katsoessasi YouTube-videota laajennuksemme nappaa kaikki tarvittavat tiedot nettisivulta ja lähettää ne sovelluksellemme, joka taas asettaa sen Discord-profiilisi tilaan.\n\nPreMiD tukee yli 500 nettisivua ja laajenee edelleen kiitos vahvan yhteisön, joka lisää uusia presencejä joka päivä.\n\nKäyttääksesi PreMiDiä sinun tulee asentaa tämä laajennus sekä virallinen PreMiD-sovellus joka löytyy nettisivuiltamme. Tämä johtuu Discordin Rich Presencen toimintaan liittyvistä rajoituksista.\n\n{0} Nettisivumme\n{1}\n\n{3} Discord-palvelimemme\n{4}\n\n{5} Vianetsintä\n{6}\n\n{7} Github\n{8}\n\n{9} Lahjoita\n{10}\n\nJos pidät PreMiDistä, jätäthän arvostelun ja kerrot siitä kaikille kavereillesi, tai lahjoita.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "PreMiD lisää Discord Rich Presence -integraation, medianäppäintuen ja paljon muuta rakastettuihin palveluihisi!"
+    "message": "PreMiD lisää Discord Rich Presence -integraation, medianäppäintuen ja paljon muuta rakastettuihin palveluihisi!",
+    "description": "Short description in extension store"
   }
 }
