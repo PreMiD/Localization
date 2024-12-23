@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD là một tiện ích đơn giản, dễ chỉnh sửa cho phép bạn hiển thị những gì bạn đang làm trên web trong mục trạng thái của Discord.\n\nVí dụ, khi bạn bắt đầu xem một video trên YouTube, tiện ích của chúng tôi lấy tất cả thông tin cần thiết từ trang web và gửi chúng tới ứng dụng của chúng tôi, mà sau đó đặt làm trạng thái trên hồ sơ Discord của bạn.\n\nPreMiD hỗ trợ hơn 500 trang web và vẫn tiếp tục tăng nhờ vào cộng đồng mạnh mẽ làm thêm nhiều Presence mới mỗi ngày.\n\nĐể sử dụng PreMiD, bạn cần phải thêm tiện ích mở rộng này và cài đặt ứng dụng PreMiD chính thức có thể tìm thấy được trên trang web của chúng tôi. Điều này là do sự ràng buộc ở cái cách mà Rich Presence SDK của Discord hoạt động.\n\n{0} Trang Web của chúng tôi\n{1}\n\n{3} Máy chủ Discord của chúng tôi\n{4}\n\n{5} Hướng dẫn xử lý vấn đề\n{6}\n\n{7} Tổ chức GitHub của chúng tôi\n{8}\n\n{9} Quyên góp\n{10}\n\nNếu bạn yêu thích PreMiD, xin hãy để lại một lời đánh giá, chia sẻ nó với bạn bè của bạn, hoặc quyên góp."
+    "message": "PreMiD là một tiện ích đơn giản, dễ chỉnh sửa cho phép bạn hiển thị những gì bạn đang làm trên web trong mục trạng thái của Discord.\n\nVí dụ, khi bạn bắt đầu xem một video trên YouTube, tiện ích của chúng tôi lấy tất cả thông tin cần thiết từ trang web và gửi chúng tới ứng dụng của chúng tôi, mà sau đó đặt làm trạng thái trên hồ sơ Discord của bạn.\n\nPreMiD hỗ trợ hơn 500 trang web và vẫn tiếp tục tăng nhờ vào cộng đồng mạnh mẽ làm thêm nhiều Presence mới mỗi ngày.\n\nĐể sử dụng PreMiD, bạn cần phải thêm tiện ích mở rộng này và cài đặt ứng dụng PreMiD chính thức có thể tìm thấy được trên trang web của chúng tôi. Điều này là do sự ràng buộc ở cái cách mà Rich Presence SDK của Discord hoạt động.\n\n{0} Trang Web của chúng tôi\n{1}\n\n{3} Máy chủ Discord của chúng tôi\n{4}\n\n{5} Hướng dẫn xử lý vấn đề\n{6}\n\n{7} Tổ chức GitHub của chúng tôi\n{8}\n\n{9} Quyên góp\n{10}\n\nNếu bạn yêu thích PreMiD, xin hãy để lại một lời đánh giá, chia sẻ nó với bạn bè của bạn, hoặc quyên góp.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Rich Presence cho các dịch vụ web của bạn!"
+    "message": "Rich Presence cho các dịch vụ web của bạn!",
+    "description": "Short description in extension store"
   }
 }
