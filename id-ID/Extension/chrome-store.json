@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD adalah utilitas sederhana dan bisa dikonfigurasi yang memungkinkan kamu untuk menunjukkan apa yang kamu lakukan di web dalam status now playing Discord.\n\nContohnya, ketika kamu menonton video di YouTube, ekstensi kami mengambil seluruh informasi yang dibutuhkan dari halaman dan mengirimnya ke aplikasi kami, lalu setelahnya akan merubah status Discordmu.\n\nPreMiD mendukung lebih dari 500 website dan masih berkembang, terimakasih kepada komunitas kami yang kuat menambahkan Presence baru setiap hari.\n\nUntuk menggunakan PreMiD, kamu harus menambahkan ekstensi ini dan memasang aplikasi PreMiD yang kamu temukan di website kami. Alasannya karena Discord Rich presence SDK bekerja seperti itu.\n\n{0} Website Kami\n{1}\n\n{3} Server Discord Kami\n{4}\n\n{5} Memecahkan Masalah\n{6}\n\n{7} Organisasi GitHub Kami\n{8}\n\n{9} Donasi\n{10}\n\nJika kamu suka PreMiD, mohon tinggalkan ulasan, bagikan dengan temanmu, atau donasi."
+    "message": "PreMiD adalah utilitas sederhana dan bisa dikonfigurasi yang memungkinkan kamu untuk menunjukkan apa yang kamu lakukan di web dalam status now playing Discord.\n\nContohnya, ketika kamu menonton video di YouTube, ekstensi kami mengambil seluruh informasi yang dibutuhkan dari halaman dan mengirimnya ke aplikasi kami, lalu setelahnya akan merubah status Discordmu.\n\nPreMiD mendukung lebih dari 500 website dan masih berkembang, terimakasih kepada komunitas kami yang kuat menambahkan Presence baru setiap hari.\n\nUntuk menggunakan PreMiD, kamu harus menambahkan ekstensi ini dan memasang aplikasi PreMiD yang kamu temukan di website kami. Alasannya karena Discord Rich presence SDK bekerja seperti itu.\n\n{0} Website Kami\n{1}\n\n{3} Server Discord Kami\n{4}\n\n{5} Memecahkan Masalah\n{6}\n\n{7} Organisasi GitHub Kami\n{8}\n\n{9} Donasi\n{10}\n\nJika kamu suka PreMiD, mohon tinggalkan ulasan, bagikan dengan temanmu, atau donasi.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Rich Presencemu untuk Layanan Web!"
+    "message": "Rich Presencemu untuk Layanan Web!",
+    "description": "Short description in extension store"
   }
 }
