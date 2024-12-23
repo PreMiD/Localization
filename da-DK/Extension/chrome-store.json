@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD er et simpelt, konfigurerbart værktøj, som giver dig mulighed for at vise, hvad du gør på internettet i din Discord spiller nu status.\n\nFor eksempel, når du begynder at se en video på YouTube, så anskaffer vores udvidelse al den nødvendige information fra siden og sender det til vores applikation, der indstiller statussen på din Discord profil.\n\nPreMiD understøtter mere end 500 websteder og fortsætter takket være sit stærke fællesskab som tilføjer nye Presences hver dag.\n\nFor at bruge PreMiD, er du nød til at tilføje denne udvidelse og installere den officielle PreMiD-applikation fundet på vores websted. Dette skyldes begrænsninger i den måde Discord’s Rich Presence SDK fungerer.\n\n{0} Vores websted\n{1}\n\n{3} Vores Discord Server\n{4}\n\n{5} Fejlfinding\n{6}\n\n{7} Vores GitHub organisation\n{8}\n\n{9} Doner\n{10}\n\nHvis du elsker PreMiD, venligst efterlad en anmeldelse, del det med dine venner, eller doner."
+    "message": "PreMiD er et simpelt, konfigurerbart værktøj, som giver dig mulighed for at vise, hvad du gør på internettet i din Discord spiller nu status.\n\nFor eksempel, når du begynder at se en video på YouTube, så anskaffer vores udvidelse al den nødvendige information fra siden og sender det til vores applikation, der indstiller statussen på din Discord profil.\n\nPreMiD understøtter mere end 500 websteder og fortsætter takket være sit stærke fællesskab som tilføjer nye Presences hver dag.\n\nFor at bruge PreMiD, er du nød til at tilføje denne udvidelse og installere den officielle PreMiD-applikation fundet på vores websted. Dette skyldes begrænsninger i den måde Discord’s Rich Presence SDK fungerer.\n\n{0} Vores websted\n{1}\n\n{3} Vores Discord Server\n{4}\n\n{5} Fejlfinding\n{6}\n\n{7} Vores GitHub organisation\n{8}\n\n{9} Doner\n{10}\n\nHvis du elsker PreMiD, venligst efterlad en anmeldelse, del det med dine venner, eller doner.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Dit Rich Presence for webtjenester!"
+    "message": "Dit Rich Presence for webtjenester!",
+    "description": "Short description in extension store"
   }
 }

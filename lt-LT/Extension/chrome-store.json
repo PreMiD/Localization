@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD yra įprastas įrankis, kuris jūsų Discord profilyje parodo, ką darote įvairiose svetainėse.\n\nPvz., kai pradedate žiūrėti vaizdo įrašą, plėtinys sugriebia visą reikiamą informaciją iš puslapio ir siunčia ją mūsų programai, kuri nustato jūsų būseną jūsų Discord profilyje.\n\nPreMiD palaiko daugiau nei 500 svetainių. Šis skaičius tik didėja stiprios bendruomenės dėka, kuri kiekvieną dieną prideda naujų statusų.\n\nNorėdami naudoti „PreMiD“, turite pridėti šį plėtinį ir įdiegti oficialią „PreMiD“ programą, kurią rasite mūsų svetainėje. Taip yra dėl „Discord's Rich Presence SDK“ veikimo apribojimų.\n\n{0} Mūsų svetainė\n{1}\n\n{3} Mūsų \"Discord\" serveris\n{4}\n\n{5} Problemų gidas\n{6}\n\n{7} GitHub organizacija\n{8}\n\n{9} Paremti\n{10}\n\nJeigu jums patinka „PreMiD“, palikite atsiliepimą, išplatinkite jį savo draugams arba paremkite."
+    "message": "PreMiD yra įprastas įrankis, kuris jūsų Discord profilyje parodo, ką darote įvairiose svetainėse.\n\nPvz., kai pradedate žiūrėti vaizdo įrašą, plėtinys sugriebia visą reikiamą informaciją iš puslapio ir siunčia ją mūsų programai, kuri nustato jūsų būseną jūsų Discord profilyje.\n\nPreMiD palaiko daugiau nei 500 svetainių. Šis skaičius tik didėja stiprios bendruomenės dėka, kuri kiekvieną dieną prideda naujų statusų.\n\nNorėdami naudoti „PreMiD“, turite pridėti šį plėtinį ir įdiegti oficialią „PreMiD“ programą, kurią rasite mūsų svetainėje. Taip yra dėl „Discord's Rich Presence SDK“ veikimo apribojimų.\n\n{0} Mūsų svetainė\n{1}\n\n{3} Mūsų \"Discord\" serveris\n{4}\n\n{5} Problemų gidas\n{6}\n\n{7} GitHub organizacija\n{8}\n\n{9} Paremti\n{10}\n\nJeigu jums patinka „PreMiD“, palikite atsiliepimą, išplatinkite jį savo draugams arba paremkite.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Jūsų Rich presence interneto paslaugoms!"
+    "message": "Jūsų Rich presence interneto paslaugoms!",
+    "description": "Short description in extension store"
   }
 }

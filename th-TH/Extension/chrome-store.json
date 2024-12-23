@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "Rich Presence สำหรับเว็บบริการของคุณ!\nPreMiD เป็นยูทิลิตี้ขนาดเล็กที่ให้คุณแสดงสิ่งที่คุณทำบนเว็บไซต์ในโปรไฟล์ Discord ของคุณโดยใช้ Rich Presence SDK ของ Discord. เมื่อคุณเริ่มดูวิดีโอตัวอย่างเช่นส่วนขยายจะดึงข้อมูลทั้งหมดที่จำเป็นจากหน้าเว็บไซต์ และ ส่งไปยังแอปพลิเคชันของเราเพื่อตั้งสถานะในโปรไฟล์ Discord ของคุณ.\n\nPreMiD รองรับเว็บไซต์แล้วมากกว่า 500 เว็บไซต์ และ ยังคงขอบคุณชุมชนที่เพิ่มสถานะใหม่ๆมาทุกวัน\n\nวิธีใช้ PreMiD คุณต้องเพิ่มส่วนขยาย และ ติดตั้งโปรแกรม PreMiD โหลดได้ที่เว็บไซต์ของเรา. อาจจะมีข้อจำกัดในการใช้งาน Rich Presence SDK ของ Discord.\n\n{0} เว็บไซต์ของเรา\n{1}\n\n{3} เซิร์ฟเวอร์ Discord ของเรา\n{4}\n\n{5} วิธีการแก้ไขปัญหา\n{6} \n\n{7} องค์กรของเราบน Github\n{8} \n\n{9} บริจาค\n{10}\n\nถ้าคุณรัก PreMiD โปรดออกความคิดเห็น, แชร์ไปให้เพื่อนๆของคุณ, หรือ บริจาค"
+    "message": "Rich Presence สำหรับเว็บบริการของคุณ!\nPreMiD เป็นยูทิลิตี้ขนาดเล็กที่ให้คุณแสดงสิ่งที่คุณทำบนเว็บไซต์ในโปรไฟล์ Discord ของคุณโดยใช้ Rich Presence SDK ของ Discord. เมื่อคุณเริ่มดูวิดีโอตัวอย่างเช่นส่วนขยายจะดึงข้อมูลทั้งหมดที่จำเป็นจากหน้าเว็บไซต์ และ ส่งไปยังแอปพลิเคชันของเราเพื่อตั้งสถานะในโปรไฟล์ Discord ของคุณ.\n\nPreMiD รองรับเว็บไซต์แล้วมากกว่า 500 เว็บไซต์ และ ยังคงขอบคุณชุมชนที่เพิ่มสถานะใหม่ๆมาทุกวัน\n\nวิธีใช้ PreMiD คุณต้องเพิ่มส่วนขยาย และ ติดตั้งโปรแกรม PreMiD โหลดได้ที่เว็บไซต์ของเรา. อาจจะมีข้อจำกัดในการใช้งาน Rich Presence SDK ของ Discord.\n\n{0} เว็บไซต์ของเรา\n{1}\n\n{3} เซิร์ฟเวอร์ Discord ของเรา\n{4}\n\n{5} วิธีการแก้ไขปัญหา\n{6} \n\n{7} องค์กรของเราบน Github\n{8} \n\n{9} บริจาค\n{10}\n\nถ้าคุณรัก PreMiD โปรดออกความคิดเห็น, แชร์ไปให้เพื่อนๆของคุณ, หรือ บริจาค",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "PreMiD เพิ่ม Rich Presence ของ Discord  , การควบคุมมีเดีย และอีกมากมายเพื่อเว็บไซต์โปรดของคุณ"
+    "message": "Rich Presence ของคุณสำหรับเว็บไซต์ต่างๆ",
+    "description": "Short description in extension store"
   }
 }

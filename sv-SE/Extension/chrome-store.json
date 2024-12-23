@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD är ett verktyg som låter dig visa vad du håller på med på olika hemsidor, rakt in på din Discord profil med hjälp av Discords Rich Presence system. När du till exempel börjar titta på en video så tar tillägget all den info som behövs från hemsidan och skickar över det till våran app, som sedan sätter din status i Discord.\n\nPreMiD stöder mer än 250 hemsidor och växer fortfarande tack vare det starka community som lägger till nya Precences varje dag.\n\nFör att använda PreMiD måste du lägga till detta tillägget och ladda ner den officiella PreMiD appen som du kan hitta på vår hemsida. Detta beror på begränsningar i sättet som Discord fungerar.\n\n{0} Vår Hemsida\n{1}\n\n{3} Vår Discord Server\n{4}\n\n{5} Felsökning\n{6}\n\n{7} Vår GitHub organisation\n{8}\n\n{9} Donera\n{10}\n\nOm du älskar PreMid så ge oss en recension, sprid det bland dina vänner eller donera."
+    "message": "PreMiD är ett verktyg som låter dig visa vad du håller på med på olika hemsidor, rakt in på din Discord profil med hjälp av Discords Rich Presence system. När du till exempel börjar titta på en video så tar tillägget all den info som behövs från hemsidan och skickar över det till våran app, som sedan sätter din status i Discord.\n\nPreMiD stöder mer än 250 hemsidor och växer fortfarande tack vare det starka community som lägger till nya Precences varje dag.\n\nFör att använda PreMiD måste du lägga till detta tillägget och ladda ner den officiella PreMiD appen som du kan hitta på vår hemsida. Detta beror på begränsningar i sättet som Discord fungerar.\n\n{0} Vår Hemsida\n{1}\n\n{3} Vår Discord Server\n{4}\n\n{5} Felsökning\n{6}\n\n{7} Vår GitHub organisation\n{8}\n\n{9} Donera\n{10}\n\nOm du älskar PreMid så ge oss en recension, sprid det bland dina vänner eller donera.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Dina Rich Presence för webbtjänster!"
+    "message": "Dina Rich Presence för webbtjänster!",
+    "description": "Short description in extension store"
   }
 }

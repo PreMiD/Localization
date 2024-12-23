@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD je jednoduchý, konfigurovatelný nástroj, který Ti umožňuje ukázat, co děláš na webu v Discord statusu na Tvém profilu.\n\nNapříklad, když začneš sledovat video na YouTube, naše rozšíření získá všechny potřebné informace ze stránky a odešle je do naší aplikace, která poté nastaví Discord status na Tvém profilu.\n\nPreMiD podporuje více než 500 webových stránek a počet se stále rozšiřuje díky své silné komunitě, která každý den přidává nové Presence.\n\nPro použití PreMiDu je třeba přidat toto rozšíření a nainstalovat oficiální PreMiD aplikaci, kterou najdeš na našem webu. Je to kvůli omezením způsobu, jakým funguje Discord Rich Presence SDK.\n\n{0} Náš Web\n{1}\n\n{3} Náš Discord Server\n{4}\n\n{5} Řešení Problémů\n{6}\n\n{7} Naše organizace na GitHubu\n{8}\n\n{9} Donate\n{10}\n\nPokud máte rádi PreMiD, zanechte prosím recenzi, sdílejte se svými přáteli nebo pošlete donate."
+    "message": "PreMiD je jednoduchý, konfigurovatelný nástroj, který Ti umožňuje ukázat, co děláš na webu v Discord statusu na Tvém profilu.\n\nNapříklad, když začneš sledovat video na YouTube, naše rozšíření získá všechny potřebné informace ze stránky a odešle je do naší aplikace, která poté nastaví Discord status na Tvém profilu.\n\nPreMiD podporuje více než 500 webových stránek a počet se stále rozšiřuje díky své silné komunitě, která každý den přidává nové Presence.\n\nPro použití PreMiDu je třeba přidat toto rozšíření a nainstalovat oficiální PreMiD aplikaci, kterou najdeš na našem webu. Je to kvůli omezením způsobu, jakým funguje Discord Rich Presence SDK.\n\n{0} Náš Web\n{1}\n\n{3} Náš Discord Server\n{4}\n\n{5} Řešení Problémů\n{6}\n\n{7} Naše organizace na GitHubu\n{8}\n\n{9} Donate\n{10}\n\nPokud máte rádi PreMiD, zanechte prosím recenzi, sdílejte se svými přáteli nebo pošlete donate.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Tvá bohatá přítomnost pro webové služby!"
+    "message": "Tvá bohatá přítomnost pro webové služby!",
+    "description": "Short description in extension store"
   }
 }

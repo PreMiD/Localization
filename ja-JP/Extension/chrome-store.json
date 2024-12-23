@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "使用するにはアプリケーションをインストールする必要があります！\nウェブサイト:{0} https://PreMiD.app{1}\n\nPreMiDはブラウザ内で何をしているかをDiscordのゲームプレイステータスに表示できるようにするアプリです。\n\n拡張機能が対応しているサービスの利用を検知すると、そのページに表示されている情報を取得してPreMiDのアプリケーションに送信し、Discordにゲームのステータスを表示します。\n\n\nアプリをダウンロードしたい？表示できるサイトをストアで増やしたい？\n{0} PreMiDのウェブサイト\n{1}\n\nPreMiDの作者と話せるかも？\n{3} Discordサーバー\n{4}\n\n困ったことがあったら\n{5} トラブルシューティング\n{6}\n\nPreMiDはオープンソース！素晴らしいものは公開されるべきです。\n{7} GitHub\n{8}\n\nPreMiDを気に入りましたか？\n{9} 寄付\n{10}"
+    "message": "使用するにはアプリケーションをインストールする必要があります！\nウェブサイト:{0} https://PreMiD.app{1}\n\nPreMiDはブラウザ内で何をしているかをDiscordのゲームプレイステータスに表示できるようにするアプリです。\n\n拡張機能が対応しているサービスの利用を検知すると、そのページに表示されている情報を取得してPreMiDのアプリケーションに送信し、Discordにゲームのステータスを表示します。\n\n\nアプリをダウンロードしたい？表示できるサイトをストアで増やしたい？\n{0} PreMiDのウェブサイト\n{1}\n\nPreMiDの作者と話せるかも？\n{3} Discordサーバー\n{4}\n\n困ったことがあったら\n{5} トラブルシューティング\n{6}\n\nPreMiDはオープンソース！素晴らしいものは公開されるべきです。\n{7} GitHub\n{8}\n\nPreMiDを気に入りましたか？\n{9} 寄付\n{10}",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "PreMiDはDiscord Rich Presenceでの通知やメディアコントロール機能などをあなたの最愛のサービスに追加します。"
+    "message": "PreMiDはDiscord Rich Presenceでの通知やメディアコントロール機能などをあなたの最愛のサービスに追加します。",
+    "description": "Short description in extension store"
   }
 }

@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD, internet servislerinde ne yaptığınızı Discord oynuyor durumunuzda göstermenizi sağlayan basit, ayarlanabilir bir programdır.\n\nÖrneğin, YouTube'da video izlemeye başladığında, eklentimiz o sayfadaki bilgileri alır ve uygulamamıza gönderir, uygulamamız da bu bilgileri Discord'a göndererek profilinizde görüntülenmesini sağlar.\n\nPreMiD şimdiden 500'den fazla servisi ve topluluğumuz sayesinde her geçen gün eklenen yeni servisler ile daha çok servisi de desteklemeye doğru gidiyor.\n\nPreMiD'i kullanabilmek için internet sitemizden tarayıcı eklentimizi eklemeli ve uygulamamızı indirmelisiniz. Uygulamaya ihtiyaç olmasının nedeni, Discord'un böyle gerektirmesidir.\n\n{0} İnternet Sitemiz\n{1}\n\n{3} Discord Sunucumuz\n{4}\n\n{5} Sorun Giderme\n{6}\n\n{7} GitHub Organizasyonumuz\n{8}\n\n{9} Bağış\n{10}\n\nEğer PreMiD hoşunuza giderse lütfen bir inceleme bırakın, arkadaşlarınızla paylaşın veya bağış yapın."
+    "message": "PreMiD, internet servislerinde ne yaptığınızı Discord oynuyor durumunuzda göstermenizi sağlayan basit, ayarlanabilir bir programdır.\n\nÖrneğin, YouTube'da video izlemeye başladığında, eklentimiz o sayfadaki bilgileri alır ve uygulamamıza gönderir, uygulamamız da bu bilgileri Discord'a göndererek profilinizde görüntülenmesini sağlar.\n\nPreMiD şimdiden 500'den fazla servisi ve topluluğumuz sayesinde her geçen gün eklenen yeni servisler ile daha çok servisi de desteklemeye doğru gidiyor.\n\nPreMiD'i kullanabilmek için internet sitemizden tarayıcı eklentimizi eklemeli ve uygulamamızı indirmelisiniz. Uygulamaya ihtiyaç olmasının nedeni, Discord'un böyle gerektirmesidir.\n\n{0} İnternet Sitemiz\n{1}\n\n{3} Discord Sunucumuz\n{4}\n\n{5} Sorun Giderme\n{6}\n\n{7} GitHub Organizasyonumuz\n{8}\n\n{9} Bağış\n{10}\n\nEğer PreMiD hoşunuza giderse lütfen bir inceleme bırakın, arkadaşlarınızla paylaşın veya bağış yapın.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "İnternet servisleri için Discord durumu!"
+    "message": "İnternet servisleri için Discord durumu!",
+    "description": "Short description in extension store"
   }
 }

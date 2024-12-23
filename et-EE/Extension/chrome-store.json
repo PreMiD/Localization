@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD on lihtne ja konfigureeritav utiliit, mis võimaldab teil Discordis praegu esitatavas olekus näidata, mida te veebis teete.\n\nNäiteks kui hakkate YouTube'is videot vaatama, haarab meie laiendus lehelt kogu vajaliku teabe ja saadab selle meie rakendusele, mis seejärel määrab teie Discordi profiili oleku.\n\nPreMiD toetab enam kui 500 veebisaiti ja töötab endiselt tänu oma tugevale kogukonnale, mis lisab iga päev uusi olekuid.\n\nPreMiD kasutamiseks peate lisama selle laienduse ja installima meie veebisaidilt leitud ametliku PreMiD rakenduse. Selle põhjuseks on piirangud Discordi Rich Presence-i SDK toimimisel.\n\n{0} Meie veebisait\n{1}\n\n{3} Meie Discord-i server\n{4}\n\n{5} Veaotsing\n{6}\n\n{7} Meie GitHubi organisatsioon\n{8}\n\n{9} Anneta\n{10}\n\nKui teile meeldib PreMiD, jätke arvustus, jagage seda oma sõpradega või annetage."
+    "message": "PreMiD on lihtne ja konfigureeritav utiliit, mis võimaldab teil Discordis praegu esitatavas olekus näidata, mida te veebis teete.\n\nNäiteks kui hakkate YouTube'is videot vaatama, haarab meie laiendus lehelt kogu vajaliku teabe ja saadab selle meie rakendusele, mis seejärel määrab teie Discordi profiili oleku.\n\nPreMiD toetab enam kui 500 veebisaiti ja töötab endiselt tänu oma tugevale kogukonnale, mis lisab iga päev uusi olekuid.\n\nPreMiD kasutamiseks peate lisama selle laienduse ja installima meie veebisaidilt leitud ametliku PreMiD rakenduse. Selle põhjuseks on piirangud Discordi Rich Presence-i SDK toimimisel.\n\n{0} Meie veebisait\n{1}\n\n{3} Meie Discord-i server\n{4}\n\n{5} Veaotsing\n{6}\n\n{7} Meie GitHubi organisatsioon\n{8}\n\n{9} Anneta\n{10}\n\nKui teile meeldib PreMiD, jätke arvustus, jagage seda oma sõpradega või annetage.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Sinu staatus veebiteenustele!"
+    "message": "Sinu staatus veebiteenustele!",
+    "description": "Short description in extension store"
   }
 }

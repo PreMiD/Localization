@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD ialah utiliti yang mudah, mampu ditatarajah yang membolehkan anda menunjukkan apa anda buat di sesawang ke dalam status main di Discord anda.\n\nSebagai contoh, apabila anda mula menonton video di YouTube, sambungan kami mengambil kesemua maklumat yang diperlukan daripada halaman tersebut dan hantarkannya kepada aplikasi kami, yang kemudiannya menetapkan status di profil Discord anda.\n\nPreMiD menyokong lebih daripada 500 laman sesawang dan semakin berkembang kerana komunitinya yang kuat yang menambah Presence baharu setiap hari.\n\nUntuk menggunakan PreMiD, anda perlu tambahkan sambungan ini dan pasangkan aplikasi PreMiD rasmi yang boleh dijumpai di laman sesawang kami. Ini adalah kerana kekangan dalam cara SDK Rich Presence berfungsi dalam Discord.\n\n{0} Laman Sesawang Kami\n{1}\n\n{3} Pelayan Discord Kami\n{4}\n\n{5} Selesaikan Masalah\n{6}\n\n{7} Organisasi GitHub Kami\n{8}\n\n{9} Derma\n{10}\n\nJika anda suka PreMiD, sila tinggalkan ulasan, kongsikannya dengan rakan-rakan, atau derma."
+    "message": "PreMiD ialah utiliti yang mudah, mampu ditatarajah yang membolehkan anda menunjukkan apa anda buat di sesawang ke dalam status main di Discord anda.\n\nSebagai contoh, apabila anda mula menonton video di YouTube, sambungan kami mengambil kesemua maklumat yang diperlukan daripada halaman tersebut dan hantarkannya kepada aplikasi kami, yang kemudiannya menetapkan status di profil Discord anda.\n\nPreMiD menyokong lebih daripada 500 laman sesawang dan semakin berkembang kerana komunitinya yang kuat yang menambah Presence baharu setiap hari.\n\nUntuk menggunakan PreMiD, anda perlu tambahkan sambungan ini dan pasangkan aplikasi PreMiD rasmi yang boleh dijumpai di laman sesawang kami. Ini adalah kerana kekangan dalam cara SDK Rich Presence berfungsi dalam Discord.\n\n{0} Laman Sesawang Kami\n{1}\n\n{3} Pelayan Discord Kami\n{4}\n\n{5} Selesaikan Masalah\n{6}\n\n{7} Organisasi GitHub Kami\n{8}\n\n{9} Derma\n{10}\n\nJika anda suka PreMiD, sila tinggalkan ulasan, kongsikannya dengan rakan-rakan, atau derma.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Rich Presence anda untuk perkhidmatan sesawang!"
+    "message": "Rich Presence anda untuk perkhidmatan sesawang!",
+    "description": "Short description in extension store"
   }
 }

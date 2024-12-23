@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "A PreMiD egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad végzett tevékenységeket a Discord most játszik tevékenységi felületen.\n\nPéldául amikor elkezdesz nézni egy videót a YouTube-on, a bővítményünk lekérdezi az összes szükséges információt az oldalról, és elküldi az alkalmazásunknak, amely ezután beállítja a Discord profilod állapotát.\n\nA PreMiD több mint 500 weboldalt támogat, és még mindig megy, köszönhetően az erős közösségnek, amely minden nap új Presenceket ad hozzá.\n\nA PreMiD használatához hozzá kell adnod ezt a bővítményt, és telepítened kell a hivatalos PreMiD alkalmazást, amelyet a weboldalunkon találsz. Ez a Discord Rich Presence SDK működésének korlátai miatt van.\n\n{0} Weboldalunk\n{1}\n\n{3} Discord szerverünk\n{4}\n\n{5} Hibaelhárítás\n{6}\n\n{7} GitHub szervezetünk\n{8}\n\n{9} Adományozás\n{10}\n\nHa kedveled a PreMiD-et, kérlek, hagyj véleményt, oszd meg barátaiddal, vagy adományozz."
+    "message": "A PreMiD egy egyszerű, konfigurálható segédprogram, mely megjeleníti az általad végzett tevékenységeket a Discord most játszik tevékenységi felületen.\n\nPéldául amikor elkezdesz nézni egy videót a YouTube-on, a bővítményünk lekérdezi az összes szükséges információt az oldalról, és elküldi az alkalmazásunknak, amely ezután beállítja a Discord profilod állapotát.\n\nA PreMiD több mint 500 weboldalt támogat, és még mindig megy, köszönhetően az erős közösségnek, amely minden nap új Presenceket ad hozzá.\n\nA PreMiD használatához hozzá kell adnod ezt a bővítményt, és telepítened kell a hivatalos PreMiD alkalmazást, amelyet a weboldalunkon találsz. Ez a Discord Rich Presence SDK működésének korlátai miatt van.\n\n{0} Weboldalunk\n{1}\n\n{3} Discord szerverünk\n{4}\n\n{5} Hibaelhárítás\n{6}\n\n{7} GitHub szervezetünk\n{8}\n\n{9} Adományozás\n{10}\n\nHa kedveled a PreMiD-et, kérlek, hagyj véleményt, oszd meg barátaiddal, vagy adományozz.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "A Te Rich Presenced webes szolgáltatások számára!"
+    "message": "A Te Rich Presenced webes szolgáltatások számára!",
+    "description": "Short description in extension store"
   }
 }

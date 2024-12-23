@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD ir vienkārša, konfigurējama programma, kas ļauj jums redzēt, ko jūs darāt internetā, jūsu Discord tagad spēlējiet statusā.\n\nPiemēram, kad jūs sākat skatīties videoklipu YouTube, mūsu paplašinājums sagrābj visu nepieciešamo informāciju un nosūta to mūsu lietotnei, kas pēc tam iestata statusu jūsu Discord profilā.\n\nPreMiD atbalsta vairāk nekā 100 mājaslapas un joprojām darbojās, pateicoties spēcīgajai kopienai, kas pievieno jaunus Presences katru dienu.\n\nLai izmantotu PreMiD, jums jāpievieno šis paplašinājums un jāuzstāda oficiālā PreMiD lietotnei, kas atrodama mūsu mājaslapā. Tas ir saistīts ar Discord Rich Presence SDK darbības ierobežojumiem.\n\n{0} Mūsu Mājaslapa\n{1}\n\n{3} Mūsu Discord Serveris\n{4}\n\n{5} Problēmu novēršana\n{6}\n\n{7} Mūsu GitHub organizācija\n{8}\n\n{9} Ziedo\n{10}\n\nJa jūs mīlat PreMiD, lūdzu atstājiet atsauksmi, iesaki to saviem draugiem, vai noziedo."
+    "message": "PreMiD ir vienkārša, konfigurējama programma, kas ļauj jums redzēt, ko jūs darāt internetā, jūsu Discord tagad spēlējiet statusā.\n\nPiemēram, kad jūs sākat skatīties videoklipu YouTube, mūsu paplašinājums sagrābj visu nepieciešamo informāciju un nosūta to mūsu lietotnei, kas pēc tam iestata statusu jūsu Discord profilā.\n\nPreMiD atbalsta vairāk nekā 100 mājaslapas un joprojām darbojās, pateicoties spēcīgajai kopienai, kas pievieno jaunus Presences katru dienu.\n\nLai izmantotu PreMiD, jums jāpievieno šis paplašinājums un jāuzstāda oficiālā PreMiD lietotnei, kas atrodama mūsu mājaslapā. Tas ir saistīts ar Discord Rich Presence SDK darbības ierobežojumiem.\n\n{0} Mūsu Mājaslapa\n{1}\n\n{3} Mūsu Discord Serveris\n{4}\n\n{5} Problēmu novēršana\n{6}\n\n{7} Mūsu GitHub organizācija\n{8}\n\n{9} Ziedo\n{10}\n\nJa jūs mīlat PreMiD, lūdzu atstājiet atsauksmi, iesaki to saviem draugiem, vai noziedo.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Tavs Rich Presence priekš web pakalpojumiem!"
+    "message": "Tavs Rich Presence priekš web pakalpojumiem!",
+    "description": "Short description in extension store"
   }
 }

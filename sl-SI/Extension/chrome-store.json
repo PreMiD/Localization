@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD je majhen pripomoček, ki vam omogoča, da pokažete, kaj počnete na spletnih mestih v svojem profilu v Discord-u z uporabo Discordnega dodatka SDK.\n\nNa primer, ko začnete gledati videoposnetek ta razširitev vzame informacijo od spletne strani in pošlje to informacijo na našo aplikacijo, ki vam potem določa stanje na Discord profilu.\n\nPreMiD podpira več kot 500 spletnih strani ter še vedno delujoč zahvaljujoč svoji močni skupnosti, ki vsak dan dodajajo nove Dodatke.\n\nZa uporabo PreMiD-a rabite dodati to razširitev in namestiti uradno PreMiD aplikacijo, ki jo lahko najdete na naši spletni strani. To je posledica delovanja Discordnega dodatka SDK.\n\n{0} Naša spletna stran\n{1}\n\n{3} Naš Discord Strežnik\n{4}\n\n{5} Odpravljanje napak\n{6}\n\n{7} Naša GitHub organizacija\n{8}\n\n{9} Donirajte\n{10}\n\nČe imate radi PreMiD, prosimo napišite povratne informacije, delite ga s prijatelji, ali donirajte."
+    "message": "PreMiD je majhen pripomoček, ki vam omogoča, da pokažete, kaj počnete na spletnih mestih v svojem profilu v Discord-u z uporabo Discordnega dodatka SDK.\n\nNa primer, ko začnete gledati videoposnetek ta razširitev vzame informacijo od spletne strani in pošlje to informacijo na našo aplikacijo, ki vam potem določa stanje na Discord profilu.\n\nPreMiD podpira več kot 500 spletnih strani ter še vedno delujoč zahvaljujoč svoji močni skupnosti, ki vsak dan dodajajo nove Dodatke.\n\nZa uporabo PreMiD-a rabite dodati to razširitev in namestiti uradno PreMiD aplikacijo, ki jo lahko najdete na naši spletni strani. To je posledica delovanja Discordnega dodatka SDK.\n\n{0} Naša spletna stran\n{1}\n\n{3} Naš Discord Strežnik\n{4}\n\n{5} Odpravljanje napak\n{6}\n\n{7} Naša GitHub organizacija\n{8}\n\n{9} Donirajte\n{10}\n\nČe imate radi PreMiD, prosimo napišite povratne informacije, delite ga s prijatelji, ali donirajte.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Tvoj dodatek za spletne storitve!"
+    "message": "Tvoj dodatek za spletne storitve!",
+    "description": "Short description in extension store"
   }
 }

@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD je jednostavan, konfigurabilan uslužni program koji vam omogućuje da pokažete što radite na webu u vašem Discord statusu.\n\nNa primjer, kada počnete gledati video na YouTubeu, naše proširenje preuzima sve potrebne informacije sa stranice i šalje ih našoj aplikaciji, koja zatim postavlja status na vašem Discord profilu.\n\nPreMiD podržava više od 500 web stranica i još uvijek radi zahvaljujući svojoj snažnoj zajednici koja svaki dan dodaje nove Statuse.\n\nDa biste koristili PreMiD, morate dodati ovo proširenje i instalirati službenu PreMiD aplikaciju koja se nalazi na našoj web stranici. To je zbog ograničenja u načinu na koji Discord-ov Rich Presence SDK radi.\n\n{0} Web Stranica\n{1}\n\n{3} Discord Server\n{4}\n\n{5} Problemi\n{6}\n\n{7} GitHub Organizacija\n{8}\n \n{9} Donacije\n{10}\n\nAko volite PreMiD, ostavite recenziju, podijelite je sa svojim prijateljima ili donirajte."
+    "message": "PreMiD je jednostavan, konfigurabilan uslužni program koji vam omogućuje da pokažete što radite na webu u vašem Discord statusu.\n\nNa primjer, kada počnete gledati video na YouTubeu, naše proširenje preuzima sve potrebne informacije sa stranice i šalje ih našoj aplikaciji, koja zatim postavlja status na vašem Discord profilu.\n\nPreMiD podržava više od 500 web stranica i još uvijek radi zahvaljujući svojoj snažnoj zajednici koja svaki dan dodaje nove Statuse.\n\nDa biste koristili PreMiD, morate dodati ovo proširenje i instalirati službenu PreMiD aplikaciju koja se nalazi na našoj web stranici. To je zbog ograničenja u načinu na koji Discord-ov Rich Presence SDK radi.\n\n{0} Web Stranica\n{1}\n\n{3} Discord Server\n{4}\n\n{5} Problemi\n{6}\n\n{7} GitHub Organizacija\n{8}\n \n{9} Donacije\n{10}\n\nAko volite PreMiD, ostavite recenziju, podijelite je sa svojim prijateljima ili donirajte.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Tvoj Status za web usluge!"
+    "message": "Tvoj Status za web usluge!",
+    "description": "Short description in extension store"
   }
 }

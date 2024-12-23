@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD è un'utility semplice e configurabile che ti permette di mostrare la tua attività web direttamente nel tuo stato di Discord.\n\nPer esempio, quando inizierai a guardare un video su YouTube la nostra estensione preleverà tutte le informazioni necessarie dalla pagina e le invierà alla nostra applicazione che successivamente imposterà lo stato sul tuo profilo Discord.\n\nPreMiD supporta più di 500 siti web, con una libreria sempre in crescita grazie alla sua attiva community che aggiunge nuove Presence ogni giorno.\n\nPer utilizzare PreMiD devi aggiungere questa estensione ed installare l'applicazione ufficiale PreMiD che trovi sul nostro sito web. Questo è dovuto ai limiti attraverso i quali la Rich Presence SDK di Discord opera.\n\n{0} Il nostro sito web\n{1}\n\n{3} Il nostro Server Discord\n{4}\n\n{5} Risoluzione problemi\n{6}\n\n{7} Organizzazione GitHub\n{8}\n\n{9} Dona\n{10}\n\nSe ami PreMiD lascia una recensione, condividila con i tuoi amici, oppure fai una donazione."
+    "message": "PreMiD è un'utility semplice e configurabile che ti permette di mostrare la tua attività web direttamente nel tuo stato di Discord.\n\nPer esempio, quando inizierai a guardare un video su YouTube la nostra estensione preleverà tutte le informazioni necessarie dalla pagina e le invierà alla nostra applicazione che successivamente imposterà lo stato sul tuo profilo Discord.\n\nPreMiD supporta più di 500 siti web, con una libreria sempre in crescita grazie alla sua attiva community che aggiunge nuove Presence ogni giorno.\n\nPer utilizzare PreMiD devi aggiungere questa estensione ed installare l'applicazione ufficiale PreMiD che trovi sul nostro sito web. Questo è dovuto ai limiti attraverso i quali la Rich Presence SDK di Discord opera.\n\n{0} Il nostro sito web\n{1}\n\n{3} Il nostro Server Discord\n{4}\n\n{5} Risoluzione problemi\n{6}\n\n{7} Organizzazione GitHub\n{8}\n\n{9} Dona\n{10}\n\nSe ami PreMiD lascia una recensione, condividila con i tuoi amici, oppure fai una donazione.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "La tua Rich Presence per i servizi web!"
+    "message": "La tua Rich Presence per i servizi web!",
+    "description": "Short description in extension store"
   }
 }

@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD er et enkelt, konfigurerbart verktøy som gir deg mulighet til å vise hva du gjør på nettet i Discord-statusen din.\n\nNår du for eksempel ser på en video på YouTube, vil utvidelsen vår hente all informasjonen som trengs fra den siden og sende den til programmet vårt, som deretter endrer statusen på Discord-profilen din.\n\nPreMiD støtter over 500 nettsider og tallet fortsetter å øke takket være fellesskapet som legger til nye Presences hver dag.\n\nFor å bruke PreMiD må du legge til denne utvidelsen og installere den offisielle PreMiD-appen fra nettsiden vår. Dette er på grunn av begrensningene i Discords Rich Presence SDK.\n\n{0} Vår nettside\n{1}\n\n{3} Vår Discord-server\n{4}\n\n{5} Feilsøking\n{6}\n\n{7} Vår GitHub-organisasjon\n{8}\n\n{9} Doner\n{10}\n\nHvis du er fornøyd med PreMiD kan du gjerne legge igjen en anmeldelse, dele den med vennene dine eller donere."
+    "message": "PreMiD er et enkelt, konfigurerbart verktøy som gir deg mulighet til å vise hva du gjør på nettet i Discord-statusen din.\n\nNår du for eksempel ser på en video på YouTube, vil utvidelsen vår hente all informasjonen som trengs fra den siden og sende den til programmet vårt, som deretter endrer statusen på Discord-profilen din.\n\nPreMiD støtter over 500 nettsider og tallet fortsetter å øke takket være fellesskapet som legger til nye Presences hver dag.\n\nFor å bruke PreMiD må du legge til denne utvidelsen og installere den offisielle PreMiD-appen fra nettsiden vår. Dette er på grunn av begrensningene i Discords Rich Presence SDK.\n\n{0} Vår nettside\n{1}\n\n{3} Vår Discord-server\n{4}\n\n{5} Feilsøking\n{6}\n\n{7} Vår GitHub-organisasjon\n{8}\n\n{9} Doner\n{10}\n\nHvis du er fornøyd med PreMiD kan du gjerne legge igjen en anmeldelse, dele den med vennene dine eller donere.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Din Rich Presence for nettjenester!"
+    "message": "Din Rich Presence for nettjenester!",
+    "description": "Short description in extension store"
   }
 }

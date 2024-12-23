@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "O PreMiD é uma ferramenta simples e configurável que te permite mostrar o que estás a fazer na internet no teu estado do Discord.\n\nPor exemplo, quando começas a ver um vídeo no YouTube, a nossa extensão pega em toda a informação necessária da página e envia-a para a nossa aplicação, a qual define o estado no teu perfil do Discord.\n\nO PreMiD funciona em mais de 500 sites e está sempre a crescer graças à sua comunidade que adiciona Presences novas todos os dias.\n\nPara usares o PreMiD, precisas de adicionar esta extensão e instalar a aplicação oficial do PreMiD, a qual podes encontrar no nosso site. Isto deve-se a limitações na forma como a Rich Presence do Discord funciona.\n\n{0} O nosso site\n{1}\n\n{3} O nosso servidor de Discord\n{4}\n\n{5} Resolução de problemas\n{6}\n\n{7} A nossa organização no GitHub\n{8}\n\n{9} Doar\n{10}\n\nSe gostas do PreMiD, deixa uma crítica, partilha-o com os teus amigos ou doa."
+    "message": "O PreMiD é uma ferramenta simples e configurável que te permite mostrar o que estás a fazer na internet no teu estado do Discord.\n\nPor exemplo, quando começas a ver um vídeo no YouTube, a nossa extensão pega em toda a informação necessária da página e envia-a para a nossa aplicação, a qual define o estado no teu perfil do Discord.\n\nO PreMiD funciona em mais de 500 sites e está sempre a crescer graças à sua comunidade que adiciona Presences novas todos os dias.\n\nPara usares o PreMiD, precisas de adicionar esta extensão e instalar a aplicação oficial do PreMiD, a qual podes encontrar no nosso site. Isto deve-se a limitações na forma como a Rich Presence do Discord funciona.\n\n{0} O nosso site\n{1}\n\n{3} O nosso servidor de Discord\n{4}\n\n{5} Resolução de problemas\n{6}\n\n{7} A nossa organização no GitHub\n{8}\n\n{9} Doar\n{10}\n\nSe gostas do PreMiD, deixa uma crítica, partilha-o com os teus amigos ou doa.",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Seu Rich Presence para os serviços da web!"
+    "message": "Seu Rich Presence para os serviços da web!",
+    "description": "Short description in extension store"
   }
 }
