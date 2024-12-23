@@ -207,6 +207,10 @@
 		"description": "Label shown on unavailable browser options.",
 		"message": "Už Čoskoro"
 	},
+	"downloads.notice.browsers.beta": {
+		"description": "Label for beta browsers",
+		"message": "Beta"
+	},
 	"downloads.notice.beta.title": {
 		"description": "Title for the beta program section.",
 		"message": "Beta Program"
