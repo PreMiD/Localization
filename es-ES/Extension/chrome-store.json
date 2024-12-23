@@ -1,10 +1,10 @@
 {
   "extension.description.full": {
-    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links",
-    "message": "PreMiD es una utilidad simple y configurable que te permite mostrar lo que estás haciendo en la web en tu estado de juego en Discord.\n\nPor ejemplo, cuando estás viendo un vídeo en YouTube, nuestra extensión obtiene toda la información requerida de la web y se la envía a nuestra aplicación, la cual muestra esta información en tu perfil de Discord.\n\nPreMiD suporta más de 500 sitios web y sigue en constante crecimiento gracias a la comunidad que añade nuevas Presences cada día.\n\nPara usar PreMiD, tienes que añadir la extensión e instalar la aplicación oficial de PreMiD que encontrarás en nuestra web. Esto está limitado por la forma en la que funciona el SDK de Rich Presence de Discord.\n\n{0} Nuestra Web\n{1}\n\n{3} Nuestro Servidor de Discord\n{4}\n\n{5} Solución de Problemas\n{6}\n\n{7} Nuestra organización de GitHub\n{8}\n\n{9} Dona\n{10}\n\nSi te encanta PreMiD, añade una reseña, compártelo con tus amigos o dona. ¡Gracias!"
+    "message": "PreMiD es una utilidad simple y configurable que te permite mostrar lo que estás haciendo en la web en tu estado de juego en Discord.\n\nPor ejemplo, cuando estás viendo un vídeo en YouTube, nuestra extensión obtiene toda la información requerida de la web y se la envía a nuestra aplicación, la cual muestra esta información en tu perfil de Discord.\n\nPreMiD suporta más de 500 sitios web y sigue en constante crecimiento gracias a la comunidad que añade nuevas Presences cada día.\n\nPara usar PreMiD, tienes que añadir la extensión e instalar la aplicación oficial de PreMiD que encontrarás en nuestra web. Esto está limitado por la forma en la que funciona el SDK de Rich Presence de Discord.\n\n{0} Nuestra Web\n{1}\n\n{3} Nuestro Servidor de Discord\n{4}\n\n{5} Solución de Problemas\n{6}\n\n{7} Nuestra organización de GitHub\n{8}\n\n{9} Dona\n{10}\n\nSi te encanta PreMiD, añade una reseña, compártelo con tus amigos o dona. ¡Gracias!",
+    "description": "Full description in extension store; {0} - {10} odd numbers will be replaced with a special character (»), even numbers will be replaced with links"
   },
   "extension.description.short": {
-    "description": "Short description in extension store",
-    "message": "Tu Rich Presence para sitios web!"
+    "message": "Tu Rich Presence para sitios web!",
+    "description": "Short description in extension store"
   }
 }
