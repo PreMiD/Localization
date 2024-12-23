@@ -134,5 +134,9 @@
 	"youtube.perVideoPrivacy.tooltip.1": {
 		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
 		"message": "Sovrascrivi la tua modalità privacy per questo video"
+	},
+	"youtube.perVideoPrivacy.tooltip.2": {
+		"description": "Explains that the new button they see on their youtube ui was added by the PreMiD YouTube presence",
+		"message": "Questo fa parte della presence di YouTube di PreMiD"
 	}
 }
