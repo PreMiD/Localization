@@ -207,6 +207,10 @@
 		"description": "Label shown on unavailable browser options.",
 		"message": "กำลังจะมาเร็ว ๆ นี้"
 	},
+	"downloads.notice.browsers.beta": {
+		"description": "Label for beta browsers",
+		"message": "เบต้า"
+	},
 	"downloads.notice.beta.title": {
 		"description": "Title for the beta program section.",
 		"message": "โปรแกรมเบต้า"
