@@ -209,7 +209,7 @@
 	},
 	"downloads.notice.browsers.beta": {
 		"description": "Label for beta browsers",
-		"message": "Beta"
+		"message": "Beta versija"
 	},
 	"downloads.notice.beta.title": {
 		"description": "Title for the beta program section.",
