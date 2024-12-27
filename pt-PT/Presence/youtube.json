@@ -9,7 +9,7 @@
 	},
 	"youtube.browsingShorts": {
 		"description": "",
-		"message": "Navegandor por curtas"
+		"message": "A navegar pelos shorts"
 	},
 	"youtube.browsingThrough": {
 		"description": "Part one of the next 4 strings (The other parts will be displayed below it in discord)",
@@ -130,5 +130,13 @@
 	"youtube.viewingCommunityPost": {
 		"description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
 		"message": "A ver posts da comunidade"
+	},
+	"youtube.perVideoPrivacy.tooltip.1": {
+		"description": "Gets shown when users hover over the button to toggle their privacy mode for a specific video",
+		"message": "Substituir o teu modo de privacidade para este vídeo"
+	},
+	"youtube.perVideoPrivacy.tooltip.2": {
+		"description": "Explains that the new button they see on their youtube ui was added by the PreMiD YouTube presence",
+		"message": "Isto faz parte da presença do PreMiD no YouTube"
 	}
 }
