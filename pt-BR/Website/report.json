@@ -1,7 +1,7 @@
 {
   "report.activebugs": {
     "description": "Lists users active bugs",
-    "message": "Bugs Ativos"
+    "message": "Erros Ativos"
   },
   "report.browser": {
     "description": "Select Box for the user to select their browser",
