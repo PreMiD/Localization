@@ -35,6 +35,10 @@
     "description": "Description field.",
     "message": "説明(最大150文字まで入力できます。):"
   },
+  "partners.apply.form.description.placeholder": {
+    "description": "Description field's placeholder.",
+    "message": "サービスの説明"
+  },
   "partners.apply.form.imageLink": {
     "description": "Do not change the sizes.",
     "message": "画像のリンク: (550x300、 PNGファイルのみ)"
