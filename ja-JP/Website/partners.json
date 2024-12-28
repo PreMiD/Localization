@@ -123,6 +123,14 @@
     "description": "Description for DiscordTemplates.",
     "message": "Discordのサーバーテンプレートで、コミュニティを作り始める事ができます。"
   },
+  "partners.partner.erisly": {
+    "description": "Description for Erisly.",
+    "message": "Discordボットの姫！"
+  },
+  "partners.partner.onlyhit": {
+    "description": "Description for OnlyHit.",
+    "message": "あなたの音楽ライフを彩るOnlyHit。お気に入りのヒット曲はもちろん、これからブレイクするアーティストもいち早くキャッチ！"
+  },
   "partners.partner.packageCloud": {
     "description": "Description for PackageCloud.",
     "message": "すべてのアーティファクトのための統合開発者フレンドリーなインターフェイスです。"
@@ -130,6 +138,10 @@
   "partners.partner.rNetflix": {
     "description": "Description for r/Netflix.",
     "message": "r/Netflixは、最も大きいNetflix関連のDiscordサーバーで、あなたのお気に入りの映画やシリーズについて語り合うことができます。"
+  },
+  "partners.partner.reyfm": {
+    "description": "Description for REYFM.",
+    "message": "REYFMで15種類以上の音楽ストリームを楽しもう！最高の音楽をノンストップで！"
   },
   "partners.partner.simLiveRadio": {
     "description": "Description for SimLoveRadio.",
