@@ -207,6 +207,10 @@
 		"description": "Label shown on unavailable browser options.",
 		"message": "まもなく登場"
 	},
+	"downloads.notice.browsers.beta": {
+		"description": "Label for beta browsers",
+		"message": "ベータ版"
+	},
 	"downloads.notice.beta.title": {
 		"description": "Title for the beta program section.",
 		"message": "ベータ版"
