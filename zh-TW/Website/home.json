@@ -71,6 +71,10 @@
     "description": "Features section subheading",
     "message": "簡單的用戶界面"
   },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "取得PreMiD"
+  },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "下載"
