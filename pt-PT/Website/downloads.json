@@ -161,7 +161,7 @@
 	},
 	"downloads.mobile.notAvailable": {
 		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
-		"message": "PreMiD não está disponível para dispositivos móveis. Por favor, use um navegador do computador para instalar o PreMiD."
+		"message": "PreMiD não está disponível para dispositivos móveis. Por favor, usa um navegador do computador para instalar o PreMiD."
 	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
@@ -181,27 +181,27 @@
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "Agora você só precisa da extensão do navegador - nenhum download adicional é necessário."
+		"message": "Agora só precisas da extensão do navegador - nenhuma transferência adicional necessária."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
-		"message": "Configuração com um clique"
+		"message": "Configuração em Um-Clique"
 	},
 	"downloads.notice.features.noApp": {
 		"description": "Feature tag highlighting no app requirement.",
-		"message": "Nenhum aplicativo necessário"
+		"message": "Nenhuma Aplicação Necessária"
 	},
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
-		"message": "Apenas Works™"
+		"message": "Apenas Funciona™"
 	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
-		"message": "Aplicativo removido na v2.6.0 para facilitar a sua vida ✨"
+		"message": "Aplicação removida na v2.6.0 para facilitar a tua vida ✨"
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
-		"message": "Obtenha o PreMiD para o seu navegador"
+		"message": "Obtém o PreMiD para o teu navegador"
 	},
 	"downloads.notice.browsers.comingSoon": {
 		"description": "Label shown on unavailable browser options.",
@@ -217,7 +217,7 @@
 	},
 	"downloads.notice.beta.description": {
 		"description": "Description of how to join the beta program.",
-		"message": "Adora experimentar novidades? Junte-se ao nosso Discord e use /beta para obter acesso antecipado!"
+		"message": "Adoras experimentar coisas novas? Junta-te ao nosso Discord e usa /beta para obter acesso antecipado!"
 	},
 	"downloads.notice.alpha.title": {
 		"description": "Title for the alpha access section.",
@@ -225,11 +225,11 @@
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
-		"message": "Apoie-nos no GitHub ou Patreon para obter as funcionalidades mais recentes!"
+		"message": "Apoia-nos no GitHub ou Patreon para obteres as funcionalidades mais recentes!"
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
-		"message": "Precisa de ajuda? Junte-se ao nosso"
+		"message": "Precisas de ajuda? Junta-te ao nosso"
 	},
 	"downloads.notice.support.discord": {
 		"description": "Discord link text in support section.",
@@ -237,18 +237,18 @@
 	},
 	"downloads.notice.support.forSupport": {
 		"description": "End of the support section text.",
-		"message": "Para suporte!"
+		"message": "para suporte!"
 	},
 	"downloads.notice.appreciation.title": {
 		"description": "Title for the appreciation section.",
-		"message": "Ama o PreMid?"
+		"message": "Adoras o PreMiD?"
 	},
 	"downloads.notice.appreciation.description": {
 		"description": "Description in the appreciation section.",
-		"message": "Considere apoiar-nos ou deixar uma revisão - significa o mundo para nós!"
+		"message": "Considera apoiar-nos ou deixar uma avaliação - significa o mundo para nós!"
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
-		"message": "Avalie-nós"
+		"message": "Avalia-nos"
 	}
 }

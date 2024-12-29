@@ -1,27 +1,27 @@
 {
 	"osu!ppy.beatmapListing": {
 		"description": "Displayed when viewing all beatmaps.",
-		"message": "Vendo lista de beatmaps"
+		"message": "A ver lista de beatmaps"
 	},
 	"osu!ppy.beatmapLooking": {
 		"description": "Displayed when looking at a beatmap.",
-		"message": "Olhando para beatmap"
+		"message": "A olhar para beatmap"
 	},
 	"osu!ppy.beatmapPacks": {
 		"description": "Displayed when viewing all beatmap packs.",
-		"message": "Vendo pacotes de beatmaps"
+		"message": "A ver pacotes de beatmaps"
 	},
 	"osu!ppy.beatmapRankings": {
 		"description": "Displayed when viewing Kudosu Rankings.",
-		"message": "Vendo rankings de kudosu"
+		"message": "A ver classificações de kudosu"
 	},
 	"osu!ppy.buttonViewBeatmap": {
 		"description": "Displayed for a button to redirect to the beatmap page.",
-		"message": "Ver beatmap"
+		"message": "Ver Beatmap"
 	},
 	"osu!ppy.countryRankings": {
 		"description": "Country rankings {0} = gamemode. E.g. Country Rankings [osu!]",
-		"message": "Rankings de Países [{0}]"
+		"message": "Classificações de Países [{0}]"
 	},
 	"osu!ppy.for": {
 		"description": "{0} = country/for All, {1} = gamemode. E.g. Performance Rankings (for All) [osu!]",
@@ -29,22 +29,22 @@
 	},
 	"osu!ppy.performanceRankings": {
 		"description": "Displayed when viewing the performance rankings.",
-		"message": "Rankings de Desempenho"
+		"message": "Classificações de desempenho"
 	},
 	"osu!ppy.scoreRankings": {
 		"description": "{0} = gamemode. E.g. Score Rankings [osu!]",
-		"message": "Rankings de Pontuação [{0}]"
+		"message": "Classificações de Pontuação [{0}]"
 	},
 	"osu!ppy.spotlights": {
 		"description": "{0} = gamemode, {1} = All/Friends. E.g. The osu! Spotlights (All)",
-		"message": "Spotlights ({0}, {1})"
+		"message": "Os destaques de {0} ({1})"
 	},
 	"osu!ppy.support": {
 		"description": "Displayed when viewing the support page.",
-		"message": "Maneiras dar suporte ao osu!ppy"
+		"message": "Formas de apoiar osu!ppy"
 	},
 	"osu!ppy.wikiMainPage": {
 		"description": "Displayed when viewing the wiki main page.",
-		"message": "Página inicial da Wiki"
+		"message": "Página inicial da wiki"
 	}
 }
