@@ -31,6 +31,14 @@
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "社群經理"
   },
+  "contributors.roles.softwareEngineer": {
+    "description": "'Software Engineer' title for contributors and user pages.",
+    "message": "軟體工程師"
+  },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "開發者"
+  },
   "contributors.roles.moderator": {
     "description": "'Moderator' title for contributors and user pages.",
     "message": "管理員"
