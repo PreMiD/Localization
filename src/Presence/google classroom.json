@@ -32,7 +32,7 @@
     "message": "Viewing classwork"
   },
   "googleclassroom.settings": {
-    "description": "Displayed when a user is viewing their googleClassroom settings",
+    "description": "Displayed when a user is viewing their Google Classroom settings",
     "message": "Configuring settings"
   },
   "googleclassroom.todo": {
