@@ -1,39 +1,39 @@
 {
   "minecraft wiki.changeProtection": {
     "description": "Displayed when changing protection settings for a wiki page.",
-    "message": "Alterando as configurações de proteção de:"
+    "message": "A alterar configurações de proteção de:"
   },
   "minecraft wiki.moving": {
     "description": "Displayed when moving a wiki page.",
-    "message": "Movendo:"
+    "message": "A mover:"
   },
   "minecraft wiki.viewContributionsOf": {
     "description": "Displayed when viewing the contributions from a user.",
-    "message": "Visualizando as contribuições de:"
+    "message": "A ver contribuições de:"
   },
   "minecraft wiki.viewHistory": {
     "description": "Displayed when viewing the history of a wiki page.",
-    "message": "Visualizando o histórico:"
+    "message": "A ver histórico:"
   },
   "minecraft wiki.viewProtection": {
     "description": "Displayed when viewing the protection settings of a wiki page.",
-    "message": "Visualizando as configurações de proteção de:"
+    "message": "A ver configurações de proteção de:"
   },
   "minecraft wiki.viewRecentChanges": {
     "description": "Displayed when viewing recent changes.",
-    "message": "Visualizando alterações recentes"
+    "message": "A ver alterações recentes"
   },
   "minecraft wiki.viewSourceOf": {
     "description": "Displayed when viewing the source of a wiki page.",
-    "message": "Visualizando a origem de:"
+    "message": "A ver fonte de:"
   },
   "minecraft wiki.viewWatchlist": {
     "description": "Displayed when viewing the watchlist (a wiki page listing of pages the user is watching for updates).",
-    "message": "Visualizando a sua lista de observação"
+    "message": "A ver a sua lista de atualizações"
   },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
-    "message": "A enviar algo"
+    "message": "A carregar algo..."
   },
   "minecraft wiki.login": {
     "description": "Used when a user is logging in",
@@ -41,10 +41,10 @@
   },
   "minecraft wiki.btnViewThread": {
     "description": "View a forum thread",
-    "message": "Ver artigo"
+    "message": "Ver tópico"
   },
   "minecraft wiki.settings": {
     "description": "Displayed when a user is viewing their Minecraft Wiki settings",
-    "message": "A configurar as definições"
+    "message": "A configurar definições"
   }
 }
