@@ -23,6 +23,10 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ver álbum"
 	},
+	"general.buttonViewAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Ver Anime"
+	},
 	"general.buttonViewArticle": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ver artigo"
@@ -33,7 +37,7 @@
 	},
 	"general.buttonViewChangelog": {
 		"description": "Used as the title for the button in Discord.",
-		"message": "Ver Registro de Alterações"
+		"message": "Ver Registo de Alterações"
 	},
 	"general.buttonViewChannel": {
 		"description": "Used as the title for the button in Discord.",
@@ -75,9 +79,17 @@
 		"description": "Used as the title for the button in Discord.",
 		"message": "Ver música"
 	},
+	"general.buttonWatchAnime": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Assistir Anime"
+	},
 	"general.buttonWatchMovie": {
 		"description": "Used as the title for the button in Discord.",
 		"message": "Assistir filme"
+	},
+	"general.buttonWatchSeries": {
+		"description": "Used as the title for the button in Discord.",
+		"message": "Assistir Série"
 	},
 	"general.buttonWatchStream": {
 		"description": "Used as the title for the button in Discord.",
@@ -275,6 +287,10 @@
 		"description": "A page name of statuspages",
 		"message": "Histórico de atividade"
 	},
+	"general.viewAAnime": {
+		"description": "",
+		"message": "Vendo um anime"
+	},
 	"general.viewAList": {
 		"description": "",
 		"message": "A ver uma lista"
@@ -438,6 +454,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "A ver"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "Assistindo um anime"
 	},
 	"general.watchingLive": {
 		"description": "",

@@ -71,6 +71,10 @@
     "description": "Features section subheading",
     "message": "Interface de utilizador simples"
   },
+  "home.introduction.button.getPremid": {
+    "description": "Downloads button -> redirects to /downloads page",
+    "message": "Obter PreMiD"
+  },
   "home.introduction.button.downloads": {
     "description": "Downloads button -> redirects to /downloads page",
     "message": "Downloads"
