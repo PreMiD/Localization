@@ -25,7 +25,7 @@
 	},
 	"general.buttonViewAnime": {
 		"description": "Used as the title for the button in Discord.",
-		"message": "Ver Anime"
+		"message": "Ver Animé"
 	},
 	"general.buttonViewArticle": {
 		"description": "Used as the title for the button in Discord.",
@@ -81,7 +81,7 @@
 	},
 	"general.buttonWatchAnime": {
 		"description": "Used as the title for the button in Discord.",
-		"message": "Assistir Anime"
+		"message": "Assistir Animé"
 	},
 	"general.buttonWatchMovie": {
 		"description": "Used as the title for the button in Discord.",
@@ -289,7 +289,7 @@
 	},
 	"general.viewAAnime": {
 		"description": "",
-		"message": "Vendo um anime"
+		"message": "A ver um animé"
 	},
 	"general.viewAList": {
 		"description": "",
@@ -457,7 +457,7 @@
 	},
 	"general.watchingAnime": {
 		"description": "",
-		"message": "Assistindo um anime"
+		"message": "A assistir a um animé"
 	},
 	"general.watchingLive": {
 		"description": "",
@@ -485,7 +485,7 @@
 	},
 	"general.wikiMainPage": {
 		"description": "Displayed when viewing the wiki main page.",
-		"message": "Página inicial da Wiki"
+		"message": "Página inicial da wiki"
 	},
 	"general.wishlist": {
 		"description": "",
