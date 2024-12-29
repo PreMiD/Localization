@@ -1,4 +1,24 @@
 {
+	"osu!ppy.beatmapListing": {
+		"description": "Displayed when viewing all beatmaps.",
+		"message": "Vendo lista de beatmaps"
+	},
+	"osu!ppy.beatmapLooking": {
+		"description": "Displayed when looking at a beatmap.",
+		"message": "Olhando para beatmap"
+	},
+	"osu!ppy.beatmapPacks": {
+		"description": "Displayed when viewing all beatmap packs.",
+		"message": "Vendo pacotes de beatmaps"
+	},
+	"osu!ppy.beatmapRankings": {
+		"description": "Displayed when viewing Kudosu Rankings.",
+		"message": "Vendo rankings de kudosu"
+	},
+	"osu!ppy.buttonViewBeatmap": {
+		"description": "Displayed for a button to redirect to the beatmap page.",
+		"message": "Ver beatmap"
+	},
 	"osu!ppy.countryRankings": {
 		"description": "Country rankings {0} = gamemode. E.g. Country Rankings [osu!]",
 		"message": "Rankings de Países [{0}]"
