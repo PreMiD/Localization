@@ -63,10 +63,6 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "貢獻者"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "狀態開發者"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "校對員"
