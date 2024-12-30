@@ -17,7 +17,7 @@
   },
   "contributors.headings.presenceDevelopers": {
     "description": "Heading for group of users.",
-    "message": "Būsenų kūrėjai"
+    "message": "Veiklų kūrėjai"
   },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
@@ -62,10 +62,6 @@
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Prisidėtojas"
-  },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Būsenos kūrėjas"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",

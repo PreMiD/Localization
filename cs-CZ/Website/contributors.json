@@ -51,10 +51,6 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Přispěvatel"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Vývojář Presencí"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korektor"

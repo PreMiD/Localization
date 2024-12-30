@@ -35,10 +35,6 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "स्थानीयकरण प्रबंधक"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Presence डेवलपर"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "शुद्धिकारक"

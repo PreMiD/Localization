@@ -27,10 +27,6 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Vodja Lokalizacij"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Razvijalec Dodatkov"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Pregled prevodov"

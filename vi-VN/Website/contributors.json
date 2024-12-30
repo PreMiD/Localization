@@ -17,7 +17,7 @@
   },
   "contributors.headings.presenceDevelopers": {
     "description": "Heading for group of users.",
-    "message": "Nhà phát triển Presence"
+    "message": "Presence Developers"
   },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
@@ -62,10 +62,6 @@
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Cộng tác viên"
-  },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Nhà phát triển Presence"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
