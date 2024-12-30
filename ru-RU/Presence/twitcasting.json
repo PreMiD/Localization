@@ -5,15 +5,15 @@
   },
   "twitcasting.followList": {
     "description": "Part 2 of the string: \"Viewing their\"",
-    "message": "Список Подписчиков"
+    "message": "Список подписчиков"
   },
   "twitcasting.dashboardManage": {
     "description": "",
-    "message": "Управление их потоком..."
+    "message": "Управляет своим потоком..."
   },
   "twitcasting.subs": {
     "description": "",
-    "message": "Просмотр их подписок..."
+    "message": "Просматривает свои подписки..."
   },
   "twitcasting.browsingVideos": {
     "description": "Second part of this string = \"of channel:\" (that part will be displayed below it in discord)",
@@ -21,6 +21,6 @@
   },
   "twitcasting.ofChannel": {
     "description": "Second part of previous string",
-    "message": "каналов:"
+    "message": "канала:"
   }
 }
