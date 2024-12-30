@@ -55,10 +55,6 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Suradnik"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Programer Statusa"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korektor"
