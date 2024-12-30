@@ -35,10 +35,6 @@
     "description": "'Project Management' title for contributors and user pages.",
     "message": "Prosjektledelse"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Utvidelse Utvikleren"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korrekturleser"
