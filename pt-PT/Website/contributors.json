@@ -63,10 +63,6 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Contribuidor"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Programador de Presenças"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Revisor"
