@@ -47,10 +47,6 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Ieguldītājs"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Presence Izstrādātājs"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Korektors"
