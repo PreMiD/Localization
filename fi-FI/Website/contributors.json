@@ -27,10 +27,6 @@
     "description": "'Localization Manager' title for contributors and user pages.",
     "message": "Käännösprojektin ohjaaja"
   },
-  "contributors.roles.presenceDeveloper": {
-    "description": "'Presence Developer' title for contributors and user pages.",
-    "message": "Presence-kehittäjä"
-  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Oikolukija"
