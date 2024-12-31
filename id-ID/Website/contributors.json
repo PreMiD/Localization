@@ -17,7 +17,7 @@
   },
   "contributors.headings.presenceDevelopers": {
     "description": "Heading for group of users.",
-    "message": "Pengembang Presence"
+    "message": "Pengembang-Pengembang Aktivitas"
   },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
@@ -62,6 +62,10 @@
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Kontributor"
+  },
+  "contributors.roles.activityDeveloper": {
+    "description": "'Activity Developer' title for contributors and user pages.",
+    "message": "Pengembang Aktivitas"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
