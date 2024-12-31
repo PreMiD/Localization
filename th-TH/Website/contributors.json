@@ -17,7 +17,7 @@
   },
   "contributors.headings.presenceDevelopers": {
     "description": "Heading for group of users.",
-    "message": "นักพัฒนา Presence"
+    "message": "นักพัฒนา Activity"
   },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
@@ -62,6 +62,10 @@
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
     "message": "ผู้ร่วมพัฒนา"
+  },
+  "contributors.roles.activityDeveloper": {
+    "description": "'Activity Developer' title for contributors and user pages.",
+    "message": "นักพัฒนา Activity"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
