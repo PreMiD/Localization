@@ -1,4 +1,16 @@
 {
+  "minecraft wiki.moving": {
+    "description": "Displayed when moving a wiki page.",
+    "message": "移動："
+  },
+  "minecraft wiki.viewContributionsOf": {
+    "description": "Displayed when viewing the contributions from a user.",
+    "message": "瀏覽貢獻的內容："
+  },
+  "minecraft wiki.viewHistory": {
+    "description": "Displayed when viewing the history of a wiki page.",
+    "message": "瀏覽歷史："
+  },
   "minecraft wiki.upload": {
     "description": "When uploading a file to the wiki",
     "message": "正在上載影片"

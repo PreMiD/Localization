@@ -14,5 +14,17 @@
   "netflix.viewList": {
     "description": "List as in their saved series/movies.",
     "message": "正在查看他們的片單"
+  },
+  "netflix.seriesDisplay.full": {
+    "description": "Shown when watching a series with 'watching seriesname' status, example: Season 6, Episode 2",
+    "message": "第 {0} 季，第 {1} 集"
+  },
+  "netflix.seriesDisplay.short": {
+    "description": "Shown when watching a series with 'watching Netflix' status, example: S6 E2 - Episode title",
+    "message": "第 {0} 季 第 {1} 集 - {2}"
+  },
+  "netflix.movieDisplay": {
+    "description": "Shown when watching a movie, example: 2024 • 120 minutes",
+    "message": "{0} • {1} 分鐘"
   }
 }

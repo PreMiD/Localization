@@ -215,6 +215,10 @@
 		"description": "Description of how to join the beta program.",
 		"message": "喜歡嘗試新事物嗎？加入我們的Discord使用/beta來提前體驗"
 	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "Alpha 訪問權限："
+	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
 		"message": "在GitHub或Patreon支持我們以獲得更新的東西！"

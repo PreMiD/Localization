@@ -19,9 +19,33 @@
     "description": "",
     "message": "正在閲讀用戶資訊:"
   },
+  "facebook.userCommunity": {
+    "description": "",
+    "message": "瀏覽使用者的社區："
+  },
+  "facebook.userFriends": {
+    "description": "",
+    "message": "瀏覽使用者的好友："
+  },
   "facebook.userHidden": {
     "description": "Shows when you dont want to show who you are calling/texting.",
     "message": "某個人... (用戶隱形)"
+  },
+  "facebook.userPics": {
+    "description": "",
+    "message": "查看用戶的照片："
+  },
+  "facebook.userPosts": {
+    "description": "",
+    "message": "查看用戶的貼文："
+  },
+  "facebook.userShop": {
+    "description": "",
+    "message": "瀏覽使用者的商店："
+  },
+  "facebook.userVids": {
+    "description": "",
+    "message": "瀏覽使用者上傳的影片："
   },
   "facebook.vcall": {
     "description": "",
@@ -30,5 +54,9 @@
   "facebook.weather": {
     "description": "",
     "message": "正在查看今天天氣"
+  },
+  "facebook.writing": {
+    "description": "",
+    "message": "編寫一條信息"
   }
 }

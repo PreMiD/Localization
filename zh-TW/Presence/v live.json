@@ -3,6 +3,10 @@
     "description": "The first part of the next 6 strings",
     "message": "遊覽中"
   },
+  "v live.upcoming": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "即將發布的頁面"
+  },
   "v live.viewTheir": {
     "description": "The first part of the next 6 strings",
     "message": "查看他們"

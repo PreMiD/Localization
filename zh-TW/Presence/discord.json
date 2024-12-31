@@ -3,6 +3,10 @@
     "description": "",
     "message": "Discord 部落格"
   },
+  "discord.branding": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "品牌頁面"
+  },
   "discord.browseThrough": {
     "description": "The first part of the next 17 strings",
     "message": "遊覽中"
@@ -19,9 +23,17 @@
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the channel. {2} will be replaced with the name of the server.",
     "message": "在 {0}{1} 輸入中 (所在伺服器: {2})"
   },
+  "discord.college": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "學院頁面"
+  },
   "discord.company": {
     "description": "Second part of the \"Browsing through\" string",
     "message": "關於"
+  },
+  "discord.devs.appsBrowse": {
+    "description": "",
+    "message": "瀏覽他們的應用程式"
   },
   "discord.devs.appsEdit": {
     "description": "{0} will be replaced with the name of the app.",
@@ -35,13 +47,25 @@
     "description": "",
     "message": "開發人員入口"
   },
+  "discord.devs.serversBrowse": {
+    "description": "",
+    "message": "瀏覽他們的伺服器"
+  },
   "discord.devs.serversEdit": {
     "description": "{0} will be replaced with the name of the server.",
     "message": "正在檢視 {0} 的洞察報告"
   },
+  "discord.devs.teamsBrowse": {
+    "description": "",
+    "message": "瀏覽他們的團隊"
+  },
   "discord.devs.teamsEdit": {
     "description": "{0} will be replaced with the name of the team.",
     "message": "編輯團隊: {0}"
+  },
+  "discord.dmGroupReading": {
+    "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
+    "message": "正在群組私訊中閱讀：{0}{1}"
   },
   "discord.dmGroupTyping": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the name of the group.",
@@ -63,6 +87,10 @@
     "description": "",
     "message": "正在檢視他們的朋友..."
   },
+  "discord.inspiration": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "靈感頁面"
+  },
   "discord.invite": {
     "description": "{0} will be replaced with an enter (splitting the text to 2 rows), your translation must have this! {1} will be replaced with the id of the invite. {2} will be replaced with the name of the server.",
     "message": "正在檢視邀請連結 {1}{0}(伺服器: {2})"
@@ -82,6 +110,10 @@
   "discord.merch.collection": {
     "description": "",
     "message": "正在檢視收藏:"
+  },
+  "discord.moderation": {
+    "description": "Second part of the \"Browsing through\" string",
+    "message": "管理頁面"
   },
   "discord.newsroom": {
     "description": "Second part of the \"Browsing through\" string",

@@ -63,6 +63,10 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "貢獻者"
   },
+  "contributors.roles.activityDeveloper": {
+    "description": "'Activity Developer' title for contributors and user pages.",
+    "message": "活動開發者"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "校對員"

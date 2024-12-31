@@ -23,6 +23,30 @@
     "description": "",
     "message": "Twitch 部落格"
   },
+  "twitch.camp": {
+    "description": "",
+    "message": "創作者營"
+  },
+  "twitch.campLevel": {
+    "description": "Page name",
+    "message": "提升等級"
+  },
+  "twitch.campLive": {
+    "description": "Page name",
+    "message": "線上學習"
+  },
+  "twitch.campMusic": {
+    "description": "Page name",
+    "message": "在 Twitch 上的音樂"
+  },
+  "twitch.campReward": {
+    "description": "Page name",
+    "message": "獲得獎勳"
+  },
+  "twitch.campSetup": {
+    "description": "Page name",
+    "message": "設定你的直播"
+  },
   "twitch.channelAnaly": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "頻道數據分析"
@@ -34,6 +58,10 @@
   "twitch.clips": {
     "description": "Part 2 of the string: \"Viewing their\"",
     "message": "剪輯"
+  },
+  "twitch.colls": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "影片合集"
   },
   "twitch.dashboard": {
     "description": "Page name",
@@ -47,6 +75,10 @@
     "description": "Page name",
     "message": "Twitch 開發者文檔"
   },
+  "twitch.devProduct": {
+    "description": "Page name",
+    "message": "Twitch 開發者工具"
+  },
   "twitch.devSupport": {
     "description": "Page name",
     "message": "說明資源"
@@ -54,6 +86,10 @@
   "twitch.downloads": {
     "description": "Page name",
     "message": "下載"
+  },
+  "twitch.dropsSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "掉落物設定"
   },
   "twitch.followList": {
     "description": "Part 2 of the string: \"Viewing their\"",
@@ -67,6 +103,10 @@
     "description": "Page name",
     "message": "幫助中心"
   },
+  "twitch.helpTopic": {
+    "description": "",
+    "message": "檢視主題："
+  },
   "twitch.home": {
     "description": "Page name",
     "message": "首頁"
@@ -74,6 +114,14 @@
   "twitch.jobs": {
     "description": "Page name",
     "message": "職位"
+  },
+  "twitch.modStreamer": {
+    "description": "",
+    "message": "管理主播："
+  },
+  "twitch.moderationSettings": {
+    "description": "Part 2 of the string: \"Viewing their\"",
+    "message": "主持設定"
   },
   "twitch.partners": {
     "description": "Page name",
@@ -83,6 +131,10 @@
     "description": "Page name",
     "message": "新聞中心"
   },
+  "twitch.produce": {
+    "description": "",
+    "message": "在影片製作工具中..."
+  },
   "twitch.redeem": {
     "description": "",
     "message": "正在兌換代碼…"
@@ -90,6 +142,10 @@
   "twitch.security": {
     "description": "Page name",
     "message": "安全"
+  },
+  "twitch.squad": {
+    "description": "",
+    "message": "正在觀看 Squad..."
   },
   "twitch.streamSum": {
     "description": "Part 2 of the string: \"Viewing their\"",

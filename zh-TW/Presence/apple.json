@@ -59,6 +59,10 @@
     "description": "Contact support",
     "message": "聯繫我們"
   },
+  "apple.devDistribution": {
+    "description": "Distribute software to the App Store",
+    "message": "軟體分發"
+  },
   "apple.devDocs": {
     "description": "Developer documentation",
     "message": "相關文章"
@@ -207,6 +211,10 @@
     "description": "Plan your visit to the Apple Store",
     "message": "預約您的造訪"
   },
+  "apple.shopRefurbished": {
+    "description": "Used Apple products at a lower price",
+    "message": "認證翻新"
+  },
   "apple.shopStudio": {
     "description": "Choose your own design components for a product",
     "message": "Apple Watch 工作室"
@@ -214,6 +222,10 @@
   "apple.storeFinder": {
     "description": "Tool used to find the nearest store",
     "message": "尋找商店"
+  },
+  "apple.supplierResp": {
+    "description": "Information on human rights, health, safety, education, etc. of employees",
+    "message": "供應商職責"
   },
   "apple.support": {
     "description": "Support for products, services/apps from Apple, etc.",
