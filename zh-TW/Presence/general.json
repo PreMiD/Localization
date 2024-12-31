@@ -287,6 +287,10 @@
 		"description": "A page name of statuspages",
 		"message": "運行時間記錄"
 	},
+	"general.viewAList": {
+		"description": "",
+		"message": "瀏覽列表"
+	},
 	"general.viewAManga": {
 		"description": "",
 		"message": "正在閱讀漫畫"
@@ -419,6 +423,10 @@
 		"description": "",
 		"message": "正在瀏覽願望清單"
 	},
+	"general.viewingWishlist": {
+		"description": "",
+		"message": "瀏覽願望清單"
+	},
 	"general.waitingLive": {
 		"description": "For privacy reasons (\"A\" livestream, as in not specified)",
 		"message": "等待直播開始"
@@ -438,6 +446,10 @@
 	"general.watching": {
 		"description": "",
 		"message": "正在觀看:"
+	},
+	"general.watchingAnime": {
+		"description": "",
+		"message": "正在觀看一部動漫"
 	},
 	"general.watchingLive": {
 		"description": "",
