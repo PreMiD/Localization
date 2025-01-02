@@ -1,10 +1,1 @@
-{
-  "google classroom.calendar": {
-    "description": "Displayed when the user viewing their calendar",
-    "message": "Naptárát nézi"
-  },
-  "google classroom.class": {
-    "description": "Displayed when a user is viewing a class",
-    "message": "Osztályt néz"
-  }
-}
+{}

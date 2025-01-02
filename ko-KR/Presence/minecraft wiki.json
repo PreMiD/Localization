@@ -42,9 +42,5 @@
   "minecraft wiki.btnViewThread": {
     "description": "View a forum thread",
     "message": "스레드 보기"
-  },
-  "minecraft wiki.settings": {
-    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
-    "message": "설정 확인 중"
   }
 }

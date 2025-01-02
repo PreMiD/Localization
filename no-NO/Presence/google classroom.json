@@ -1,10 +1,1 @@
-{
-  "google classroom.calendar": {
-    "description": "Displayed when the user viewing their calendar",
-    "message": "Ser på sin kalender"
-  },
-  "google classroom.settings": {
-    "description": "Displayed when a user is viewing their Google Classroom settings",
-    "message": "Konfigurerer innstillinger"
-  }
-}
+{}

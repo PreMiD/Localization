@@ -1,14 +1,1 @@
-{
-  "google docs.viewingDoc": {
-    "description": "Displayed when the user is viewing a Google Document",
-    "message": "Προβάλει ένα έγγραφο"
-  },
-  "google docs.viewingForm": {
-    "description": "Displayed when the user is viewing a Google Form",
-    "message": "Προβάλει ένα φόρμας"
-  },
-  "google docs.viewingPresentation": {
-    "description": "Displayed when the user is viewing a Google presentation",
-    "message": "Προβάλει μιας παρουσίασης"
-  }
-}
+{}

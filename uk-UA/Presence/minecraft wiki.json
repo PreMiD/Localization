@@ -10,9 +10,5 @@
   "minecraft wiki.btnViewThread": {
     "description": "View a forum thread",
     "message": "Переглянути тему"
-  },
-  "minecraft wiki.settings": {
-    "description": "Displayed when a user is viewing their Minecraft Wiki settings",
-    "message": "Налаштування конфігурації"
   }
 }
