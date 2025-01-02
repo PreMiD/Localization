@@ -1,11 +1,11 @@
 {
   "contributors.cards.copyUserId": {
     "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "คลิกเพื่อคัดลอก User ID"
+    "message": "คลิกเพื่อคัดลอก ID"
   },
   "contributors.cards.userIdCopied": {
     "description": "Notification after user ID was copied.",
-    "message": "คัดลอก User ID แล้ว!"
+    "message": "คัดลอก ID ผู้ใช้แล้ว!"
   },
   "contributors.headings.staff": {
     "description": "Heading for group of users.",
