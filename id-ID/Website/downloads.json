@@ -161,7 +161,7 @@
 	},
 	"downloads.mobile.notAvailable": {
 		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
-		"message": "PreMiD tidak tersedia untuk perangkat mobile. Mohon gunakan peramban desktop untuk memasang PreMiD."
+		"message": "PreMiD tidak tersedia untuk perangkat seluler. Silakan gunakan browser desktop untuk menginstal PreMiD."
 	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
@@ -181,7 +181,7 @@
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "Sekarang Anda hanya perlu ekstensi peramban - tidak perlu unduhan tambahan."
+		"message": "Sekarang Anda hanya memerlukan ekstensi browser - tidak perlu mengunduh tambahan."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
@@ -189,7 +189,7 @@
 	},
 	"downloads.notice.features.noApp": {
 		"description": "Feature tag highlighting no app requirement.",
-		"message": "Tiada Apl Diperlukan"
+		"message": "Tidak Perlu Aplikasi"
 	},
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
@@ -201,7 +201,7 @@
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
-		"message": "Unduhkan PreMiD untuk peramban Anda"
+		"message": "Dapatkan PreMiD untuk browser Anda"
 	},
 	"downloads.notice.browsers.comingSoon": {
 		"description": "Label shown on unavailable browser options.",
@@ -217,7 +217,7 @@
 	},
 	"downloads.notice.beta.description": {
 		"description": "Description of how to join the beta program.",
-		"message": "Suka mencoba hal baru? Bergabunglah dengan Discord kami dan gunakan /beta untuk mendapatkan akses awal!"
+		"message": "Senang mencoba hal-hal baru? Bergabunglah dengan Discord kami dan gunakan /beta untuk mendapatkan akses awal!"
 	},
 	"downloads.notice.alpha.title": {
 		"description": "Title for the alpha access section.",
@@ -225,7 +225,7 @@
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
-		"message": "Dukung kami di GitHub atau Patreon untuk mendapatkan fitur terbaru!"
+		"message": "Dukung kami di GitHub atau Patreon untuk mendapatkan fitur-fitur terbaru!"
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
