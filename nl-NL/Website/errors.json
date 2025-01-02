@@ -17,7 +17,7 @@
   },
   "error.page.details": {
     "description": "'Details' text on error page container",
-    "message": "Foutbeschrijving"
+    "message": "Beschrijving"
   },
   "store.search.notFound": {
     "description": "Search result text when nothing's found",
