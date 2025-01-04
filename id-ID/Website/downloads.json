@@ -181,7 +181,7 @@
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "Sekarang Anda hanya memerlukan ekstensi browser - tidak perlu mengunduh aplikasi tambahan."
+		"message": "Sekarang Anda hanya memerlukan ekstensi browser - tidak perlu mengunduh tambahan."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
@@ -197,7 +197,7 @@
 	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
-		"message": "Aplikasi sudah dihapus pada v2.6.0 untuk memudahkan hidup Anda ✨"
+		"message": "Aplikasi dihapus pada v2.6.0 untuk memudahkan hidup Anda ✨"
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
@@ -245,7 +245,7 @@
 	},
 	"downloads.notice.appreciation.description": {
 		"description": "Description in the appreciation section.",
-		"message": "Pertimbangkan untuk mendukung kami atau meninggalkan ulasan – ia sangat berarti bagi kami!"
+		"message": "Pertimbangkan untuk mendukung kami atau meninggalkan ulasan – itu sangat berarti bagi kami!"
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
