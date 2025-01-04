@@ -25,7 +25,7 @@
   },
   "presence.sections.information.moreurls": {
     "description": "Shown in a presence’s page if it uses RegExp. The term \"RegExp\" should not be translated",
-    "message": "Denne Tilstedeværelsen støtter flere URL'er enn oppført nedenfor ved bruk av RegExp. Svev musen over for å se mønsteret"
+    "message": "Denne tilstedeværelsen støtter flere URLer enn oppført nedenfor ved bruk av RegExp. hold over for å se mønsteret"
   },
   "presence.sections.information.supportedurls": {
     "description": "One of the strings from the Information section. [on webite -> Supported URLs: (array)]",
