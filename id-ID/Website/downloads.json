@@ -181,7 +181,7 @@
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "Sekarang Anda hanya memerlukan ekstensi browser - tidak perlu mengunduh tambahan."
+		"message": "Sekarang Anda hanya memerlukan ekstensi browser - tidak perlu mengunduh aplikasi tambahan."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
@@ -193,11 +193,11 @@
 	},
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
-		"message": "Berfungsi Saja™"
+		"message": "Just Works™"
 	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
-		"message": "Aplikasi dihapus pada v2.6.0 untuk memudahkan hidup Anda ✨"
+		"message": "Aplikasi sudah dihapus pada v2.6.0 untuk memudahkan hidup Anda ✨"
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
@@ -221,7 +221,7 @@
 	},
 	"downloads.notice.alpha.title": {
 		"description": "Title for the alpha access section.",
-		"message": "Akses Alfa"
+		"message": "Akses Awal"
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
@@ -229,7 +229,7 @@
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
-		"message": "Perlu bantuan? Bergabunglah"
+		"message": "Perlu bantuan? Gabung ke"
 	},
 	"downloads.notice.support.discord": {
 		"description": "Discord link text in support section.",
@@ -237,7 +237,7 @@
 	},
 	"downloads.notice.support.forSupport": {
 		"description": "End of the support section text.",
-		"message": "kami untuk dukung!"
+		"message": "kami untuk dukungan!"
 	},
 	"downloads.notice.appreciation.title": {
 		"description": "Title for the appreciation section.",
@@ -249,6 +249,6 @@
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
-		"message": "Tinjau Kami"
+		"message": "Beri Kami Ulasan"
 	}
 }
