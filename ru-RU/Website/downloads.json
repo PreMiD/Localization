@@ -207,6 +207,10 @@
 		"description": "Label shown on unavailable browser options.",
 		"message": "Появится позже"
 	},
+	"downloads.notice.browsers.beta": {
+		"description": "Label for beta browsers",
+		"message": "Бета"
+	},
 	"downloads.notice.beta.title": {
 		"description": "Title for the beta program section.",
 		"message": "Бета-программа"
