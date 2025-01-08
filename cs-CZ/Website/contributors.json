@@ -15,6 +15,10 @@
     "description": "Heading for group of users.",
     "message": "Podporovatelé"
   },
+  "contributors.headings.presenceDevelopers": {
+    "description": "Heading for group of users.",
+    "message": "Vývojáři aktivit"
+  },
   "contributors.headings.translators": {
     "description": "Heading for group of users.",
     "message": "Překladatelé"
@@ -26,6 +30,14 @@
   "contributors.roles.communityManager": {
     "description": "'Community Manager' title for contributors and user pages.",
     "message": "Komunitní Manažer"
+  },
+  "contributors.roles.softwareEngineer": {
+    "description": "'Software Engineer' title for contributors and user pages.",
+    "message": "Softwarový inženýr"
+  },
+  "contributors.roles.developer": {
+    "description": "'Developer' title for contributors and user pages.",
+    "message": "Vývojář"
   },
   "contributors.roles.moderator": {
     "description": "'Moderator' title for contributors and user pages.",
@@ -50,6 +62,10 @@
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Přispěvatel"
+  },
+  "contributors.roles.activityDeveloper": {
+    "description": "'Activity Developer' title for contributors and user pages.",
+    "message": "Vývojář aktivit"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
