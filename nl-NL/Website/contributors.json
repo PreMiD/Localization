@@ -63,6 +63,10 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "Bijdrager"
   },
+  "contributors.roles.activityDeveloper": {
+    "description": "'Activity Developer' title for contributors and user pages.",
+    "message": "Presenceontwikkelaar"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "Proeflezer"
