@@ -185,7 +185,7 @@
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
-		"message": "Nastavení jedním kliknutím"
+		"message": "Nastavení na jedno kliknutí"
 	},
 	"downloads.notice.features.noApp": {
 		"description": "Feature tag highlighting no app requirement.",
@@ -241,7 +241,7 @@
 	},
 	"downloads.notice.appreciation.title": {
 		"description": "Title for the appreciation section.",
-		"message": "Miluješ PreMiD?"
+		"message": "Líbí se Vám PreMiD?"
 	},
 	"downloads.notice.appreciation.description": {
 		"description": "Description in the appreciation section.",
