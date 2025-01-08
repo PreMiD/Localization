@@ -159,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "Varování"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "PreMiD není k dispozici pro mobilní zařízení. Použijte prosím desktopový prohlížeč k instalaci PreMiD."
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "Zobrazit soubory ke stažení"
@@ -166,5 +170,85 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "Skrýt soubory ke stažení"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "Velké novinky!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "Aplikace byla zcela odstraněna!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "Nyní potřebujete pouze rozšíření do prohlížeče - žádná další stahování nejsou nutná."
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "Nastavení jedním kliknutím"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "Žádná aplikace není potřeba"
+	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "Just Works™"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "Aplikace byla odstraněna ve verzi 2.6.0, pro snadnější používání ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "Získejte PreMiD pro svůj prohlížeč"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "Již brzy"
+	},
+	"downloads.notice.browsers.beta": {
+		"description": "Label for beta browsers",
+		"message": "Beta verze"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "Program Beta verzí"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "Zkoušíte rádi nové věci? Připoj se na náš Discord a použij příkaz /beta pro získání přístupu do programu Beta verzí!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "Přístup k Alfa verzím"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "Podpořte nás na GitHubu nebo Patreonu a získejte tak skvělé funkce!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "Potřebujete pomoc? Připojte se na"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Discord"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "pro podporu!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "Miluješ PreMiD?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "Zvažte podpoření nás nebo zanechte recenzi - znamená to pro nás hodně!"
+	},
+	"downloads.notice.appreciation.buttons.review": {
+		"description": "Review button text.",
+		"message": "Ohodnoťte Nás"
 	}
 }
