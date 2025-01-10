@@ -55,6 +55,10 @@
     "description": "'Contributor' title for contributors and user pages.",
     "message": "مشارکت کنندگان"
   },
+  "contributors.roles.activityDeveloper": {
+    "description": "'Activity Developer' title for contributors and user pages.",
+    "message": "فعالیت توسعه دهنده"
+  },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
     "message": "ویراستار"
