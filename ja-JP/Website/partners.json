@@ -127,6 +127,10 @@
     "description": "Description for Erisly.",
     "message": "Discordボットの姫！"
   },
+  "partners.partner.fastly": {
+    "description": "Description for Fastly.",
+    "message": "ウェブ上の最高のものを求めて"
+  },
   "partners.partner.onlyhit": {
     "description": "Description for OnlyHit.",
     "message": "あなたの音楽ライフを彩るOnlyHit。お気に入りのヒット曲はもちろん、これからブレイクするアーティストもいち早くキャッチ！"
