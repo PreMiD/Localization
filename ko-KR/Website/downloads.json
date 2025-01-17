@@ -225,7 +225,7 @@
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
-		"message": "첨단 기능일 이용해 보려면 GitHub나 Patreon에서 저희를 후원해 주세요!"
+		"message": "첨단 기능을 이용해 보려면 GitHub나 Patreon에서 저희를 후원해 주세요!"
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
