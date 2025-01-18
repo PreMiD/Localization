@@ -185,11 +185,11 @@
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
-		"message": "Configuración Con Un Clic"
+		"message": "Configuración en Un-Clic"
 	},
 	"downloads.notice.features.noApp": {
 		"description": "Feature tag highlighting no app requirement.",
-		"message": "No Se Necesita Ninguna Aplicación"
+		"message": "No se necesita ninguna aplicación"
 	},
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
@@ -217,7 +217,7 @@
 	},
 	"downloads.notice.beta.description": {
 		"description": "Description of how to join the beta program.",
-		"message": "¿Te gusta probar cosas nuevas? ¡Únete a nuestro Discord y utiliza /beta para obtener acceso anticipado!"
+		"message": "¿Te gusta probar cosas nuevas? Únete a nuestro Discord y utiliza  /beta para obtener acceso anticipado."
 	},
 	"downloads.notice.alpha.title": {
 		"description": "Title for the alpha access section.",
@@ -225,11 +225,11 @@
 	},
 	"downloads.notice.alpha.description": {
 		"description": "Description of how to get alpha access.",
-		"message": "¡Apóyanos en GitHub o Patreon para obtener las funciones más avanzadas!"
+		"message": "Apóyanos en GitHub o Patreon para obtener las funciones más avanzadas"
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
-		"message": "¿Necesita ayuda? ¡Únete a nuestro"
+		"message": "¿Necesitas ayuda? Únete a nuestro"
 	},
 	"downloads.notice.support.discord": {
 		"description": "Discord link text in support section.",
@@ -237,7 +237,7 @@
 	},
 	"downloads.notice.support.forSupport": {
 		"description": "End of the support section text.",
-		"message": "de apoyo!"
+		"message": "para soporte"
 	},
 	"downloads.notice.appreciation.title": {
 		"description": "Title for the appreciation section.",
@@ -245,7 +245,7 @@
 	},
 	"downloads.notice.appreciation.description": {
 		"description": "Description in the appreciation section.",
-		"message": "Considera la posibilidad de apoyarnos o dejarnos una reseña: ¡significa mucho para nosotros!"
+		"message": "Considera apoyarnos o dejarnos una reseña: ¡significa mucho para nosotros!"
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
