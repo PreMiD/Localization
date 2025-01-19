@@ -1,7 +1,7 @@
 {
   "contributors.cards.copyUserId": {
     "description": "Tippy message when you hover on the avatar of a credit card.",
-    "message": "클릭해서 사용자의 ID를 복사해요."
+    "message": "눌러서 사용자의 ID를 복사해요."
   },
   "contributors.cards.userIdCopied": {
     "description": "Notification after user ID was copied.",
@@ -41,7 +41,7 @@
   },
   "contributors.roles.moderator": {
     "description": "'Moderator' title for contributors and user pages.",
-    "message": "관리자"
+    "message": "중재자"
   },
   "contributors.roles.donator": {
     "description": "'Donator' title for contributors page.",
