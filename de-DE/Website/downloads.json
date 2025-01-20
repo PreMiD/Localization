@@ -223,13 +223,25 @@
 		"description": "Description of how to get alpha access.",
 		"message": "Unterstütze uns auf GitHub oder Patreon, um die neuesten Funktionen zu erhalten!"
 	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "Brauchst du Hilfe? Tritt unserem"
+	},
 	"downloads.notice.support.discord": {
 		"description": "Discord link text in support section.",
 		"message": "Discord"
 	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "bei für Unterstützung!"
+	},
 	"downloads.notice.appreciation.title": {
 		"description": "Title for the appreciation section.",
 		"message": "Du magst PreMiD?"
+	},
+	"downloads.notice.appreciation.description": {
+		"description": "Description in the appreciation section.",
+		"message": "Überlege, uns zu unterstützen oder eine Bewertung zu hinterlassen – es bedeutet uns die Welt!"
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
