@@ -187,6 +187,46 @@
 		"description": "Feature tag highlighting one-click setup.",
 		"message": "Ein Klick Setup"
 	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "Keine App erforderlich"
+	},
+	"downloads.notice.version": {
+		"description": "Small text showing version information and reason for change.",
+		"message": "Anwendung in Version 2.6.0 entfernt, um Ihr Leben einfacher zu machen ✨"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "Hol dir PreMiD für deinen Browser"
+	},
+	"downloads.notice.browsers.comingSoon": {
+		"description": "Label shown on unavailable browser options.",
+		"message": "Demnächst verfügbar"
+	},
+	"downloads.notice.browsers.beta": {
+		"description": "Label for beta browsers",
+		"message": "Beta"
+	},
+	"downloads.notice.beta.title": {
+		"description": "Title for the beta program section.",
+		"message": "Beta-Programm"
+	},
+	"downloads.notice.beta.description": {
+		"description": "Description of how to join the beta program.",
+		"message": "Liebst du es, neue Dinge auszuprobieren? Tritt unserem Discord bei und benutze /beta, um frühzeitig Zugriff zu erhalten!"
+	},
+	"downloads.notice.alpha.title": {
+		"description": "Title for the alpha access section.",
+		"message": "Alpha-Zugang"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "Unterstütze uns auf GitHub oder Patreon, um die neuesten Funktionen zu erhalten!"
+	},
+	"downloads.notice.support.discord": {
+		"description": "Discord link text in support section.",
+		"message": "Discord"
+	},
 	"downloads.notice.appreciation.title": {
 		"description": "Title for the appreciation section.",
 		"message": "Du magst PreMiD?"
