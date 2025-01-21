@@ -27,10 +27,6 @@
     "description": "Presence card popular flame",
     "message": "Этот Presence очень популярен среди пользователей."
   },
-  "store.category.all": {
-    "description": "Category at the top",
-    "message": "Всё"
-  },
   "store.category.filters.allowAdult": {
     "description": "Adult content checkbox",
     "message": "Показать NSFW"
@@ -77,7 +73,7 @@
   },
   "store.header.search": {
     "description": "Search bar text when nothing is stated",
-    "message": "Поиск Presence"
+    "message": "Поиск презенса"
   },
   "store.message.error": {
     "description": "Error message (of the tippy next to the logo) when the extension wasn't detected",
