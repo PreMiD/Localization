@@ -109,7 +109,7 @@
   },
   "apple.devVideos": {
     "description": "E.g. WWDC videos, old Keynotes, etc.",
-    "message": "Видеоролики"
+    "message": "Видео"
   },
   "apple.forumCreateThread": {
     "description": "Creating a forum thread",

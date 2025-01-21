@@ -7,6 +7,10 @@
 		"description": "Button when no presences are installed (located at the 'presences' area of the 'settings' section in the popup)",
 		"message": "Магазин Presence"
 	},
+	"popup.category.all": {
+		"description": "Category name shown when you open tags",
+		"message": "Все"
+	},
 	"popup.category.anime": {
 		"description": "Category name shown when you open tags",
 		"message": "Аниме"
