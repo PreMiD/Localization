@@ -27,6 +27,10 @@
     "description": "Presence card popular flame",
     "message": "Этот Presence очень популярен среди пользователей."
   },
+  "store.category.all": {
+    "description": "Category at the top",
+    "message": "Все"
+  },
   "store.category.filters.allowAdult": {
     "description": "Adult content checkbox",
     "message": "Показать NSFW"
