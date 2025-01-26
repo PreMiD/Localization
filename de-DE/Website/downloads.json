@@ -191,6 +191,10 @@
 		"description": "Feature tag highlighting no app requirement.",
 		"message": "Keine App erforderlich"
 	},
+	"downloads.notice.features.justWorks": {
+		"description": "Feature tag emphasizing simplicity.",
+		"message": "Just Works™"
+	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
 		"message": "Anwendung in Version 2.6.0 entfernt, um Ihr Leben einfacher zu machen ✨"
