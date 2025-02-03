@@ -33,7 +33,7 @@
   },
   "contributors.roles.softwareEngineer": {
     "description": "'Software Engineer' title for contributors and user pages.",
-    "message": "Software Entwickler"
+    "message": "Softwareentwickler"
   },
   "contributors.roles.developer": {
     "description": "'Developer' title for contributors and user pages.",
@@ -65,7 +65,7 @@
   },
   "contributors.roles.activityDeveloper": {
     "description": "'Activity Developer' title for contributors and user pages.",
-    "message": "Activity Entwickler"
+    "message": "Aktivitätsentwickler"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",

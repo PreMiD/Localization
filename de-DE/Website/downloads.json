@@ -161,7 +161,7 @@
 	},
 	"downloads.mobile.notAvailable": {
 		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
-		"message": "PreMid ist zum aktuellen Zeitpunkt nicht für Mobile Geräte verfügbar. Bitte nutze einen Desktop Browser, um PreMid zu nutzen."
+		"message": "PreMiD ist für mobile Geräte nicht verfügbar. Bitte verwende einen Desktop-Browser, um PreMiD zu installieren."
 	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
@@ -181,7 +181,7 @@
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
-		"message": "Jetzt brauchst du nur noch die Browser-Erweiterung - keine zusätzlichen Downloads sind nötig."
+		"message": "Jetzt brauchst du nur noch die Browser-Erweiterung - keine zusätzlichen Downloads erforderlich."
 	},
 	"downloads.notice.features.oneClick": {
 		"description": "Feature tag highlighting one-click setup.",
@@ -197,7 +197,7 @@
 	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
-		"message": "Anwendung in Version 2.6.0 entfernt, um Ihr Leben einfacher zu machen ✨"
+		"message": "Anwendung in Version 2.6.0 entfernt, um dein Leben einfacher zu machen ✨"
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
