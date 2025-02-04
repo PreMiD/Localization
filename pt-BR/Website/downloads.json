@@ -193,11 +193,11 @@
 	},
 	"downloads.notice.features.justWorks": {
 		"description": "Feature tag emphasizing simplicity.",
-		"message": "Simplesmente funciona™"
+		"message": "Simplesmente Funciona™"
 	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
-		"message": "Aplicativo removido na v2.6.0 para facilitar sua vida ✨"
+		"message": "Aplicativo removido em v2.6.0 para facilitar sua vida ✨"
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
@@ -205,7 +205,7 @@
 	},
 	"downloads.notice.browsers.comingSoon": {
 		"description": "Label shown on unavailable browser options.",
-		"message": "Em breve"
+		"message": "Em Breve"
 	},
 	"downloads.notice.browsers.beta": {
 		"description": "Label for beta browsers",

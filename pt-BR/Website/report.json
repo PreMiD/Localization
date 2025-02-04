@@ -5,7 +5,7 @@
   },
   "report.browser": {
     "description": "Select Box for the user to select their browser",
-    "message": "Selecione seu Navegador e Versão - Você pode obter a versão visitando about: support no Firefox ou chrome://help"
+    "message": "Selecione seu Navegador e Versão. Você pode obter a versão visitando about:support no Firefox ou chrome://help"
   },
   "report.bugcount": {
     "description": "Amount of bug reports user can send",
@@ -21,7 +21,7 @@
   },
   "report.error": {
     "description": "User needs to input more notification",
-    "message": "Mais informações Necessárias"
+    "message": "Mais informações necessárias"
   },
   "report.error.unauth": {
     "description": "Users Discord not verified",
@@ -33,7 +33,7 @@
   },
   "report.os": {
     "description": "Select Box for the user to select their operating system",
-    "message": "Selecione a versão do seu Sistema Operacional"
+    "message": "Selecione o seu Sistema Operacional e Versão"
   },
   "report.overview": {
     "description": "Text for the user to write a brief of the bug information.",
@@ -41,7 +41,7 @@
   },
   "report.success": {
     "description": "Success notification",
-    "message": "Falha Enviada"
+    "message": "Erro Enviado"
   },
   "report.title": {
     "description": "Text to indicate the page.",
@@ -49,10 +49,10 @@
   },
   "report.toomany": {
     "description": "User has too many active reports",
-    "message": "Você tem muitos reportes ativos. Aguarde que seus reportes enviados sejam revisados. Reportes são verificados semanalmente, seja paciente."
+    "message": "Você tem muitos relatórios ativos. Aguarde que seus relatórios enviados sejam revisados. Relatórios são verificados semanalmente, seja paciente."
   },
   "report.toomany.alert": {
     "description": "User has too many active reports",
-    "message": "Você tem muitos reportes ativos."
+    "message": "Você tem muitos relatórios ativos."
   }
 }
