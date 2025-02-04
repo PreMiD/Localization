@@ -57,7 +57,7 @@
   },
   "contributors.roles.projectManagement": {
     "description": "'Project Management' title for contributors and user pages.",
-    "message": "Gerência de Projeto"
+    "message": "Gestão de Projeto"
   },
   "contributors.roles.contributor": {
     "description": "'Contributor' title for contributors and user pages.",
@@ -65,7 +65,7 @@
   },
   "contributors.roles.activityDeveloper": {
     "description": "'Activity Developer' title for contributors and user pages.",
-    "message": "Desenvolvedor de atividades"
+    "message": "Desenvolvedor de Atividade"
   },
   "contributors.roles.proofreader": {
     "description": "'Proofreader' title for contributors and user pages.",
