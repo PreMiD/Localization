@@ -93,7 +93,7 @@
   },
   "partners.apply.title": {
     "description": "Partnership application modal title.",
-    "message": "Inscreva-se para parceiro"
+    "message": "Candidatar-se para parceiro"
   },
   "partners.header.description": {
     "description": "Description for page.",
@@ -113,7 +113,7 @@
   },
   "partners.partner.bitRock": {
     "description": "Description for BitRock.",
-    "message": "Uma ferramenta de criação de instaladores de plataforma cruzada poderosa e fácil de usar."
+    "message": "Uma ferramenta poderosa e fácil de usar para criação de instaladores multiplataforma."
   },
   "partners.partner.crowdin": {
     "description": "Description for Crowdin.",
