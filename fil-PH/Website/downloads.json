@@ -13,7 +13,7 @@
 	},
 	"downloads.appdownloading.header": {
 		"description": "Header above application download buttons.",
-		"message": "Application"
+		"message": "Aplikasyon"
 	},
 	"downloads.button.back": {
 		"description": "Back button on the ads section",
@@ -21,7 +21,7 @@
 	},
 	"downloads.button.cancel": {
 		"description": "Button on the modal of Opera/Edge browsers.",
-		"message": "I-cancle"
+		"message": "Kanselahin"
 	},
 	"downloads.button.done": {
 		"description": "Button on the page when trying to download with adblocker on.",
@@ -37,15 +37,15 @@
 	},
 	"downloads.button.skip": {
 		"description": "Skip button on the ads section",
-		"message": "I-skip"
+		"message": "Lumaktaw"
 	},
 	"downloads.button.skipanyway": {
 		"description": "Skip Anyway button on the ads page.",
-		"message": "I-skip Parin"
+		"message": "Lumaktaw pa rin"
 	},
 	"downloads.error.login": {
 		"description": "Error message if the user is not logged in.",
-		"message": "Pakiusap mag-login para makita itong mga download."
+		"message": "Mangyaring mag-login para makita ang mga download."
 	},
 	"downloads.error.noaccess.description": {
 		"description": "More info if the user doesn't alpha/beta access.",
@@ -53,7 +53,7 @@
 	},
 	"downloads.error.noaccess.title": {
 		"description": "Error message if the user doesn't alpha/beta access.",
-		"message": "Nako po, parang wala kang access sa alpha/beta :("
+		"message": "Naku po, parang wala kang access sa alpha/beta :("
 	},
 	"downloads.extdownloading.header": {
 		"description": "Header above extension download buttons.",
@@ -194,5 +194,21 @@
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
 		"message": "Kunin ang PreMiD sa iyong browser"
+	},
+	"downloads.notice.alpha.description": {
+		"description": "Description of how to get alpha access.",
+		"message": "Suportahan kami sa GitHub or Patreon upang makagamit ng mga bleeding-edge na feature!"
+	},
+	"downloads.notice.support.needHelp": {
+		"description": "Start of the support section text.",
+		"message": "Kailangan mo ng tulong? Makisali sa aming"
+	},
+	"downloads.notice.support.forSupport": {
+		"description": "End of the support section text.",
+		"message": "para sa supporta!"
+	},
+	"downloads.notice.appreciation.title": {
+		"description": "Title for the appreciation section.",
+		"message": "Nagugustuhan mo ang PreMiD?"
 	}
 }
