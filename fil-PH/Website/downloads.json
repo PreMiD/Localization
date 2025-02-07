@@ -1,11 +1,11 @@
 {
 	"downloads.adsbox.disableAdblock": {
 		"description": "Message next to pepe.",
-		"message": "Pakiusap i-disable ang adblock mo"
+		"message": "Pakiusap off ang iyong adblock"
 	},
 	"downloads.adsbox.thankyou.message": {
 		"description": "Message of the advertisement section box.",
-		"message": "Gumagamit kami ng mga ads para masuportahan ang aming team at ma-maintain ang aming mga server para ma-offer ka namin ng best user experience!"
+		"message": "Gumagamit kami ng mga ad para masuportahan ang aming team at ma-maintain ang aming mga server para mabigyan ka namin ng magandang user experience!"
 	},
 	"downloads.adsbox.thankyou.title": {
 		"description": "Title of the advertisement section box.",
@@ -159,6 +159,10 @@
 		"description": "Warning modal title, pops out when user clicks on Edge/Opera downloads (based on the current browser).",
 		"message": "Babala"
 	},
+	"downloads.mobile.notAvailable": {
+		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
+		"message": "PreMiD ay hindi available para sa mga mobile device. Gumamit ng desktop browser upang ma-install ang PreMiD."
+	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
 		"message": "Ipakita ang mga Download"
@@ -166,5 +170,29 @@
 	"downloads.mobile.hideDownloads": {
 		"description": "Button text to hide downloads section on mobile.",
 		"message": "Itago ang mga Download"
+	},
+	"downloads.notice.header.title": {
+		"description": "Main announcement title in the downloads page.",
+		"message": "Malaking Balita!"
+	},
+	"downloads.notice.header.removal": {
+		"description": "First line of the announcement about app removal.",
+		"message": "Tinanggal na namin ang aplikasyon nang tuluyan!"
+	},
+	"downloads.notice.header.simplified": {
+		"description": "Second line explaining the simplified installation process.",
+		"message": "Ang kailangan mo nalang ay ang browser extension - wala nang dagdag na download ang kinakailangan."
+	},
+	"downloads.notice.features.oneClick": {
+		"description": "Feature tag highlighting one-click setup.",
+		"message": "Isang Click na Setup"
+	},
+	"downloads.notice.features.noApp": {
+		"description": "Feature tag highlighting no app requirement.",
+		"message": "Hindi na kinakailangan ng App"
+	},
+	"downloads.notice.browsers.title": {
+		"description": "Title for the browser selection section.",
+		"message": "Kunin ang PreMiD sa iyong browser"
 	}
 }
