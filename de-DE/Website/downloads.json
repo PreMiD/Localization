@@ -177,7 +177,7 @@
 	},
 	"downloads.notice.header.removal": {
 		"description": "First line of the announcement about app removal.",
-		"message": "Wir haben die Anwendung komplett entfernt!"
+		"message": "Wir haben die Anwendung vollständig entfernt!"
 	},
 	"downloads.notice.header.simplified": {
 		"description": "Second line explaining the simplified installation process.",
@@ -197,7 +197,7 @@
 	},
 	"downloads.notice.version": {
 		"description": "Small text showing version information and reason for change.",
-		"message": "Anwendung in Version 2.6.0 entfernt, um dein Leben einfacher zu machen ✨"
+		"message": "App in Version 2.6.0 entfernt, um dein Leben einfacher zu machen ✨"
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
@@ -217,7 +217,7 @@
 	},
 	"downloads.notice.beta.description": {
 		"description": "Description of how to join the beta program.",
-		"message": "Liebst du es, neue Dinge auszuprobieren? Tritt unserem Discord bei und benutze /beta, um frühzeitig Zugriff zu erhalten!"
+		"message": "Du liebst du es, neue Dinge auszuprobieren? Tritt unserem Discord bei und benutze /beta, um frühzeitig Zugriff zu erhalten!"
 	},
 	"downloads.notice.alpha.title": {
 		"description": "Title for the alpha access section.",
@@ -229,7 +229,7 @@
 	},
 	"downloads.notice.support.needHelp": {
 		"description": "Start of the support section text.",
-		"message": "Brauchst du Hilfe? Tritt unserem"
+		"message": "Du brauchst Hilfe? Tritt unserem"
 	},
 	"downloads.notice.support.discord": {
 		"description": "Discord link text in support section.",
@@ -237,7 +237,7 @@
 	},
 	"downloads.notice.support.forSupport": {
 		"description": "End of the support section text.",
-		"message": "für Unterstützung!"
+		"message": "bei, für Unterstützung!"
 	},
 	"downloads.notice.appreciation.title": {
 		"description": "Title for the appreciation section.",
