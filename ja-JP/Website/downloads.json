@@ -201,7 +201,7 @@
 	},
 	"downloads.notice.browsers.title": {
 		"description": "Title for the browser selection section.",
-		"message": "PreMiDを手に入れよう！"
+		"message": "ブラウザーの PreMiD を取得する"
 	},
 	"downloads.notice.browsers.comingSoon": {
 		"description": "Label shown on unavailable browser options.",
@@ -245,10 +245,10 @@
 	},
 	"downloads.notice.appreciation.description": {
 		"description": "Description in the appreciation section.",
-		"message": "ご支援やレビューをいただけると嬉しいです！ 励みになります！"
+		"message": "Consider supporting us or leaving a review - it means the world to us!"
 	},
 	"downloads.notice.appreciation.buttons.review": {
 		"description": "Review button text.",
-		"message": "レビューをする"
+		"message": "レビューする"
 	}
 }
