@@ -121,7 +121,7 @@
 	},
 	"popup.info.presenceNotSetMessage.message": {
 		"description": "Shown on the troubleshooting page when PreMiD has not found a presence for the current tabs",
-		"message": "PreMiD tidak dapat menemukan presence untuk tab yang Anda sedang buka. Pastikan Anda telah menginstal presence untuk situs web yang sedang Anda gunakan. Jika Anda sudah menginstal presence, coba muat ulang situs web tersebut dan pastikan presence tersebut telah diaktifkan di pengaturan."
+		"message": "PreMiD tidak dapat menemukan presence untuk tab yang Anda sedang buka. Mohon pastikan Anda telah menginstal presence untuk situs web yang sedang Anda gunakan. Jika Anda sudah menginstal presence, coba muat ulang situs web tersebut dan pastikan presence tersebut telah diaktifkan di pengaturan."
 	},
 	"popup.navigation.credits": {
 		"description": "Title of the 'credits' section at the navigation in the popup",
@@ -213,7 +213,7 @@
 	},
 	"popup.information.discordNotFound": {
 		"description": "Shows that no connection was able to be made to the Discord app (located at the 'information' tab in the popup)",
-		"message": "Tidak disambung ke Aplikasi Discord"
+		"message": "Tidak tersambung ke Aplikasi Discord"
 	},
 	"popup.notConnectedBanner.heading": {
 		"description": "Title of the error banner when no discord connection is found",
@@ -329,7 +329,7 @@
 	},
 	"popup.feedback.extension.description": {
 		"description": "The description of the extension feedback page",
-		"message": "Waduh! 😱 Maaf mendengar bahwa Anda mengalami masalah dengan Ekstensi.\n\nMohon isi formulir berikut untuk melaporkan masalah yang Anda alami dengan Ekstensi."
+		"message": "Waduh! 😱 Maaf mendengar bahwa Anda mengalami masalah dengan Ekstensi.\n\nSilakan isi formulir berikut untuk melaporkan masalah yang Anda alami dengan Ekstensi."
 	},
 	"popup.feedback.extension.describe": {
 		"description": "The title of the input field to describe the issue on the extension feedback page",
