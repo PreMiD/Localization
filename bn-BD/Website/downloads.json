@@ -161,7 +161,7 @@
 	},
 	"downloads.mobile.notAvailable": {
 		"description": "Warning message shown on mobile devices indicating PreMiD is not available.",
-		"message": "প্রিমিড মোবাইল ডিভাইসের জন্য উপলব্ধ নয়। প্রিমিড ইনস্টল করার জন্য দয়া করে একটি ডেস্কটপ ব্রাউজার ব্যবহার করুন।"
+		"message": "প্রিমিড মোবাইল ডিভাইসের জন্য এখনো ব্যবহারযোগ্য নয়। প্রিমিড ইনস্টল করার জন্য দয়া করে একটি ডেস্কটপ ব্রাউজার ব্যবহার করুন।."
 	},
 	"downloads.mobile.showDownloads": {
 		"description": "Button text to show downloads section on mobile.",
@@ -173,7 +173,7 @@
 	},
 	"downloads.notice.header.title": {
 		"description": "Main announcement title in the downloads page.",
-		"message": "বড় খবর!"
+		"message": "গুরুত্বপূর্ণ খবর!"
 	},
 	"downloads.notice.header.removal": {
 		"description": "First line of the announcement about app removal.",
@@ -206,6 +206,10 @@
 	"downloads.notice.browsers.comingSoon": {
 		"description": "Label shown on unavailable browser options.",
 		"message": "শীঘ্রই আসছে"
+	},
+	"downloads.notice.browsers.beta": {
+		"description": "Label for beta browsers",
+		"message": "বেটা"
 	},
 	"downloads.notice.beta.title": {
 		"description": "Title for the beta program section.",
