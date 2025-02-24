@@ -37,7 +37,7 @@
   },
   "partners.apply.form.description.placeholder": {
     "description": "Description field's placeholder.",
-    "message": "Keterangan untuk dipaparkan"
+    "message": "Keterangan untuk disorotkan"
   },
   "partners.apply.form.imageLink": {
     "description": "Do not change the sizes.",
@@ -233,7 +233,7 @@
   },
   "partners.why.benefit5.description": {
     "description": "Description for the fifth benefit.",
-    "message": "Dipaparkan di media sosial kami."
+    "message": "Disorotkan di media sosial kami."
   },
   "partners.why.benefit5.title": {
     "description": "Heading for the fifth benefit.",
