@@ -5,7 +5,7 @@
   },
   "store.card.presence.included": {
     "description": "The message that appears instead of the buttons.",
-    "message": "Presence ini dibolehkan secara automatik apabila anda melawat lamannya."
+    "message": "Presence ini dihidupkan secara automatik apabila anda melawat lamannya."
   },
   "store.card.presence.remove": {
     "description": "Button that will appear on hover after extension and presence is installed.",
